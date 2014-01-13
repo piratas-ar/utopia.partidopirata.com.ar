@@ -8,7 +8,7 @@ Zona Temporalmente Autónoma
 ===========================
 
 > "Esta vez, sin embargo, vendré como el victorioso Dionisio, convirtiendo el mundo
-> en una fiesta... No me sobra el tiempo..." -- Nietzsche
+> en una fiesta... No me sobra el tiempo... " -- Nietzsche
 
 Utopías Piratas
 ===============
@@ -68,7 +68,7 @@ ya existente. Toda mi investigación ha cristalizado en el concepto de "Zona
 temporalmente autónoma" (que a partir de aquí abreviaré TAZ. Pese a su carácter
 sintético forzado por mi propio pensamiento, no pretendo que el TAZ sea tomado
 como un ensayo -en el sentido también de "intento"-, una propuesta o una
-fantasía poética.Pese al entusiasmo oratorio de mi lenguaje, no pretendo
+fantasía poética. Pese al entusiasmo oratorio de mi lenguaje, no pretendo
 elaborar ningún dogma político. De hecho, renuncio a definir el TAZ: planeo
 alrededor del concepto, pasando de reflejos exploratorios. Al final, el TAZ es
 prácticamente auto-explicativo. En el contexto del mundo contemporáneo, podría
@@ -106,8 +106,8 @@ una maniobra chamánica realizada desde un ángulo imposible del universo.
 La Historia pregona que la Revolución quiere permanencia, o cuando menos
 duración, mientras que la revuelta es temporal. En ese sentido una revuelta es
 como una experiencia límite, lo contrario del estándar de la conciencia
-y experiencia ordinaria.Como la fiesta, la revuelta no puede ocurrir cada día
--de otra forma no sería extra-ordinaria.Pero tales momentos de intensidad dan
+y experiencia ordinaria. Como la fiesta, la revuelta no puede ocurrir cada día
+-de otra forma no sería extra-ordinaria. Pero tales momentos de intensidad dan
 forma y sentido a la totalidad de una vida. El chamán retornará -no puedes
 permanecer a tope siempre-, pero todo habrá cambiado, una diferencia se ha
 instaurado.
@@ -141,7 +141,7 @@ revuelta sin conducir necesariamente a su violencia y sacrificio. El TAZ es
 como una revuelta que no se engancha con el Estado, una operación guerrillera
 que libera un área -de tierra, de tiempo, de imaginación- y entonces se
 autodisuelve para reconstruirse en cualquier otro lugar o tiempo, antes de que
-el Estado pueda aplastarla.Puesto que el Estado tiene más que ver con la
+el Estado pueda aplastarla. Puesto que el Estado tiene más que ver con la
 Simulación que con la substancia, el TAZ puede ocupar estas áreas
 clandestinamente y llevar adelante sus propósitos subversivos por un tiempo en
 relativa paz. Puede que incluso algunos pequeños TAZ’s hayan durado vidas
@@ -161,13 +161,13 @@ Espectáculo. De esa manera el TAZ es una táctica perfecta para una Era en que
 el estado es omnipotente y omnipresente, pero también lleno de fisuras
 y grietas. Y en tanto el TAZ es un microcosmo del "sueño anarquista" de una
 cultura libre no se me ocurre pensar mejor táctica para trabajar por él
-experimentando a la vez algún beneficio aquí y ahora.En suma, el realismo nos
+experimentando a la vez algún beneficio aquí y ahora. En suma, el realismo nos
 impone no sólo dejar de esperar "la Revolución", sino incluso dejar de
 desearla. Revuelta, en cambio. Revuelta sí, tan a menudo como sea posible,
 e incluso asumiendo los riesgos de la violencia. Los espasmos del Estado
 Simulador serán espectaculares, pero en la mayoría de los casos la mejor y más
 radical táctica será rechazar entrar en el juego de la violencia espectacular,
-retirarse del área del simulacro, desaparecer.El TAZ es un campamento de
+retirarse del área del simulacro, desaparecer. El TAZ es un campamento de
 guerrilleros ontológicos: golpean y corren. Mantén en movimiento a la tribu
 entera, aunque sólo se trate de datos en el Web. El TAZ tiene que ser capaz de
 defensa: pero tanto su ataque como su defensa deben, siempre que puedan, eludir
@@ -239,7 +239,7 @@ manifieste un TAZ. Pero una revuelta tiene también que hacerse para algo.
      del TAZ ("Familias: ¡cómo las odio! Miserias del amor" -- Gide). La familia
      nuclear, con sus "miserias edificas", parece ser un invento neolítico, una
      respuesta a la "revolución agrícola" con la escasez y la jerarquía
-     impuestas.El modelo paleolítico era a la vez más primario y radical: la
+     impuestas. El modelo paleolítico era a la vez más primario y radical: la
      banda. La típica banda nómada o seminómada de cazadores en grupo reunía
      a unos 50 miembros. En las sociedades tribales mayores, la estructura de
      bandas se completaba por los clanes de la tribu, o por agrupamientos tales
@@ -272,14 +272,14 @@ manifieste un TAZ. Pero una revuelta tiene también que hacerse para algo.
   #. El TAZ como "festividad". Stephen Pearl Andrews ofreció en una ocasión,
      como imagen de una sociedad anarquista, la descripción de una cena-fiesta,
      en la que toda estructura de autoridad quedaba disuelta en la convivencia
-     de la celebración.También podríamos invocar a Fourier y su idea de la
+     de la celebración. También podríamos invocar a Fourier y su idea de la
      sensualidad como base del devenir social -"tactilidad" y "grastrosofía"
      como himnos de respuesta a la denegación social de las implicaciones del
-     olfato y el gusto.Los antiguos conceptos del julibeo y las fiestas
+     olfato y el gusto. Los antiguos conceptos del julibeo y las fiestas
      saturnales se originaban en la convicción de que ciertos eventos sucedían
      fuera del orden del "tiempo profano", bajo la medida del Estado y la
      Historia. Estas festividades literalmente ocupaban vacíos en el calendario
-     -eran intervalos intercalados.Durante la edad Media cerca de una tercera
+     -eran intervalos intercalados. Durante la edad Media cerca de una tercera
      parte del año era consagrado a festividades. Es posible que las razones de
      la resistencia a la reforma de los calendarios tuvieran menos que ver con
      los "once días perdidos" que con la sospecha de que la ciencia imperial
@@ -304,7 +304,7 @@ manifieste un TAZ. Pero una revuelta tiene también que hacerse para algo.
      obscenidad tenemos, de un lado, el espectro del rechazo (descrito por los
      situacionistas, John Zerzan, Bob Black y otros), y por otro la emergencia
      de una cultura festiva distinta y aún oculta a los managers de nuestro
-     ocio."Luchar por el derecho a la fiesta" es algo más que una parodia de
+     ocio. "Luchar por el derecho a la fiesta" es algo más que una parodia de
      la lucha radical: es una manifestación de esa misma lucha, adecuada a un
      tiempo que ofrece televisiones y teléfonos como medios de "contactar
      y tocar" a otros seres humanos, como vías para "estar Ahí". Pearl Andrews
@@ -331,11 +331,11 @@ manifieste un TAZ. Pero una revuelta tiene también que hacerse para algo.
 
   #. Fundamental para dar forma a una realidad TAZ es el concepto de nomadismo
      psíquico -o, como humorísticamente lo llamamos, un "cosmopolitanismo del
-     desarraigo".Algunos aspectos de este fenómeno han sido analizados por
+     desarraigo". Algunos aspectos de este fenómeno han sido analizados por
      Deleuze y Guattari en "La nomadología y la máquina de guerra", por Lyotard
      en Deriva, y por diversos autores en el número sobre el "Oasis" de la
-     revista Semiotext (e).Utilizamos el término "nomadismo psíquico" mejor
-     que el de nomadismo urbano, nomadología, deriva, etc., simplemente para
+     revista Semiotext (e). Utilizamos el término "nomadismo psíquico" mejor
+     que el de nomadismo urbano, nomadología, deriva, etc. , simplemente para
      aglutinar todos estos conceptos en un único complejo difuso, para
      estudiarlo a la luz del advenir del TAZ. La "muerte de dios", en muchos
      aspectos un descentramiento global del proyecto europeo, abrió a una
@@ -361,7 +361,7 @@ manifieste un TAZ. Pero una revuelta tiene también que hacerse para algo.
      concordia); y finalmente incluye a todo el mundo, a todos nosotros,
      viviendo con nuestros automóviles, nuestros teléfonos, nuestros viajes de
      vacaciones, nuestras televisiones, nuestros libros y películas, cambiando
-     de trabajos, de estilos de vida, religiones, dietas etc., etc.
+     de trabajos, de estilos de vida, religiones, dietas etc. , etc.
 
      El nomadismo psíquico como táctica, lo que metafóricamente Deleuze
      y Guattari llamaron la máquina de guerra, transforma la paradoja de pasiva
@@ -378,7 +378,7 @@ manifieste un TAZ. Pero una revuelta tiene también que hacerse para algo.
 
      Estos nómadas guían sus movimientos por estrellas extrañas, que pueden ser
      clusters luminosos de datos en el ciberespacio, o quizás meras
-     alucinaciones.Coloca un mapa de la tierra; sobre él superpón un mapa de
+     alucinaciones. Coloca un mapa de la tierra; sobre él superpón un mapa de
      los cambios políticos; sobre él, otro de la red, particularmente de la
      antired que enfatiza el flujo de información clandestina -y finalmente,
      sobre todos ellos, el mapa 1:1 de la imaginación creativa, de los valores,
@@ -400,7 +400,7 @@ Otros flujos permanecen en cambio abiertos a todo el mundo -lo que en cambio le
 da a la red, a la vez, un cierto carácter de horizontalidad no jerárquica. Los
 datos militares y de Inteligencia son restringidos, como lo son los bancarios,
 los de divisas, etc. En su mayor parte, en cambio, los datos telefónicos, el
-sistema postal, los bancos de datos públicos, etc., son accesibles a todos
+sistema postal, los bancos de datos públicos, etc. , son accesibles a todos
 y cualquiera. De tal manera que dentro de la red ha empezado a emerger una
 especie de secreta contra-red, que llamaremos el Web (como si la red fuese una
 red de pescador, mientras la Web fuese una especie de tela de araña tejida en
@@ -410,9 +410,9 @@ intercambio de informaciones, a la red no jerárquica, y reservaremos el términ
 antired para referirnos los usos clandestinos, ilegales y subversivos del Web,
 incluyendo la actual piratería de datos y otras formas de sabotaje de la propia
 red. La red, el Web y el antired son todos parte del mismo modelo complejo
-y global, y se funden mutuamente entre sí en innumerables puntos.No son
+y global, y se funden mutuamente entre sí en innumerables puntos. No son
 términos que pretendan describir "áreas" -sino sugerir tendencias, modos de
-uso.(Disgresión: antes de que se condene a la Web o la Antired por
+uso. (Disgresión: antes de que se condene a la Web o la Antired por
 "parasitismo" -y por tanto por no poder ejercer una fuerza auténticamente
 revolucionaria-, piénsese en qué consiste la "producción" en la era del
 Simulacro. ¿Cuál o qué es la "clase trabajadora", productiva?Quizás haya que
@@ -531,9 +531,9 @@ exceso, potlach, vida consumida en vivir en vez de en sobrevivir (ese
 lamentable bienestar de los 80), no podrá ser definido ni por lo técnico ni por
 lo antitécnico. Se contradice a sí mismo sin dudarlo, porque se quiere
 a cualquier coste y sin perseguir ninguna perfección -que supondría su
-inmovilidad final.En la serie de Mandelbrot y su realización gráfica por
+inmovilidad final. En la serie de Mandelbrot y su realización gráfica por
 ordenador observamos -en un universo fractal- mapas contenidos y de hecho
-escondidos dentro de otros mapas dentro de otros mapas..., hasta el límite de
+escondidos dentro de otros mapas dentro de otros mapas... , hasta el límite de
 la propia capacidad del ordenador. ¿Para qué sirve todo ello, este mapa que en
 cierto sentido comporta una relación 1:1 con una dimensión fractal? ¿Qué
 podemos hacer con él, aparte de admirar su elegancia psicodélica?Si
@@ -545,7 +545,7 @@ dinero electrónico, virus, pirateo guerrillero, etc.
 
 Cada una de estas áreas de caos podrían ser representadas en topografías
 similares a la serie de Mandelbrot, como penínsulas inscritas o escondidas en
-el mapa -a punto de desaparecer.Esta "escritura" -que en parte permanece
+el mapa -a punto de desaparecer. Esta "escritura" -que en parte permanece
 escondida, y en parte se desvanece- representa el proceso mismo en el que la
 red está inmerso, incompletable en su propia representación, en última
 instancia incontrolable. En otras palabras, la serie Mandelbrot, o algo
@@ -555,7 +555,7 @@ Prigogine. Si no como otra cosa, la serie Mandelbrot sirve como metáfora para
 cartografiar el interfaz del TAZ con la red en términos de desaparición de
 información. Cada "catástrofe" en la red es un nudo de fuerza para el Web, para
 la antired. La red se verá dañada por el caos, pero al contrario el Web se
-expandirá en él.Ya mediante el simple pirateo de datos, ya mediante
+expandirá en él. Ya mediante el simple pirateo de datos, ya mediante
 desarrollos más complejos de su actual manejo del caos, el pirata web -los
 cibernautas del TAZ- encontrará sistemas para sacar ventajas de las
 perturbaciones, problemas y caídas de la red (maneras de producir información
@@ -577,11 +577,11 @@ por una realidad diferente.
 
 Dicho todo ello, todavía debemos admitir algunas quejas contra los ordenadores,
 considerar algunas preguntas no contestadas, especialmente acerca del ordenador
-personal.La historia de las redes de ordenadores, BBS’s y varios otros
+personal. La historia de las redes de ordenadores, BBS’s y varios otros
 experimentos de "electrodemocracia" han sido un gran hobby para muchos. Muchos
 anarquistas y libertarios declaran gran fe en el PC como arma de liberación
 y autoliberación -pero en realidad no es visible su ventaja, no hay logros, no
-hay ningún grado palpable de libertad conquistada gracias a él.Tengo muy poco
+hay ningún grado palpable de libertad conquistada gracias a él. Tengo muy poco
 interés en esas hipotéticamente emergentes clases de autoempleados en el
 procesamiento de datos que muy pronto serán capaces de administrar una gran
 industria rural o una fabrica de comida rápida trabajando para varias
@@ -596,7 +596,7 @@ actuales redes "radicales". En algunos lugares -se dice- existe información
 económica. Puede que sí, pero la mayoría de la información que circula en las
 BBS’s "alternativas" consiste sobre todo en chismes y "chateo". ¿Es eso una
 "economía"? De acuerdo: los PC’s han creado una nueva revolución impresora. De
-acuerdo también en que las redes marginales están evolucionando.Y de acuerdo
+acuerdo también en que las redes marginales están evolucionando. Y de acuerdo
 en que ahora puedo por ejemplo mantener seis conversaciones telefónicas a la
 vez. ¿Pero qué cambia todo eso de mi vida cotidiana?La verdad, todavía hay
 grandes cantidades de información que pueden enriquecer mi percepción, en
@@ -629,7 +629,7 @@ y qué sentido tienen las actuales redes underground, carentes de suficiente
 seguridad. En definitiva, asúmase que me alimento simplemente de información,
 el fantasma de la máquina. De acuerdo con los apólogos, los ordenadores podrían
 ser capaces de facilitar la satisfacción de todos mis deseos de comida, drogas,
-sexo, evasión de impuestos,...Entonces, ¿qué ocurre? ¿Por qué todo ello no
+sexo, evasión de impuestos,... Entonces, ¿qué ocurre? ¿Por qué todo ello no
 está ocurriendo?
 
 El TAZ ha acontecido, está aconteciendo y seguirá aconteciendo con o sin
@@ -669,7 +669,7 @@ debe ser creada. Nuestro argumento es más bien que ha sido creada, que será
 creada, y que está siendo creada. Por tanto resultaría más valioso
 e interesante observar algunas TAZ’s pasadas y presentes, y especular sobre
 manifestaciones futuras; evocando unos pocos prototipos podemos calibrar el
-alcance potencial del complejo, e incluso quizás atisbar un "arquetipo".Más
+alcance potencial del complejo, e incluso quizás atisbar un "arquetipo". Más
 que intentar cualquier forma de enciclopedismo adoptaremos una técnica de tiro
 disperso, un mosaico de retazos, comenzando algo arbitrariamente con los siglos
 XVI-XVII y el asentamiento en el Nuevo Mundo. La apertura del "Nuevo" Mundo fue
@@ -685,7 +685,7 @@ ideología, y la colonia de Roanoke su primer experimento de laboratorio.
 La visión alquímica del Nuevo Mundo lo asociaba con la materia prima o hyle, el
 "estado de naturaleza", la inocencia y la potencialidad ("Virginia"), un caos
 embrionario que el adepto transmutaría en "oro", es decir, en perfección
-espiritual al igual que en abundancia material.Pero esta visión alquímica
+espiritual al igual que en abundancia material. Pero esta visión alquímica
 está también informada en parte por una fascinación efectiva por el rudimento,
 una furtiva simpatía por él, un sentimiento de añoranza por su forma informe
 que toma como foco el símbolo del "Indio": el "Hombre" en estado natural,
@@ -702,7 +702,7 @@ colonización.
 
 En el colegio nos enseñaron que los primeros asentamientos en Roanoke no
 fructificaron; los colonos desaparecieron, dejando sólo tras sí el críptico
-mensaje "nos vamos a Croatan".Informes posteriores acerca de "indios de ojos
+mensaje "nos vamos a Croatan". Informes posteriores acerca de "indios de ojos
 grises" fueron desacreditados como leyenda. Lo que realmente ocurrió, según el
 libro de texto, fue que los indios masacraron a los indefensos colonos. Sin
 embargo "Croatan" no era una especie de El Dorado; era el nombre de una tribu
@@ -809,7 +809,7 @@ practican el "paganismo" africano.
 A través del siglo XVIII, Norteamérica también produjo cierta cantidad de
 "comunidades triraciales aisladas". (Este término de resonancias clínicas fue
 inventado por el movimiento eugenésico, que produjo los primeros estudios
-científicos de estas comunidades.Desafortunadamente la "ciencia" sólo servía
+científicos de estas comunidades. Desafortunadamente la "ciencia" sólo servía
 de excusa al odio por los "Mestizos" y los pobres, y la solución del problema
 era normalmente la esterilización forzosa). El núcleo invariablemente consistía
 en esclavos y siervos fugitivos, "criminales" (es decir, los muy pobres),
@@ -821,7 +821,7 @@ ancestral de la tribu permitía asimilar a los recién llegados; en otros casos,
 nuevas tribus se formaban. Así tenemos a los maroons del pantano Great Dismal,
 que subsistieron a lo largo de los siglos XVIII y XIX, adoptando a esclavos
 fugitivos, funcionando como estación de paso del Tren Subterráneo, y sirviendo
-como centro religioso e ideológico para las rebeliones de esclavos.La
+como centro religioso e ideológico para las rebeliones de esclavos. La
 religión era el vudú, una mezcla de elementos nativos y cristianos, y de
 acuerdo al historiador H. Leaming Bey, a los ancianos de esta fe y a los
 líderes de los maroons del Great Dismal se los conocía como el "Alto Lucero de
@@ -831,7 +831,7 @@ Los Ramapaughs del norte de Nueva Jersey (mal llamados los "Blancos de
 Jackson") presentan otra genealogía romántica y arquetípica: esclavos liberados
 por los desertores holandeses, diversos clanes algonquinos y de Delaware, las
 "prostitutas" de costumbre, los "Hesienses" (término para designar
-a mercenarios británicos perdidos, realistas descolgados, etc.), y bandas
+a mercenarios británicos perdidos, realistas descolgados, etc. ), y bandas
 locales de bandidos sociales como la de Claudias Smith.
 
 Algunos de los grupos reclaman un origen afroislámico, como en el caso de los
@@ -879,7 +879,7 @@ ancestral sombra oculta todavía cautiva los vestigios de nuestros bosques (los
 que, a propósito, se han extendido grandemente en el nordeste desde los siglos
 XVIII-XIX con el retorno de vastos terrenos de tierra de cultivo a la
 espesura). Thoreau en el lecho de muerte soñó con la vuelta de "indios...
-bosques...": la vuelta de lo reprimido.Los Moros y los Ramapaughs tienen por
+bosques... ": la vuelta de lo reprimido. Los Moros y los Ramapaughs tienen por
 supuesto buenas razones materiales para definirse a sí mismos como indios
 -después de todo, tienen antepasados indios- pero si consideramos su
 autoproclamación en términos "míticos" al igual que históricos ahondaremos en
@@ -887,7 +887,7 @@ aspectos de mayor relevancia en nuestra búsqueda de la TAZ. Dentro de las
 sociedades tribales existe lo que ciertos antropólogos han denominado
 mannenbunden: sociedades totémicas entregadas a una identidad con la
 "naturaleza" en el acto de transmutarse, de convertirse en el animal tótem
-(hombres lobo, chamanes jaguar, hombres leopardo, brujas gato, etc.) En el
+(hombres lobo, chamanes jaguar, hombres leopardo, brujas gato, etc. ) En el
 contexto de una sociedad colonial entera (como Taussig señala en Chamanism
 Colonialism and the Wild Man) el poder de transmutación se percibe como
 inherente a la cultura nativa en su totalidad; así el sector más reprimido de
@@ -969,7 +969,7 @@ el momento del levantamiento. De hecho, ciertos anarquistas de la vena
 stirnerita/nietzscheana llegaron a considerar esta actividad como un fin en sí
 misma, una forma de estar siempre ocupando una zona autónoma, la interzona que
 se abre en mitad o en los albores de la guerra y la revolución (la "zona" de
-Pynchon en Arco iris de gravedad).Declararon que si cualquier revolución
+Pynchon en Arco iris de gravedad). Declararon que si cualquier revolución
 socialista triunfaba, ellos serían los primeros en volverse contra ella. Por
 menos de anarquía universal no teman intención de parar jamás. En Rusia en 1917
 congratularon a los soviets libres con entusiasmo: éste era su objetivo. Pero
@@ -994,7 +994,7 @@ I Guerra Mundial como un héroe con un pequeño ejército a sus órdenes: los
 Yugoslavia y entregársela a Italia. Después de una ceremonia necromántica junto
 a su querida en un cementerio de Venecia partió a la conquista de Fiume,
 y triunfó sin mayores problemas. Sin embargo Italia rechazó su generosa oferta;
-el primer ministro lo tachó de loco.En un arrebato, D'Annunzio decidió
+el primer ministro lo tachó de loco. En un arrebato, D'Annunzio decidió
 declarar la independencia y comprobar por cuanto tiempo podría salirse con la
 suya. Junto a uno de sus amigos anarquistas escribió la Constitución, que
 declaraba la música como el fundamento central del Estado. Los miembros de la
@@ -1103,7 +1103,7 @@ del mundo puede traer ni el fin de la vida cotidiana, ni nuestra aspiración por
 las cosas buenas ni por lo Maravilloso. Y como dijo Nietzsche, si el mundo
 pudiera "acabarse", lógicamente lo hubiera hecho ya; no lo ha hecho, por tanto
 no lo hace. Y así, como uno de los sufíes dijo, no importa cuantos vasos de
-vino prohibido bebamos, nos llevaremos esta sed rabiosa a la eternidad.Zerzan
+vino prohibido bebamos, nos llevaremos esta sed rabiosa a la eternidad. Zerzan
 y Black han señalado independientemente ciertos elementos de "rechazo" (en
 palabras de Zerzan) que quizás puedan ser considerados de alguna forma como
 síntomas, en parte inconscientes pero en parte conscientes, de una cultura
@@ -1137,7 +1137,7 @@ El rechazo al trabajo puede tomar las formas del absentismo, la ebriedad en el
 empleo, el sabotaje, y la pura desidia; pero igualmente puede dar lugar
 a nuevos modos de rebeldía: más autoempleo, participación en la economía
 sumergida y el "lavoro nero", fraude fiscal y otras opciones criminales,
-cultivo de maría, etc.; actividades todas ellas más o menos "invisibles" en
+cultivo de maría, etc. ; actividades todas ellas más o menos "invisibles" en
 comparación con las tácticas izquierdistas de confrontación tradicionales como
 la huelga general.
 
@@ -1181,7 +1181,7 @@ La "lingüística del caos" irradia una presencia que está continuamente
 desapareciendo de todos los órdenes del lenguaje y de los sistemas de
 significado; una presencia fugaz, evanescente, "sutil", (un término de la
 alquimia sufí); el atractor extraño alrededor del que los átomos de significado
-se acumulan, formando órdenes caóticamente nuevos y espontáneos.Aquí tenemos
+se acumulan, formando órdenes caóticamente nuevos y espontáneos. Aquí tenemos
 una estética de la frontera entre el caos y el orden, el margen, el área de
 "catástrofe" donde la "avería" del sistema puede significar la iluminación.
 
@@ -1245,11 +1245,11 @@ LA TAZ como táctica consciente radical emergerá bajo ciertas condiciones:
 
   #. Liberación psicológica. Esto es, debemos realizar (hacer reales) los
      momentos y espacios en los que la libertad no es sólo posible sino
-     electiva.Debemos saber de qué forma somos genuinamente oprimidos,
+     electiva. Debemos saber de qué forma somos genuinamente oprimidos,
      y también de qué forma estamos autoreprimidos o atrapados en una fantasía
      en la que son las ideas las que nos oprimen. El trabajo, por ejemplo, es
      para la mayoría de nosotros una fuente mucho más efectiva de miseria que
-     la propia política legislativa.La alienación es para nosotros mucho más
+     la propia política legislativa. La alienación es para nosotros mucho más
      peligrosa que cualquier caduca ideología moribunda y desdentada. La
      adicción mental a los "ideales" -que de hecho resultan ser meras
      proyecciones de nuestro resentimiento y nuestra sensación de
@@ -1261,7 +1261,7 @@ LA TAZ como táctica consciente radical emergerá bajo ciertas condiciones:
      nos consideremos en efecto seres libres.
 
   #. La contra-red debe expandirse. En la actualidad refleja más abstracción
-     que efectividad.Los fanzines y BBS’s intercambian información, lo que es
+     que efectividad. Los fanzines y BBS’s intercambian información, lo que es
      parte del trabajo de fondo necesario de la TAZ, pero muy poca información
      de esta índole se refiere a bienes y servicios concretos necesarios para
      la vida autónoma. No vivimos en el ciberespacio; soñar que lo hacemos es
@@ -1269,7 +1269,7 @@ LA TAZ como táctica consciente radical emergerá bajo ciertas condiciones:
      lugar físico y estamos en ella o no. Todos los sentidos deben estar
      implicados. La trama es de alguna forma un nuevo sentido, pero debe ser
      añadido a los otros -los otros no deben ser sustraídos de él, como en
-     alguna horrible parodia del trance místico-.Sin la trama, la realización
+     alguna horrible parodia del trance místico-. Sin la trama, la realización
      completa del complejo-TAZ sería imposible. Pero la trama no es un fin en
      si misma. Es un arma.
 
@@ -1277,7 +1277,7 @@ LA TAZ como táctica consciente radical emergerá bajo ciertas condiciones:
      licuándose y petrificándose a un tiempo, debe progresar en su curso
      presente en el que la rigidez histérica viene a enmascarar más y más su
      vacuidad, un abismo de poder. Mientras el poder "desaparece", nuestra
-     voluntad de poder debe ser la desaparición.Ya hemos discutido la
+     voluntad de poder debe ser la desaparición. Ya hemos discutido la
      cuestión de si la TAZ puede ser vista "meramente" como obra de arte. Pero
      también querrás saber si es que es algo más que una pobre ratonera en la
      Babilonia de la información, o más bien un laberinto de túneles, más y más
@@ -1285,9 +1285,9 @@ LA TAZ como táctica consciente radical emergerá bajo ciertas condiciones:
      pirata. Contestaré que preferiría ser una rata en el muro que una rata en
      la jaula; pero también insistiré en que la TAZ trasciende estas
      categorías. Un mundo en el que la TAZ echara efectivamente raíces puede
-     parecerse al mundo imaginado por "P. M." en su novela de fantasía bolo
-     'bolo.Quizás la TAZ es un "protocolo". Pero en la medida en que la TAZ
-     existe ya, encarna mucho más que la mundanidad de la nolición.O que el
+     parecerse al mundo imaginado por "P. M. " en su novela de fantasía bolo
+     'bolo. Quizás la TAZ es un "protocolo". Pero en la medida en que la TAZ
+     existe ya, encarna mucho más que la mundanidad de la nolición. O que el
      pasotismo contracultural. Hemos mencionado los aspectos festivos del
      momento descontrolado que se conforma en una autocoordinación espontánea,
      si bien breve. Es "epifánico"; una experiencia punta en la escala tanto
@@ -1296,7 +1296,7 @@ LA TAZ como táctica consciente radical emergerá bajo ciertas condiciones:
 La liberación se realiza en la lucha; ésta es la esencia de la autosuperación
 de Nietzsche. La tesis presente puede igualmente tomar como señal el vagabundeo
 de Nietzsche. Es el precursor de la deriva, en el sentido situ de dérive y en
-la definición de Lyotard de driftwork.Podemos prever una geografía
+la definición de Lyotard de driftwork. Podemos prever una geografía
 enteramente nueva, una especie de mapa de peregrinaciones en el que los lugares
 sagrados se han reemplazado con experiencias punta y TAZ’s: una verdadera
 ciencia de la psicotopografía, quizá para llamarla "geo-autonomía"
