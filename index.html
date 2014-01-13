@@ -6,7 +6,41 @@ title: Utopía Pirata
 <header class="utopia">
   <h1>Utopía Pirata</h1>
 
-  <img src="assets/utopia_pirata_logo.png" />
+  <div id="carrousel" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+    {% for post in site.posts %}
+      <li data-target="#carrousel" data-slide-to="{{ forloop.index0 }}"></li>
+    {% endfor %}
+    </ol>
+
+
+    <div class="carousel-inner">
+
+    {% for post in site.posts %}
+      <div class="item{% if forloop.first %} active{% endif %}">
+      {% if page.cover %}
+        <img src="{{ page.slider }}" />
+      {% else %}
+        <img src="assets/utopia_pirata_logo.png" />
+      {% endif %}
+        <div class="carousel-caption">
+          <h1>{{ post.title }}</h1>
+          <p>{{ post.author }}</p>
+        </div>
+      </div>
+    {% endfor %}
+
+    </div>
+
+
+    <a class="left carousel-control" href="#carrousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+    </a>
+
+    <a class="right carousel-control" href="#carrousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+    </a>
+  </div>
 
 </header>
 
@@ -44,3 +78,9 @@ title: Utopía Pirata
   <a href="http://jekyllrb.com">pandoc</a>+
   <a href="http://endefensadelsl.org">edsl</a>
 </footer>
+
+<script src="https://code.jquery.com/jquery.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+  $('carrousel').carousel();
+</script>
