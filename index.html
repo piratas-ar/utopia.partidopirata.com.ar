@@ -3,7 +3,7 @@ layout: default
 title: Utopía Pirata
 ---
 
-<header>
+<header class="utopia">
   <h1>Utopía Pirata</h1>
 
   <img src="assets/utopia_pirata_logo.png" />
@@ -14,16 +14,21 @@ title: Utopía Pirata
 
   <h2>Textos publicados</h2>
 
+  <ul class="media-list">
 {% for post in site.posts %}
-  <dl>
-    <dt><a href="{{ post.url }}">{{ post.title }}</a></dt>
-    <dd class="author">{{post.author}}</dd>
+  <li class="media">
+    <h4>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <small class="author">{{post.author}}</small>
+    </h4>
 
+    <ul class="list-inline">
     {% for format in site.pandoc.outputs limit:2 %}
     {% capture extension %}{{ format | first }}{% endcapture %}
-    <dd><p><a href="{{ extension }}{{ post.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></p></dd>
+      <li><a href="{{ extension }}{{ post.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
     {% endfor %}
-    <dd><p><a href="{{ post.url }}#formats">otros...</a></p></dd>
+      <li><a href="{{ post.url }}#formats">otros...</a></li>
+    </ul>
 
   </dl>
 {% endfor %}
@@ -35,5 +40,7 @@ title: Utopía Pirata
   <a href="atom.xml">Feed Completo</a> |
   <a href="{{ site.torrent.file }}">Torrent</a> |
   <a href="git/">Código fuente</a> |
-  <a href="http://johnmacfarlane.net/pandoc/">jekyll</a>+<a href="http://jekyllrb.com">pandoc</a>
+  <a href="http://johnmacfarlane.net/pandoc/">jekyll</a>+
+  <a href="http://jekyllrb.com">pandoc</a>+
+  <a href="http://endefensadelsl.org">edsl</a>
 </footer>
