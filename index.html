@@ -1,0 +1,39 @@
+---
+layout: default
+title: Utopía Pirata
+---
+
+<header>
+  <h1>Utopía Pirata</h1>
+
+  <img src="http://wiki.partidopirata.com.ar/images/thumb/0/00/UtopiaPirata.svg/424px-UtopiaPirata.svg.png" />
+
+</header>
+
+<section id="textos">
+
+  <h2>Textos publicados</h2>
+
+{% for post in site.posts %}
+  <dl>
+    <dt><a href="{{ post.url }}">{{ post.title }}</a></dt>
+    <dd class="author">{{post.author}}</dd>
+
+    {% for format in site.pandoc.outputs limit:2 %}
+    {% capture extension %}{{ format | first }}{% endcapture %}
+    <dd><p><a href="{{ extension }}{{ post.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></p></dd>
+    {% endfor %}
+    <dd><p><a href="{{ post.url }}#formats">otros...</a></p></dd>
+
+  </dl>
+{% endfor %}
+
+</section>
+
+<footer>
+  <a href="licencia.html">Licencia</a> |
+  <a href="atom.xml">Feed Completo</a> |
+  <a href="{{ site.torrent.file }}">Torrent</a> |
+  <a href="git/">Código fuente</a> |
+  <a href="http://johnmacfarlane.net/pandoc/">jekyll</a>+<a href="http://jekyllrb.com">pandoc</a>
+</footer>
