@@ -1,7 +1,7 @@
 Utopía Pirata
 =============
 
-![Logo](assets/logo_utopia_pirata.png)
+![Logo](assets/utopia_pirata_logo.png)
 
 Utopía Pirata es la editorial del [Partido Pirata de Argentina](http://partidopirata.com.ar).
 
