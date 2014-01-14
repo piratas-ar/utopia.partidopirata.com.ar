@@ -19,3 +19,6 @@ p {
   hyphens: auto;
 }
 
+.format-list li {
+  padding: 0
+}
