@@ -4,6 +4,11 @@ title: Utopía Pirata
 ---
 
 <header class="utopia">
+  <nav class="pull-right">
+      <span class="glyphicon glyphicon-magnet"></span>
+      <a href="{{ site.torrent.file }}">Descargá el sitio por torrent</a>
+  </nav>
+
   <h1>Utopía Pirata</h1>
 
   <div id="carrousel" class="carousel slide" data-ride="carousel">
@@ -24,8 +29,8 @@ title: Utopía Pirata
         <img src="assets/utopia_pirata_logo.png" />
       {% endif %}
         <div class="carousel-caption">
-          <h1>{{ post.title }}</h1>
-          <p>{{ post.author }}</p>
+          <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+          <h2>{{ post.author }}</h2>
         </div>
       </div>
     {% endfor %}
@@ -56,7 +61,8 @@ title: Utopía Pirata
       <small class="author">{{post.author}}</small>
     </h4>
 
-    <ul class="list-inline">
+    <ul class="list-inline format-list">
+      <li><span class="glyphicon glyphicon-cloud-download"></span></li>
     {% for format in site.pandoc.outputs limit:2 %}
     {% capture extension %}{{ format | first }}{% endcapture %}
       <li><a href="{{ extension }}{{ post.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
@@ -76,6 +82,7 @@ title: Utopía Pirata
   <a href="git/">Código fuente</a> |
   <a href="http://johnmacfarlane.net/pandoc/">jekyll</a>+
   <a href="http://jekyllrb.com">pandoc</a>+
+  <a href="http://getbootstrap.com">bootstrap</a>+
   <a href="http://endefensadelsl.org">edsl</a>
 </footer>
 
