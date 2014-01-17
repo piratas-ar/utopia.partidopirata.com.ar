@@ -12,6 +12,7 @@ layout: default
         {% capture extension %}{{ format | first }}{% endcapture %}
         <li><a href="{{ extension }}{{ page.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
 {% endfor %}
+        <li><a href="pdf{{ page.url | remove:'.html' }}-imposed.pdf">imprenta</a></li>
       </ul>
     </nav>
 
