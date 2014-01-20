@@ -2,8 +2,9 @@
 # `make` o `make all` genera el sitio
 #
 # Toma todas los svg de las tapas y los convierte a tif
-src_tapas = $(wildcard assets/img/tapas/*.svg)
-out_tapas = $(patsubst %.svg,%.tif,$(src_tapas))
+src_tapas = $(wildcard assets/covers/*.svg)
+tif_tapas = $(patsubst %.svg,%.tif,$(src_tapas))
+png_tapas = $(patsubst %.svg,%.png,$(src_tapas))
 
 destination = /srv/http
 site = utopia.partidopirata.com.ar
@@ -37,5 +38,8 @@ clean:
 %.tif: %.svg
 	convert -colorspace CMYK -density 300 '$<' '$@'
 
+%.png: %.tif
+	convert '$<' '$@'
+
 # Todas las tapas juntas
-tapas: $(out_tapas)
+tapas: $(tif_tapas) $(png_tapas)
