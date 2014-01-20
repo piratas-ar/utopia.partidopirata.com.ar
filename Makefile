@@ -28,7 +28,7 @@ seed:
 	transmission-remote --add "$(destination)/$(site)/$(torrent)" \
 	                    --download-dir "$(destination)" \
 											--no-honor-session \
-											--no-global-seedratio
+											--no-seedratio
 
 test: toggle-test-dest build toggle-dest
 
