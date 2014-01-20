@@ -2,6 +2,8 @@
 title: "Zona Temporalmente Autónoma"
 author: Hakim Bey
 layout: post
+cover: "assets/covers/single_zona_temporalmente_autonoma.png"
+slider: "assets/covers/slider_zona_temporalmente_autonoma.png"
 ---
 
 Zona Temporalmente Autónoma
