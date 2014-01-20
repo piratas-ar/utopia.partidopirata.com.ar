@@ -10,7 +10,14 @@ title: Utopía Pirata
   </nav>
 
   <div class="page-header">
-    <h1>Utopía Pirata</h1>
+    <div class="media">
+      <a class="pull-left" href="/">
+        <img src="assets/images/logo_sin_nombre_negro.png"/>
+      </a>
+      <div class="media-body">
+        <h1 class="media-heading">Utopía Pirata</h1>
+      </div>
+    </div>
   </div>
 
   <div id="carrousel" class="carousel slide" data-ride="carousel">
@@ -25,14 +32,13 @@ title: Utopía Pirata
 
     {% for post in site.posts %}
       <div class="item{% if forloop.first %} active{% endif %}">
-      {% if page.cover %}
-        <img src="{{ page.slider }}" />
+      {% if post.slider %}
+        <img src="{{ post.slider }}" />
       {% else %}
         <img src="assets/utopia_pirata_logo.png" />
       {% endif %}
         <div class="carousel-caption">
-          <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-          <h2>{{ post.author }}</h2>
+          <h1><small><a href="{{ post.url }}">{{ post.title }}</a></small></h1>
         </div>
       </div>
     {% endfor %}

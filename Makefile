@@ -10,6 +10,9 @@ destination = /srv/http
 site = utopia.partidopirata.com.ar
 torrent = utopiapirata.torrent
 
+# All es el primero para que sea la opción por defecto
+all: tapas toggle-dest build seed
+
 toggle-test-dest:
 	sed "s,^destination:.*,destination: $(destination)/test.$(site)," \
 		  -i _config.yml
@@ -28,8 +31,6 @@ seed:
 											--no-global-seedratio
 
 test: toggle-test-dest build toggle-dest
-
-all: toggle-dest build seed
 
 clean:
 	rm -rf tmp src/tmp _site

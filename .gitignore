@@ -1,3 +1,8 @@
 .vendor
 .bundle
 tmp
+
+# ignorar las tapas convertidas
+assets/covers/*.tif
+assets/covers/*.png
+
