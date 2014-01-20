@@ -2,6 +2,7 @@
 author: Starhawk
 title: Herramientas para la democracia directa
 layout: post
+cover: "assets/covers/single_democracia_directa.png"
 ---
 
 Prólogo
