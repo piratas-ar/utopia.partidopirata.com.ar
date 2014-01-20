@@ -39,8 +39,9 @@ clean:
 %.tif: %.svg
 	convert -colorspace CMYK -density 300 '$<' '$@'
 
+# Los sliders son de 730px
 %.png: %.tif
-	convert '$<' '$@'
+	convert -resize 730x730\> '$<' '$@'
 
 # Todas las tapas juntas
 tapas: $(tif_tapas) $(png_tapas)
