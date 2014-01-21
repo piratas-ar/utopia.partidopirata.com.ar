@@ -12,6 +12,30 @@ Prólogo
 Textos por [Starhawk](http://www.starhawk.org/activism/trainer-resources/).
 Traducidos colaborativamente durante enero del 2014 por lxs piratas.
 
+De https://es.wikipedia.org/wiki/Starhawk
+
+Starhawk (nombre de nacimiento Miriam Simos, Saint Paul, Minnesota, 17
+de junio de 1951) es una escritora y activista anarquista y
+autodenominada bruja. Es conocida como teórica del neopaganismo y del
+ecofeminismo. Es columnista de Beliefnet.com y On Faith.
+
+Nació en Saint Paul, EE.UU., y vive ahora en San Francisco, en donde
+trabaja con Reclaiming, una tradición de brujería que ella cofundó en
+los 1970s.
+
+Es internacionalmente conocida como entrenadora en no violencia y acción
+directa, y como activista en el movimiento pacifista. También actúa
+dentro del feminismo y del movimiento altermundista.
+
+
+¡Hay muchos textos de Starhawk para traducir!
+
+Danos una mano en nuestro Barco de Traducción
+<traduccion@asambleas.partidopirata.com.ar>.  Los artículos de Starhawk
+están acá:
+[http://www.starhawk.org/activism/trainer-resources/](http://www.starhawk.org/activism/trainer-resources/)
+
+
 ¿Qué es el consenso?
 ====================
 
@@ -71,13 +95,13 @@ discusión, para que el grupo identifique lo que necesita ser resuelto.
 Luego, se debe discutir el problema, por lo que el grupo puede empezar a
 trabajar para llegar a una propuesta. El mayor error de la gente que
 busca consenso es ofrecer propuestas demasiado pronto, antes de que el
-grupo haya tenido tiempo suficente para analizar en profundidad el tema.
+grupo haya tenido tiempo suficiente para analizar en profundidad el tema.
 Las herramientas que un grupo puede utilizar durante este período
 preliminar de discusión incluyen tormentas de ideas, rondas informales
 de discusión y separación en grupos pequeños. Cuando es evidente que el
 grupo empieza a marchar por el mismo camino, se puede hacer una
 propuesta que trate de sintetizar todos los sentimientos y puntos de
-vista expresados​​. La propuesta debe indicarse claramente. Luego se
+vista expresados. La propuesta debe indicarse claramente. Luego se
 pasa a discutirla, pudiendo ser corregida o modificada. Durante este
 período de discusión, es importante articular las diferencias con
 claridad. Es responsabilidad de aquellos que están teniendo problemas
@@ -150,7 +174,7 @@ la agenda acordada, y asegurarse de que todxs tengan la oportunidad de
 hablar dándoles la palabra. Lxs facilitadorxs deben ver que las
 oportunidades de hablar se distribuyan uniformemente, para que las
 personas calladas tengan la oportunidad de hacerlo y que la gente que
-habla demasiado tenga la oportunidad de escuchar a lss demás. Lxs
+habla demasiado tenga la oportunidad de escuchar a lxs demás. Lxs
 facilitadorxs deben observar cuando la discusión parece estar llegando
 al punto en que se puede hacer una propuesta. Es entonces cuando debería
 pedir u ofrecer una al grupo, y tras otro período de discusión, si es
@@ -245,7 +269,7 @@ Herramientas para el proceso de consenso
 ### Registros de entrada
 
 Por lo general utilizados para introducciones, además de los nombres, la
-gente puede decir al grupo cómo se sienten (ansiosx, jódonx, cansadx), o
+gente puede decir al grupo cómo se sienten (ansiosx, jodonx, cansadx), o
 lo que esperan de la reunión (ciertas decisiones, cierta duración). Un
 grupo puede ajustar su agenda de acuerdo a las necesidades del estado o
 prácticas emocionales reveladas por el grupo durante el ingreso.
@@ -397,16 +421,16 @@ en la calle, como lo es el equipo de apoyo. Ellxs hacen todas las cosas
 cotidianas, y lamentablemente no reciben el reconocimiento que merecen.
 Pueden pasear/alimentar los animales domésticos, regar las plantas,
 cuidar niñxs, llamar a los empleadores y enloquecidxs padres/hijos,
-pagar el alquiler, etc. Como consecuencia, más gente puede participar(y
+pagar el alquiler, etc. Como consecuencia, más gente puede participar (y
 arriesgar mas) porque tienen ayuda con estas cosas. El apoyo emocional
 no debe ser subestimado; y fuera de lo que ofrecen los abrazos, besos y
 las llamadas telefónicas, la gente se siente lo suficientemente segura
 para arriesgarse cuando saben que tienen apoyo emocional. El equipo de
-apoyo también puede apoyar indirectamente la acción directa, mediante el
-suministro de información a los medios de comunicación y los grupos
+apoyo también puede apoyar indirectamente la acción directa, mediante
+el suministro de información a los medios de comunicación y los grupos
 comunitarios interesados, la recaudación de fondos y apoyo logístico,
 como el suministro de alimentos, agua y alojamiento. El aspecto en la
-calle de un grupo, y su equipo de apoyo puede (y debe )intercambiarse,
+calle de un grupo, y su equipo de apoyo puede (y debe) intercambiarse,
 así hay una clara comprensión dentro de él, en cuanto a la importancia
 de todos los roles en la efectividad del grupo.
 
