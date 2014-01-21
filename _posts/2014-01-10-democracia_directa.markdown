@@ -12,6 +12,30 @@ Prólogo
 Textos por [Starhawk](http://www.starhawk.org/activism/trainer-resources/).
 Traducidos colaborativamente durante enero del 2014 por lxs piratas.
 
+De https://es.wikipedia.org/wiki/Starhawk
+
+Starhawk (nombre de nacimiento Miriam Simos, Saint Paul, Minnesota, 17
+de junio de 1951) es una escritora y activista anarquista y
+autodenominada bruja. Es conocida como teórica del neopaganismo y del
+ecofeminismo. Es columnista de Beliefnet.com y On Faith.
+
+Nació en Saint Paul, EE.UU., y vive ahora en San Francisco, en donde
+trabaja con Reclaiming, una tradición de brujería que ella cofundó en
+los 1970s.
+
+Es internacionalmente conocida como entrenadora en no violencia y acción
+directa, y como activista en el movimiento pacifista. También actúa
+dentro del feminismo y del movimiento altermundista.
+
+
+¡Hay muchos textos de Starhawk para traducir!
+
+Danos una mano en nuestro Barco de Traducción
+<traduccion@asambleas.partidopirata.com.ar>.  Los artículos de Starhawk
+están acá:
+[http://www.starhawk.org/activism/trainer-resources/](http://www.starhawk.org/activism/trainer-resources/)
+
+
 ¿Qué es el consenso?
 ====================
 
