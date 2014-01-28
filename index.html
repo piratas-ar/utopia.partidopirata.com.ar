@@ -64,13 +64,13 @@ title: Utopía Pirata
   <ul class="media-list">
 {% for post in site.posts %}
   <li class="media">
-    <h4>
+    <h4 class="inline">
       <a href="{{ post.url }}">{{ post.title }}</a>
       <small class="author">{{post.author}}</small>
     </h4>
 
-    <ul class="list-inline format-list">
-      <li><span class="glyphicon glyphicon-cloud-download"></span></li>
+    <ul class="list-inline format-list inline">
+      <li> <span class="glyphicon glyphicon-cloud-download" title="Descargar"></span> </li>
     {% for format in site.pandoc.outputs limit:2 %}
     {% capture extension %}{{ format | first }}{% endcapture %}
       <li><a href="{{ extension }}{{ post.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
