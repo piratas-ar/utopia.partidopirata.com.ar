@@ -11,7 +11,7 @@ Requisitos para trabajar en este repositorio
 
 * Ruby
 * TeXLive
-* Pandoc
+* Pandoc (>= 1.10)
 * Git Flow
 
 Instalación
