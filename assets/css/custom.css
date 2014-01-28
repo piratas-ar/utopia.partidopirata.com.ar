@@ -1,0 +1,28 @@
+.container { max-width: 730px; }
+
+.page-header h1 { font-size: 50px; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "League Gothic", sans-serif;
+}
+
+header.utopia { }
+.carousel { background-color: #222; }
+
+/* Notas al pie generadas por pandoc */
+a.footnoteRef {
+  font-size: x-small;
+  vertical-align: top;
+}
+
+/* Guionado */
+p {
+  text-align: justify;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+}
+
+.format-list li {
+  padding: 0
+}

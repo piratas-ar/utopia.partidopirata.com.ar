@@ -5,12 +5,15 @@ layout: default
 <article>
   <header>
     <h4><a href="/" alt='Inicio'>Utopía Pirata</a></h4>
-    <nav id="formats">
-      <ul>
+    <nav id="formats" class="pull-right">
+      <span class="glyphicon glyphicon-cloud-download"></span> Otros formatos
+      <ul class="list-inline">
 {% for format in site.pandoc.outputs %}
         {% capture extension %}{{ format | first }}{% endcapture %}
         <li><a href="{{ extension }}{{ page.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
 {% endfor %}
+        <li><a href="pdf{{ page.url | remove:'.html' }}-imposed.pdf">impresión</a></li>
+        <li><a href="assets/covers{{ page.url | remove:'.html' }}.tif">tapas</a></li>
       </ul>
     </nav>
 
