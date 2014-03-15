@@ -36,19 +36,19 @@ Ud. es libre de
 Bajo las condiciones siguientes:
 --------------------------------
 
-![](images/by.png)
+![](assets/images/by.png)
 
 **Atribución** - Debe reconocer los créditos de la obra de la manera
 especificada por el autor o el licenciante (pero no de una manera que
 sugiera que tiene su apoyo o que apoyan el uso que hace de su obra).
 
-![](images/sa.png)
+![](assets/images/sa.png)
 
 **Compartir bajo la Misma Licencia** - Si altera o transforma esta obra,
 o genera una obra derivada, sólo puede distribuir la obra generada bajo
 una licencia idéntica a ésta.
 
-![](images/nc.png)
+![](assets/images/nc.png)
 
 **No Capitalista** - La explotación comercial de esta obra sólo está
 permitida a cooperativas, organizaciones y colectivos sin fines de
