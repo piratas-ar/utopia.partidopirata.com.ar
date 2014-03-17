@@ -3,10 +3,57 @@ layout: default
 title: Utopía Pirata
 ---
 
-<header>
-  <h1>Utopía Pirata</h1>
+<header class="utopia">
+  <nav class="pull-right">
+      <span class="glyphicon glyphicon-magnet"></span>
+      <a href="{{ site.torrent.file }}">Descargá el sitio por torrent</a>
+  </nav>
 
-  <img src="assets/utopia_pirata_logo.png" />
+  <div class="page-header">
+    <div class="media">
+      <a class="pull-left" href="/">
+        <img src="assets/images/logo_sin_nombre_negro.png"/>
+      </a>
+      <div class="media-body">
+        <h1 class="media-heading">Utopía Pirata</h1>
+      </div>
+    </div>
+  </div>
+
+  <div id="carrousel" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+    {% for post in site.posts %}
+      <li data-target="#carrousel" data-slide-to="{{ forloop.index0 }}"></li>
+    {% endfor %}
+    </ol>
+
+
+    <div class="carousel-inner">
+
+    {% for post in site.posts %}
+      <div class="item{% if forloop.first %} active{% endif %}">
+      {% if post.slider %}
+        <img src="{{ post.slider }}" />
+      {% else %}
+        <img src="assets/utopia_pirata_logo.png" />
+      {% endif %}
+        <div class="carousel-caption">
+          <h1><small><a href="{{ post.url }}">{{ post.title }}</a></small></h1>
+        </div>
+      </div>
+    {% endfor %}
+
+    </div>
+
+
+    <a class="left carousel-control" href="#carrousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+    </a>
+
+    <a class="right carousel-control" href="#carrousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+    </a>
+  </div>
 
 </header>
 
@@ -14,16 +61,22 @@ title: Utopía Pirata
 
   <h2>Textos publicados</h2>
 
+  <ul class="media-list">
 {% for post in site.posts %}
-  <dl>
-    <dt><a href="{{ post.url }}">{{ post.title }}</a></dt>
-    <dd class="author">{{post.author}}</dd>
+  <li class="media">
+    <h4 class="inline">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <small class="author">{{post.author}}</small>
+    </h4>
 
+    <ul class="list-inline format-list inline">
+      <li> <span class="glyphicon glyphicon-cloud-download" title="Descargar"></span> </li>
     {% for format in site.pandoc.outputs limit:2 %}
     {% capture extension %}{{ format | first }}{% endcapture %}
-    <dd><p><a href="{{ extension }}{{ post.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></p></dd>
+      <li><a href="{{ extension }}{{ post.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
     {% endfor %}
-    <dd><p><a href="{{ post.url }}#formats">otros...</a></p></dd>
+      <li><a href="{{ post.url }}#formats">otros...</a></li>
+    </ul>
 
   </dl>
 {% endfor %}
@@ -35,5 +88,14 @@ title: Utopía Pirata
   <a href="atom.xml">Feed Completo</a> |
   <a href="{{ site.torrent.file }}">Torrent</a> |
   <a href="git/">Código fuente</a> |
-  <a href="http://johnmacfarlane.net/pandoc/">jekyll</a>+<a href="http://jekyllrb.com">pandoc</a>
+  <a href="http://johnmacfarlane.net/pandoc/">jekyll</a>+
+  <a href="http://jekyllrb.com">pandoc</a>+
+  <a href="http://getbootstrap.com">bootstrap</a>+
+  <a href="http://endefensadelsl.org">edsl</a>
 </footer>
+
+<script src="https://code.jquery.com/jquery.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+  $('carrousel').carousel();
+</script>
