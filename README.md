@@ -31,10 +31,11 @@ Features:
   git flow feature init nombre_de_la_feature
   # etc...
 
+
 Compilar el sitio
 -----------------
 
-`make test`
+  make test
 
 
 Tapas
@@ -43,4 +44,7 @@ Tapas
 Se crean dos tapas, una en A5 que incluye tapa y contratapa y otra en A6
 que es sólo la tapa.  Tienen que llevar el nombre del articulo.  La tapa
 completa lleva el prefijo "cover\_" y la simple "single\_" para que
-jekyll los tome después.
+jekyll los tome después.  El slider es una A7 apaisada, con la barra
+blanca a 20mm del margen superior.
+
+  make tapas
