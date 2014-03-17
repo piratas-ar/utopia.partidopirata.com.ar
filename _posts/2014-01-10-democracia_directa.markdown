@@ -293,7 +293,7 @@ creativo. No es un tiempo para la discusión o el diálogo. Alguien puede
 escribir una lluvia de ideas en una hoja grande de papel para que todos
 puedan verlas y recordarlas.
 
-### Divirse en grupos pequeños
+### Dividirse en grupos pequeños
 
 Dependiendo del tamaño del grupo original, podría ser desde tres
 personas hasta un grupo de afinidad entero. Un pequeño conjunto de pares
