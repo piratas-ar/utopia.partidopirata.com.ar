@@ -2,6 +2,8 @@
 layout: post
 author: Rick Falkvinge
 title: Historia del Copyright
+cover: "assets/covers/single_historia_del_copyright.png"
+slider: "assets/covers/slider_historia_del_copyright.png"
 ---
 
 Prefacio
