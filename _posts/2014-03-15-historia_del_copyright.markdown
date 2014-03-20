@@ -143,7 +143,7 @@ menor_ y con _mayor exactitud_.**
 
 La iglesia católica, que hasta entonces controlaba el flujo de la
 información (y era dueña de un mercado cautivo, basado en la escasez
-de la información), se alborotó. Ya noo podría controlar el proceso de
+de la información), se alborotó. Ya no podría controlar el proceso de
 reproducción de los libros, ni controlar lo que las personas podrían
 saber, por lo que cabildeó a reyes y reinas en toda Europa para que la
 tecnología de impresión, que le quitaba control sobre la población,
@@ -231,14 +231,13 @@ de mayo de 1557. Y se llamaba _copyright_.**
 Fue ampliamente exitoso como un instrumento de censura. La sociedad
 con la industria para suprimir la libertad de expresión funcionó,
 al contrario de lo que pasó en el intento francés en el inicio del
-1500, cuando se intentó prohibir la imprenta por decreto. Los Libreros
+1500 cuando se intentó prohibir la imprenta por decreto. Los Libreros
 trabajaron como una oficina de censura privado, quemando libros no
 licenciados, cerrando o incautando imprentas que infringían el monopolio
 e impidiendo que materiales políticamente incorrectos salieran a la
-luz del día. Ellos consultaban a los censores de la reina apenas hasta
-en caso de duda sobre lo que estaba o no permitido imprimir. Casi nada
-se podía imprimir, según quedó claro después de algunas consultas
-iniciales.
+luz del día. Sólo en casos dudosos se molestaban los libreros consultar a
+los censores de la reina ya que despues de sus primeras consultas fue
+evidente que podían publicar y que no.
 
 Había una obvia demanda por la lectura y el monopolio era lucrativo
 para los Libreros. Con tal de que no circulase nada que llevase a la
@@ -247,7 +246,7 @@ a publicaciones de entretenimiento. Fue un acuerdo con ganancias
 recíprocas para la reina y para los libreros, que tenían un monopolio
 lucrativo en sus manos.
 
-María I murió solamente un año después, el 17 de noviembre de 1558. Fue
+María I murió un año después, el 17 de noviembre de 1558. Fue
 sucedida por su media hermana, la protestante Elizabeth, que se tornó
 Elizabeth I, una de las más respetadas reinas de Inglaterra. María
 habia fracasado en sus intentos de restaurar el catolicismo en
@@ -351,7 +350,7 @@ Los Estados Unidos y las Bibliotecas
 ====================================
 
 > Publicado originalmente en
-> http://falkvinge.net/2011/02/08/history-of-copyright-part-4-the-us-and-libraries/}
+> http://falkvinge.net/2011/02/08/history-of-copyright-part-4-the-us-and-libraries/
 
 El copyright no nació en los Estados Unidos. La idea había aparecido
 mucho antes, en Europa, como vimos en los primeros capítulos de esta
@@ -360,7 +359,7 @@ los Padres Fundadores[^founding] tuvieron dificultad para llegar a un
 consenso sobre el tema del monopolio de las ideas --el copyright. Thomas
 Jefferson escribió:
 
-[founding]: Los próceres que escribieron y firmaron la Declaración de
+[^founding]: Los próceres que escribieron y firmaron la Declaración de
 Independencia de los Estados Unidos.
 
 > "Si la naturaleza ha hecho alguna cosa menos susceptible que todas
@@ -388,8 +387,8 @@ introducción del copyright en su legislación:
 Es muy interesante que el monopolio no haya sido adoptado para favorecer
 la remuneración de cualquier profesional --ni escritores, ni editores,
 ni distribuidores. Al contrario, el objetivo es ejemplar en su claridad:
-la única justificación para el monopolio es si amplia la cultura y el
-conocimiento a disposición de la sociedad.
+la única justificación para la existencia de el monopolio es si este 
+amplía la cultura y el conocimiento a disposición de la sociedad.
 
 Así, el copyright (en los Estados Unidos y por lo tanto en la forma
 predominante que tiene hoy) es un equilibrio entre el acceso público a
@@ -628,7 +627,7 @@ dentro de la Convención de Berna para intentar establecer, para los
 productores, derechos semejantes a los de los artistas y músicos (que
 siempre fueron vendidos a editoriales).
 
-La IFPI continó reuniéndose en países que apoyaban su agenda
+La IFPI continuó reuniéndose en países que apoyaban su agenda
 corporativa. El encuentro siguiente fue en la ciudad italiana de
 Stresa. Incluso en el medio de la turbulencia que se abatió sobre
 el mundo después de 1935, Italia consiguió promulgar los derechos
@@ -691,8 +690,8 @@ nación industrial, incapaces de competir con Asia.
 
 Este es el capítulo final de mi serie sobre la historia del monopolio
 del copyright. El período de 1960 a 2010 fue marcado por dos cosas:
-primero, la introducción del monopolio comercial del copyright, por las
-discográficas, en el dominio privado, no comercial cuando siempre había
+primero, la introducción por las discográficas del monopolio comercial
+del copyright en el dominio privado, no comercial cuando siempre había
 sido un monopolio exclusivamente comercial (es ilegal hacer copias en
 casa y cosas así) y, por lo tanto, la amenaza de los monopolios a los
 derechos humanos fundamentales, como el derecho al anonimato y segundo,
@@ -845,7 +844,7 @@ Anexo: La industria del copyright, un siglo de engaños
 repetirla. En el caso de la industria del copyright, han aprendido
 que pueden obtener nuevos monopolios y rentas cada vez que hay una
 nueva tecnología, si se quejan lo suficientemente fuerte con los
-legisladores pueden obtener nuevos monopolios y rentas.**
+legisladores.**
 
 En los últimos 100 años se ha visto un gran número de avances técnicos
 en difusión, multiplicación y transmisión de cultura, pero también
@@ -891,8 +890,8 @@ años. Una cita muy famosa fue: "Quién va a pagar por ver una película
 cuando puedes verla gratis en tu casa?"
 
 En la década del 50, la industria del cine se quejó fuertemente de la
-**televisión por cable** y en ese tiempo la queja fue sobre lo injusto
-que era que su contenido ¡fuera incapaz de competir con **lo pago**!
+**televisión por cable** y en ese tiempo la queja fue sobre ¡lo injusto
+que era que su contenido _gratuito_ fuera incapaz de competir con **lo pago**!
 
 En 1972, la industria del copyright intentó prohibir **la
 fotocopiadora**. Esta presión fue tanto de los publicistas de libros
@@ -921,7 +920,7 @@ de video-casete.** La famosa frase de la industria del copyright al
 testificar ante el congreso de los EEUU --donde el mayor lobista
 representante del cine, Jack Valenti, dijo que "El VCR es a la industria
 americana productora de películas y al pueblo americano lo que el
-Estrangulador de Boston es a una mujer sola en su casa"[estrangulador]--
+Estrangulador de Boston es a una mujer sola en su casa"[^estrangulador]--
 es material de leyenda hoy en día. Aun así, vale recordar que el así
 llamado caso _Betamax_ recorrió todo el camino hasta la Corte Suprema
 y que el VCR estuvo a punto de ser asesinado por la industria del
