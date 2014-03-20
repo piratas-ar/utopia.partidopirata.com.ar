@@ -359,7 +359,7 @@ los Padres Fundadores[^founding] tuvieron dificultad para llegar a un
 consenso sobre el tema del monopolio de las ideas --el copyright. Thomas
 Jefferson escribió:
 
-[founding]: Los próceres que escribieron y firmaron la Declaración de
+[^founding]: Los próceres que escribieron y firmaron la Declaración de
 Independencia de los Estados Unidos.
 
 > "Si la naturaleza ha hecho alguna cosa menos susceptible que todas
@@ -920,7 +920,7 @@ de video-casete.** La famosa frase de la industria del copyright al
 testificar ante el congreso de los EEUU --donde el mayor lobista
 representante del cine, Jack Valenti, dijo que "El VCR es a la industria
 americana productora de películas y al pueblo americano lo que el
-Estrangulador de Boston es a una mujer sola en su casa"[estrangulador]--
+Estrangulador de Boston es a una mujer sola en su casa"[^estrangulador]--
 es material de leyenda hoy en día. Aun así, vale recordar que el así
 llamado caso _Betamax_ recorrió todo el camino hasta la Corte Suprema
 y que el VCR estuvo a punto de ser asesinado por la industria del
