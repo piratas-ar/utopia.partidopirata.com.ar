@@ -154,11 +154,25 @@ tema.
 * El debate ayuda a fortalecer las ideas. Una idea ampliamente debatida es
 una idea fuerte, que ha sido contrastada con otras múltiples ideas, que la
 gente sabe que no fue tomada por capricho de una sola persona, sino que
-representa a todos. Una vez ampliamente debatida, al ya haberse descartado multiples alternativas, sólo una que parezca mejor puede hacer que se reabra el tema a discusión, ya que si alguien no informado quiere cambiar por algo ya debatido y descartado, los temas ya quedaron registrados, no solo en la lista sino también en la mente de todos los que debatieron y decidieron descartar dicha idea.
+representa a todos. Una vez ampliamente debatida, al ya haberse descartado múltiples alternativas, sólo una que parezca mejor puede hacer que se reabra el tema a discusión, ya que si alguien no informado quiere cambiar por algo ya debatido y descartado, los temas ya quedaron registrados, no solo en la lista sino también en la mente de todos los que debatieron y decidieron descartar dicha idea.
 
 A partir de esto decidimos crear un sistema extendido que todavía esta a
-prueba, para poder extenderloa  reuniones con mucha más gente que se
-encuentra completo en la carta orgánica
+prueba, para poder extenderlo a reuniones con mucha más gente que se
+encuentra completo en la carta orgánica.
+
+# La acción colectiva
+
+Como la democracia directa implica acción colectiva, tal vez sea pertinente encuadrar la acción colectiva para entender, en primer término, por qué sostenemos que la ideología subyacente detrás de la identidad pirata está construída por las prácticas en sí mismas, y en segundo lugar, por qué este nuevo tipo de organización *necesariamente* constituye un cambio en la estructura o naturaleza -en sentido metafórico- del lazo social.
+
+Partamos de la situación de la acción colectiva en una sociedad capitalista y pos-industrial [@bell]. El factor común es la inercia: un estancamiento del espíritu provocado por el bombardeo -y usamos esta palabra cuidadosamente- constante de símbolos, símbolos producidos con esmero por quienes poseen los medios de producción y los medios masivos de comunicación para generar una mitología de los bienes de consumo. Este factor mitológico presenta un sistema de símbolos que reemplaza a los significados que subyacen en el verdadero lazo social por otros que trasmutan los valores humanos en valores materiales. Las personas *necesitamos* el mito, así que las acciones colectivas se vuelven exclusivamente orientadas a fines de corto plazo, individualistas, y relacionadas con uno o más símbolos mitológicos de consumo. La inercia, entonces, fomenta acciones colectivas que no están orientadas a fortalecer el lazo social, sino a consolidar una sociedad de consumo. La inercia reprime el espíritu entusiasta, la imaginación, la curiosidad por las relaciones humanas y sus cosquilleos; la inercia desfigura los valores que constituyen el lazo social, cualesquiera estos sean.
+
+Por otro lado, la acción colectiva entendida desde la perspectiva de la identidad pirata, promueve relaciones orientadas a valores que evocan los significados originales de los símbolos, es decir, relaciones cuyos resultados -ya sean a través del consenso o de situaciones de conflicto inminente- *necesariamente* fortalecen el lazo social. Esta clase de acción colectiva *construye poder*, y este nuevo poder es un poder distribuído, difícil de manipular en favor de individuos particulares, como una enorme hydra a la que cortarle una cabeza sólo la volverá más fuerte.
+
+Por supuesto, existen muchos grupos de personas que se organizan y realizan acciones colectivas en favor del lazo social. La diferencia fundamental entre estos grupos y los piratas es que la práctica de la democracia directa le brinda a la acción colectiva un matiz fuertemente crítico y reflexivo. Esta característica de retroalimentación tiene la virtud de generar un poder que *se intuye*, y a su vez atiza la voluntad del grupo para ejecutar la acción de forma concluyente.
+
+Desde esta óptica se puede entender por qué las acciones colectivas piratas son un fin en sí mismas, además de estar circunscriptas en algún otro fin instrumental. La capacidad de cada participante -siempre matizada con las estructuras ideológicas individuales- de aprehender este fin produce un cambio en la persona. Las biografías individuales de las personas tienen un fuerte componente de valores estructurales otorgados por los ámbitos donde estos individuos desarrollan (y por supuesto, desarrollaron) su vida cotidiana. La acción colectiva pirata permite reflexionar sobre estos valores estructurales -en definitiva, sobre el sistema de símbolos que forman la identidad personal- y así generar *movimiento*, movimiento que libera al espíritu de la cárcel de la inercia y comienza a integrar el nuevo poder.
+
+Finalmente y como se puede intuir, hay que remarcar que la acción colectiva pirata puede aparecer en cualquier lugar, incluso en grupos que nunca oyeron hablar de la identidad pirata. Estas prácticas y formas de relación que hoy presentamos en este trabajo de forma esquemática son una consecuencia del agotamiento de la democracia representativa. El poder exponencial que brinda este tipo de organización podría ser orientado a cualquier actividad, desde investigación a producción comercial, desde activismo hasta un partido político, desde eventos de interés general hasta producción artística.
 
 # Referencias
 
