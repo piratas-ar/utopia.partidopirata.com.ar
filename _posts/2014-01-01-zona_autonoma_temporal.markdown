@@ -77,7 +77,7 @@ Creo que extrapolando las historias del pasado y el futuro sobre las "islas en
 la red" podríamos acumular suficientes evidencias como para afirmar que una
 especie de "enclave libre" no sólo es posible en nuestro tiempo, sino de hecho
 ya existe. Toda mi investigación ha cristalizado en el concepto de "Zona
-autónoma temporal" (que a partir de aquí abreviaré ZAT. Pese a su carácter
+autónoma temporal" -que a partir de aquí abreviaré ZAT. Pese a su carácter
 sintético forzado por mi propio pensamiento, no pretendo que el ZAT sea tomado
 como algo más que un ensayo ("intento"), una sugerencia o un capricho poético.
 Pese al entusiasmo oratorio de mi lenguaje, no pretendo elaborar ningún dogma
