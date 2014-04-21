@@ -1,13 +1,13 @@
 ---
-title: "Zona Temporalmente Autónoma"
+title: "Zona Autónoma Temporal"
 author: Hakim Bey
 layout: post
-cover: "assets/covers/single_zona_temporalmente_autonoma.png"
-slider: "assets/covers/slider_zona_temporalmente_autonoma.png"
+cover: "assets/covers/single_zona_autonoma_temporal.png"
+slider: "assets/covers/slider_zona_autonoma_temporal.png"
 ---
 
-Zona Temporalmente Autónoma
-===========================
+Zona Autónoma Temporal
+======================
 
 > "Esta vez, sin embargo, vendré como el victorioso Dionisio, convirtiendo el mundo
 > en una fiesta... No me sobra el tiempo... " -- Nietzsche
@@ -23,6 +23,7 @@ los frutos del pillaje para satisfacer toda clase de lujos y necesidades.
 Algunas de estas islas mantenían "comunidades intencionales", completas mini
 sociedades que vivían conscientemente fuera de la ley y mostraban determinación
 a mantenerse así, aunque fuera sólo por una corta -pero alegre- existencia.
+
 Hace algunos años investigué un montón de material secundario sobre piratería,
 intentando encontrar algún estudio sobre estos enclaves, pero parece que
 todavía ningún historiador los había encontrado merecedores de análisis serio.
@@ -30,6 +31,7 @@ todavía ningún historiador los había encontrado merecedores de análisis seri
 Larry Law -pero no se había hecho ningún estudio sistemático). Me remití a las
 fuentes directas, y construí mi propia teoría, algunos de cuyos aspectos
 analizaré aquí. Decidí llamar a aquellos asentamientos "utopías piratas".
+
 Recientemente Bruce Sterling, uno de los máximos exponentes de la
 ciencia-ficción cyberpunk, publicó el relato de un futuro cercano partiendo de
 asumir que la decadencia de los sistemas políticos desembocaría en una
@@ -38,24 +40,32 @@ corporaciones de propiedad obrera, enclaves independientes dedicados a la
 piratería de datos, enclaves verde-socialdemócratas, enclaves de trabajo cero,
 zonas anarquistas liberadas, etc. La economía de la información que sostenía
 esa diversidad era llamada "la red"; sus enclaves -y el título mismo del
-relato- era "Islas en la Red". Los proscritos medievales fundaron un "Estado";
-que consistía en una red de remotos valles y castillos, separados por miles de
-kilómetros, estratégicamente invulnerables a la invasión y conectados por un
-permanente flujo informativo de agentes secretos, en guerra con todos los
-gobiernos y dedicado exclusivamente al conocimiento. La tecnología moderna,
-culminando con el satélite espía, convierte esa especie de autonomía en un
-sueño romántico. ¡No más islas piratas! En el futuro, la propia tecnología
--liberada de todo control político- hará posible un mundo entero de zonas
-autónomas. Pero por ahora el concepto es todavía justamente ciencia ficción,
-especulación pura.
+relato- era "Islas en la Red".
+
+Los Asesinos[^NdT1] medievales fundaron un "Estado" que consistía en una red de
+remotos valles y castillos, separados por miles de kilómetros, estratégicamente
+invulnerables a la invasión y conectados por un permanente flujo informativo de
+agentes secretos, en guerra con todos los gobiernos y dedicado exclusivamente
+al conocimiento. La tecnología moderna, culminando con el satélite espía,
+convierte esa especie de autonomía en un sueño romántico. ¡No más islas
+piratas! En el futuro, la propia tecnología -liberada de todo control político-
+hará posible un mundo entero de zonas autónomas. Pero por ahora el concepto es
+todavía justamente ciencia ficción, especulación pura.
+
+[^NdT1]: Los Nizaríes, también llamados Hashshashin (traducido normalmente como
+Asesinos), fueron una rama de la secta religiosa chií-ismaelita de los
+musulmanes en Oriente Medio, activa entre los siglos X y XIII. Se hizo famosa
+por su actividad estratégica de asesinatos selectivos contra dirigentes
+políticos, militares y reyes. Más en
+[wikipedia](http://es.wikipedia.org/wiki/Secta_de_los_Asesinos).
 
 ¿Es que estamos condenados, los que vivimos el presente, a nunca experimentar
 la autonomía, a nunca habitar ni por un momento una tierra legislada sólo por
 la libertad? ¿No nos queda otra opción que la nostalgia del pasado o la
 nostalgia del futuro? ¿Tendremos que esperar a que la totalidad del mundo sea
 liberado del control político antes de que uno sólo de nosotros pueda exigir
-conocer la libertad? La lógica y la emoción se alían para negarnos la
-posibilidad. La razón establece que uno no puede luchar por aquello que no
+conocer la libertad? La lógica y la emoción se alían para condenar esta
+suposición. La razón establece que uno no puede luchar por aquello que no
 conoce, y nuestro corazón se rebela frente a un universo tan cruel como para
 imponer tal injusticia a nuestra generación, sola ante la humanidad.
 
@@ -65,16 +75,16 @@ estupor-nirvana, abdicar de nuestra humanidad, definirnos como perdedores.
 
 Creo que extrapolando las historias del pasado y el futuro sobre las "islas en
 la red" podríamos acumular suficientes evidencias como para afirmar que una
-especie de "enclave libre" no sólo es en nuestro tiempo posible, sino de hecho
-ya existente. Toda mi investigación ha cristalizado en el concepto de "Zona
-temporalmente autónoma" (que a partir de aquí abreviaré TAZ. Pese a su carácter
-sintético forzado por mi propio pensamiento, no pretendo que el TAZ sea tomado
-como un ensayo -en el sentido también de "intento"-, una propuesta o una
-fantasía poética. Pese al entusiasmo oratorio de mi lenguaje, no pretendo
-elaborar ningún dogma político. De hecho, renuncio a definir el TAZ: planeo
-alrededor del concepto, pasando de reflejos exploratorios. Al final, el TAZ es
-prácticamente auto-explicativo. En el contexto del mundo contemporáneo, podría
-ser entendido sin dificultad... entendido en la acción.
+especie de "enclave libre" no sólo es posible en nuestro tiempo, sino de hecho
+ya existe. Toda mi investigación ha cristalizado en el concepto de "Zona
+autónoma temporal" (que a partir de aquí abreviaré ZAT. Pese a su carácter
+sintético forzado por mi propio pensamiento, no pretendo que el ZAT sea tomado
+como algo más que un ensayo ("intento"), una sugerencia o un capricho poético.
+Pese al entusiasmo oratorio de mi lenguaje, no pretendo elaborar ningún dogma
+político. De hecho, renuncio a definir el ZAT: planeo alrededor del concepto,
+disparando rayos exploratorios. Al final, el ZAT es prácticamente
+auto-explicativo. En el contexto del mundo contemporáneo, podría ser entendido
+sin dificultad... entendido en la acción.
 
 
 Esperando la revolución
@@ -82,7 +92,7 @@ Esperando la revolución
 
 ¿Cómo es que todo mundo puesto patas arriba siempre termina por enderezarse?
 ¿Por qué siempre a toda revolución sigue una reacción, como una temporada en el
-infierno?La revuelta, o la forma latina insurrección, son palabras que los
+infierno? La revuelta, o la forma latina *insurrección*, son palabras que los
 historiadores utilizan para describir las revoluciones fallidas -movimientos
 que no completan la curva prevista, la trayectoria consensuada: revolución,
 reacción, traición, fundación de un estado aún más fuerte y opresivo, la vuelta
@@ -91,21 +101,21 @@ el látigo en el rostro de la humanidad por siempre.
 
 Al fallar en el cumplimiento de la curva, la revuelta sugiere la posibilidad de
 un movimiento que escapa y va más allá de la espiral hegeliana del progreso,
-que secretamente no es sino un círculo vicioso. Surgo -levantamiento,
-aparición. Insurgo -levantamiento, rebelión de uno mismo. Una operación de
+que secretamente no es sino un círculo vicioso. *Surgo* -levantamiento,
+aparición. *Insurgo* -levantamiento, rebelión de uno mismo. Una operación de
 comienzo, de toma de las riendas. Un adiós a la maniatada parodia del círculo
 del karma, de la fútil revolución histórica. La consigna "¡revolución!"; se ha
 convertido de proclama en veneno, un maligno hado pseudognóstico, una
 fantasmagoría en la que sin importar cuánto luchemos quedamos siempre atrapados
 por el demonio de Aión, el íncubo del estado, de un Estado tras otro, cada
-paraíso regido por un ángel más maligno. Si la Historia es Tiempo -como
-pretende- entonces la revuelta es un momento que salta por encima del Tiempo,
-que viola la "ley" de la Historia. Si el Estado es la Historia -como
-pretendeentonces la insurrección es el momento prohibido, una inolvidable
-denegación de la dialéctica una sacudida polar que nos expulsa de lo oscuro,
-una maniobra chamánica realizada desde un ángulo imposible del universo.
+paraíso regido por un ángel más maligno.
 
-La Historia pregona que la Revolución quiere permanencia, o cuando menos
+Si la Historia es Tiempo -como pretende- entonces la revuelta es un momento que
+salta por encima del Tiempo, que viola la "ley" de la Historia. Si el Estado es
+la Historia -como pretende entonces la insurrección es el momento prohibido,
+una inolvidable denegación de la dialéctica una sacudida polar que nos expulsa
+de lo oscuro, una maniobra chamánica realizada desde un ángulo imposible del
+universo. La Historia afirma que la Revolución quiere permanencia, o cuando menos
 duración, mientras que la revuelta es temporal. En ese sentido una revuelta es
 como una experiencia límite, lo contrario del estándar de la conciencia
 y experiencia ordinaria. Como la fiesta, la revuelta no puede ocurrir cada día
@@ -136,32 +146,32 @@ histéresis, una rígida nada, un fantasma capaz de absorber cada chispa en un
 ectoplasma informativo, una sociedad de la capitulación regida por a imagen de
 la Pasma y el Ojo absorbente de la pantalla televisiva.
 
-Brevemente: no proponemos el TAZ como un fin exclusivo en sí mismo,
+Brevemente: no proponemos el ZAT como un fin exclusivo en sí mismo,
 reemplazando todas las otras formas de organización, tácticas y objetivos. Lo
 defendemos porque puede proveer la clase de intensificación asociada con la
-revuelta sin conducir necesariamente a su violencia y sacrificio. El TAZ es
+revuelta sin conducir necesariamente a su violencia y sacrificio. El ZAT es
 como una revuelta que no se engancha con el Estado, una operación guerrillera
 que libera un área -de tierra, de tiempo, de imaginación- y entonces se
 autodisuelve para reconstruirse en cualquier otro lugar o tiempo, antes de que
 el Estado pueda aplastarla. Puesto que el Estado tiene más que ver con la
-Simulación que con la substancia, el TAZ puede ocupar estas áreas
+Simulación que con la substancia, el ZAT puede ocupar estas áreas
 clandestinamente y llevar adelante sus propósitos subversivos por un tiempo en
-relativa paz. Puede que incluso algunos pequeños TAZ’s hayan durado vidas
+relativa paz. Puede que incluso algunos pequeños ZAT’s hayan durado vidas
 enteras, y ello gracias a su capacidad de permanecer ignorados, como pequeños
 enclaves rurales que nunca se han cruzado con el Espectáculo, que nunca han
 aparecido fuera de la "vida real" que resulta invisible a los agentes de la
 Simulación.
 
 Babilonia toma sus abstracciones por lo real; precisamente en ese margen de
-error se constituye el TAZ. Ponerlo en marcha puede requerir tácticas de
+error se constituye el ZAT. Ponerlo en marcha puede requerir tácticas de
 violencia y defensa, pero su mayor fuerza reside en su invisibilidad -el Estado
 no puede reconocerlo porque la Historia carece de definición para él. Tan
-pronto como un TAZ es nombrado -representado y mediatizado- debe desaparecer,
+pronto como un ZAT es nombrado -representado y mediatizado- debe desaparecer,
 desaparece de hecho, dejando tras de sí un vacío, resurgiendo de nuevo en otro
 lugar, e invisible de nuevo en tanto indefinible para los términos del
-Espectáculo. De esa manera el TAZ es una táctica perfecta para una Era en que
+Espectáculo. De esa manera el ZAT es una táctica perfecta para una Era en que
 el estado es omnipotente y omnipresente, pero también lleno de fisuras
-y grietas. Y en tanto el TAZ es un microcosmo del "sueño anarquista" de una
+y grietas. Y en tanto el ZAT es un microcosmo del "sueño anarquista" de una
 cultura libre no se me ocurre pensar mejor táctica para trabajar por él
 experimentando a la vez algún beneficio aquí y ahora. En suma, el realismo nos
 impone no sólo dejar de esperar "la Revolución", sino incluso dejar de
@@ -169,9 +179,9 @@ desearla. Revuelta, en cambio. Revuelta sí, tan a menudo como sea posible,
 e incluso asumiendo los riesgos de la violencia. Los espasmos del Estado
 Simulador serán espectaculares, pero en la mayoría de los casos la mejor y más
 radical táctica será rechazar entrar en el juego de la violencia espectacular,
-retirarse del área del simulacro, desaparecer. El TAZ es un campamento de
+retirarse del área del simulacro, desaparecer. El ZAT es un campamento de
 guerrilleros ontológicos: golpean y corren. Mantén en movimiento a la tribu
-entera, aunque sólo se trate de datos en el Web. El TAZ tiene que ser capaz de
+entera, aunque sólo se trate de datos en el Web. El ZAT tiene que ser capaz de
 defensa: pero tanto su ataque como su defensa deben, siempre que puedan, eludir
 la violencia del Estado, que es una violencia sin sentido. El ataque se hace
 contra estructuras de control, esencialmente contra las ideas; y la defensa es
@@ -180,20 +190,20 @@ los marciales. La "máquina de guerra nomádica" conquista antes de ser notada,
 y se desplaza antes de que el mapa pueda ser reajustado. Por lo que concierne
 al futuro, sólo los autónomos podrán planificar la autonomía, organizarla,
 crearla. Es una operación que se autoinicia, fundacional. El primer paso tiene
-algo de satori: la realización del TAZ comienza con el simple acto de su
+algo de satori: la realización del ZAT comienza con el simple acto de su
 realización.
 
 
 Psicotopología de la vida cotidiana
 ===================================
 
-La idea del TAZ surge en principio de una crítica de la de Revolución, en favor
+La idea del ZAT surge en principio de una crítica de la de Revolución, en favor
 de la de Insurrección. La primera etiqueta a la segunda como fracaso, pero para
 nosotros la revuelta representa una posibilidad mucho más interesante -desde la
 perspectiva de una psicología de la liberación- que las revoluciones
 "cumplidas" de la burguesía, los comunistas, los fascistas,...
 
-La segunda fuerza generativa del TAZ reside en el desarrollo histórico de lo
+La segunda fuerza generativa del ZAT reside en el desarrollo histórico de lo
 que llamaría la "clausura del mapa". El último pedazo de Tierra sin reclamar
 por una u otra nación fue engullido en 1899. El nuestro es el primer siglo sin
 terra incognita, sin última frontera. La nacionalidad es el más alto principio
@@ -229,16 +239,16 @@ imaginarios- con fuerza potencial para florecer como "zonas autónomas"
 y buscamos tiempos en los que estos espacios se encuentren relativamente
 abiertos, bien por desinterés del estado en ellos, bien porque hayan pasado
 desapercibidos a los cartógrafos, o por la razón que sea. La psicotopología es
-el arte de la prospección de nuevos TAZ’s potenciales.
+el arte de la prospección de nuevos ZAT’s potenciales.
 
 Las clausuras de la Revolución y el Mapa, sin embargo, no son sino las fuentes
-negativas del TAZ; queda mucho por decir sobre su inspiración positiva. La
+negativas del ZAT; queda mucho por decir sobre su inspiración positiva. La
 reacción por sí sola no proporciona sino la energía necesaria para que se
-manifieste un TAZ. Pero una revuelta tiene también que hacerse para algo.
+manifieste un ZAT. Pero una revuelta tiene también que hacerse para algo.
 
-  #. En primer lugar, podemos hablar de una antropología natural del TAZ. La
+  #. En primer lugar, podemos hablar de una antropología natural del ZAT. La
      familia nuclear es la unidad base de las sociedades del consenso, pero no
-     del TAZ ("Familias: ¡cómo las odio! Miserias del amor" -- Gide). La familia
+     del ZAT ("Familias: ¡cómo las odio! Miserias del amor" -- Gide). La familia
      nuclear, con sus "miserias edificas", parece ser un invento neolítico, una
      respuesta a la "revolución agrícola" con la escasez y la jerarquía
      impuestas. El modelo paleolítico era a la vez más primario y radical: la
@@ -271,7 +281,7 @@ manifieste un TAZ. Pero una revuelta tiene también que hacerse para algo.
      inconsciente pasa por el redescubrimiento de la -a la vez más arcaica
      y postindustrial- posibilidad de la banda.
 
-  #. El TAZ como "festividad". Stephen Pearl Andrews ofreció en una ocasión,
+  #. El ZAT como "festividad". Stephen Pearl Andrews ofreció en una ocasión,
      como imagen de una sociedad anarquista, la descripción de una cena-fiesta,
      en la que toda estructura de autoridad quedaba disuelta en la convivencia
      de la celebración. También podríamos invocar a Fourier y su idea de la
@@ -297,7 +307,7 @@ manifieste un TAZ. Pero una revuelta tiene también que hacerse para algo.
      acontecimientos, y una afinidad con el genius loci; la ciencia de la
      psicotopología reconoce "flujos de fuerza" y "centros de poder" -para
      utilizar metáforas ocultistas- en los que se puede localizar
-     espaciotemporalmente un TAZ, o al menos ayudar a definir su relación con
+     espacio-temporalmente un ZAT, o al menos ayudar a definir su relación con
      un momento y una localización.
 
      El media nos invita a "venir a celebrar los grandes momentos de nuestra
@@ -316,7 +326,7 @@ manifieste un TAZ. Pero una revuelta tiene también que hacerse para algo.
      neopaganos, las grandes conferencias anarquistas, los círculos gays... Las
      fiestas de alquiler en Harlem en los 20, los nightclubs, los banquetes,
      los grandes picnics libertarios, debemos reconocer que todos ellos han
-     sido ya "zonas liberadas" de algún tipo, o por lo menos TAZ’s potenciales.
+     sido ya "zonas liberadas" de algún tipo, o por lo menos ZAT’s potenciales.
      Ya abierta a sólo unos pocos amigos, como una fiesta-cena, ya a miles de
      participantes, como un Be-In, la fiesta siempre es abierta porque no está
      regulada, sometida a orden; puede estar planeada, pero a menos que
@@ -331,7 +341,7 @@ manifieste un TAZ. Pero una revuelta tiene también que hacerse para algo.
      biológica que conduce a la ayuda mutua. También aquí cabría mencionar la
      "economía del derroche" bataillana y su teoría de la cultura potlach.
 
-  #. Fundamental para dar forma a una realidad TAZ es el concepto de nomadismo
+  #. Fundamental para dar forma a una realidad ZAT es el concepto de nomadismo
      psíquico -o, como humorísticamente lo llamamos, un "cosmopolitanismo del
      desarraigo". Algunos aspectos de este fenómeno han sido analizados por
      Deleuze y Guattari en "La nomadología y la máquina de guerra", por Lyotard
@@ -339,7 +349,7 @@ manifieste un TAZ. Pero una revuelta tiene también que hacerse para algo.
      revista Semiotext (e). Utilizamos el término "nomadismo psíquico" mejor
      que el de nomadismo urbano, nomadología, deriva, etc. , simplemente para
      aglutinar todos estos conceptos en un único complejo difuso, para
-     estudiarlo a la luz del advenir del TAZ. La "muerte de dios", en muchos
+     estudiarlo a la luz del advenir del ZAT. La "muerte de dios", en muchos
      aspectos un descentramiento global del proyecto europeo, abrió a una
      visión del mundo multiperspectiva y postideológica capaz de moverse
      desarraigada desde la filosofía al mito tribal, desde las ciencias
@@ -373,7 +383,7 @@ manifieste un TAZ. Pero una revuelta tiene también que hacerse para algo.
      por hacer, para ser satisfecha por los comandos post-bakunianos
      y postnietzscheanos, o por los apaches -literalmente, "enemigos"- del
      viejo Consenso. Estos nómadas practican la razzia, son corsarios, virus.
-     Necesitan y desean TAZs, campos de tiendas oscuras bajo las estrellas del
+     Necesitan y desean ZATs, campos de tiendas oscuras bajo las estrellas del
      desierto, interzonas, fortificados oasis escondidos en las rutas de las
      caravanas, pedazos liberados de jungla y tierras baldías, áreas
      prohibidas, mercados negros y bazares underground.
@@ -392,7 +402,7 @@ manifieste un TAZ. Pero una revuelta tiene también que hacerse para algo.
 La red y la web
 ===============
 
-El siguiente factor que contribuye a la formación de TAZ’s es tan vasto
+El siguiente factor que contribuye a la formación de ZAT’s es tan vasto
 y ambiguo que necesita una sección por sí mismo.
 
 Hemos hablado hasta ahora de la red, que definiríamos como la totalidad de la
@@ -419,7 +429,7 @@ uso. (Disgresión: antes de que se condene a la Web o la Antired por
 revolucionaria-, piénsese en qué consiste la "producción" en la era del
 Simulacro. ¿Cuál o qué es la "clase trabajadora", productiva?Quizás haya que
 admitir que tales términos han perdido su significado. De cualquier manera, las
-respuestas a preguntas semejantes son tan complejas que el TAZ tiende
+respuestas a preguntas semejantes son tan complejas que el ZAT tiende
 a ignorarlas por completo y se limita a tomar aquello que puede utilizar. "La
 cultura es nuestra naturaleza" -y somos los mirlos ladrones, o los cazadores
 grupales de la era de la Técnica).
@@ -434,26 +444,26 @@ evolución entre sujetos (usuarios) y objetos (datos). La naturaleza de esas
 relaciones ha sido exhaustivamente explorada, de McLuhan a Virilio. Costaría
 páginas y páginas probar lo que a estas alturas todo el mundo sabe. Y mejor que
 reescribir todo ello de nuevo, me interesa preguntarme cómo este tipo de
-relaciones en evolución hace posibles modos de implementación para el TAZ.
+relaciones en evolución hace posibles modos de implementación para el ZAT.
 
-El TAZ tiene localizaciones temporales -pero efectivas- en el tiempo y en el
+El ZAT tiene localizaciones temporales -pero efectivas- en el tiempo y en el
 espacio. Y también ha de tener una "localización" en el Web, y esa localización
 es de distinto tipo, no efectiva sino virtual, no inmediata pero sí
-instantánea. El Web no sólo proporciona soporte logístico para el TAZ, ayuda
-a que aparezca. Hablando crudamente: puede decirse que el TAZ existe tanto en
+instantánea. El Web no sólo proporciona soporte logístico para el ZAT, ayuda
+a que aparezca. Hablando crudamente: puede decirse que el ZAT existe tanto en
 el espacio de la información como en el "mundo real". El Web puede compactar
 grandes cantidades de tiempo -como hace con los datos- en espacios
-infinitesimales. Ya hemos apuntado que, por su carácter temporal, el TAZ debe
+infinitesimales. Ya hemos apuntado que, por su carácter temporal, el ZAT debe
 necesariamente renunciar a las dimensiones de la libertad que significan
 duración y una localización más o menos fija. El Web ofrece una especie de
-sucedáneos de esas ausencias -puede informar al TAZ, desde su mismo inicio, con
+sucedáneos de esas ausencias -puede informar al ZAT, desde su mismo inicio, con
 enormes cantidades concentradas de tiempo y espacio "sutilizadas" como datos.
 
 En este momento de evolución del Web, y considerando nuestras demandas de
 sensualidad y encuentro directo, debemos considerar el Web en primer lugar como
-un sistema de soporte, capaz de llevar información de un TAZ a otro, de
+un sistema de soporte, capaz de llevar información de un ZAT a otro, de
 defenderlos, de convertirlos en invisibles o agresivos si la situación lo
-requiere. Pero es más que eso: si el TAZ es un campo nómada, el Web puede
+requiere. Pero es más que eso: si el ZAT es un campo nómada, el Web puede
 ofrecer la épica, las canciones, las genealogías y las leyendas de la tribu;
 revela las rutas de las caravanas y las ocasiones de asalto que alimentan la
 economía de la tribu; incluso contiene muchos de los caminos que recorrerán,
@@ -468,7 +478,7 @@ ordenadores. En toda la imaginería de la ciencia ficción, la Red de ordenadore
 opera como condición del ciberespacio (como en Tron o Neuromancer) y la
 pseudotelepatía de la realidad virtual. Como fan del cyberpunk no puedo sino
 imaginar la hacker reality como algo con un papel fundamental en la creación de
-TAZ’s. Como Gibson y Sterling, asumo que la red oficial nunca conseguirá
+ZAT’s. Como Gibson y Sterling, asumo que la red oficial nunca conseguirá
 clausurar la Web o la antired -la piratería de datos, las transmisiones no
 autorizadas y el libre flujo de la información nunca podrá ser detenido. De
 hecho, y tal y como yo la entiendo, la teoría del caos establece justamente que
@@ -476,14 +486,14 @@ ningún sistema de control universal es posible.
 
 De cualquier forma, y dejando al margen cualquier especulación futurística,
 debemos afrontar una cuestión crucial en relación al Web y la tecnología que
-implica. El TAZ persigue por encima de todo eliminar la mediación, experimentar
+implica. El ZAT persigue por encima de todo eliminar la mediación, experimentar
 la existencia como inmediatez. La misma esencia de su acontecer es el contacto
 directo -"pecho con pecho", como dirían los sufíes, o cara cara. En cambio, la
 esencia del Web es mediación. Las máquinas son aquí nuestros embajadores -la
 carne se convierte en irrelevante excepto como terminal, con todas las
 siniestras connotaciones del término.
 
-Puede que el TAZ encuentre su espacio propio justamente liándose a la cabeza la
+Puede que el ZAT encuentre su espacio propio justamente liándose a la cabeza la
 manta de dos aparentemente contradictorias actitudes en relación al hi-tech
 y su apoteosis, la red: una, la que podemos considerar característica del
 Quinto Estado -la posición Neopaleolítica Postsitu ultraverde, que se construye
@@ -493,23 +503,23 @@ contemplan la red como un paso adelante en la evolución y asumen que cualquier
 posible efecto negativo de su mediación puede ser superado -al menos una vez
 hayamos liberado los medios de producción.
 
-El TAZ coincide con los hackers porque puede advenir precisamente, en parte,
+El ZAT coincide con los hackers porque puede advenir precisamente, en parte,
 a través de la red, incluso a través de la mediación de la red. Pero también
 coincide con los verdes porque defiende una intensa autoconsciencia de uno
 mismo como cuerpo y siente repulsión sólo por la cybergnosis en cuanto intento
-de trascender el cuerpo mediante la simulación. El TAZ tiende a contemplar la
+de trascender el cuerpo mediante la simulación. El ZAT tiende a contemplar la
 dicotomía "técnica/antitécnica" como una dicotomía falaz, como la mayoría de
 las dicotomías, en la que opuestos aparentes son en realidad falsificaciones
 o incluso alucinaciones provocadas por la semántica. Dicho de otra forma: el
-TAZ quiere existir en este mundo, no en la idea de otro mundo, algún mundo
+ZAT quiere existir en este mundo, no en la idea de otro mundo, algún mundo
 visionario nacido de alguna falsa totalización -todo verde o todo metálico- que
 no puede ser sino pura fantasía vacía -o como diría Alicia, mermelada ayer
 o mermelada mañana, pero nunca mermelada hoy.
 
-El TAZ es utopista en el sentido de que defiende una intensificación de la vida
+El ZAT es utopista en el sentido de que defiende una intensificación de la vida
 diaria o, como los surrealistas habrían dicho, la irrupción de la magia en la
 vida cotidiana. Pero no puede ser utópico en el sentido efectivo del término,
-de "no lugar", el lugar sin lugar. El TAZ es y está siempre en algún sitio. Se
+de "no lugar", el lugar sin lugar. El ZAT es y está siempre en algún sitio. Se
 sitúa en una intersección de fuerzas, como una especie de centro de fuerza
 pagano en la confluencia de misteriosas líneas cósmicas, reconocibles al adepto
 en aparentemente invisibles fragmentos de tierra, paisaje, flujos de aire, agua
@@ -518,17 +528,17 @@ Algunas existen sólo en el Web, incluso aunque se entrecrucen con tiempos
 y lugares reales. Puede que algunas de estas líneas sean no-ordinarias, en el
 sentido de que no hay convención que pueda calificarlas. Son líneas que podrían
 ser estudiadas mejor a la luz de la teoría del caos que a las de la sociología,
-la estadística o la economía. Los patrones de fuerza que hacen brotar un TAZ
+la estadística o la economía. Los patrones de fuerza que hacen brotar un ZAT
 tienen algo que ver con aquellos "atractores extraños" que aparecen, por así
-decir, entre las dimensiones. Por su naturaleza, el TAZ se apropia de cualquier
+decir, entre las dimensiones. Por su naturaleza, el ZAT se apropia de cualquier
 medio que le permita realizarse: puede venir a la vida lo mismo en una caverna
 que en una ciudad espacial. Por encima de todo, existirá, ahora, tan pronto
 como sea posible, dondequiera pueda, sin tener en cuenta ninguna ideología ni
 anti-ideología. Usará el ordenador, porque el ordenador existe, pero también
 utilizará múltiples poderes tan apartados de la alienación y el simulacro que
-lograrán asegurar un cierto paleolitismo psíquico para el TAZ, un espíritu
+lograrán asegurar un cierto paleolitismo psíquico para el ZAT, un espíritu
 primordial-chamánico que infectará la propia red -ese es el significado del
-cyberpunk, como yo lo entiendo. En tanto el TAZ es intensificación, derroche,
+cyberpunk, como yo lo entiendo. En tanto el ZAT es intensificación, derroche,
 exceso, potlach, vida consumida en vivir en vez de en sobrevivir (ese
 lamentable bienestar de los 80), no podrá ser definido ni por lo técnico ni por
 lo antitécnico. Se contradice a sí mismo sin dudarlo, porque se quiere
@@ -554,26 +564,26 @@ instancia incontrolable. En otras palabras, la serie Mandelbrot, o algo
 parecido a ella, puede demostrarse útil para representar la emergencia de una
 antired como proceso de caos, una "evolución creativa" en palabras de
 Prigogine. Si no como otra cosa, la serie Mandelbrot sirve como metáfora para
-cartografiar el interfaz del TAZ con la red en términos de desaparición de
+cartografiar el interfaz del ZAT con la red en términos de desaparición de
 información. Cada "catástrofe" en la red es un nudo de fuerza para el Web, para
 la antired. La red se verá dañada por el caos, pero al contrario el Web se
 expandirá en él. Ya mediante el simple pirateo de datos, ya mediante
 desarrollos más complejos de su actual manejo del caos, el pirata web -los
-cibernautas del TAZ- encontrará sistemas para sacar ventajas de las
+cibernautas del ZAT- encontrará sistemas para sacar ventajas de las
 perturbaciones, problemas y caídas de la red (maneras de producir información
 desde la "entropía"). Como un bricoleur, como un escarbador de escoria
 informática, como un contrabandista o un difusor de correo negro, incluso
-quizás como un ciberterrorista, el hacker TAZ trabajará a favor de la evolución
+quizás como un ciberterrorista, el hacker ZAT trabajará a favor de la evolución
 de conexiones fractales clandestinas. Estas conexiones, y la información
 diferente que fluye en ellas, formará poderosos dispositivos de salida capaces
-de albergar el nacimiento de un TAZ -como si alguien robara electricidad de los
+de albergar el nacimiento de un ZAT -como si alguien robara electricidad de los
 monopolios energéticos para iluminar una casa de okupas.
 
-De esa forma el Web -con el fin de producir situaciones que conduzcan al TAZ-
+De esa forma el Web -con el fin de producir situaciones que conduzcan al ZAT-
 parasitará la red; pero también cabe concebir que la estrategia tiene por
 objetivo construir una red autónoma y alternativa, "libre" y no parasitaria,
 que pueda servir como base para "una sociedad naciente de la cáscara de la
-anterior". La antired y el TAZ pueden ser considerados en la práctica objetivos
+anterior". La antired y el ZAT pueden ser considerados en la práctica objetivos
 en sí mismos -pero también teoricamente pueden ser considerados formas de lucha
 por una realidad diferente.
 
@@ -634,15 +644,15 @@ ser capaces de facilitar la satisfacción de todos mis deseos de comida, drogas,
 sexo, evasión de impuestos,... Entonces, ¿qué ocurre? ¿Por qué todo ello no
 está ocurriendo?
 
-El TAZ ha acontecido, está aconteciendo y seguirá aconteciendo con o sin
-ordenadores. Pero para que el TAZ alcance todo su potencial, tiene que tratarse
+El ZAT ha acontecido, está aconteciendo y seguirá aconteciendo con o sin
+ordenadores. Pero para que el ZAT alcance todo su potencial, tiene que tratarse
 menos de un proceso de combustión espontánea que de un tema de "islas en la
 red". La red, o mejor la antired, asume el compromiso de un aspecto integral
-del TAZ, un sumatorio que aumentará exponencialmente su potencial, produciendo
+del ZAT, un sumatorio que aumentará exponencialmente su potencial, produciendo
 un "salto cuántico" -extraño que esa expresión haya pasado a significar un
-"gran salto"- en complejidad y significancia. El TAZ tiene que empezar
+"gran salto"- en complejidad y significancia. El ZAT tiene que empezar
 a existir en un mundo de espacio puro, el mundo de los sentidos. Liminar,
-incluso evanescente, el TAZ debe combinar información y deseo para completar su
+incluso evanescente, el ZAT debe combinar información y deseo para completar su
 aventura -su acontecimiento-, para habitar su propio límite, para saturarse en
 su propio existir.
 
@@ -650,12 +660,12 @@ Quizás la escuela neo-paleolítica tiene razón cuando defiende que toda forma 
 alienación y mediación debe ser destruida o abandonada antes de que nuestros
 objetivos puedan realizarse -o quizás la verdadera anarquía sólo pueda
 realizarse en el espacio exterior, como defienden algunos libertarios
-futurísticos. Pero el TAZ no tiene realmente que ver con lo que "fue" o "será".
+futurísticos. Pero el ZAT no tiene realmente que ver con lo que "fue" o "será".
 Sino con resultados, con ataques efectivos y realidad consensuada, rupturas
 hacia una vida más intensa y abundante. Si el ordenador no sirve para ello,
 entonces no prosperará. Mi intuición sin embargo es que la antired se está
 constituyendo, e incluso que quizás en efecto existe ya -pero no puedo
-demostrarlo. Toda mi teoría del TAZ se basa en parte en esta intuición. Por
+demostrarlo. Toda mi teoría del ZAT se basa en parte en esta intuición. Por
 supuesto que el Web es más amplia que la mera red de ordenadores, e incluye por
 ejemplo al samizdat o el mercado negro. Pero el gran potencial de una red de
 información no jerárquica, lógicamente, reposa en el ordenador como herramienta
@@ -666,10 +676,10 @@ que estoy en lo cierto. ¿Dónde están mis rizomas?
 Nos vamos a Croatan
 ===================
 
-No tenemos deseo alguno de definir la TAZ o de elaborar dogmas acerca de cómo
+No tenemos deseo alguno de definir la ZAT o de elaborar dogmas acerca de cómo
 debe ser creada. Nuestro argumento es más bien que ha sido creada, que será
 creada, y que está siendo creada. Por tanto resultaría más valioso
-e interesante observar algunas TAZ’s pasadas y presentes, y especular sobre
+e interesante observar algunas ZAT’s pasadas y presentes, y especular sobre
 manifestaciones futuras; evocando unos pocos prototipos podemos calibrar el
 alcance potencial del complejo, e incluso quizás atisbar un "arquetipo". Más
 que intentar cualquier forma de enciclopedismo adoptaremos una técnica de tiro
@@ -748,7 +758,7 @@ europeos habían dejado muchas islas desiertas, o incluso por reclamar. Barbados
 y Jamaica en particular deben haber sido colonizadas por muchos extremistas,
 y cree que las influencias Niveladoras y Ranter contribuyeron a la "utopia"
 bucanera de Tortuga. Por primera vez aquí, gracias a Exquemelin, podemos
-estudiar una próspera proto-TAZ del Nuevo Mundo en cierta profundidad. Huyendo
+estudiar una próspera proto-ZAT del Nuevo Mundo en cierta profundidad. Huyendo
 de los siniestros "beneficios" del imperialismo tales como la esclavitud, el
 servilismo, el racismo y la intolerancia, de las torturas de la expropiación
 y la muerte en vida de las plantaciones, los bucaneros adoptaron formas indias,
@@ -885,7 +895,7 @@ bosques... ": la vuelta de lo reprimido. Los Moros y los Ramapaughs tienen por
 supuesto buenas razones materiales para definirse a sí mismos como indios
 -después de todo, tienen antepasados indios- pero si consideramos su
 autoproclamación en términos "míticos" al igual que históricos ahondaremos en
-aspectos de mayor relevancia en nuestra búsqueda de la TAZ. Dentro de las
+aspectos de mayor relevancia en nuestra búsqueda de la ZAT. Dentro de las
 sociedades tribales existe lo que ciertos antropólogos han denominado
 mannenbunden: sociedades totémicas entregadas a una identidad con la
 "naturaleza" en el acto de transmutarse, de convertirse en el animal tótem
@@ -948,7 +958,7 @@ La música como principio organizativo
 =====================================
 
 Entretanto volvemos, en cualquier caso, a la historia del anarquismo clásico
-a luz del concepto de la TAZ.
+a luz del concepto de la ZAT.
 
 Antes del "cierre del mapa", una gran cantidad de energía antiautoritaria se
 dirigió hacia comunas "escapistas" como Tiempos Modernos, los diversos
@@ -1025,7 +1035,7 @@ lo hizo asesinar de todas formas -lo tiraron de un balcón- convirtiéndolo en u
 o Barcelona libres, puede probablemente ilustrar mejor ciertos aspectos de
 nuestra búsqueda. En algunos aspectos fue la última de las utopias piratas (o
 el único ejemplo moderno); en otros aspectos quizás, fue muy posiblemente la
-primera TAZ moderna. Creo que si comparamos Fiume con los levantamientos de
+primera ZAT moderna. Creo que si comparamos Fiume con los levantamientos de
 París en 1968 (también con las insurrecciones urbanas italianas de los primeros
 setenta), al igual que con las comunas contraculturales americanas y sus
 influencias anarco-Nueva Izquierda, deberíamos percatamos de ciertas
@@ -1042,7 +1052,7 @@ mundo cambiaría o no. Mientras tanto mantenerse en movimiento y vivir
 intensamente.
 
 El Soviet de Munich (o "república de consejos") de 1919 mostraba algunos rasgos
-de la TAZ, incluso a pesar de que -como en la mayoría de revoluciones- los
+de la ZAT, incluso a pesar de que -como en la mayoría de revoluciones- los
 objetivos establecidos no fueran exactamente "transitorios". La participación
 de Gustav Landauer como ministro de cultura junto a Silvio Gesell como ministro
 de economía y otros antiautoritarios y socialistas libertarios extremos como el
@@ -1054,7 +1064,7 @@ románticos, sabía desde un principio que el Soviet estaba condenado; sólo
 esperaba que durara lo suficiente para ser comprendido. Kurt Eisner, el mártir
 fundador del Soviet, creyó literalmente que los poetas y la poesía debían
 formar las bases de la revolución. Se pusieron en marcha planes para dedicar
-gran parte de Bvaria a un experimento en economía y comunidad anarcosocialista.
+gran parte de Bavaria a un experimento en economía y comunidad anarcosocialista.
 Landauer diseñó propuestas para un sistema de escuelas libres y un teatro del
 pueblo. Los ingresos del Soviet estaban más o menos limitados a la clase
 trabajadora más pobre y a los vecindarios bohemios de Munich, y a grupos como
@@ -1071,8 +1081,8 @@ un año, derramaríamos lágrimas con la sola mención de su belleza; pero inclu
 antes de que las primeras flores de esa primavera se hubieran marchitado, el
 geist y el espíritu de poesía fueron aplastados, y los hemos olvidado.
 Imagínate lo que debe haber sido respirar el aire de una ciudad en la que el
-ministro de cultura acaba de avanzar que los niños del colegio pronto estarán
-aprendiéndose de memoria los trabajos de Walt Whitman. ¡Ay! quien tuviera
+ministro de cultura acaba de predecir que los niños del colegio pronto estarán
+aprendiéndose de memoria los trabajos de Walt Whitman. ¡Ay! quién tuviera
 una máquina del tiempo...
 
 
@@ -1080,7 +1090,7 @@ La voluntad de poder desaparecer
 ================================
 
 Foucault, Baudrillard, etc. han discutido en gran extensión las formas diversas
-de la "desaparición". Aquí quiero sugerir que la TAZ es de alguna manera una
+de la "desaparición". Aquí quiero sugerir que la ZAT es de alguna manera una
 táctica de desaparición.
 
 Cuando los teóricos hablan de una desaparición de lo social se refieren en
@@ -1212,16 +1222,16 @@ aprendido a percibir. ¿Dónde buscar las semillas -la mala hierba creciendo en
 las grietas de la acera- entre ese otro mundo y el nuestro? ¿Las pistas, las
 indicaciones correctas para buscar? ¿Un dedo apuntando a la Luna?Yo creo,
 o al menos me gustaría proponer, que la única solución a la "superación
-y realización" del arte reside en la emergencia de la TAZ. Yo rechazaría
-categóricamente la critica de que la TAZ en sí misma "no es más que" una obra
+y realización" del arte reside en la emergencia de la ZAT. Yo rechazaría
+categóricamente la critica de que la ZAT en sí misma "no es más que" una obra
 de arte, bien que pueda tener algunos de sus entrampamientos. Sugiero que la
-TAZ es el único "tiempo" y "lugar" posible para que ocurra arte por el puro
+ZAT es el único "tiempo" y "lugar" posible para que ocurra arte por el puro
 placer de la acción creativa, y como contribución efectiva a las fuerzas que
-dan coherencia a la TAZ para manifestarse.
+dan coherencia a la ZAT para manifestarse.
 
 El arte se ha convertido en mercancía en el mundo del arte, pero por debajo de
 eso aún yace el problema mismo de la representación, y el rechazo a toda
-mediación. En la TAZ el arte como mercancía se hará simplemente imposible; será
+mediación. En la ZAT el arte como mercancía se hará simplemente imposible; será
 más bien una condición de vida. La mediación es más difícil de superar, pero la
 extracción de todas las barreras entre artistas y "usuarios" del arte llevará
 las trazas de una condición en la que (como A. K. Coomaraswamy (ha descrito)
@@ -1235,7 +1245,7 @@ alternativa a la confrontación revolucionaria tradicional. La "Nueva Izquierda"
 nunca creyó realmente en su propia existencia hasta que se vio a sí misma en el
 noticiario de la noche. La Nueva Autonomía, en contraste, bien se infiltrará en
 los medios y los subvertirá desde dentro; o bien nunca será "vista" en
-absoluto. La TAZ no sólo existe más allá del Control sino también más allá de
+absoluto. La ZAT no sólo existe más allá del Control sino también más allá de
 definiciones, más allá de miradas y nombres y actos de esclavitud, más allá de
 las entendederas del Estado, más allá de la capacidad de ver del Estado.
 
@@ -1243,7 +1253,7 @@ las entendederas del Estado, más allá de la capacidad de ver del Estado.
 Ratoneras en la Babilonia de la información
 ===========================================
 
-LA TAZ como táctica consciente radical emergerá bajo ciertas condiciones:
+LA ZAT como táctica consciente radical emergerá bajo ciertas condiciones:
 
   #. Liberación psicológica. Esto es, debemos realizar (hacer reales) los
      momentos y espacios en los que la libertad no es sólo posible sino
@@ -1255,24 +1265,24 @@ LA TAZ como táctica consciente radical emergerá bajo ciertas condiciones:
      peligrosa que cualquier caduca ideología moribunda y desdentada. La
      adicción mental a los "ideales" -que de hecho resultan ser meras
      proyecciones de nuestro resentimiento y nuestra sensación de
-     victimización- nunca harán avanzar nuestro proyecto. La TAZ no es el
+     victimización- nunca harán avanzar nuestro proyecto. La ZAT no es el
      heraldo de ninguna falsa promesa de utopía social a la que debamos
      sacrificar nuestras vidas para que los hijos de nuestros hijos puedan
-     respirar un poco de aire libre. La TAZ debe ser el escenario de nuestra
+     respirar un poco de aire libre. La ZAT debe ser el escenario de nuestra
      presente autonomía, pero sólo puede existir bajo la condición de que ya
      nos consideremos en efecto seres libres.
 
   #. La contra-red debe expandirse. En la actualidad refleja más abstracción
      que efectividad. Los fanzines y BBS’s intercambian información, lo que es
-     parte del trabajo de fondo necesario de la TAZ, pero muy poca información
+     parte del trabajo de fondo necesario de la ZAT, pero muy poca información
      de esta índole se refiere a bienes y servicios concretos necesarios para
      la vida autónoma. No vivimos en el ciberespacio; soñar que lo hacemos es
-     caer en la cibergnosis, la falsa transcendencia del cuerpo. La TAZ es un
+     caer en la cibergnosis, la falsa transcendencia del cuerpo. La ZAT es un
      lugar físico y estamos en ella o no. Todos los sentidos deben estar
      implicados. La trama es de alguna forma un nuevo sentido, pero debe ser
      añadido a los otros -los otros no deben ser sustraídos de él, como en
      alguna horrible parodia del trance místico-. Sin la trama, la realización
-     completa del complejo-TAZ sería imposible. Pero la trama no es un fin en
+     completa del complejo-ZAT sería imposible. Pero la trama no es un fin en
      si misma. Es un arma.
 
   #. El aparato de Control -el "Estado"- ha de continuar (o así debemos asumir)
@@ -1280,15 +1290,15 @@ LA TAZ como táctica consciente radical emergerá bajo ciertas condiciones:
      presente en el que la rigidez histérica viene a enmascarar más y más su
      vacuidad, un abismo de poder. Mientras el poder "desaparece", nuestra
      voluntad de poder debe ser la desaparición. Ya hemos discutido la
-     cuestión de si la TAZ puede ser vista "meramente" como obra de arte. Pero
+     cuestión de si la ZAT puede ser vista "meramente" como obra de arte. Pero
      también querrás saber si es que es algo más que una pobre ratonera en la
      Babilonia de la información, o más bien un laberinto de túneles, más y más
      conectados, pero entregados sólo al callejón sin salida del parasitismo
      pirata. Contestaré que preferiría ser una rata en el muro que una rata en
-     la jaula; pero también insistiré en que la TAZ trasciende estas
-     categorías. Un mundo en el que la TAZ echara efectivamente raíces puede
+     la jaula; pero también insistiré en que la ZAT trasciende estas
+     categorías. Un mundo en el que la ZAT echara efectivamente raíces puede
      parecerse al mundo imaginado por "P. M. " en su novela de fantasía bolo
-     'bolo. Quizás la TAZ es un "protocolo". Pero en la medida en que la TAZ
+     'bolo. Quizás la ZAT es un "protocolo". Pero en la medida en que la ZAT
      existe ya, encarna mucho más que la mundanidad de la nolición. O que el
      pasotismo contracultural. Hemos mencionado los aspectos festivos del
      momento descontrolado que se conforma en una autocoordinación espontánea,
@@ -1300,15 +1310,15 @@ de Nietzsche. La tesis presente puede igualmente tomar como señal el vagabundeo
 de Nietzsche. Es el precursor de la deriva, en el sentido situ de dérive y en
 la definición de Lyotard de driftwork. Podemos prever una geografía
 enteramente nueva, una especie de mapa de peregrinaciones en el que los lugares
-sagrados se han reemplazado con experiencias punta y TAZ’s: una verdadera
+sagrados se han reemplazado con experiencias punta y ZAT’s: una verdadera
 ciencia de la psicotopografía, quizá para llamarla "geo-autonomía"
 o "anarcomancia".
 
-La TAZ implica una forma de feracidad, un crecimiento que va de la
+La ZAT implica una forma de feracidad, un crecimiento que va de la
 domesticación a lo salvaje, un "retorno" que es también un paso adelante.
 También exige un "yoga" del caos, un proyecto de "más altos" órdenes (de
 conciencia o simplemente de vida) que es abordado "surfeando el frente de ola
-del caos", del dinamismo complejo. La TAZ es un arte de la vida en continuo
+del caos", del dinamismo complejo. La ZAT es un arte de la vida en continuo
 alzamiento, salvaje pero dulce; un seductor no un violador, un contrabandista
 más que un pirata sangriento, un bailarín más que un escatólogo.
 
