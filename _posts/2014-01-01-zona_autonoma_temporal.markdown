@@ -181,7 +181,7 @@ Simulador serán espectaculares, pero en la mayoría de los casos la mejor y má
 radical táctica será rechazar entrar en el juego de la violencia espectacular,
 retirarse del área del simulacro, desaparecer. El ZAT es un campamento de
 guerrilleros ontológicos: golpean y corren. Mantén en movimiento a la tribu
-entera, aunque sólo se trate de datos en el Web. El ZAT tiene que ser capaz de
+entera, aunque sólo se trate de datos en la Web. El ZAT tiene que ser capaz de
 defensa: pero tanto su ataque como su defensa deben, siempre que puedan, eludir
 la violencia del Estado, que es una violencia sin sentido. El ataque se hace
 contra estructuras de control, esencialmente contra las ideas; y la defensa es
@@ -405,34 +405,37 @@ La red y la web
 El siguiente factor que contribuye a la formación de ZAT’s es tan vasto
 y ambiguo que necesita una sección por sí mismo.
 
-Hemos hablado hasta ahora de la red, que definiríamos como la totalidad de la
-información y el flujo comunicativo. Algunos de estos flujos son privilegiados,
-y limitados a alguna élite -lo que le da a la Red un cierto aspecto jerárquico.
-Otros flujos permanecen en cambio abiertos a todo el mundo -lo que en cambio le
-da a la red, a la vez, un cierto carácter de horizontalidad no jerárquica. Los
-datos militares y de Inteligencia son restringidos, como lo son los bancarios,
-los de divisas, etc. En su mayor parte, en cambio, los datos telefónicos, el
-sistema postal, los bancos de datos públicos, etc. , son accesibles a todos
-y cualquiera. De tal manera que dentro de la red ha empezado a emerger una
-especie de secreta contra-red, que llamaremos el Web (como si la red fuese una
-red de pescador, mientras la Web fuese una especie de tela de araña tejida en
-los intersticios y secciones rotas de la red). Normalmente usaremos el término
-Web para referirnos a la estructura horizontal, alternativa, del sistema de
-intercambio de informaciones, a la red no jerárquica, y reservaremos el término
-antired para referirnos los usos clandestinos, ilegales y subversivos del Web,
-incluyendo la actual piratería de datos y otras formas de sabotaje de la propia
-red. La red, el Web y el antired son todos parte del mismo modelo complejo
-y global, y se funden mutuamente entre sí en innumerables puntos. No son
-términos que pretendan describir "áreas" -sino sugerir tendencias, modos de
-uso. (Disgresión: antes de que se condene a la Web o la Antired por
-"parasitismo" -y por tanto por no poder ejercer una fuerza auténticamente
-revolucionaria-, piénsese en qué consiste la "producción" en la era del
-Simulacro. ¿Cuál o qué es la "clase trabajadora", productiva?Quizás haya que
-admitir que tales términos han perdido su significado. De cualquier manera, las
-respuestas a preguntas semejantes son tan complejas que el ZAT tiende
-a ignorarlas por completo y se limita a tomar aquello que puede utilizar. "La
-cultura es nuestra naturaleza" -y somos los mirlos ladrones, o los cazadores
-grupales de la era de la Técnica).
+Hemos hablado hasta ahora de la red, que definiríamos como la totalidad
+de la información y el flujo comunicativo. Algunos de estos flujos son
+privilegiados, y limitados a alguna élite -lo que le da a la Red un
+cierto aspecto jerárquico.  Otros flujos permanecen en cambio abiertos
+a todo el mundo -lo que en cambio le da a la red, a la vez, un cierto
+carácter de horizontalidad no jerárquica. Los datos militares y de
+Inteligencia son restringidos, como lo son los bancarios, los de
+divisas, etc. En su mayor parte, en cambio, los datos telefónicos, el
+sistema postal, los bancos de datos públicos, etc. , son accesibles
+a todos y cualquiera. De tal manera que dentro de la red ha empezado
+a emerger una especie de secreta contra-red, que llamaremos la Web
+(como si la red fuese una red de pescador, mientras la Web fuese una
+especie de tela de araña tejida en los intersticios y secciones rotas
+de la red). Normalmente usaremos el término Web para referirnos a la
+estructura horizontal, alternativa, del sistema de intercambio de
+informaciones, a la red no jerárquica, y reservaremos el término antired
+para referirnos los usos clandestinos, ilegales y subversivos de la Web,
+incluyendo la actual piratería de datos y otras formas de sabotaje de la
+propia red. La red, la Web y el antired son todos parte del mismo modelo
+complejo y global, y se funden mutuamente entre sí en innumerables
+puntos. No son términos que pretendan describir "áreas" -sino sugerir
+tendencias, modos de uso. (Disgresión: antes de que se condene a la
+Web o la Antired por "parasitismo" -y por tanto por no poder ejercer
+una fuerza auténticamente revolucionaria-, piénsese en qué consiste
+la "producción" en la era del Simulacro. ¿Cuál o qué es la "clase
+trabajadora", productiva?Quizás haya que admitir que tales términos han
+perdido su significado. De cualquier manera, las respuestas a preguntas
+semejantes son tan complejas que el ZAT tiende a ignorarlas por completo
+y se limita a tomar aquello que puede utilizar. "La cultura es nuestra
+naturaleza" -y somos los mirlos ladrones, o los cazadores grupales de la
+era de la Técnica).
 
 Las formas actuales de la Web inoficial son -habrá que suponer- todavía muy
 primitivas: la red marginal de "zines", las redes de BBS, la piratería de
@@ -447,29 +450,29 @@ reescribir todo ello de nuevo, me interesa preguntarme cómo este tipo de
 relaciones en evolución hace posibles modos de implementación para el ZAT.
 
 El ZAT tiene localizaciones temporales -pero efectivas- en el tiempo y en el
-espacio. Y también ha de tener una "localización" en el Web, y esa localización
+espacio. Y también ha de tener una "localización" en la Web, y esa localización
 es de distinto tipo, no efectiva sino virtual, no inmediata pero sí
-instantánea. El Web no sólo proporciona soporte logístico para el ZAT, ayuda
+instantánea. La Web no sólo proporciona soporte logístico para el ZAT, ayuda
 a que aparezca. Hablando crudamente: puede decirse que el ZAT existe tanto en
-el espacio de la información como en el "mundo real". El Web puede compactar
+el espacio de la información como en el "mundo real". La Web puede compactar
 grandes cantidades de tiempo -como hace con los datos- en espacios
 infinitesimales. Ya hemos apuntado que, por su carácter temporal, el ZAT debe
 necesariamente renunciar a las dimensiones de la libertad que significan
-duración y una localización más o menos fija. El Web ofrece una especie de
+duración y una localización más o menos fija. La Web ofrece una especie de
 sucedáneos de esas ausencias -puede informar al ZAT, desde su mismo inicio, con
 enormes cantidades concentradas de tiempo y espacio "sutilizadas" como datos.
 
-En este momento de evolución del Web, y considerando nuestras demandas de
-sensualidad y encuentro directo, debemos considerar el Web en primer lugar como
+En este momento de evolución de la Web, y considerando nuestras demandas de
+sensualidad y encuentro directo, debemos considerar la Web en primer lugar como
 un sistema de soporte, capaz de llevar información de un ZAT a otro, de
 defenderlos, de convertirlos en invisibles o agresivos si la situación lo
-requiere. Pero es más que eso: si el ZAT es un campo nómada, el Web puede
+requiere. Pero es más que eso: si el ZAT es un campo nómada, la Web puede
 ofrecer la épica, las canciones, las genealogías y las leyendas de la tribu;
 revela las rutas de las caravanas y las ocasiones de asalto que alimentan la
 economía de la tribu; incluso contiene muchos de los caminos que recorrerán,
 muchos de los sueños que experimentarán como signos y portentos.
 
-El Web no depende para su existencia de la tecnología informática. El
+La Web no depende para su existencia de la tecnología informática. El
 boca-a-boca, el correo, la red marginal de fanzines, los árboles telefónicos
 y cosas de ese tipo ya constituyen una Web de información. La clave no es el
 tipo o el nivel de la tecnología implicada, sino la apertura y horizontalidad
@@ -485,11 +488,11 @@ hecho, y tal y como yo la entiendo, la teoría del caos establece justamente que
 ningún sistema de control universal es posible.
 
 De cualquier forma, y dejando al margen cualquier especulación futurística,
-debemos afrontar una cuestión crucial en relación al Web y la tecnología que
+debemos afrontar una cuestión crucial en relación a la Web y la tecnología que
 implica. El ZAT persigue por encima de todo eliminar la mediación, experimentar
 la existencia como inmediatez. La misma esencia de su acontecer es el contacto
 directo -"pecho con pecho", como dirían los sufíes, o cara cara. En cambio, la
-esencia del Web es mediación. Las máquinas son aquí nuestros embajadores -la
+esencia de la Web es mediación. Las máquinas son aquí nuestros embajadores -la
 carne se convierte en irrelevante excepto como terminal, con todas las
 siniestras connotaciones del término.
 
@@ -524,7 +527,7 @@ sitúa en una intersección de fuerzas, como una especie de centro de fuerza
 pagano en la confluencia de misteriosas líneas cósmicas, reconocibles al adepto
 en aparentemente invisibles fragmentos de tierra, paisaje, flujos de aire, agua
 o animales. Pero ahora las líneas no están todas trazadas en el espacio-tiempo.
-Algunas existen sólo en el Web, incluso aunque se entrecrucen con tiempos
+Algunas existen sólo en la Web, incluso aunque se entrecrucen con tiempos
 y lugares reales. Puede que algunas de estas líneas sean no-ordinarias, en el
 sentido de que no hay convención que pueda calificarlas. Son líneas que podrían
 ser estudiadas mejor a la luz de la teoría del caos que a las de la sociología,
@@ -565,8 +568,8 @@ parecido a ella, puede demostrarse útil para representar la emergencia de una
 antired como proceso de caos, una "evolución creativa" en palabras de
 Prigogine. Si no como otra cosa, la serie Mandelbrot sirve como metáfora para
 cartografiar el interfaz del ZAT con la red en términos de desaparición de
-información. Cada "catástrofe" en la red es un nudo de fuerza para el Web, para
-la antired. La red se verá dañada por el caos, pero al contrario el Web se
+información. Cada "catástrofe" en la red es un nudo de fuerza para la Web, para
+la antired. La red se verá dañada por el caos, pero al contrario la Web se
 expandirá en él. Ya mediante el simple pirateo de datos, ya mediante
 desarrollos más complejos de su actual manejo del caos, el pirata web -los
 cibernautas del ZAT- encontrará sistemas para sacar ventajas de las
@@ -579,7 +582,7 @@ diferente que fluye en ellas, formará poderosos dispositivos de salida capaces
 de albergar el nacimiento de un ZAT -como si alguien robara electricidad de los
 monopolios energéticos para iluminar una casa de okupas.
 
-De esa forma el Web -con el fin de producir situaciones que conduzcan al ZAT-
+De esa forma la Web -con el fin de producir situaciones que conduzcan al ZAT-
 parasitará la red; pero también cabe concebir que la estrategia tiene por
 objetivo construir una red autónoma y alternativa, "libre" y no parasitaria,
 que pueda servir como base para "una sociedad naciente de la cáscara de la
@@ -666,7 +669,7 @@ hacia una vida más intensa y abundante. Si el ordenador no sirve para ello,
 entonces no prosperará. Mi intuición sin embargo es que la antired se está
 constituyendo, e incluso que quizás en efecto existe ya -pero no puedo
 demostrarlo. Toda mi teoría del ZAT se basa en parte en esta intuición. Por
-supuesto que el Web es más amplia que la mera red de ordenadores, e incluye por
+supuesto que la Web es más amplia que la mera red de ordenadores, e incluye por
 ejemplo al samizdat o el mercado negro. Pero el gran potencial de una red de
 información no jerárquica, lógicamente, reposa en el ordenador como herramienta
 por excelencia. Ahora, queda esperar que el trabajo de los hackers demuestre
