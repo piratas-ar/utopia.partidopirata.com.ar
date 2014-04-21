@@ -23,6 +23,7 @@ los frutos del pillaje para satisfacer toda clase de lujos y necesidades.
 Algunas de estas islas mantenían "comunidades intencionales", completas mini
 sociedades que vivían conscientemente fuera de la ley y mostraban determinación
 a mantenerse así, aunque fuera sólo por una corta -pero alegre- existencia.
+
 Hace algunos años investigué un montón de material secundario sobre piratería,
 intentando encontrar algún estudio sobre estos enclaves, pero parece que
 todavía ningún historiador los había encontrado merecedores de análisis serio.
@@ -30,6 +31,7 @@ todavía ningún historiador los había encontrado merecedores de análisis seri
 Larry Law -pero no se había hecho ningún estudio sistemático). Me remití a las
 fuentes directas, y construí mi propia teoría, algunos de cuyos aspectos
 analizaré aquí. Decidí llamar a aquellos asentamientos "utopías piratas".
+
 Recientemente Bruce Sterling, uno de los máximos exponentes de la
 ciencia-ficción cyberpunk, publicó el relato de un futuro cercano partiendo de
 asumir que la decadencia de los sistemas políticos desembocaría en una
@@ -38,24 +40,32 @@ corporaciones de propiedad obrera, enclaves independientes dedicados a la
 piratería de datos, enclaves verde-socialdemócratas, enclaves de trabajo cero,
 zonas anarquistas liberadas, etc. La economía de la información que sostenía
 esa diversidad era llamada "la red"; sus enclaves -y el título mismo del
-relato- era "Islas en la Red". Los proscritos medievales fundaron un "Estado";
-que consistía en una red de remotos valles y castillos, separados por miles de
-kilómetros, estratégicamente invulnerables a la invasión y conectados por un
-permanente flujo informativo de agentes secretos, en guerra con todos los
-gobiernos y dedicado exclusivamente al conocimiento. La tecnología moderna,
-culminando con el satélite espía, convierte esa especie de autonomía en un
-sueño romántico. ¡No más islas piratas! En el futuro, la propia tecnología
--liberada de todo control político- hará posible un mundo entero de zonas
-autónomas. Pero por ahora el concepto es todavía justamente ciencia ficción,
-especulación pura.
+relato- era "Islas en la Red".
+
+Los Asesinos[^NdT1] medievales fundaron un "Estado" que consistía en una red de
+remotos valles y castillos, separados por miles de kilómetros, estratégicamente
+invulnerables a la invasión y conectados por un permanente flujo informativo de
+agentes secretos, en guerra con todos los gobiernos y dedicado exclusivamente
+al conocimiento. La tecnología moderna, culminando con el satélite espía,
+convierte esa especie de autonomía en un sueño romántico. ¡No más islas
+piratas! En el futuro, la propia tecnología -liberada de todo control político-
+hará posible un mundo entero de zonas autónomas. Pero por ahora el concepto es
+todavía justamente ciencia ficción, especulación pura.
+
+[^NdT1]: Los Nizaríes, también llamados Hashshashin (traducido normalmente como
+Asesinos), fueron una rama de la secta religiosa chií-ismaelita de los
+musulmanes en Oriente Medio, activa entre los siglos X y XIII. Se hizo famosa
+por su actividad estratégica de asesinatos selectivos contra dirigentes
+políticos, militares y reyes. Más en
+[wikipedia](http://es.wikipedia.org/wiki/Secta_de_los_Asesinos).
 
 ¿Es que estamos condenados, los que vivimos el presente, a nunca experimentar
 la autonomía, a nunca habitar ni por un momento una tierra legislada sólo por
 la libertad? ¿No nos queda otra opción que la nostalgia del pasado o la
 nostalgia del futuro? ¿Tendremos que esperar a que la totalidad del mundo sea
 liberado del control político antes de que uno sólo de nosotros pueda exigir
-conocer la libertad? La lógica y la emoción se alían para negarnos la
-posibilidad. La razón establece que uno no puede luchar por aquello que no
+conocer la libertad? La lógica y la emoción se alían para condenar esta
+suposición. La razón establece que uno no puede luchar por aquello que no
 conoce, y nuestro corazón se rebela frente a un universo tan cruel como para
 imponer tal injusticia a nuestra generación, sola ante la humanidad.
 
@@ -65,16 +75,16 @@ estupor-nirvana, abdicar de nuestra humanidad, definirnos como perdedores.
 
 Creo que extrapolando las historias del pasado y el futuro sobre las "islas en
 la red" podríamos acumular suficientes evidencias como para afirmar que una
-especie de "enclave libre" no sólo es en nuestro tiempo posible, sino de hecho
-ya existente. Toda mi investigación ha cristalizado en el concepto de "Zona
+especie de "enclave libre" no sólo es posible en nuestro tiempo, sino de hecho
+ya existe. Toda mi investigación ha cristalizado en el concepto de "Zona
 autónoma temporal" (que a partir de aquí abreviaré ZAT. Pese a su carácter
 sintético forzado por mi propio pensamiento, no pretendo que el ZAT sea tomado
-como un ensayo -en el sentido también de "intento"-, una propuesta o una
-fantasía poética. Pese al entusiasmo oratorio de mi lenguaje, no pretendo
-elaborar ningún dogma político. De hecho, renuncio a definir el ZAT: planeo
-alrededor del concepto, pasando de reflejos exploratorios. Al final, el ZAT es
-prácticamente auto-explicativo. En el contexto del mundo contemporáneo, podría
-ser entendido sin dificultad... entendido en la acción.
+como algo más que un ensayo ("intento"), una sugerencia o un capricho poético.
+Pese al entusiasmo oratorio de mi lenguaje, no pretendo elaborar ningún dogma
+político. De hecho, renuncio a definir el ZAT: planeo alrededor del concepto,
+disparando rayos exploratorios. Al final, el ZAT es prácticamente
+auto-explicativo. En el contexto del mundo contemporáneo, podría ser entendido
+sin dificultad... entendido en la acción.
 
 
 Esperando la revolución
@@ -82,7 +92,7 @@ Esperando la revolución
 
 ¿Cómo es que todo mundo puesto patas arriba siempre termina por enderezarse?
 ¿Por qué siempre a toda revolución sigue una reacción, como una temporada en el
-infierno?La revuelta, o la forma latina insurrección, son palabras que los
+infierno? La revuelta, o la forma latina *insurrección*, son palabras que los
 historiadores utilizan para describir las revoluciones fallidas -movimientos
 que no completan la curva prevista, la trayectoria consensuada: revolución,
 reacción, traición, fundación de un estado aún más fuerte y opresivo, la vuelta
@@ -91,21 +101,21 @@ el látigo en el rostro de la humanidad por siempre.
 
 Al fallar en el cumplimiento de la curva, la revuelta sugiere la posibilidad de
 un movimiento que escapa y va más allá de la espiral hegeliana del progreso,
-que secretamente no es sino un círculo vicioso. Surgo -levantamiento,
-aparición. Insurgo -levantamiento, rebelión de uno mismo. Una operación de
+que secretamente no es sino un círculo vicioso. *Surgo* -levantamiento,
+aparición. *Insurgo* -levantamiento, rebelión de uno mismo. Una operación de
 comienzo, de toma de las riendas. Un adiós a la maniatada parodia del círculo
 del karma, de la fútil revolución histórica. La consigna "¡revolución!"; se ha
 convertido de proclama en veneno, un maligno hado pseudognóstico, una
 fantasmagoría en la que sin importar cuánto luchemos quedamos siempre atrapados
 por el demonio de Aión, el íncubo del estado, de un Estado tras otro, cada
-paraíso regido por un ángel más maligno. Si la Historia es Tiempo -como
-pretende- entonces la revuelta es un momento que salta por encima del Tiempo,
-que viola la "ley" de la Historia. Si el Estado es la Historia -como
-pretendeentonces la insurrección es el momento prohibido, una inolvidable
-denegación de la dialéctica una sacudida polar que nos expulsa de lo oscuro,
-una maniobra chamánica realizada desde un ángulo imposible del universo.
+paraíso regido por un ángel más maligno.
 
-La Historia pregona que la Revolución quiere permanencia, o cuando menos
+Si la Historia es Tiempo -como pretende- entonces la revuelta es un momento que
+salta por encima del Tiempo, que viola la "ley" de la Historia. Si el Estado es
+la Historia -como pretende entonces la insurrección es el momento prohibido,
+una inolvidable denegación de la dialéctica una sacudida polar que nos expulsa
+de lo oscuro, una maniobra chamánica realizada desde un ángulo imposible del
+universo. La Historia afirma que la Revolución quiere permanencia, o cuando menos
 duración, mientras que la revuelta es temporal. En ese sentido una revuelta es
 como una experiencia límite, lo contrario del estándar de la conciencia
 y experiencia ordinaria. Como la fiesta, la revuelta no puede ocurrir cada día
@@ -297,7 +307,7 @@ manifieste un ZAT. Pero una revuelta tiene también que hacerse para algo.
      acontecimientos, y una afinidad con el genius loci; la ciencia de la
      psicotopología reconoce "flujos de fuerza" y "centros de poder" -para
      utilizar metáforas ocultistas- en los que se puede localizar
-     espaciotemporalmente un ZAT, o al menos ayudar a definir su relación con
+     espacio-temporalmente un ZAT, o al menos ayudar a definir su relación con
      un momento y una localización.
 
      El media nos invita a "venir a celebrar los grandes momentos de nuestra
@@ -1054,7 +1064,7 @@ románticos, sabía desde un principio que el Soviet estaba condenado; sólo
 esperaba que durara lo suficiente para ser comprendido. Kurt Eisner, el mártir
 fundador del Soviet, creyó literalmente que los poetas y la poesía debían
 formar las bases de la revolución. Se pusieron en marcha planes para dedicar
-gran parte de Bvaria a un experimento en economía y comunidad anarcosocialista.
+gran parte de Bavaria a un experimento en economía y comunidad anarcosocialista.
 Landauer diseñó propuestas para un sistema de escuelas libres y un teatro del
 pueblo. Los ingresos del Soviet estaban más o menos limitados a la clase
 trabajadora más pobre y a los vecindarios bohemios de Munich, y a grupos como
@@ -1071,8 +1081,8 @@ un año, derramaríamos lágrimas con la sola mención de su belleza; pero inclu
 antes de que las primeras flores de esa primavera se hubieran marchitado, el
 geist y el espíritu de poesía fueron aplastados, y los hemos olvidado.
 Imagínate lo que debe haber sido respirar el aire de una ciudad en la que el
-ministro de cultura acaba de avanzar que los niños del colegio pronto estarán
-aprendiéndose de memoria los trabajos de Walt Whitman. ¡Ay! quien tuviera
+ministro de cultura acaba de predecir que los niños del colegio pronto estarán
+aprendiéndose de memoria los trabajos de Walt Whitman. ¡Ay! quién tuviera
 una máquina del tiempo...
 
 
