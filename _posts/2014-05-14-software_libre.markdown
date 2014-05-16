@@ -6,10 +6,11 @@ cover: "assets/covers/single_software_libre.png"
 slider: "assets/covers/slider_software_libre.png"
 ---
 
-% http://www.gnu.org/philosophy/free-sw.es.html
 
-¿Qué es el software libre?
+¿Qué es el software libre?[^free-sw]
 ==========================
+
+[^free-sw]: http://www.gnu.org/philosophy/free-sw.es.html
 
 Definición de software libre
 ----------------------------
@@ -19,7 +20,7 @@ Definición de software libre
 que cumplir para que un programa sea considerado libre. De vez en cuando
 modificamos esta definición para clarificarla o para resolver problemas
 sobre cuestiones delicadas. Más abajo en esta página, en la sección
-Historial[^Historial], se puede consultar la lista de modificaciones
+Historial[^1], se puede consultar la lista de modificaciones
 que afectan la definición de software libre.
 
 "Software libre" es el software que respeta la libertad de los usuarios
@@ -35,7 +36,7 @@ controlan el programa y lo que este hace. Cuando los usuarios no
 controlan el programa, decimos que dicho programa "no es libre", o que
 es "privativo". Un programa que no es libre controla a los usuarios, y
 el programador controla el programa, con lo cual el programa resulta ser
-un instrumento de poder injusto[^un_instrumento_de_poder_injusto].
+un instrumento de poder injusto[^2].
 
 Un programa es software libre si los usuarios tienen las cuatro
 libertades esenciales:
@@ -67,7 +68,7 @@ lo que hace que las libertades específicas sean adecuadas o no.
 La libertad para distribuir (libertades 2 y 3) significa que usted tiene
 la libertad para redistribuir copias con o sin modificaciones, ya sea
 gratuitamente o cobrando una tarifa por la distribución, a cualquiera en
-cualquier parte[^cualquiera_en_cualquier_parte]. Ser libre de hacer esto
+cualquier parte[^3]. Ser libre de hacer esto
 significa, entre otras cosas, que no tiene que pedir ni pagar ningún
 permiso para hacerlo.
 
@@ -123,7 +124,7 @@ licencia demasiado restrictiva como para considerarla libre.
 La libertad 3 incluye la libertad de publicar sus versiones modificadas
 como software libre. Una licencia libre también puede autorizar otras
 formas de publicación; en otras palabras, no tiene que ser una licencia
-con copyleft[^copyleft]. No obstante, una licencia que requiera que
+con copyleft[^4]. No obstante, una licencia que requiera que
 las versiones modificadas no sean libres, no se puede considerar libre.
 
 Para que estas libertades sean reales, deben ser permanentes
@@ -141,14 +142,12 @@ programa, no puede agregar restricciones para denegar a los demás
 las libertades principales. Esta regla no entra en conflicto con las
 libertades principales, más bien las protege.
 
-En el proyecto GNU usamos el copyleft[^copyleft] para proteger
-legalmente las cuatro libertades para todos. Creemos que
-existen razones importantes por las que es mejor usar el
-copyleft[^es_mejor_usar_el_copyleft]. De todos modos, el software libre
-sin copyleft[^el_software_libre_sin_copyleft] también es ético. Véase
-en categorías del software libre [^categorías_del_software_libre]
-una descripción de la relación que existe entre el "software libre",
-"software con copyleft" y otros tipos de software.
+En el proyecto GNU usamos el copyleft para proteger legalmente las
+cuatro libertades para todos. Creemos que existen razones importantes
+por las que es mejor usar el copyleft[^5]. De todos modos, el software
+libre sin copyleft[^6] también es ético. Véase en categorías del
+software libre[^7] una descripción de la relación que existe entre el
+"software libre", "software con copyleft" y otros tipos de software.
 
 "Software libre" no significa que "no es comercial". Un programa libre
 debe estar disponible para el uso comercial, la programación comercial y
@@ -157,7 +156,7 @@ ya no es inusual; el software libre comercial es muy importante. Puede
 haber pagado dinero para obtener copias de software libre, o puede haber
 obtenido copias sin costo. Pero sin tener en cuenta cómo obtuvo sus
 copias, siempre tiene la libertad de copiar y modificar el software,
-incluso de vender copias[^vender_copias].
+incluso de vender copias[^8].
 
 Si una modificación constituye o no una mejora, es un asunto
 subjetivo. Si su derecho a modificar un programa se limita, básicamente,
@@ -241,13 +240,12 @@ un modo que no se puede hacer con las licencias basadas en el copyright,
 y que no está mencionado aquí como legítimo, tendremos que analizar
 el caso, y probablemente concluyamos que no es libre.
 
-Cuando se habla de software libre, es mejor evitar usar términos
-como "regalar" o "gratuito", porque dichos términos implican que
-el asunto es el precio, no la libertad. Algunos términos comunes
-como "piratería" implican opiniones con las que esperamos no
-concuerde. Véase un análisis sobre el uso de esos términos en
-nuestro artículo palabras y frases confusas que vale la pena evitar
-[^palabras_y_frases_confusas_que_vale_la_pena_evitar] .
+Cuando se habla de software libre, es mejor evitar usar términos como
+"regalar" o "gratuito", porque dichos términos implican que el asunto
+es el precio, no la libertad. Algunos términos comunes como "piratería"
+implican opiniones con las que esperamos no concuerde. Véase un análisis
+sobre el uso de esos términos en nuestro artículo palabras y frases
+confusas que vale la pena evitar[^9].
 
 Por último, tenga en cuenta que para interpretar criterios tales como
 los que se establecen en esta definición de software libre, se hace
@@ -266,9 +264,8 @@ calificada como libre.
 
 Si está interesado en saber si una licencia específica está
 calificada como licencia de software libre, consulte nuestra lista de
-licencias[^lista_de_licencias]. Si la licencia que busca no está
-en la lista, puede consultarnos enviándonos un correo electrónico a
-\<licensing@gnu.org\>.
+licencias[^10]. Si la licencia que busca no está en la lista, puede
+consultarnos enviándonos un correo electrónico a \<licensing@gnu.org\>.
 
 Si está considerando escribir una nueva licencia, por favor contacte
 a la FSF escribiendo a esa dirección. La proliferación de distintas
@@ -284,19 +281,18 @@ licencia de software libre y evitar varios problemas en la práctica.
 Más allá del software
 ---------------------
 
-Los manuales de software deben ser libres
-[^Los_manuales_de_software_deben_ser_libres] por las mismas razones que
-el software debe ser libre, y porque de hecho los manuales son parte del
-software.
+Los manuales de software deben ser libres[^11] por las mismas razones
+que el software debe ser libre, y porque de hecho los manuales son parte
+del software.
 
 También tiene sentido aplicar los mismos argumentos a otros tipos de
-obras de uso práctico; es decir, obras que incorporen conocimiento
-útil, tal como publicaciones educativas y de referencia. La Wikipedia
-[^Wikipedia] es el ejemplo más conocido.
+obras de uso práctico; es decir, obras que incorporen conocimiento útil,
+tal como publicaciones educativas y de referencia. La Wikipedia[^12] es
+el ejemplo más conocido.
 
 Cualquier tipo de obra *puede* ser libre, y la definición de software
-libre se ha extendido a una definición de obras culturales libres
-[^obras_culturales_libres] aplicable a cualquier tipo de publicación.
+libre se ha extendido a una definición de obras culturales libres[^13]
+aplicable a cualquier tipo de publicación.
 
 
 ¿Código abierto?
@@ -304,59 +300,54 @@ libre se ha extendido a una definición de obras culturales libres
 
 Otro grupo ha comenzado a usar el término "código abierto" (del
 inglés "open source") que significa algo parecido (pero no idéntico)
-a "software libre". Preferimos el término "software libre" porque una
-vez que ya se sabe que se refiere a la libertad y no al precio, evoca
-la idea de libertad. La palabra "abierto" nunca se refiere a la libertad
-[^nunca_se_refiere_a_la_libertad].
+a "software libre". Preferimos el término "software libre" porque
+una vez que ya se sabe que se refiere a la libertad y no al precio,
+evoca la idea de libertad. La palabra "abierto" nunca se refiere a la
+libertad[^14].
+
+---
 
 Copyright © 1996-2002, 2004-2007, 2009, 2010, 2012, 2013 Free Software
 Foundation, Inc.
 
 Esta página está bajo una licencia Creative Commons
-Atribución-SinDerivadas 3.0 Estados Unidos de América
-[^licencia_Creative_Commons_Atribución-SinDerivadas_3.0_Estados_Unidos_de_América]
-.
+Atribución-SinDerivadas 3.0 Estados Unidos de América[^15].
 
 Traducción: Luis Miguel Arteaga Mejía, 2001.
 
 Revisiones: Hernán Giovagnoli, Daniel (lluvia).
 
-Última actualización: 2014/04/12
+[^1]: http://www.gnu.org/philosophy/free-sw.es.html#History
+
+[^2]: https://gnu.org/philosophy/free-software-even-more-important.html
+
+[^3]: http://www.gnu.org/philosophy/free-sw.es.html#exportcontrol
+
+[^4]: https://gnu.org/copyleft/copyleft.html
+
+[^5]: https://gnu.org/philosophy/pragmatic.html
+
+[^6]: https://gnu.org/philosophy/categories.html#Non-CopyleftedFreeSoftware
+
+[^7]: https://gnu.org/philosophy/categories.html
+
+[^8]: https://gnu.org/philosophy/selling.html
+
+[^9]: https://gnu.org/philosophy/words-to-avoid.html
+
+[^10]: https://gnu.org/licenses/license-list.es.html
+
+[^11]: https://gnu.org/philosophy/free-doc.html
+
+[^12]: http://wikipedia.org
+
+[^13]: http://freedomdefined.org
+
+[^14]: https://gnu.org/philosophy/open-source-misses-the-point.html
+
+[^15]: http://creativecommons.org/licenses/by-nd/3.0/us/deed.es
 
 
-
-[^Historial]: #History
-
-[^un_instrumento_de_poder_injusto]: https://gnu.org/philosophy/free-software-even-more-important.html
-
-[^cualquiera_en_cualquier_parte]: #exportcontrol
-
-[^copyleft]: https://gnu.org/copyleft/copyleft.html
-
-[^es_mejor_usar_el_copyleft]: https://gnu.org/philosophy/pragmatic.html
-
-[^el_software_libre_sin_copyleft]: https://gnu.org/philosophy/categories.html#Non-CopyleftedFreeSoftware
-
-[^categorías_del_software_libre]: https://gnu.org/philosophy/categories.html
-
-[^vender_copias]: https://gnu.org/philosophy/selling.html
-
-[^palabras_y_frases_confusas_que_vale_la_pena_evitar]: https://gnu.org/philosophy/words-to-avoid.html
-
-[^lista_de_licencias]: https://gnu.org/licenses/license-list.es.html
-
-[^licensing@gnu.org]: licensing@gnu.org
-
-[^Los_manuales_de_software_deben_ser_libres]: https://gnu.org/philosophy/free-doc.html
-
-[^Wikipedia]: http://wikipedia.org
-
-[^obras_culturales_libres]: http://freedomdefined.org
-
-[^nunca_se_refiere_a_la_libertad]: https://gnu.org/philosophy/open-source-misses-the-point.html
-
-
-% http://www.gnu.org/copyleft/copyleft.es.html
 
 
 ¿Qué es el copyleft?
@@ -367,16 +358,16 @@ de trabajo) libre, exigiendo que todas las versiones modificadas y
 extendidas del mismo sean también libres.
 
 La forma más simple de hacer que un programa sea libre es ponerlo bajo
-dominio público[^dominio_público], sin derechos de autor. Esto
+dominio público[^16], sin derechos de autor. Esto
 permite a la gente compartir el programa y sus mejoras si así lo
 desean. Pero también permite que gente no tan cooperativa convierta el
-programa en software privativo[^software_privativo]. Pueden realizarse
+programa en software privativo[^17]. Pueden realizarse
 tantos cambios como se quiera y distribuir el resultado como un producto
 privativo. Las personas que reciben el programa con esas modificaciones
 no tienen la libertad que el autor original les dio, ya que han sido
 eliminadas por el intermediario.
 
-El objetivo del Proyecto GNU[^Proyecto_GNU] es dar a *todos* los
+El objetivo del Proyecto GNU[^18] es dar a *todos* los
 usuarios la libertad de redistribuir y cambiar software GNU. Si los
 intermediarios pudiesen quitar la libertad, tendríamos muchos usuarios,
 pero no tendrían las anteriores libertades. Por eso, en lugar de poner
@@ -385,13 +376,13 @@ copyleft cualquiera que redistribuya el software, con o sin cambios,
 deberá de otorgar al usuario la libertad de copiarlo y modificarlo,
 garantizando que se mantendrán estas libertades para todos los usuarios.
 
-El copyleft también provee un incentivo[^incentivo] para que otros
+El copyleft también provee un incentivo[^19] para que otros
 programadores se sumen al software libre. Algunos programas libres
 importantes, como el compilador GNU para C++, existen sólo por este
 motivo.
 
 El copyleft también ayuda a los programadores que quieran contribuir con
-mejoras[^mejoras] al software libre[^software_libre] obteniendo permiso
+mejoras[^20] al software libre[^21] obteniendo permiso
 para hacerlo. Estos programadores a menudo trabajan para compañías o
 universidades que harían casi cualquier cosa para conseguir más dinero.
 Un programador puede querer contribuir con sus cambios a la comunidad,
@@ -425,35 +416,32 @@ El copyleft es una forma de usar los derechos de autor en un programa. No
 implica abandonar los derechos de autor, ya que, si se abandonasen,
 el uso del copyleft sería imposible.
 
-El copyleft es un concepto general y, por lo tanto, no puede usarse de
-forma directa; solamente es posible utilizar una implementación
+El copyleft es un concepto general y, por lo tanto, no puede usarse
+de forma directa; solamente es posible utilizar una implementación
 especifica del concepto. En el Proyecto GNU los términos específicos de
 distribución que usamos para nuestro software están contenidas en la
-Licencia Pública GNU (disponible en formato HTML [^gpl_html], texto
-plano[^gpl_texto] y Texinfo [^gpl_texinfo]). La Licencia Pública
-General GNU se llama a menudo GPL de GNU para acortar. También existe
-una página de preguntas frecuentes [^preguntas_frecuentes] sobre la GPL
-de GNU.  También puede leer sobre por qué la FSF obtiene las
-asignaciones de copyright de sus
-colaboradores[^por_qué_la_FSF_obtiene_las_asignaciones_de_copyright_de_sus_colaboradores].
+Licencia Pública GNU (disponible en formato HTML [^22], texto plano[^23]
+y Texinfo[^24]). La Licencia Pública General GNU se llama a menudo GPL
+de GNU para acortar. También existe una página de preguntas frecuentes
+[^25] sobre la GPL de GNU.  También puede leer sobre por qué la FSF
+obtiene las asignaciones de copyright de sus colaboradores[^26].
 
-Una forma alternativa de copyleft es la Licencia Pública General Affero
-de GNU (AGPL) (disponible en formato HTML[^agpl_html] texto[^agpl_texto]
-y Texinfo[^agpl_texinfo]). Esta licencia está diseñada para programas
-que pueden ser utilizados en servidores, y asegura que las versiones
-modificadas que se utilizan para implementar servicios para los usuarios
-se publiquen como código fuente disponible al público.
+Una forma alternativa de copyleft es la Licencia Pública General
+Affero de GNU (AGPL) (disponible en formato HTML[^27] texto[^28] y
+Texinfo[^29]). Esta licencia está diseñada para programas que pueden ser
+utilizados en servidores, y asegura que las versiones modificadas que se
+utilizan para implementar servicios para los usuarios se publiquen como
+código fuente disponible al público.
 
-Para algunas (no todas) librerías de GNU, puede resultar aceptable la
-forma de copyleft que se estipula en la Licencia Pública General
-Reducida de GNU (LGPL de GNU) (disponible en formato HTML[^lgpl_html] ,
-texto[^lgpl_texto] y Texinfo[^lgpl_texinfo]. Para más detalles sobre el
-uso de la LGPL, consulte el artículo Por qué en su próxima biblioteca no
-debería utilizar la Lesser GPL
-[^Por_qué_en_su_próxima_biblioteca_no_debería_utilizar_la_Lesser_GPL] .
+Para algunas (no todas) librerías de GNU, puede resultar aceptable
+la forma de copyleft que se estipula en la Licencia Pública General
+Reducida de GNU (LGPL de GNU) (disponible en formato HTML[^30] ,
+texto[^31] y Texinfo[^32]. Para más detalles sobre el uso de la LGPL,
+consulte el artículo Por qué en su próxima biblioteca no debería
+utilizar la Lesser GPL[^33].
 
 La Licencia de Documentación Libre de GNU (FDL) (disponible en formato
-HTML[^fdl_html], texto plano[^fdl_texto] y Texinfo[^fdl_texinfo]) es una
+HTML[^34], texto plano[^35] y Texinfo[^36]) es una
 forma de copyleft diseñada para usarse en manuales, libros de texto u
 otros documentos para asegurar a todo el mundo la libertad de copiar y
 redistribuir el trabajo, con o sin modificaciones y de forma comercial o
@@ -479,18 +467,17 @@ programa cubierto por la GPL Versión 3. La LGPL de GNU Versión 3 se
 crea añadiendo una clausula excepcional, creando así una compatibilidad
 automática.
 
-Si quiere cubrir su programa con la Licencia Pública General de GNU o la
-Licencia Pública General Reducida de GNU, por favor visite la página de
-instrucciones para licenciar su
-software[^página_de_instrucciones_para_licenciar_su_software] para
-asesorarse.  Por favor, observe que debe usar el texto completo de la
-licencia escogida. No se permite las copias parciales de las licencias.
+Si quiere cubrir su programa con la Licencia Pública General de GNU o
+la Licencia Pública General Reducida de GNU, por favor visite la página
+de instrucciones para licenciar su software[^37] para asesorarse.
+Por favor, observe que debe usar el texto completo de la licencia
+escogida. No se permite las copias parciales de las licencias.
 
 Si quiere cubrir su manual con la licencia FDL de GNU (también conocida
-como GFDL), por favor siga las instrucciones que encontrará al final
-[^final] del texto de la licencia GFDL, y la página de instrucciones de
-la GFDL[^página_de_instrucciones_de_la_GFDL]. Al igual que antes, no se
-permiten las copias parciales de la licencia.
+como GFDL), por favor siga las instrucciones que encontrará al
+final[^38] del texto de la licencia GFDL, y la página de instrucciones
+de la GFDL[^39]. Al igual que antes, no se permiten las copias parciales
+de la licencia.
 
 Desde un punto de vista legal, es un error utilizar la "C" invertida
 dentro de un círculo en lugar del símbolo del copyrght. El copyleft
@@ -499,81 +486,78 @@ llevar una nota legal de copyright, que debe ir acompañada del símbolo
 del copyright (la letra "C" dentro de un círculo) o de la palabra
 "copyright".
 
-La letra "C" invertida no tiene ningún alcance legal, por lo tanto no
-sirve como nota de copyright. Puede resultar gracioso usarla por ejemplo
-en la tapa de un libro o un póster, pero ¡tenga cuidado cuando la
-incluya en una página
-web![^tenga_cuidado_cuando_la_incluya_en_una_página_web]
+La letra "C" invertida no tiene ningún alcance legal, por lo tanto
+no sirve como nota de copyright. Puede resultar gracioso usarla por
+ejemplo en la tapa de un libro o un póster, pero ¡tenga cuidado cuando
+la incluya en una página web![^40]
+
+---
 
 
 Copyright © 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005,
 2006, 2007, 2008, 2009, 2014 Free Software Foundation, Inc.
 
 Esta página está bajo una licencia Creative Commons
-Atribución-SinDerivadas 3.0 Estados Unidos de
-América[^licencia_cc-by-nd-3-usa] .
+Atribución-SinDerivadas 3.0 Estados Unidos de América[^15] .
 
-Última actualización: 2014/04/12
+[^16]: https://gnu.org/philosophy/categories.es.html#PublicDomainSoftware
 
-[^dominio_público]: https://gnu.org/philosophy/categories.es.html#PublicDomainSoftware
+[^17]: https://gnu.org/philosophy/categories.es.html#ProprietarySoftware
 
-[^software_privativo]: https://gnu.org/philosophy/categories.es.html#ProprietarySoftware
+[^18]: https://gnu.org/gnu/thegnuproject.es.html
 
-[^Proyecto_GNU]: https://gnu.org/gnu/thegnuproject.es.html
+[^19]: https://gnu.org/philosophy/pragmatic.es.html
 
-[^incentivo]: https://gnu.org/philosophy/pragmatic.es.html
+[^20]: https://gnu.org/prep/tasks.html
 
-[^mejoras]: https://gnu.org/prep/tasks.html
+[^21]: https://gnu.org/philosophy/free-sw.es.html
 
-[^software_libre]: https://gnu.org/philosophy/free-sw.es.html
+[^22]: https://gnu.org/copyleft/gpl.html
 
-[^gpl_html]: https://gnu.org/copyleft/gpl.html
+[^23]: https://gnu.org/copyleft/gpl.txt
 
-[^gpl_texto]: https://gnu.org/copyleft/gpl.txt
+[^24]: https://gnu.org/copyleft/gpl.texi
 
-[^gpl_texinfo]: https://gnu.org/copyleft/gpl.texi
+[^25]: https://gnu.org/licenses/gpl-faq.es.html
 
-[^preguntas_frecuentes]: https://gnu.org/licenses/gpl-faq.es.html
+[^26]: https://gnu.org/licenses/why-assign.es.html
 
-[^por_qué_la_FSF_obtiene_las_asignaciones_de_copyright_de_sus_colaboradores]: https://gnu.org/licenses/why-assign.es.html
+[^27]: https://gnu.org/licenses/agpl.html
 
-[^agpl_html]: https://gnu.org/licenses/agpl.html
+[^28]: https://gnu.org/licenses/agpl.txt
 
-[^agpl_texto]: https://gnu.org/licenses/agpl.txt
+[^29]: https://gnu.org/licenses/agpl.texi
 
-[^agpl_texinfo]: https://gnu.org/licenses/agpl.texi
+[^30]: https://gnu.org/licenses/lgpl.html
 
-[^lgpl_html]: https://gnu.org/licenses/lgpl.html
+[^31]: https://gnu.org/licenses/lgpl.txt
 
-[^lgpl_texto]: https://gnu.org/licenses/lgpl.txt
+[^32]: https://gnu.org/licenses/lgpl.texi
 
-[^lgpl_texinfo]: https://gnu.org/licenses/lgpl.texi
+[^33]: https://gnu.org/philosophy/why-not-lgpl.html
 
-[^Por_qué_en_su_próxima_biblioteca_no_debería_utilizar_la_Lesser_GPL]: https://gnu.org/philosophy/why-not-lgpl.html
+[^34]: https://gnu.org/licenses/fdl.html
 
-[^fdl_html]: https://gnu.org/licenses/fdl.html
+[^35]: https://gnu.org/licenses/fdl.txt
 
-[^fdl_texto]: https://gnu.org/licenses/fdl.txt
+[^36]: https://gnu.org/copyleft/fdl.texi
 
-[^fdl_texinfo]: https://gnu.org/copyleft/fdl.texi
+[^37]: https://gnu.org/copyleft/gpl-howto.html
 
-[^página_de_instrucciones_para_licenciar_su_software]: https://gnu.org/copyleft/gpl-howto.html
+[^38]: https://gnu.org/copyleft/fdl.html#addendum
 
-[^final]: https://gnu.org/copyleft/fdl.html#addendum
+[^39]: https://gnu.org/copyleft/fdl-howto.html
 
-[^página_de_instrucciones_de_la_GFDL]: https://gnu.org/copyleft/fdl-howto.html
-
-[^tenga_cuidado_cuando_la_incluya_en_una_página_web]: https://en.wikipedia.org/wiki/Copyleft#Symbol
+[^40]: https://en.wikipedia.org/wiki/Copyleft#Symbol
 
 
-% http://www.gnu.org/gnu/manifesto.es.html
 
 
 El manifiesto de GNU
 ====================
 
 El manifiesto de GNU, que aparece a continuación, lo escribió Richard
-Stallman[^Richard_Stallman] en los inicios del proyecto GNU para
+Stallman[^41] en los inicios del proyecto GNU para
 solicitar participación y apoyo. Durante esos primeros años se hicieron
 algunas pequeñas actualizaciones para reflejar la evolución del
 proyecto, pero ahora creemos que es mejor no modificarlo y dejarlo tal
@@ -585,8 +569,8 @@ pie de página que hemos añadido a partir de 1993 ayudan a clarificar
 estos puntos.
 
 Para obtener información actualizada sobre el software de GNU disponible,
-consulte nuestro servidor web[^servidor_web], en particular la lista de
-software[^Software]. Para informarse de cómo colaborar, consulte la
+consulte nuestro servidor web[^42], en particular la lista de
+software[^43]. Para informarse de cómo colaborar, consulte la
 página http://www.gnu.org/help/help.html.
 
 ¿Qué es GNU? ¡GNU No es Unix!
@@ -594,7 +578,7 @@ página http://www.gnu.org/help/help.html.
 
 GNU, que significa "Gnu No es Unix", es el nombre del sistema de
 software completamente compatible con Unix que estoy escribiendo para
-entregarlo libremente a todas las personas que puedan utilizarlo[^1].
+entregarlo libremente a todas las personas que puedan utilizarlo[^45].
 Algunos voluntarios me están ayudando. Las aportaciones de tiempo,
 dinero, programas y equipos son muy necesarias.
 
@@ -633,7 +617,7 @@ ejecución. El esfuerzo adicional para hacerlo funcionar en máquinas
 más pequeñas se lo dejaremos a quienes quieran utilizarlo en ellas.
 
 Para evitar una horrible confusión, por favor pronuncie la *g* en la
-palabra "GNU" cuando se refiera al nombre de este proyecto[^1b].
+palabra "GNU" cuando se refiera al nombre de este proyecto[^46].
 
 Por qué debo escribir GNU
 -------------------------
@@ -653,7 +637,7 @@ Para poder continuar a utilizar las computadoras sin deshonra, he decidido
 agrupar un conjunto suficiente de software libre para poder vivir sin
 usar ningún software que no sea libre. He renunciado al Laboratorio de
 Inteligencia Artificial para evitar que el MIT pueda usar alguna excusa
-legal que me impida distribuir software de GNU[^2].
+legal que me impida distribuir software de GNU[^47].
 
 ## Por qué GNU será compatible con Unix
 
@@ -667,7 +651,7 @@ facilitará su adopción por parte de muchas otras personas.
 GNU no está en el dominio público. Todos tendrán permiso para
 modificar y redistribuir GNU, pero a ningún distribuidor se le permitirá
 restringir su redistribución posterior. Es decir, no se autorizarán
-modificaciones privativas[^privativas]. Quiero asegurarme que todas
+modificaciones privativas[^48]. Quiero asegurarme que todas
 las versiones de GNU permanezcan libres.
 
 ## Por qué muchos programadores quieren colaborar
@@ -698,11 +682,10 @@ un motivo de felicidad importante que el dinero no puede reemplazar.
 ## Cómo colaborar
 
 > Hoy en día, para conocer las tareas en las que puede colaborar en el
-> ámbito del software, consulte la lista de proyectos prioritarios
-> [^lista_de_proyectos_prioritarios] y la lista se busca ayuda
-> [^se_busca_ayuda], la lista general de tareas para paquetes software de
-> GNU. Para colaborar de otras formas, consulte la guía para colaborar
-con el Proyecto GNU[^Ayude_a_GNU].
+> ámbito del software, consulte la lista de proyectos prioritarios[^49]
+> y la lista se busca ayuda [^50], la lista general de tareas para
+> paquetes software de GNU. Para colaborar de otras formas, consulte la
+> guía para colaborar con el Proyecto GNU[^51].
 
 Pido a los fabricantes de ordenadores que donen máquinas y dinero. A
 los individuos les pido donaciones en forma de programas y trabajo.
@@ -741,7 +724,7 @@ la vida de otra manera.
 ## Por qué se beneficiarán todos los usuarios de computadoras
 
 Una vez que GNU esté terminado, todo el mundo podrá obtener un buen
-sistema de software tan libre como el aire[^3].
+sistema de software tan libre como el aire[^52].
 
 
 Esto significa mucho más que ahorrarse el dinero para pagar una licencia
@@ -794,7 +777,7 @@ asistencia".**
 
 Si la gente prefiere pagar por GNU más el servicio en lugar de recibir
 GNU sin servicio, una empresa que preste solamente el servicio a las
-personas que hayan obtenido GNU debe ser rentable[^4].
+personas que hayan obtenido GNU debe ser rentable[^53].
 
 
 Debemos distinguir entre el soporte en forma de trabajo de programación
@@ -845,7 +828,7 @@ que se benefician de esta publicidad la pagarán.
 Por otro lado, si mucha gente consigue GNU de sus amigos, y esas empresas
 no tienen éxito, esto demostrará que la publicidad no era realmente
 necesaria para difundir GNU. ¿Por qué es que los defensores del libre
-mercado no quieren dejar que el libre mercado lo decida?[^5]
+mercado no quieren dejar que el libre mercado lo decida?[^54]
 
 
 **"Mi compañía necesita un sistema operativo privativo para tener una
@@ -861,7 +844,7 @@ empujado dentro del costoso negocio de la venta de sistemas operativos.
 
 Me gustaría ver que el desarrollo de GNU se mantuviera gracias a
 donaciones de algunos fabricantes y usuarios, reduciendo el coste para
-todos[^6].
+todos[^55].
 
 
 **"¿No merecen los programadores una recompensa por su creatividad?"**
@@ -914,7 +897,7 @@ es porque aún es posible que se les pague por programar, solo que no
 se les pagará tanto como en la actualidad.
 
 Restringir la copia no es la única forma para hacer negocios con el
-software. Es la forma más común[^7] porque es con la que se obtiene más
+software. Es la forma más común[^56] porque es con la que se obtiene más
 dinero. Si se prohibiera o fuese rechazada por el comprador, el negocio
 del software se desplazaría hacia otras formas de organización que
 actualmente no se usan tan a menudo. Siempre existen muchos modos para
@@ -934,7 +917,7 @@ control de las vidas de otras personas, y por lo general se utiliza para
 hacerles la vida más difícil.
 
 Las personas que han estudiado cuidadosamente el tema de los derechos de
-propiedad intelectual[^8] (por ejemplo los abogados) dicen que no existe
+propiedad intelectual[^57] (por ejemplo los abogados) dicen que no existe
 un derecho intrínseco a la propiedad intelectual. Los tipos de los
 supuestos derechos de propiedad intelectual que reconoce el gobierno
 fueron creados mediante actos legislativos específicos con fines
@@ -1031,7 +1014,7 @@ que dejemos de ayudar a nuestro prójimo, tendríamos que obedecer".**
 
 Uno nunca está tan desesperado como para tener que obedecer este tipo de
 exigencia. Recuerde: millones para nuestra defensa, ¡pero ni un centavo
-para tributos!^[2b]
+para tributos![^58]
 
 **"Los programadores necesitan tener alguna forma de ganarse la vida".**
 
@@ -1048,10 +1031,10 @@ los sistemas operativos al nuevo hardware.
 La venta de enseñanza, los servicios de asistencia y mantenimiento
 también pueden dar trabajo a programadores.
 
-La gente con ideas nuevas podría distribuir programas como freeware[^9],
-pidiendo donaciones a los usuarios satisfechos, o vendiendo servicios de
-asistencia. Yo he conocido a personas que ya trabajan así y con mucho
-éxito.
+La gente con ideas nuevas podría distribuir programas como
+freeware[^59], pidiendo donaciones a los usuarios satisfechos, o
+vendiendo servicios de asistencia. Yo he conocido a personas que ya
+trabajan así y con mucho éxito.
 
 Los usuarios con que tengan las mismas necesidades pueden formar un grupo
 de usuarios y pagar sumas de dinero. Un grupo contratará a empresas de
@@ -1103,48 +1086,66 @@ competencia. El software libre reducirá en gran medida estos drenajes en
 el campo de producción de software. Debemos hacerlo, para que los avances
 técnicos en la productividad se traduzcan en menos trabajo para nosotros.
 
-### Notas {#footnotes}
+[^41]: http://www.stallman.org/
 
-[^1]:  Esta expresión resultó poco precisa. La intención era decir que
-nadie tendría que pagar por el **permiso** para usar el sistema GNU.
-Pero la expresión no es del todo clara, y a menudo se interpreta que las
-copias de GNU deberían distribuirse siempre a un costo bajo o sin costo.
-Esta nunca fue la intención. Más adelante, el manifiesto menciona la
-posibilidad de que las empresas provean servicios de distribución para
-obtener ganancias. A partir de entonces, aprendí a distinguir
-cuidadosamente entre "free" (libre) en el sentido de libertad y "free"
-(gratis) referido al precio[^3b]. El software libre es aquel que ofrece
-a los usuarios la libertad de distribuirlo y modificarlo. Algunos pueden
-obtener copias sin pagar, mientras que otros pagan para obtenerlas, y si
-los fondos ayudan a apoyar la mejora del software, tanto mejor. Lo
-importante es que todos los que posean una copia tengan la libertad de
-colaborar con los demás al usar el programa.
+[^42]: http://www.gnu.org/home.html
 
-[^2]: La expresión "regalar" es otro indicio de que yo todavía no
-había separado claramente la cuestión del precio de la cuestión
-de la libertad. Ahora recomendamos no usar esta expresión al hablar
-acerca del software libre. Para una explicación más detallada,
-consulte el artículo "Palabras y frases confusas que vale la pena
-evitar"[^Palabras_y_frases_confusas_que_vale_la_pena_evitar].
+[^43]: http://www.gnu.org/software/software.html
 
-[^3]: Aquí también omití distinguir cuidadosamente entre los dos
+% por alguna razón me salteé la 44
+
+[^45]:  Esta expresión resultó poco precisa. La intención era decir
+que nadie tendría que pagar por el **permiso** para usar el sistema
+GNU.  Pero la expresión no es del todo clara, y a menudo se interpreta
+que las copias de GNU deberían distribuirse siempre a un costo bajo o
+sin costo.  Esta nunca fue la intención. Más adelante, el manifiesto
+menciona la posibilidad de que las empresas provean servicios de
+distribución para obtener ganancias. A partir de entonces, aprendí a
+distinguir cuidadosamente entre "free" (libre) en el sentido de libertad
+y "free" (gratis) referido al precio, ya que en inglés, el término
+"free" puede referirse tanto a la libertad como al precio. El software
+libre es aquel que ofrece a los usuarios la libertad de distribuirlo y
+modificarlo. Algunos pueden obtener copias sin pagar, mientras que otros
+pagan para obtenerlas, y si los fondos ayudan a apoyar la mejora del
+software, tanto mejor. Lo importante es que todos los que posean una
+copia tengan la libertad de colaborar con los demás al usar el programa.
+
+[^46]: GNU se pronuncia en inglés de forma muy similar a "new", que
+significa "nuevo".
+
+[^47]: La expresión "regalar" es otro indicio de que yo todavía no
+había separado claramente la cuestión del precio de la cuestión de la
+libertad. Ahora recomendamos no usar esta expresión al hablar acerca
+del software libre. Para una explicación más detallada, consulte
+el artículo "Palabras y frases confusas que vale la pena evitar"
+(en http://www.gnu.org/philosophy/words-to-avoid.html#GiveAwaySoftware)
+
+[^48]: https://gnu.org/philosophy/categories.html#ProprietarySoftware
+
+[^49]: http://fsf.org/campaigns/priority-projects
+
+[^50]: http://savannah.gnu.org/people/?type_id=1
+
+[^51]: http://www.gnu.org/help/help.html
+
+[^52]: Aquí también omití distinguir cuidadosamente entre los dos
 diferentes significados de "free" (que en inglés puede significar
 "gratis" o "libre", N. d. T.). La afirmación tal como está escrita no es
 falsa, se pueden obtener copias gratuitas de software de GNU --de los
-amigos o a través de Internet--, pero sugiere una idea errónea. 
+amigos o a través de Internet--, pero sugiere una idea errónea.
 
-[^4]: Ya existen varias compañías de este tipo.
+[^53]: Ya existen varias compañías de este tipo.
 
-[^5]: Aunque es una organizacioón sin ánimo de lucro más que una
+[^54]: Aunque es una organización sin ánimo de lucro más que una
 empresa, la Free Software Foundation durante diez años ha obtenido la
 mayoría de los fondos a partir de su servicio de distribución. Puede
-comprar artículos de la FSF [^comprar_artículos_de_la_FSF] para apoyar
-su actividad.
+comprar artículos de la FSF (en http://www.gnu.org/order/order.html)
+para apoyar su actividad.
 
-[^6]: Un grupo de empresas de informática alrededor de 1991 reunió fondos
+[^55]: Un grupo de empresas de informática alrededor de 1991 reunió fondos
 para apoyar el mantenimiento del compilador C de GNU.
 
-[^7]: Creo que me equivoqué al decir que el software privativo era la
+[^56]: Creo que me equivoqué al decir que el software privativo era la
 base más común para ganar dinero en el campo del software. Parece ser
 que en realidad el modelo de negocio más común era y es el desarrollo de
 software a medida, que no ofrece la posibilidad de percibir una renta,
@@ -1154,34 +1155,31 @@ seguir existiendo, más o menos igual, en un mundo de software libre. Por
 lo tanto, ya no supongo que los programadores ganarían menos en un mundo
 de software libre. 
 
-[^8]: En la década de 1980 todavía no me había dado cuenta de lo confuso
-que era hablar de "la cuestión" de la "propiedad intelectual". Esa
-expresión es obviamente prejuiciosa, más sutil es el hecho de que agrupa
-leyes dispares que plantean cuestiones muy diferentes. Hoy en día insto
-a la gente a rechazar completamente el término "propiedad intelectual",
-para no inducir a otros a pensar que esas leyes forman un tema
-coherente. Para hablar con claridad, hay que referirse a las patentes,
-el copyright y las marcas registradas por separado. Veáse una
-explicación más amplia [^una_explicación_más_amplia] de cómo esta
-expresión genera confusión y prejuicios.
+[^57]: En la década de 1980 todavía no me había dado cuenta de
+lo confuso que era hablar de "la cuestión" de la "propiedad
+intelectual". Esa expresión es obviamente prejuiciosa, más sutil es
+el hecho de que agrupa leyes dispares que plantean cuestiones muy
+diferentes. Hoy en día insto a la gente a rechazar completamente
+el término "propiedad intelectual", para no inducir a otros a
+pensar que esas leyes forman un tema coherente. Para hablar con
+claridad, hay que referirse a las patentes, el copyright y las marcas
+registradas por separado. Veáse una explicación más amplia (ver
+http://www.gnu.org/philosophy/not-ipr.html) de cómo esta expresión
+genera confusión y prejuicios.
 
-[^9]: Posteriormente aprendimos a distinguir entre "software libre" y
-"freeware". El término "freeware" significa que el software se puede
-redistribuir libremente, pero por lo general no ofrece la libertad para
-estudiar y modificar el código fuente, así que la mayoría de esos
-programas no son software libre. Veáse "palabras y frases confusas que
-vale la pena evitar"
-[^"palabras_y_frases_confusas_que_vale_la_pena_evitar"] para más
-detalles.
-
-[^1b]: GNU se pronuncia en inglés de forma muy
- similar a "new", que significa "nuevo".
-
-[^2b]: Véase http://es.wikipedia.org/wiki/Caso\_XYZ para más información
+[^58]: Véase http://es.wikipedia.org/wiki/Caso\_XYZ para más información
 sobre el contexto de esta sentencia.
 
-[^3]: En inglés, el término "free" puede referirse tanto a la libertad
-como al precio.
+[^59]: Posteriormente aprendimos a distinguir entre "software
+libre" y "freeware". El término "freeware" significa que el
+software se puede redistribuir libremente, pero por lo general no
+ofrece la libertad para estudiar y modificar el código fuente,
+así que la mayoría de esos programas no son software libre. Veáse
+"palabras y frases confusas que vale la pena evitar" (ver
+http://www.gnu.org/philosophy/words-to-avoid.html#Freeware) para más
+detalles.
+
+---
 
 Copyright © 1985, 1993, 2003, 2005, 2007, 2008, 2009, 2010, 2014 Free
 Software Foundation, Inc.
@@ -1194,24 +1192,7 @@ ulterior redistribución según los términos de esta nota.
 
 No se permite la realización de copias modificadas.
 
-Última actualización: 2014/04/12
 
-[^privativas]: https://gnu.org/philosophy/categories.html#ProprietarySoftware
-
-[^lista_de_proyectos_prioritarios]: http://fsf.org/campaigns/priority-projects
-
-[^se_busca_ayuda]: http://savannah.gnu.org/people/?type_id=1
-
-[^Palabras_y_frases_confusas_que_vale_la_pena_evitar]: https://gnu.org/philosophy/words-to-avoid.html#GiveAwaySoftware
-
-[^comprar_artículos_de_la_FSF]: https://gnu.org/order/order.html
-
-[^una_explicación_más_amplia]: https://gnu.org/philosophy/not-ipr.html
-
-[^palabras_y_frases_confusas_que_vale_la_pena_evitar]: https://gnu.org/philosophy/words-to-avoid.html#Freeware
-
-
-% http://www.gnu.org/philosophy/fs-motives.es.html
 
 
 Motivos para programar software libre
@@ -1253,10 +1234,9 @@ gente, es su oportunidad de pagar la deuda con la misma moneda.
 
 ## Odio a Microsoft
 
-Es un error enfocar nuestras críticas solo a
-Microsoft[^solo_a_Microsoft]. Ciertamente Microsoft es maligno, dado que
-hace software que no es libre. Aún peor, implementa la gestión digital
-de restricciones [^gestión_digital_de_restricciones] (DRM) en ese
+Es un error enfocar nuestras críticas solo a Microsoft[^60]. Ciertamente
+Microsoft es maligno, dado que hace software que no es libre. Aún peor,
+implementa la gestión digital de restricciones[^61] (DRM) en ese
 software. Pero hay muchas otras compañías que hacen una de esas cosas, o
 ambas.
 
@@ -1298,28 +1278,24 @@ electrónico a \<campaigns@gnu.org\> (en inglés, si le es posible). Si
 creemos que dichos motivos puedan influir a muchos programadores los
 añadiremos a la lista.
 
+---
 
 Copyright © 2009, 2010 Free Software Foundation, Inc.
 
 Esta página está bajo una licencia Creative Commons
-Atribución-SinDerivadas 3.0 Estados Unidos de América
-[^licencia_cc-by-nd-3-usa] .
+Atribución-SinDerivadas 3.0 Estados Unidos de América[^15].
 
-Última actualización: 2014/04/12
+[^60]: https://gnu.org/philosophy/microsoft.html
 
-
-[^solo_a_Microsoft]: https://gnu.org/philosophy/microsoft.html
-
-[^gestión_digital_de_restricciones]: http://DefectiveByDesign.org
+[^61]: http://DefectiveByDesign.org
 
 
-% http://www.gnu.org/philosophy/pragmatic.es.html
 
 
 Copyleft: Idealismo pragmático
 ==============================
 
-Por **Richard Stallman**[^Richard_Stallman]
+Por **Richard Stallman**[^62]
 
 Toda decisión que toma una persona proviene de sus valores y sus
 metas. Las personas pueden tener muchas metas y valores: fama, ganancias,
@@ -1329,12 +1305,11 @@ tanto como a uno mismo, lo llamamos idealismo.
 
 Mi trabajo en el software libre está motivado por una meta idealista:
 difundir la libertad y la cooperación. Quiero alentar la difusión del
-software libre[^alentar_la_difusión_del_software_libre], reemplazando
-el software privativo que prohíbe la cooperación, y así mejorar
-nuestra sociedad.
+software libre[^63], reemplazando el software privativo que prohíbe la
+cooperación, y así mejorar nuestra sociedad.
 
 Esa es la razón básica por lo cual la licencia pública general de
-GNU está escrita tal y como está, como copyleft[^copyleft]. Todo el
+GNU está escrita tal y como está, como copyleft[^64]. Todo el
 código añadido a un programa cubierto por la GPL debe ser software
 libre, incluso si se pone en un archivo separado. Yo pongo mi código
 a disposición para su uso en software libre y no para uso en software
@@ -1350,8 +1325,8 @@ años, le pidieron a un amigo mío que redistribuyera un programa cubierto
 por copyleft bajo términos que no eran copyleft, y respondió más o
 menos así:
 
-> "A veces trabajo con software libre y otras con software privativo; >
-pero cuando trabajo con software privativo, espero que me *paguen*."
+> "A veces trabajo con software libre y otras con software privativo;
+> pero cuando trabajo con software privativo, espero que me *paguen*."
 
 Quería compartir su trabajo con una comunidad que compartiera software,
 pero no veía ninguna razón para hacer una donación a un negocio que
@@ -1439,9 +1414,9 @@ han adoptado una política de ofrecer software privativo. El Consorcio
 de X (y su sucesor, el Open Group) ofrece un ejemplo: financiados
 por compañías que producían software privativo, se han preocupado,
 durante una década, en persuadir a los programadores para que no usen
-copyleft. Cuando el Open Group hizo que X11R6.4 no fuese software libre
-[^hizo_que_X11R6.4_no_fuese_software_libre] , los que resistimos a esa
-presión estamos encantados de haberlo hecho.
+copyleft. Cuando el Open Group hizo que X11R6.4 no fuese software
+libre[^65], los que resistimos a esa presión estamos encantados de
+haberlo hecho.
 
 En septiembre de 1998, varios meses después de que X11R6.4 se publicara
 en condiciones de distribución que no eran libres, el Open Group cambió
@@ -1460,49 +1435,49 @@ comunidad… si los "implacables realistas" dicen que las ganancias
 son el único ideal… simplemente ignórelos y siga usando el copyleft
 igualmente.
 
-> Este ensayo está publicado en el libro Software libre para una
-> sociedad libre: Selección de ensayos de Richard M. Stallman[^sociedad_libre].
+---
 
+Este ensayo está publicado en el libro Software libre para una
+sociedad libre: Selección de ensayos de Richard M. Stallman[^66].
 
 Copyright © 1998, 2003, 2009 Free Software Foundation, Inc.
 
 Esta página está bajo una licencia Creative Commons
-Atribución-SinDerivadas 3.0 Estados Unidos de
-América[^licencia_cc-by-nd-3-usa].
+Atribución-SinDerivadas 3.0 Estados Unidos de América[^15].
 
 Traducción basada en el trabajo hecho por Traficantes de Sueños.
 
-Última actualización: 2014/04/12
+
+[^62]: http://www.stallman.org/
+
+[^63]: https://gnu.org/philosophy/why-copyleft.es.html
+
+[^64]: https://gnu.org/copyleft
+
+[^65]: https://gnu.org/philosophy/x.es.html
+
+[^66]: http://shop.fsf.org/product/free-software-free-society/
 
 
-[^Richard_Stallman]: http://www.stallman.org/
-
-[^alentar_la_difusión_del_software_libre]: https://gnu.org/philosophy/why-copyleft.es.html
-
-[^copyleft]: https://gnu.org/copyleft
-
-[^hizo_que_X11R6.4_no_fuese_software_libre]: https://gnu.org/philosophy/x.es.html
-
-[^sociedad_libre]: http://shop.fsf.org/product/free-software-free-society/
-
-
-% http://www.gnu.org/philosophy/free-software-even-more-important.es.html
 
 
 El software libre es ahora aún más importante
 =============================================
 
-Por **Richard Stallman**[^Richard_Stallman]
+Por **Richard Stallman**[^62]
 
 
-> Una versión considerablemente adaptada de este artículo se publicó en Wired[^Wired]
-> Algunas sugerencias para colaborar con el movimiento del software libre[^Algunas_sugerencias_para_colaborar_con_el_movimiento_del_software_libre].
+> Una versión considerablemente adaptada de este artículo se publicó en
+> Wired[^67].
+
+> "Algunas sugerencias para colaborar con el movimiento del software
+> libre"[^68].
 
 Han pasado treinta años desde la creación del movimiento del software
 libre, cuyo objetivo es promover el software que respeta la libertad de
 los usuarios y la comunidad. A este software lo llamamos "libre" (usamos
 esta palabra para enfatizar que nos referimos a la libertad, y no al
-precio[^1]). Algunos programas privativos, como Photoshop, son muy
+precio[^69]). Algunos programas privativos, como Photoshop, son muy
 caros; otros, como Flash Player, son gratuitos; en ambos casos, esos
 programas someten a los usuarios al poder del propietario del programa.
 
@@ -1530,7 +1505,7 @@ de los programas que utiliza, especialmente si los usa para hacer cosas
 que para usted son importantes.
 
 Para que los usuarios puedan ejercer el control del programa, son
-necesarias cuatro libertades esenciales[^libertades_esenciales].
+necesarias cuatro libertades esenciales[^70].
 
 0. La libertad de ejecutar el programa como usted quiera, para
 cualquier propósito.
@@ -1590,22 +1565,21 @@ usuarios. En el caso del software privativo, siempre hay alguna entidad
 del programa, ejerce su poder sobre los usuarios. Un programa que no es
 libre es un yugo, un instrumento de poder injusto.
 
-En casos extremos (aunque tales casos se han generalizado bastante), los
-programas privativos están diseñados para espiar a los usuarios,
-restringirlos, censurarlos y abusar de ellos[^los_programas_privativos].
-Por ejemplo, todo esto lo hace el sistema operativo de las iCosas[^2] de
-Apple, y también Windows en los dispositivos móviles con chips ARM.
-Windows, el firmware de los teléfonos móviles y el navegador Google
-Chrome para Windows incluyen una puerta trasera universal que permite a
-una cierta empresa modificar el programa de forma remota sin necesidad
-de pedir permiso. El Kindle de Amazon contiene una puerta trasera que
-puede borrar libros.
+En casos extremos (aunque tales casos se han generalizado bastante),
+los programas privativos están diseñados para espiar a los usuarios,
+restringirlos, censurarlos y abusar de ellos[^71].  Por ejemplo, todo
+esto lo hace el sistema operativo de las iCosas[^72] de Apple, y también
+Windows en los dispositivos móviles con chips ARM.  Windows, el firmware
+de los teléfonos móviles y el navegador Google Chrome para Windows
+incluyen una puerta trasera universal que permite a una cierta empresa
+modificar el programa de forma remota sin necesidad de pedir permiso. El
+Kindle de Amazon contiene una puerta trasera que puede borrar libros.
 
 Con el objetivo de acabar con la injusticia del software privativo, el
 movimiento del software libre desarrolla programas libres para que los
 usuarios puedan liberarse. Comenzamos en 1984 desarrollando el sistema
-operativo libre GNU[^GNU]. Hoy, millones de ordenadores funcionan con
-GNU, sobre todo en la combinación GNU/Linux[^GNU_Linux].
+operativo libre GNU[^73]. Hoy, millones de ordenadores funcionan con
+GNU, sobre todo en la combinación GNU/Linux[^74].
 
 Distribuir programas sin conceder libertad supone un maltrato hacia los
 usuarios. Sin embargo, si un programa no se distribuye, no se estará
@@ -1636,8 +1610,7 @@ del servidor, no del usuario.
 Si usted usa un SaaSS, quien controla el servidor controla sus tareas
 informáticas. Esto implica confiar todos los datos relevantes al
 administrador del servidor, quien además estará obligado a mostralos al
-Estado; entonces, ¿a quién sirve realmente ese
-servidor?[^a_quién_sirve_realmente_ese_servidor]
+Estado; entonces, ¿a quién sirve realmente ese servidor?[^75]
 
 
 ## Injusticias primarias y secundarias
@@ -1753,12 +1726,10 @@ no puede redistribuirlo ni modificarlo.
 
 Todos merecemos tener el control de nuestra propia actividad
 informática. ¿Cómo podemos conseguirlo? Rechazando el software que no es
-libre en los ordenadores que nos pertenecen o que usamos regularmente, y
-rechazando el SaaSS; desarrollando software libre
-[^desarrollando_software_libre] (para los que somos programadores);
-rehusando desarrollar o promover software privativo o el SaaSS;
-difundiendo estas
-ideas[^Algunas_sugerencias_para_colaborar_con_el_movimiento_del_software_libre].
+libre en los ordenadores que nos pertenecen o que usamos regularmente,
+y rechazando el SaaSS; desarrollando software libre[^76] (para los
+que somos programadores); rehusando desarrollar o promover software
+privativo o el SaaSS; difundiendo estas ideas[^77].
 
 Nosotros, y otros miles de usuarios, lo venimos haciendo desde 1984,
 y gracias a eso hoy tenemos el sistema operativo libre GNU/Linux, que
@@ -1766,49 +1737,48 @@ cualquiera puede usar, sea programador o no. Únase a nuestra causa,
 ya sea como programador o como activista. Hagamos que todos los usuarios
 de ordenadores sean libres.
 
-[^1]: En inglés, el término "free" puede significar "libre" o "gratuito".
-
-[^2]: Adaptación de "*iThings*", término ideado para referirse de manera
-lúdica a artefactos tales como *iPod*, *iPad*, *iPhone* y similares.
-
+---
 
 Copyright © 2013 Richard Stallman
 
 Esta página está bajo una licencia Creative Commons
-Atribución-SinDerivadas 3.0 Estados Unidos de
-América[^licencia_cc-by-nd-3-usa].
+Atribución-SinDerivadas 3.0 Estados Unidos de América[^15].
 
 Traducción: Sergi Ruiz Trepat, 2014.
 
 Revisiones: Javier Fdez. Retenaga.
 
-Última actualización: 2014/04/22
+[^67]: http://www.wired.com/opinion/2013/09/why-free-software-is-more-important-now-than-ever-before
+
+[^68]: https://gnu.org/help
+
+[^69]: En inglés, el término "free" puede significar "libre" o "gratuito".
+
+[^70]: https://gnu.org/philosophy/free-sw.html
+
+[^71]: https://gnu.org/philosophy/proprietary.html
+
+[^72]: Adaptación de "*iThings*", término ideado para referirse de
+manera lúdica a artefactos tales como *iPod*, *iPad*, *iPhone* y
+similares.
+
+[^73]: https://gnu.org/gnu/the-gnu-project.html
+
+[^74]: https://gnu.org/gnu/gnu-linux-faq.html
+
+[^75]: https://gnu.org/philosophy/who-does-that-server-really-serve.html
+
+[^76]: https://gnu.org/licenses/license-recommendations.html
+
+[^77]: http://www.gnu.org/help
 
 
-[Wired]: http://www.wired.com/opinion/2013/09/why-free-software-is-more-important-now-than-ever-before
-
-[Algunas_sugerencias_para_colaborar_con_el_movimiento_del_software_libre]: https://gnu.org/help
-
-[libertades_esenciales]: https://gnu.org/philosophy/free-sw.html
-
-[los_programas_privativos_están_diseñados_para_espiar_a_los_usuarios,_restringirlos,_censurarlos_y_abusar_de_ellos]: https://gnu.org/philosophy/proprietary.html
-
-[GNU]: https://gnu.org/gnu/the-gnu-project.html
-
-[GNU_Linux]: https://gnu.org/gnu/gnu-linux-faq.html
-
-[a_quién_sirve_realmente_ese_servidor]: https://gnu.org/philosophy/who-does-that-server-really-serve.html
-
-[desarrollando_software_libre]: https://gnu.org/licenses/license-recommendations.html
-
-
-% http://www.gnu.org/philosophy/government-free-software.es.html
 
 
 Medidas que los gobiernos pueden adoptar para promover el software libre
 ========================================================================
 
-Por **Richard Stallman**[^Richard_Stallman]
+Por **Richard Stallman**[^62]
 
 
 En este artículo se sugieren políticas útiles para poner un fuerte
@@ -1819,7 +1789,7 @@ La misión del estado es organizar a la sociedad para la libertad y el
 bienestar del pueblo. Un aspecto de esta misión, en el ámbito de la
 informática, es exhortar a los usuarios de computadoras a adoptar el
 software libre: software que respeta la libertad de los
-usuarios[^software_que_respeta_la_libertad_de_los_usuarios]. Un programa
+usuarios[^78]. Un programa
 privativo (que no es libre) oprime la libertad de quienes lo usan; es un
 problema social y el estado debe erradicarlo.
 
@@ -1869,7 +1839,7 @@ software que utilizan los ciudadanos y las organizaciones:
   organizaciones para que utilicen un programa privativo. También deben
   desalentar las prácticas de comunicación y publicación que impliquen
   su uso (incluyendo la gestión digital de restricciones
-  DRM[^gestión_digital_de_restricciones_DRM]).
+  DRM[^79]).
 
 * **Distribuir únicamente software libre**.  Cuando una entidad del
   estado distribuye un programa al público en
@@ -1958,7 +1928,7 @@ equipos, incluidos los teléfonos inteligentes.
 La soberanía (y la seguridad) informática del estado depende del
 control que ejerza sobre las computadoras que utiliza para llevar a
 cabo su labor. Para ello es necesario evitar el uso del software como
-servicio[^software_como_servicio], a menos que el servicio esté a
+servicio[^80], a menos que el servicio esté a
 cargo de una entidad estatal que pertenezca a la misma rama del estado,
 como así también evitar otras prácticas que disminuyen el control
 que el estado ejerce sobre la informática. Así,
@@ -2009,7 +1979,7 @@ La libertad no debe originar basura electrónica
   los usuarios desarrollar, instalar y utilizar sustitutos para todo o
   parte del software instalado potencialmente modificable por el
   fabricante. Esto se aplicaría, en particular, a cualquier dispositivo
-  que haya que "desenjaular"[^1] para poder instalar un sistema
+  que haya que "desenjaular"[^81] para poder instalar un sistema
   operativo diferente, o cuyas interfaces para algunos periféricos sean
   secretas.
 
@@ -2017,36 +1987,34 @@ Con estas medidas, el estado puede recuperar el control de la informática
 y conducir a los ciudadanos, empresas y organizaciones hacia el control
 de su propia informática.
 
-[^1]: En inglés, "jailbraking": fuga de la cárcel.
+
+---
 
 Copyright © 2012 Free Software Foundation, Inc.
 
 Esta página está bajo una licencia Creative Commons
-Atribución-SinDerivadas 3.0 Estados Unidos de América
-[^licencia_cc-by-nd-3-usa].
+Atribución-SinDerivadas 3.0 Estados Unidos de América [^15].
 
 Traducción: Dora Scilipoti, 2011.
 
-Última actualización: 2014/04/12
+[^78]: https://gnu.org/philosophy/free-sw.html
 
+[^79]: http://www.defectivebydesign.org/what_is_drm
 
-[software_que_respeta_la_libertad_de_los_usuarios]: https://gnu.org/philosophy/free-sw.html
+[^80]: https://gnu.org/philosophy/who-does-that-server-really-serve.html
 
-[gestión_digital_de_restricciones_DRM]: http://www.defectivebydesign.org/what_is_drm
+[^81]: En inglés, "jailbraking": fuga de la cárcel.
 
-[software_como_servicio]: https://gnu.org/philosophy/who-does-that-server-really-serve.html
-
-% http://www.gnu.org/philosophy/surveillance-vs-democracy.es.html
 
 
 ¿Cuánta vigilancia puede soportar la democracia?
 ================================================
 
-Por Richard Stallman[^Richard_Stallman]
+Por Richard Stallman[^62]
 
 
-> *Una versión anterior de este artículo se publicó en Wired [^Wired]
-> en octubre de 2013.*
+> Una versión anterior de este artículo se publicó en Wired [^82] en
+> octubre de 2013.
 
 Gracias a las revelaciones de Edward Snowden, ahora sabemos que los
 niveles actuales de vigilancia general en la sociedad son incompatibles
@@ -2061,25 +2029,25 @@ Snowden) sean atrapados.
 
 Frente a los secretos del gobierno, nosotros, el pueblo, dependemos de
 los denunciantes para que nos informen de las acciones del
-Estado[^nos_informen_de_las_acciones_del_Estado]. No obstante, la
+Estado[^83]. No obstante, la
 vigilancia actual representa una amenaza para los potenciales
 denunciantes, lo que significa que es excesiva. Para recuperar nuestro
 control del Estado debemos reducir la vigilancia hasta el punto en que
 los denunciantes sepan que no corren peligro.
 
 Usar software libre, como he defendido desde hace 30
-años[^como_he_defendido_desde_hace_30_años], es el primer paso para
+años[^84], es el primer paso para
 tomar el control de nuestra vida digital, y eso incluye la prevención de
 la vigilancia. No podemos confiar en el software que no es libre. La NSA
-usa[^usa] e incluso crea[^crea] vulnerabilidades de seguridad en el
+usa[^85] e incluso crea[^86] vulnerabilidades de seguridad en el
 software que no es libre para poder invadir nuestros ordenadores y
 routers. El software libre nos permite ejercer el control sobre nuestras
 propias computadoras, pero eso no protegerá nuestra privacidad una vez
-que pongamos los pies en Internet[^eso_no_protegerá_nuestra_privacidad_una_vez_que_pongamos_los_pies_en_Internet].
+que pongamos los pies en Internet[^87].
 
 En los EEUU se está elaborando una legislación bipartidista para
 "restringir los poderes de vigilancia
-nacional"[^legislación_bipartidista], pero se basa en limitar el uso de
+nacional"[^88], pero se basa en limitar el uso de
 algunas partes de nuestros expedientes virtuales. Esto no será
 suficiente para proteger al denunciante si "capturar al denunciante" es
 una justificación para acceder a los datos necesarios para
@@ -2096,19 +2064,19 @@ vigilancia, una vigilancia que la democracia no puede soportar.
 Un funcionario no identificado del gobierno de los EE. UU. en 2011 hizo
 a los periodistas la inquietante declaración de que el Estado no citaría
 a los reporteros a declarar en los tribunales porque "sabemos con quién
-están hablando"[^el_Estado_no_citaría]. Para obtener tal información, a
+están hablando"[^89]. Para obtener tal información, a
 veces se requieren por orden judicial los registros de las llamadas
-telefónicas de los periodistas[^se_requieren_por_orden], aunque Snowden
+telefónicas de los periodistas[^90], aunque Snowden
 nos ha demostrado que, de hecho, constantemente se ordena la entrega de
 todos los registros de las llamadas telefónicas de todos los ciudadanos
-de los Estados Unidos, a Verizon[^Verizon] y a otras
-empresas[^otras_empresas].
+de los Estados Unidos, a Verizon[^91] y a otras
+empresas[^92].
 
 Los activistas opositores y disidentes se ven en la necesidad de ocultar
 información a los Estados que están dispuestos a jugarles trucos sucios.
 La Unión Estadounidense por las Libertades Civiles (ACLU) ha demostrado
 la práctica sistemática del gobierno de los Estados Unidos de
-infiltrarse en los grupos disidentes pacíficos[^práctica_sistemática]
+infiltrarse en los grupos disidentes pacíficos[^93]
 bajo el pretexto de que podría haber terroristas entre ellos. El punto
 en el que la vigilancia es excesiva se alcanza cuando el Estado puede
 averiguar quién se comunicó con un periodista o un disidente conocidos.
@@ -2121,7 +2089,7 @@ datos recopilados. Eso suena bien, pero no solucionará el problema en lo
 más mínimo, ni siquiera suponiendo que el Gobierno respete las reglas.
 La NSA ha engañado al tribunal de la Ley de Vigilancia de Inteligencia
 Extranjera (FISA), que manifestó ser incapaz de imputar efectivamente
-responsabilidades a la NSA[^manifestó_ser_incapaz]. La sospecha de un
+responsabilidades a la NSA[^94]. La sospecha de un
 delito será motivo para obtener el acceso, por lo que una vez que el
 denunciante haya sido acusado de "espionaje", la búsqueda del "espía"
 servirá de excusa para obtener el acceso al material recopilado.
@@ -2129,21 +2097,20 @@ servirá de excusa para obtener el acceso al material recopilado.
 El personal de vigilancia del Estado hará un uso indebido de los datos
 también por motivos personales. Algunos agentes de la NSA usaron los
 sistemas de vigilancia de los EEUU para rastrear a sus
-amantes[^usaron_los_sistemas_de_vigilancia] --pasados, presentes o
+amantes[^95] --pasados, presentes o
 anhelados--, una práctica llamada "LOVEINT". La NSA afirma que ha
 descubierto y castigado estos incidentes en algunas ocasiones, pero no
 sabemos cuántas veces que no los ha descubierto. Pero estos hechos no
 deberían sorprendernos, porque la policía lleva tiempo haciendo uso de
 su acceso a los registros de las licencias de conducir para localizar a
-alguna persona atractiva[^acceso_a_los_registros], práctica conocida
+alguna persona atractiva[^96], práctica conocida
 como "pasar una placa por una cita".
 
 Los datos obtenidos mediante la vigilancia siempre serán usados para
 otros propósitos, aunque esté prohibido. Una vez que los datos han sido
 recopilados y el Estado tiene la posibilidad de acceder a ellos, puede
 usarlos de muchas maneras temibles, como lo demuestran algunos ejemplos
-en Europa[^Europa] y Estados Unidos de
-América[^Estados_Unidos_de_América].
+en Europa[^97] y Estados Unidos de América[^98].
 
 La vigilancia masiva combinada con una legislación débil ofrece aguas
 propicias para una pesca masiva de cualquier presa deseada. Para asegurar
@@ -2154,14 +2121,14 @@ acceso para el Estado.
 
 La Electronic Frontier Foundation y otras organizaciones proponen una
 serie de principios jurídicos diseñados para prevenir los abusos de
-la vigilancia masiva[^prevenir_los_abusos_de_la_vigilancia_masiva]. Estos principios incluyen algo de importancia capital, la protección
+la vigilancia masiva[^99]. Estos principios incluyen algo de importancia capital, la protección
 legal explícita de los denunciantes. En consecuencia, dichos principios
 serían adecuados para proteger las libertades democráticas, siempre y
 cuando se adopten completamente y se apliquen sin excepción para siempre.
 
 No obstante, tales protecciones legales son precarias: como lo demuestra
 la historia reciente, pueden ser revocadas (como en el caso de la Ley
-de Enmiendas de la FISA), suspendidas o ignoradas[^ignoradas].
+de Enmiendas de la FISA), suspendidas o ignoradas[^100].
 
 Mientras tanto, los demagogos recurrirán a las excusas habituales como
 fundamento para la vigilancia total; cualquier ataque terrorista, incluso
@@ -2200,8 +2167,8 @@ en su propio ordenador y utilizando software libre.
 Por el bien de su privacidad, evite utilizar software que no es libre,
 ya que esto implica ceder a terceros el control de sus tareas
 informáticas y por lo tanto exponerse a que probablemente le
-espíen[^le_espíen]. Evite el *servicio sustitutivo del
-software*[^servicio_sustitutivo_del_software] (SaaSS), como así también
+espíen[^101]. Evite el *servicio sustitutivo del
+software*[^102] (SaaSS), como así también
 ceder a terceros el control de sus tareas informáticas, pues esto supone
 el envío de todos los datos pertinentes al servidor.
 
@@ -2255,7 +2222,7 @@ para ver con quiénes hablan.
 
 Las cámaras conectadas a Internet a menudo tienen una pésima seguridad
 digital, así que cualquiera podría observar lo que la cámara
-ve[^cualquiera_podría_observar_lo_que_la_cámara_ve]. Para restaurar la
+ve[^103]. Para restaurar la
 privacidad, deberíamos prohibir el uso de cámaras que estén conectadas a
 Internet y situadas en los lugares y horarios en que el público entra y
 sale, excepto cuando se trate de cámaras que lleva la gente. Todos
@@ -2275,10 +2242,10 @@ las empresas.
 
 A través del programa PRISM, la NSA ha accedido a las bases de datos de
 muchas grandes corporaciones de
-Internet[^ha_accedido_a_las_bases_de_datos_de_muchas_grandes_corporaciones_de_Internet].
+Internet[^104].
 La empresa AT&T ha guardado todos los registros telefónicos desde 1987 y
 los pone a disposición de la Brigada Antidroga
-(DEA)[^los_pone_a_disposición_de_la_Brigada_Antidroga_(DEA)] cuando se
+(DEA)[^105] cuando se
 los solicita. Estrictamente hablando, el gobierno de los EE. UU. no
 posee esos datos, pero en términos prácticos bien podría poseerlos.
 
@@ -2301,11 +2268,11 @@ violar la privacidad que compromisos para defenderla.
 
 Podríamos solucionar estos dos problemas adoptando un sistema de pago
 anónimo (anónimo para quienes pagan, no queremos que quienes cobran
-evadan los impuestos). Bitcoin no es anónimo[^Bitcoin_no_es_anónimo],
+evadan los impuestos). Bitcoin no es anónimo[^106],
 aunque se están haciendo esfuerzos para idear métodos de pago anónimo.
 Sin embargo, la tecnología para crear dinero digital se desarrolló por
 primera vez en los años
-ochenta[^dinero_digital_se_desarrolló_por_primera_vez_en_los_años_ochenta];
+ochenta[^107];
 solamente necesitamos acuerdos comerciales adecuados y que el Estado no
 los obstruya.
 
@@ -2321,7 +2288,7 @@ si el sitio no sabe nada de nosotros.
 Debemos hacer que los pagos mediante telepeaje sean anónimos (con dinero
 digital, por ejemplo). Los sistemas de reconocimiento de matrículas
 reconocen todas las placas y los datos se pueden conservar
-indefinidamente[^los_datos_se_pueden_conservar_indefinidamente]; se les
+indefinidamente[^108]; se les
 debe requerir por ley que identifiquen y registren solo aquellas placas
 cuyos números estén en la lista de vehículos buscados por orden
 judicial. Una alternativa menos segura registraría todos los vehículos a
@@ -2331,7 +2298,7 @@ búsqueda de una lista de números de placa por orden judicial.
 
 La lista de "prohibición de vuelo" de los EE. UU. es algo que debe
 abolirse, ya que supone la imposición de una pena sin juicio
-previo[^imposición_de_una_pena_sin_juicio_previo].
+previo[^109].
 
 Es aceptable que exista un listado de personas a quienes se les debe
 inspeccionar con mayor atención, como así también sus equipajes, y los
@@ -2387,12 +2354,12 @@ Los proveedores del servicio de Internet ISP y las compañías telefónicas
 conservan mucha información de los contactos de sus usuarios
 (navegación, llamadas telefónicas, etc). Cuando se trata de teléfonos
 celulares, también registran la ubicación física del
-usuario[^registran_la_ubicación_física_del_usuario]. Conservan estos
+usuario[^110]. Conservan estos
 expedientes por largo tiempo: más de 30 años, en el caso de AT&T. Muy
 pronto registrarán también las actividades
-físicas[^las_actividades_físicas]. Parece ser que la NSA recoge los
+físicas[^111]. Parece ser que la NSA recoge los
 datos sobre la ubicación de los celulares
-[^la_NSA_recoge_los_datos_sobre_la_ubicación_de_los_celulares] en masa.
+[^112] en masa.
 
 Las comunicaciones no monitoreadas son imposibles cuando los sistemas
 crean esos expedientes. Por eso debería ser ilegal crearlos o
@@ -2403,7 +2370,7 @@ exista una orden judicial para vigilar a una cierta persona.
 Esta solución no es completamente satisfactoria porque no evitaría que
 el gobierno físicamente recoja toda la información inmediatamente a
 medida que se genera, que es lo que hace Estados Unidos con algunas o
-todas las compañías telefónicas[^es_lo_que_hace]. Tendríamos que confiar
+todas las compañías telefónicas[^113]. Tendríamos que confiar
 en que se prohibiera por ley. Sin embargo, eso sería mejor que la
 situación actual, pues la legislación relevante, la PATRIOT Act (Ley
 Patriótica), no prohíbe claramente esta práctica. Además, si el gobierno
@@ -2423,18 +2390,16 @@ esto no haría posible encontrar a los denunciantes a posteriori.
 Los individuos con poderes especiales otorgados por el Estado, como los
 policías, renuncian a su derecho a la privacidad y deben ser
 monitoreados (de hecho, la policía tiene su propia jerga para el
-perjurio: "testimiento"[^testimiento], dado que lo hacen con mucha
+perjurio: "testimiento"[^114], dado que lo hacen con mucha
 frecuencia, en particular sobre manifestantes y
-fotógrafos[^fotógrafos]). En una ciudad de California donde se obligó a
+fotógrafos[^115]). En una ciudad de California donde se obligó a
 los policías a llevar puestas cámaras de video todo el tiempo, el uso de
-la fuerza disminuyó en un 60% [^el_uso_de_la_fuerza]. La Unión
+la fuerza disminuyó en un 60%[^116]. La Unión
 Estadounidense por las Libertades Civiles está a favor de esto.
 
-Las corporaciones no son personas, y no tienen derechos humanos
-[^Las_corporaciones]
-. Es legítimo solicitar a las empresas que publiquen los detalles de
+Las corporaciones no son personas, y no tienen derechos humanos[^117]. Es legítimo solicitar a las empresas que publiquen los detalles de
 procesos que podrían causar daños químicos, biológicos, nucleares,
-físicos, informáticos (por ejemplo, DRM[^DRM], gestión digital
+físicos, informáticos (por ejemplo, DRM[^118], gestión digital
 de restricciones) o políticos (por ejemplo, lobbying) a la sociedad,
 en cualquier nivel que sea necesario para el bien público. El peligro
 de estas operaciones (consideren el derrame de petróleo de BP, el
@@ -2450,7 +2415,7 @@ La tecnología digital ha ocasionado un inmenso incremento de los niveles
 de vigilancia sobre nuestros movimientos, acciones y comunicaciones. Ha
 ido mucho más allá de lo que experimentamos en la década de los noventa,
 y mucho más allá de lo que experimentó la población detrás de la Cortina
-de Hierro[^mucho_más_allá] en los años ochenta, e irá aún más allá,
+de Hierro[^119] en los años ochenta, e irá aún más allá,
 incluso si se imponen límites legales adicionales al uso que los Estados
 pueden hacer de los datos acumulados.
 
@@ -2460,98 +2425,94 @@ de lo que lo fueron las poblaciones de la Unión Soviética y Alemania
 del Este, debemos revertir ese incremento. Para ello es necesario detener
 la recopilación de grandes cantidades de datos sobre los ciudadanos.
 
+---
 
 Copyright 2013 Richard Stallman
 
 Esta página está bajo una licencia Creative Commons
-Atribución-SinDerivadas 3.0 Estados Unidos de
-América[^licencia_cc-by-nd-3-usa].
+Atribución-SinDerivadas 3.0 Estados Unidos de América[^15].
 
 Traducción: Colaborativa.
 
 Revisión: Colaborativa.
 
-Última actualización: 2014/04/15
+[^82]: http://www.wired.com/opinion/2013/10/a-necessary-evil-what-it-takes-for-democracy-to-survive-surveillance/
+
+[^83]: https://www.eff.org/deeplinks/2013/11/reddit-tpp-ama
+
+[^84]: https://gnu.org/philosophy/free-software-even-more-important.html
+
+[^85]: http://blogs.computerworlduk.com/open-enterprise/2013/06/how-can-any-company-ever-trust-microsoft-again/index.htm
+
+[^86]: http://www.theguardian.com/world/2013/sep/05/nsa-gchq-encryption-codes-security
+
+[^87]: http://www.wired.com/opinion/2013/10/149481/
+
+[^88]: http://www.theguardian.com/world/2013/oct/10/nsa-surveillance-patriot-act-author-bill
+
+[^89]: http://www.rcfp.org/browse-media-law-resources/news-media-law/news-media-and-law-summer-2011/lessons-wye-river
+
+[^90]: http://www.theguardian.com/media/2013/sep/24/yemen-leak-sachtleben-guilty-associated-press
+
+[^91]: http://www.theguardian.com/world/interactive/2013/jun/06/verizon-telephone-data-court-order
+
+[^92]: http://www.marketwatch.com/story/nsa-data-mining-digs-into-networks-beyond-verizon-2013-06-07
+
+[^93]: http://www.aclu.org/files/assets/Spyfiles_2_0.pdf
+
+[^94]: http://www.wired.com/threatlevel/2013/09/nsa-violations/
+
+[^95]: http://www.theguardian.com/world/2013/aug/24/nsa-analysts-abused-surveillance-systems
+
+[^96]: http://www.sweetliberty.org/issues/privacy/lein1.htm
+
+[^97]: http://falkvinge.net/2012/03/17/collected-personal-data-will-always-be-used-against-the-citizens/
+
+[^98]: https://es.wikipedia.org/wiki/Campos_de_concentración_en_los_Estados_Unidos
+
+[^99]: https://en.necessaryandproportionate.org/text
+
+[^100]: http://www.nytimes.com/2009/04/16/us/16nsa.html
+
+[^101]: https://gnu.org/philosophy/proprietary-surveillance.html
+
+[^102]: https://gnu.org/philosophy/who-does-that-server-really-serve.html
+
+[^103]: http://www.networkworld.com/community/blog/cia-wants-spy-you-through-your-appliances
+
+[^104]: https://www.commondreams.org/headline/2013/08/23-2
+
+[^105]: http://www.nytimes.com/2013/09/02/us/drug-agents-use-vast-phone-trove-eclipsing-nsas.html?_r=0
+
+[^106]: http://www.wired.com/opinion/2013/05/lets-cut-through-the-bitcoin-hype/
+
+[^107]: http://www.wired.com/wired/archive/2.12/emoney_pr.html
+
+[^108]: http://news.bbc.co.uk/2/hi/programmes/whos_watching_you/8064333.stm
+
+[^109]: https://www.aclu.org/blog/national-security-technology-and-liberty-racial-justice/victory-federal-court-recognizes
+
+[^110]: http://www.zeit.de/digital/datenschutz/2011-03/data-protection-malte-spitz
+
+[^111]: http://www.wired.com/opinion/2013/10/the-trojan-horse-of-the-latest-iphone-with-the-m7-coprocessor-we-all-become-qs-activity-trackers/
+
+[^112]: https://www.aclu.org/blog/national-security-technology-and-liberty/it-sure-sounds-nsa-tracking-your-location
+
+[^113]: http://www.guardian.co.uk/world/2013/jun/06/nsa-phone-records-verizon-court-order
+
+[^114]: https://en.wikipedia.org/w/index.php?title=Police_perjury&oldid=552608302
+
+[^115]: http://photographyisnotacrime.com/
+
+[^116]: http://www.motherjones.com/kevin-drum/2013/08/ubiquitous-surveillance-police-edition
+
+[^117]: http://action.citizen.org/p/dia/action3/common/public/?action_KEY=12266
+
+[^118]: http://DefectiveByDesign.org
+
+[^119]: http://blogs.hbr.org/cs/2013/06/your_iphone_works_for_the_secret_police.html
 
 
-[Wired]: http://www.wired.com/opinion/2013/10/a-necessary-evil-what-it-takes-for-democracy-to-survive-surveillance/
-
-[nos_informen_de_las_acciones_del_Estado]: https://www.eff.org/deeplinks/2013/11/reddit-tpp-ama
-
-[como_he_defendido_desde_hace_30_años]: https://gnu.org/philosophy/free-software-even-more-important.html
-
-[usa]: http://blogs.computerworlduk.com/open-enterprise/2013/06/how-can-any-company-ever-trust-microsoft-again/index.htm
-
-[crea]: http://www.theguardian.com/world/2013/sep/05/nsa-gchq-encryption-codes-security
-
-[eso_no_protegerá_nuestra_privacidad_una_vez_que_pongamos_los_pies_en_Internet]: http://www.wired.com/opinion/2013/10/149481/
-
-[legislación_bipartidista]: http://www.theguardian.com/world/2013/oct/10/nsa-surveillance-patriot-act-author-bill
-
-[el_Estado_no]: http://www.rcfp.org/browse-media-law-resources/news-media-law/news-media-and-law-summer-2011/lessons-wye-river
-
-[se_requieren_por_orden]: http://www.theguardian.com/media/2013/sep/24/yemen-leak-sachtleben-guilty-associated-press
-
-[Verizon]: http://www.theguardian.com/world/interactive/2013/jun/06/verizon-telephone-data-court-order
-
-[otras_empresas]: http://www.marketwatch.com/story/nsa-data-mining-digs-into-networks-beyond-verizon-2013-06-07
-
-[práctica_sistemática]: http://www.aclu.org/files/assets/Spyfiles_2_0.pdf
-
-[manifestó_ser_incapaz]: http://www.wired.com/threatlevel/2013/09/nsa-violations/
-
-[usaron_los_sistemas_de]: http://www.theguardian.com/world/2013/aug/24/nsa-analysts-abused-surveillance-systems
-
-[acceso_a_los_registros]: http://www.sweetliberty.org/issues/privacy/lein1.htm
-
-[Europa]: http://falkvinge.net/2012/03/17/collected-personal-data-will-always-be-used-against-the-citizens/
-
-[Estados_Unidos_de_América]: https://es.wikipedia.org/wiki/Campos_de_concentración_en_los_Estados_Unidos
-
-[prevenir_los_abusos_de_la_vigilancia_masiva]: https://en.necessaryandproportionate.org/text
-
-[ignoradas]: http://www.nytimes.com/2009/04/16/us/16nsa.html
-
-[le_espíen]: https://gnu.org/philosophy/proprietary-surveillance.html
-
-[servicio_sustitutivo_del_software]: https://gnu.org/philosophy/who-does-that-server-really-serve.html
-
-[cualquiera_podría_observar]: http://www.networkworld.com/community/blog/cia-wants-spy-you-through-your-appliances
-
-[ha_accedido_a_las_bases]: https://www.commondreams.org/headline/2013/08/23-2
-
-[los_pone_a_disposición]: http://www.nytimes.com/2013/09/02/us/drug-agents-use-vast-phone-trove-eclipsing-nsas.html?_r=0
-
-[Bitcoin_no_es_anónimo]: http://www.wired.com/opinion/2013/05/lets-cut-through-the-bitcoin-hype/
-
-[dinero_digital]: http://www.wired.com/wired/archive/2.12/emoney_pr.html
-
-[los_datos_se_pueden]: http://news.bbc.co.uk/2/hi/programmes/whos_watching_you/8064333.stm
-
-[imposición_de_una_pena_sin_juicio_previo]: https://www.aclu.org/blog/national-security-technology-and-liberty-racial-justice/victory-federal-court-recognizes
-
-[registran_la_ubicación_física_del_usuario]: http://www.zeit.de/digital/datenschutz/2011-03/data-protection-malte-spitz
-
-[las_actividades_físicas]: http://www.wired.com/opinion/2013/10/the-trojan-horse-of-the-latest-iphone-with-the-m7-coprocessor-we-all-become-qs-activity-trackers/
-
-[la_NSA_recoge_los_datos_sobre_la_ubicación_de_los_celulares]: https://www.aclu.org/blog/national-security-technology-and-liberty/it-sure-sounds-nsa-tracking-your-location
-
-[es_lo_que_hace_Estados_Unidos_con_algunas_o_todas_las_compañías_telefónicas]: http://www.guardian.co.uk/world/2013/jun/06/nsa-phone-records-verizon-court-order
-
-[testimiento]: https://en.wikipedia.org/w/index.php?title=Police_perjury&oldid=552608302
-
-[fotógrafos]: http://photographyisnotacrime.com/
-
-[el_uso_de_la_fuerza_disminuyó_en_un_60%]: http://www.motherjones.com/kevin-drum/2013/08/ubiquitous-surveillance-police-edition
-
-[Las_corporaciones_no_son_personas,_y_no_tienen_derechos_humanos]: http://action.citizen.org/p/dia/action3/common/public/?action_KEY=12266
-
-[DRM]: http://DefectiveByDesign.org
-
-[mucho_más_allá_de_lo_que_experimentó_la_población_detrás_de_la_Cortina_de_Hierro]: http://blogs.hbr.org/cs/2013/06/your_iphone_works_for_the_secret_police.html
-
-
-% http://www.economiasolidaria.org/documentos/declaracion_de_richard_stallman_y_euclides_mance
 
 Declaración de Richard Stallman y Euclides Mance sobre Economía Solidaria y Software Libre
 ==========================================================================================
@@ -2627,13 +2588,13 @@ dependencias en los estudiantes.
 
 Curitiba, 15 de diciembre de 2012
 
+---
 
 Copyright (c) 2013 Euclides Mance y Richard Stallman Verbatim copying
 and redistribution of this entire declaration are permitted provided
 this notice is preserved.
 
 
-% http://www.gnu.org/philosophy/open-source-misses-the-point.es.html
 
 
 Por qué el código abierto pierde el punto de vista del software libre
@@ -2641,11 +2602,11 @@ Por qué el código abierto pierde el punto de vista del software libre
 
 Por **Richard Stallman**
 
-Cuando decimos que el software es "libre", nos referimos a que respeta las
-libertades esenciales del usuario:[^las_libertades_esenciales_del_usuario] la libertad de utilizarlo, ejecutarlo, estudiarlo y modificarlo, y de
-distribuir copias con o sin modificaciones. Es una cuestión de libertad
-y no de precio, por lo tanto piense en "libertad de expresión" y no en
-"barra libre"[^1].
+Cuando decimos que el software es "libre", nos referimos a que respeta
+las libertades esenciales del usuario:[^120] la libertad de utilizarlo,
+ejecutarlo, estudiarlo y modificarlo, y de distribuir copias con o sin
+modificaciones. Es una cuestión de libertad y no de precio, por lo tanto
+piense en "libertad de expresión" y no en "barra libre"[^121].
 
 Estas libertades son de vital importancia. Son esenciales no solamente
 para el bien del usuario individual sino para la sociedad entera, porque
@@ -2658,30 +2619,29 @@ se vuelve cada vez más esencial para la libertad en general.
 Decenas de millones de personas alrededor del mundo ahora utilizan
 software libre; las escuelas públicas de algunas regiones de India y
 España enseñan a todos los estudiantes a utilizar el sistema operativo
-libre GNU/Linux[^sistema_operativo_libre_GNU/Linux]. Sin embargo,
-la mayoría de estos usuarios nunca han oído las razones éticas por
-las cuales desarrollamos este sistema y construimos la comunidad del
-software libre, porque este sistema y esta comunidad son descritos como
-"de código abierto" y atribuidos a una filosofía diferente que rara
-vez menciona estas libertades.
+libre GNU/Linux[^122]. Sin embargo, la mayoría de estos usuarios nunca
+han oído las razones éticas por las cuales desarrollamos este sistema
+y construimos la comunidad del software libre, porque este sistema y
+esta comunidad son descritos como "de código abierto" y atribuidos a una
+filosofía diferente que rara vez menciona estas libertades.
 
 El movimiento del software libre ha hecho campaña por la libertad
 de los usuarios de ordenador desde 1983. En 1984 iniciamos el
 desarrollo del sistema operativo libre GNU, para poder evitar el uso
-de sistemas operativos que no son libres y que niegan la libertad a los
-usuarios. Durante los años ochenta desarrollamos la mayor parte de los
-componentes esenciales del sistema GNU, y diseñamos la Licencia Pública
-General de GNU[^Licencia_Pública_General_de_GNU]
- (GNU GPL, por sus siglas en inglés) para usarla en la distribución
- de dichos componentes; una licencia diseñada específicamente para
- proteger la libertad de todos los usuarios de un programa.
+de sistemas operativos que no son libres y que niegan la libertad a
+los usuarios. Durante los años ochenta desarrollamos la mayor parte de
+los componentes esenciales del sistema GNU, y diseñamos la Licencia
+Pública General de GNU[^123] (GNU GPL, por sus siglas en inglés) para
+usarla en la distribución de dichos componentes; una licencia diseñada
+específicamente para proteger la libertad de todos los usuarios de un
+programa.
 
 Sin embargo, no todos los usuarios y programadores de software libre
 estaban de acuerdo con los objetivos del movimiento del software
 libre. En 1998 una parte de la comunidad del software libre se bifurcó
 y dió inicio a una campaña para promover el "open source" (código
 abierto). La expresión se propuso originalmente para evitar un posible
-malentendido con el término "free software"[^2] (software libre),
+malentendido con el término "free software"[^124] (software libre),
 pero pronto se asoció con posiciones filosóficas diferentes a las del
 movimiento del software libre.
 
@@ -2710,14 +2670,14 @@ sentido meramente práctico. Sostiene que el software privativo no es una
 solución óptima para los problemas prácticos que hay que resolver. En
 la mayoría de los casos, cuando se discute sobre "código abierto" no se
 toma en consideración el bien y el mal sino únicamente la popularidad
-y el éxito; he aquí un ejemplo típico[^ejemplo_típico].
+y el éxito; he aquí un ejemplo típico[^125].
 
 Para el movimiento del software libre, sin embargo, el software que no es
 libre es un problema social y la solución consiste en dejar de usarlo,
 migrar al software libre.
 
 "Software libre". "Código abierto". Si es el mismo software (o
-casi[^o_casi]), ¿importa acaso qué nombre se utiliza? Sí, porque las
+casi[^126]), ¿importa acaso qué nombre se utiliza? Sí, porque las
 diferentes palabras expresan ideas diferentes. Aunque un programa libre
 con cualquier otro nombre le dará hoy la misma libertad, establecer la
 libertad de manera perdurable depende sobre todo de enseñar a las
@@ -2772,7 +2732,7 @@ las alternativas propuestas para "software libre" tienen algún tipo de
 problema semántico, incluso "software de código abierto".
 
 La definición oficial de "software de código
-abierto"[^definición_oficial_de_software_de_código_abierto] (publicada
+abierto"[^127] (publicada
 por la Open Source Initiative y demasiado larga como para citarla aquí)­
 se derivó indirectamente de nuestros criterios para el software libre.
 No es la misma, es un poco más amplia en algunos aspectos. No obstante,
@@ -2799,7 +2759,7 @@ disponible pública y libremente, aunque los términos de licenciamento
 pueden variar con respecto a lo que se puede hacer con el código".
 
 El New York Times publicó un artículo que amplía el significado del
-término[^un_artículo_que_amplía_el_significado_del_término] para
+término[^128] para
 referirse a las pruebas de los programas beta por parte de los usuarios
 (se permite a unos cuantos usuarios probar una versión inicial para que
 den sus impresiones de forma conficendial), algo que los programadores
@@ -2822,7 +2782,7 @@ Otra mala interpretación de "código abierto" es la idea de que significa
 Ambas interpretaciones son incorrectas, ya que la GPL de GNU se califica
 como licencia de código abierto, y la mayoría de las licencias de código
 abierto se consideran licencias de software libre. Existen muchas
-licencias de software libre[^licencias_de_software_libre] además de la
+licencias de software libre[^129] además de la
 GPL de GNU.
 
 El término "código abierto" se ha extendido aún más debido a su
@@ -2833,7 +2793,7 @@ son pertinentes. El único elemento que estas actividades tienen en común
 es que, de algún modo, se invita a las personas a participar. Fuerzan
 tanto el término que llega a significar únicamente "participación"
 o "transparencia", o aún menos que eso. En el peor de los casos, se ha
-convertido en una trivial expresión de moda[^trivial_expresión_de_moda].
+convertido en una trivial expresión de moda[^130].
 
 ## Valores diferentes pueden llevar a conclusiones similares, pero no siempre
 
@@ -2901,14 +2861,12 @@ Bajo la presión de las compañías discográficas y cinematográficas, el
 software que se pone a disposición de los usuarios está diseñado cada
 vez más específicamente para restringirlos. Esta funcionalidad maliciosa
 se conoce como "gestión digital de restricciones"
-DRM[^DefectiveByDesign.org] y es la antítesis, en espíritu, de la
+DRM[^131] y es la antítesis, en espíritu, de la
 libertad que el software libre busca proveer. Y no sólo en espíritu,
 puesto que el objetivo del DRM es pisotear su libertad: los
 programadores de DRM intentan dificultarle, hacer que le resulte
 imposible o incluso ilegal modificar los programas que implementan el
 DRM.
-
-[^DefectiveByDesign.org]: http://defectivebydesign.org
 
 Con todo, algunos partidarios del código abierto han propuesto software
 con "DRM de código abierto". La idea es que publicando el código
@@ -2987,14 +2945,12 @@ y no menos.
 
 ## "FLOSS" y "FOSS"
 
-Los términos "FLOSS" y "FOSS" se utilizan para indicar neutralidad entre
-el software libre y el código
-abierto[^neutralidad_entre_el_software_libre_y_el_código_abierto]. Si su
-objetivo es ser neutral, el más adecuado es "FLOSS", ya que este es
-verdaderamente neutral. Pero si lo que usted desea es defender la
-libertad, utilizar un término neutral no es la manera de hacerlo.
-Defender la libertad implica mostrar a los demás que se está a favor de
-la libertad.
+Los términos "FLOSS" y "FOSS" se utilizan para indicar neutralidad
+entre el software libre y el código abierto[^132]. Si su objetivo es
+ser neutral, el más adecuado es "FLOSS", ya que este es verdaderamente
+neutral. Pero si lo que usted desea es defender la libertad, utilizar
+un término neutral no es la manera de hacerlo.  Defender la libertad
+implica mostrar a los demás que se está a favor de la libertad.
 
 ## Conclusión
 
@@ -3008,63 +2964,61 @@ en lugar de "código abierto", apoya nuestros esfuerzos.
 ## Notas
 
 Lakhani y Wolf escribieron una ponencia acerca la motivación de los
-programadores de software
-libre[^ponencia_acerca_la_motivación_de_los_programadores_de_software_libre]
-donde sostienen que una parte considerable está motivada por la opinión
-de que el software debe ser libre (a pesar de que encuestaron a los
-desarrolladores de SourceForge, un sitio que no opina que este sea un
-asunto ético).
+programadores de software libre[^133] donde sostienen que una parte
+considerable está motivada por la opinión de que el software debe ser
+libre (a pesar de que encuestaron a los desarrolladores de SourceForge,
+un sitio que no opina que este sea un asunto ético).
 
-[^1]: En inglés el término free puede significar "libre" o "gratuito".
-
-[^2]: En inglés la expresión "free software" podría interpretarse como
-"software gratuito", pero esta ambigüedad no existe en español.
+---
 
 Copyright © 2007, 2010, 2012 Richard Stallman
 
 Esta página está bajo una licencia Creative Commons
-Atribución-SinDerivadas 3.0 Estados Unidos de América
-[^licencia_cc-by-nd-3-usa].
+Atribución-SinDerivadas 3.0 Estados Unidos de América[^15].
 
-[^las_libertades_esenciales_del_usuario]: https://gnu.org/philosophy/free-sw.html
+[^120]: https://gnu.org/philosophy/free-sw.html
 
-[^sistema_operativo_libre_GNU/Linux]: https://gnu.org/gnu/linux-and-gnu.html
+[^121]: En inglés el término free puede significar "libre" o "gratuito".
 
-[^Licencia_Pública_General_de_GNU]: https://gnu.org/licenses/gpl.html
+[^122]: https://gnu.org/gnu/linux-and-gnu.html
 
-[^ejemplo_típico]: http://www.linuxinsider.com/story/Open-Source-Is-Woven-Into-the-Latest-Hottest-Trends-78937.html
+[^123]: https://gnu.org/licenses/gpl.html
 
-[^o_casi]: https://gnu.org/philosophy/free-open-overlap.html
+[^124]: En inglés la expresión "free software" podría interpretarse como
+"software gratuito", pero esta ambigüedad no existe en español.
 
-[^definición_oficial_de_software_de_código_abierto]: http://opensource.org/docs/osd
+[^125]: http://www.linuxinsider.com/story/Open-Source-Is-Woven-Into-the-Latest-Hottest-Trends-78937.html
 
-[^un_artículo_que_amplía_el_significado_del_término]: http://www.nytimes.com/external/gigaom/2009/02/07/07gigaom-the-brave-new-world-of-open-source-game-design-37415.html
+[^126]: https://gnu.org/philosophy/free-open-overlap.html
 
-[^licencias_de_software_libre]: https://gnu.org/licenses/license-list.html
+[^127]: http://opensource.org/docs/osd
 
-[^trivial_expresión_de_moda]: http://www.nytimes.com/2013/03/17/opinion/sunday/morozov-open-and-closed.html
+[^128]: http://www.nytimes.com/external/gigaom/2009/02/07/07gigaom-the-brave-new-world-of-open-source-game-design-37415.html
 
-[^DefectiveByDesign.org]: http://defectivebydesign.org/
+[^129]: https://gnu.org/licenses/license-list.html
 
-[^neutralidad_entre_el_software_libre_y_el_código_abierto]: https://gnu.org/philosophy/floss-and-foss.html
+[^130]: http://www.nytimes.com/2013/03/17/opinion/sunday/morozov-open-and-closed.html
 
-[^ponencia_acerca_la_motivación_de_los_programadores_de_software_libre]: http://freesoftware.mit.edu/papers/lakhaniwolf.pdf
+[^131]: http://defectivebydesign.org/
+
+[^132]: https://gnu.org/philosophy/floss-and-foss.html
+
+[^133]: http://freesoftware.mit.edu/papers/lakhaniwolf.pdf
 
 
-% http://www.gnu.org/gnu/why-gnu-linux.es.html
 
 
 ¿Qué hay en un nombre?
 ======================
 
-Por Richard Stallman[^Richard_Stallman]
+Por Richard Stallman[^62]
 
 > Para aprender más sobre esta tema puede leer las preguntas frecuentes
-> acerca de GNU/Linux[^preguntas_frecuentes_acerca_de_GNU/Linux], nuestra
-> página sobre Linux y el Proyecto GNU[^Linux_y_el_Proyecto_GNU], la cual
+> acerca de GNU/Linux[^134], nuestra
+> página sobre Linux y el Proyecto GNU[^135], la cual
 > relata la historia del sistema GNU/Linux y su relación con esta cuestión
 > de la nomenclatura y nuestra página sobre usuarios de GNU que nunca han
-> oído hablar sobre GNU[^usuarios_de_GNU_que_nunca_han_oído_hablar_sobre_GNU].
+> oído hablar sobre GNU[^136].
 
 Los nombres transmiten significados, nuestra elección de los nombres
 determina el significado de lo que decimos. Un nombre inadecuado da a la
@@ -3127,7 +3081,7 @@ Robert McMillan, editor de Linux Magazine, "piensa que el cambio a
 software de código abierto ("open source") debe ser apoyado mediante
 decisiones técnicas y no políticas". Y el director general de Caldera
 instó abiertamente a los usuarios a abandonar el objetivo de la libertad
-y trabajar en cambio por la "popularidad de Linux"[^mail_archive].
+y trabajar en cambio por la "popularidad de Linux"[^137].
 
 Añadir software que no sea libre al sistema GNU/Linux puede incrementar
 su popularidad, si por popularidad entendemos el numero de personas que
@@ -3145,7 +3099,7 @@ totalmente libre. En el pasado, Motif y Qt mantuvieron atrapada a una
 gran cantidad de software por este motivo, creando problemas que han
 tardado años en solucionarse. Motif continuó siendo un problema hasta
 que quedó obsoleto y ya no se utiliza. Más tarde Java, la aplicación no
-libre de Sun, tuvo un efecto similar: la trampa de Java[^java], que
+libre de Sun, tuvo un efecto similar: la trampa de Java[^138], que
 afortunadamente ya ha sido mayoritariamente corregida.
 
 Si nuestra comunidad continúa avanzando en esta dirección, en el futuro
@@ -3214,19 +3168,40 @@ caso. Para animar a otros a que hagan todo lo que aún necesita hacerse,
 es necesario que se nos reconozca nuestro trabajo. Por favor, ayúdenos
 a hacerlo llamando al sistema operativo GNU/Linux.
 
+---
+
 Copyright © 2000, 2006, 2007, 2014 Richard Stallman
 
 Esta página está bajo una licencia Creative Commons
-Atribución-SinDerivadas 3.0 Estados Unidos de América
-[^licencia_cc-by-nd-3-usa].
+Atribución-SinDerivadas 3.0 Estados Unidos de América [^15].
 
-[^preguntas_frecuentes_acerca_de_GNU/Linux]: https://gnu.org/gnu/gnu-linux-faq.es.html
+[^134]: https://gnu.org/gnu/gnu-linux-faq.es.html
 
-[^Linux_y_el_Proyecto_GNU]: https://gnu.org/gnu/linux-and-gnu.es.html
+[^135]: https://gnu.org/gnu/linux-and-gnu.es.html
 
-[^usuarios_de_GNU_que_nunca_han_oído_hablar_sobre_GNU]: https://gnu.org/gnu/gnu-users-never-heard-of-gnu.es.html
+[^136]: https://gnu.org/gnu/gnu-users-never-heard-of-gnu.es.html
 
-[^mail_archive]: http://web.archive.org/web/20000920053929/http://www.zdnet.com/filters/printerfriendly/0,6061,2552025-2,00.html
+[^137]: http://web.archive.org/web/20000920053929/http://www.zdnet.com/filters/printerfriendly/0,6061,2552025-2,00.html
 
-[^java]: https://gnu.org/philosophy/java-trap.es.html
+[^138]: https://gnu.org/philosophy/java-trap.es.html
 
+
+[^copyleft]: http://www.gnu.org/copyleft/copyleft.es.html
+
+[^manifesto]: http://www.gnu.org/gnu/manifesto.es.html
+
+[fs-motives]: http://www.gnu.org/philosophy/fs-motives.es.html
+
+[^pragmatic]: http://www.gnu.org/philosophy/pragmatic.es.html
+
+[^free-software-even-more-important]: http://www.gnu.org/philosophy/free-software-even-more-important.es.html
+
+[^government-free-software]: http://www.gnu.org/philosophy/government-free-software.es.html
+
+[^surveillance-vs-democracy]: http://www.gnu.org/philosophy/surveillance-vs-democracy.es.html
+
+[^declaracion_de_richard_stallman_y_euclides_mance]: http://www.economiasolidaria.org/documentos/declaracion_de_richard_stallman_y_euclides_mance
+
+[^open-source-misses-the-point]: http://www.gnu.org/philosophy/open-source-misses-the-point.es.html
+
+[^why-gnu-linux]: http://www.gnu.org/gnu/why-gnu-linux.es.html
