@@ -350,8 +350,10 @@ Revisiones: Hernán Giovagnoli, Daniel (lluvia).
 
 
 
-¿Qué es el copyleft?
+¿Qué es el copyleft?[^copyleft]
 ====================
+
+[^copyleft]: http://www.gnu.org/copyleft/copyleft.es.html
 
 El copyleft es un método general para hacer un programa (u otro tipo
 de trabajo) libre, exigiendo que todas las versiones modificadas y
@@ -553,8 +555,10 @@ Atribución-SinDerivadas 3.0 Estados Unidos de América[^15] .
 
 
 
-El manifiesto de GNU
+El manifiesto de GNU[^manifesto]
 ====================
+
+[^manifesto]: http://www.gnu.org/gnu/manifesto.es.html
 
 El manifiesto de GNU, que aparece a continuación, lo escribió Richard
 Stallman[^41] en los inicios del proyecto GNU para
@@ -1195,8 +1199,10 @@ No se permite la realización de copias modificadas.
 
 
 
-Motivos para programar software libre
+Motivos para programar software libre[^fs-motives]
 =====================================
+
+[^fs-motives]: http://www.gnu.org/philosophy/fs-motives.es.html
 
 A continuación se exponen algunos de los motivos para programar
 software libre:
@@ -1292,10 +1298,12 @@ Atribución-SinDerivadas 3.0 Estados Unidos de América[^15].
 
 
 
-Copyleft: Idealismo pragmático
+Copyleft: Idealismo pragmático[^pragmatic]
 ==============================
 
-Por **Richard Stallman**[^62]
+[^pragmatic]: http://www.gnu.org/philosophy/pragmatic.es.html
+
+Por Richard Stallman[^62]
 
 Toda decisión que toma una persona proviene de sus valores y sus
 metas. Las personas pueden tener muchas metas y valores: fama, ganancias,
@@ -1461,10 +1469,12 @@ Traducción basada en el trabajo hecho por Traficantes de Sueños.
 
 
 
-El software libre es ahora aún más importante
+El software libre es ahora aún más importante[^free-software-even-more-important]
 =============================================
 
-Por **Richard Stallman**[^62]
+[^free-software-even-more-important]: http://www.gnu.org/philosophy/free-software-even-more-important.es.html
+
+Por Richard Stallman[^62]
 
 
 > Una versión considerablemente adaptada de este artículo se publicó en
@@ -1775,8 +1785,10 @@ similares.
 
 
 
-Medidas que los gobiernos pueden adoptar para promover el software libre
+Medidas que los gobiernos pueden adoptar para promover el software libre[^government-free-software]
 ========================================================================
+
+[^government-free-software]: http://www.gnu.org/philosophy/government-free-software.es.html
 
 Por **Richard Stallman**[^62]
 
@@ -2007,8 +2019,10 @@ Traducción: Dora Scilipoti, 2011.
 
 
 
-¿Cuánta vigilancia puede soportar la democracia?
+¿Cuánta vigilancia puede soportar la democracia?[^surveillance-vs-democracy]
 ================================================
+
+[^surveillance-vs-democracy]: http://www.gnu.org/philosophy/surveillance-vs-democracy.es.html
 
 Por Richard Stallman[^62]
 
@@ -2514,8 +2528,10 @@ Revisión: Colaborativa.
 
 
 
-Declaración de Richard Stallman y Euclides Mance sobre Economía Solidaria y Software Libre
+Declaración de Richard Stallman y Euclides Mance sobre Economía Solidaria y Software Libre[^declaracion_de_richard_stallman_y_euclides_mance]
 ==========================================================================================
+
+[^declaracion_de_richard_stallman_y_euclides_mance]: http://www.economiasolidaria.org/documentos/declaracion_de_richard_stallman_y_euclides_mance
 
 Lunes, 15/07/13
 
@@ -2597,10 +2613,12 @@ this notice is preserved.
 
 
 
-Por qué el código abierto pierde el punto de vista del software libre
+Por qué el código abierto pierde el punto de vista del software libre[^open-source-misses-the-point]
 =====================================================================
 
-Por **Richard Stallman**
+[^open-source-misses-the-point]: http://www.gnu.org/philosophy/open-source-misses-the-point.es.html
+
+Por Richard Stallman[^62]
 
 Cuando decimos que el software es "libre", nos referimos a que respeta
 las libertades esenciales del usuario:[^120] la libertad de utilizarlo,
@@ -3008,8 +3026,10 @@ Atribución-SinDerivadas 3.0 Estados Unidos de América[^15].
 
 
 
-¿Qué hay en un nombre?
+¿Qué hay en un nombre?[^why-gnu-linux]
 ======================
+
+[^why-gnu-linux]: http://www.gnu.org/gnu/why-gnu-linux.es.html
 
 Por Richard Stallman[^62]
 
@@ -3185,23 +3205,3 @@ Atribución-SinDerivadas 3.0 Estados Unidos de América [^15].
 
 [^138]: https://gnu.org/philosophy/java-trap.es.html
 
-
-[^copyleft]: http://www.gnu.org/copyleft/copyleft.es.html
-
-[^manifesto]: http://www.gnu.org/gnu/manifesto.es.html
-
-[fs-motives]: http://www.gnu.org/philosophy/fs-motives.es.html
-
-[^pragmatic]: http://www.gnu.org/philosophy/pragmatic.es.html
-
-[^free-software-even-more-important]: http://www.gnu.org/philosophy/free-software-even-more-important.es.html
-
-[^government-free-software]: http://www.gnu.org/philosophy/government-free-software.es.html
-
-[^surveillance-vs-democracy]: http://www.gnu.org/philosophy/surveillance-vs-democracy.es.html
-
-[^declaracion_de_richard_stallman_y_euclides_mance]: http://www.economiasolidaria.org/documentos/declaracion_de_richard_stallman_y_euclides_mance
-
-[^open-source-misses-the-point]: http://www.gnu.org/philosophy/open-source-misses-the-point.es.html
-
-[^why-gnu-linux]: http://www.gnu.org/gnu/why-gnu-linux.es.html
