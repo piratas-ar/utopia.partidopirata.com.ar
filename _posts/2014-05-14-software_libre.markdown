@@ -16,12 +16,11 @@ Definición de software libre
 ----------------------------
 
 > La definición de software libre estipula los criterios que se tienen
-
-que cumplir para que un programa sea considerado libre. De vez en cuando
-modificamos esta definición para clarificarla o para resolver problemas
-sobre cuestiones delicadas. Más abajo en esta página, en la sección
-Historial[^1], se puede consultar la lista de modificaciones
-que afectan la definición de software libre.
+> que cumplir para que un programa sea considerado libre. De vez en
+> cuando modificamos esta definición para clarificarla o para resolver
+> problemas sobre cuestiones delicadas. Más abajo en esta página, en la
+> sección Historial[^1], se puede consultar la lista de modificaciones
+> que afectan la definición de software libre.
 
 "Software libre" es el software que respeta la libertad de los usuarios
 y la comunidad. En grandes líneas, significa que **los usuarios tienen
