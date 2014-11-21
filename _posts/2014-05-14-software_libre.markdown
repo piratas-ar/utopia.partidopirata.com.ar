@@ -1486,6 +1486,8 @@ Traducción: Sergi Ruiz Trepat, 2014.
 
 Revisiones: Javier Fdez. Retenaga.
 
+[^62]: [http://www.stallman.org/](http://www.stallman.org/)
+
 [^67]: [http://www.wired.com/opinion/2013/09/why-free-software-is-more-important-now-than-ever-before](http://www.wired.com/opinion/2013/09/why-free-software-is-more-important-now-than-ever-before)
 
 [^68]: [https://gnu.org/help](https://gnu.org/help)
