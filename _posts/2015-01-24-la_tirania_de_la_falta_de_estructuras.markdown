@@ -11,13 +11,13 @@ Mississippi en mayo de 1970.  Fue transcrito para Notas del Tercer Año
 (1971) pero las editoras no lo usaron.  También fue enviado a varias
 publicaciones del movimiento, pero sólo uno pidió permiso para
 publicarlo; otros lo hicieron sin permiso.  La primera publicación
-oficial fue en el Volumen 2, Número 1 de La Segunda Ola (1972).  Esta
+oficial fue en el Volumen 2, Número 1 de "La Segunda Ola" (1972).  Esta
 versión temprana fue firmada como Joreen.  Otras versiones fueron
-publicadas en la Revista de Sociología de Berkeley, Volumen 17, 1972-73,
-pp. 151-165 y en la Revista Ms., julio de 1973, pp. 76-78 y 86-89,
-firmada como Jo Freeman.  Esta versión se difundió por todo el mundo.
-Muchas personas han editado, reimpreso, cortado y traducido "La Tiranía"
-en revistas, libros y sitios web, a menudo sin el permiso o el
+publicadas en la "Revista de Sociología" de Berkeley, Volumen 17,
+1972-73, pp. 151-165 y en la "Revista Ms.", julio de 1973, pp. 76-78 y
+86-89, firmada como Jo Freeman.  Esta versión se difundió por todo el
+mundo.  Muchas personas han editado, reimpreso, cortado y traducido "La
+Tiranía" en revistas, libros y sitios web, a menudo sin el permiso o el
 conocimiento de la autora.  Esta versión es una mezcla de las tres
 versiones citadas.
 
@@ -30,7 +30,7 @@ Argentina[^ppar].
 # Introducción
 
 Durante los años en que se estaba formando el movimiento de liberación
-de la mujer se hacía un gran énfasis en lo que se llamaban grupos sin
+de la mujer se ponía un gran énfasis en lo que se llamaban grupos sin
 líderes y sin estructuras como la (única) forma de organización del
 movimiento.  La fuente de esta idea venía de una reacción natural contra
 la sociedad sobre-estructurada en la que muchas de nosotras nos
@@ -53,7 +53,7 @@ importaba si no se producía nada más que estas reflexiones personales
 dentro de los grupos, porque su propósito no se extendía más allá de
 eso.
 
-Los problemas básicos no aparecieron hasta que cada grupo agotaba las
+Los problemas básicos no aparecían hasta que cada grupo agotaba las
 virtudes de la toma de conciencia y decidía dedicarse a algo más
 específico.  En este momento la mayoría naufragaba porque no tenían la
 voluntad de cambiar su estructura a medida que cambiaban sus tareas.
@@ -77,7 +77,7 @@ Necesitamos comprender por qué "la falta de estructuras" no funciona.
 Al contrario de lo que quisiéramos creer, no existe un grupo sin
 estructura.  Cualquier grupo de personas de cualquier naturaleza que
 exista durante un tiempo determinado inevitablemente se estructurará de
-alguna forma.  La organizaciòn puede ser flexible, variar con el tiempo,
+alguna forma.  La organización puede ser flexible, variar con el tiempo,
 distribuir de forma equilibrada o desequilibrada tareas, poderes y
 recursos a las personas del grupo.  Pero se formará a pesar de las
 habilidades, personalidades o intenciones de las personas involucradas.
@@ -94,10 +94,10 @@ hacer_ (laissez faire) es tan realista como una sociedad _dejar hacer_;
 la idea se convierte en una cortina de humo para las fuertes o las
 afortunadas que establecen una hegemonía incuestionable sobre otras.
 Esta hegemonía puede ser establecida tan fácilmente debido a que la idea
-de una "falta de estructura" no previene la formación de estructuras
+de una "falta de estructura" no impide la formación de estructuras
 informales, solo las formales. De una manera similar la filosofía _dejar
-hacer_ no previene al económicamente poderoso establecer control sobre
-salarios, precios y distribución de bienes; solo previene al gobierno de
+hacer_ no le impide al económicamente poderoso establecer control sobre
+salarios, precios y distribución de bienes; solo impide al gobierno
 hacerlo. Es por esto que la "falta de estructura" deriva en una forma de
 esconder el poder y dentro de los movimientos feministas es usualmente
 promovido por aquellas que son las más poderosas (sean o no concientes
@@ -106,7 +106,7 @@ reglas de cómo se toman las decisiones son conocidas por unas pocas
 personas y el reconocimiento del poder está limitado a aquellas que
 saben las reglas. Aquellas que no saben las reglas y no son elegidas
 para iniciarse, deben permanecer en estado de confusión, o sufrir
-delirios paranoides de que algo está pasando, aunque no están del todo
+delirios paranoicos de que algo está pasando, aunque no están del todo
 concientes de qué se trata.
 
 Para que todas tengan la oportunidad de participar en un grupo
@@ -240,8 +240,8 @@ participar.  Esto incluye a menudo: ser de clase media (a pesar de toda
 la retórica sobre la clase trabajadora), estar casada, no estar casada
 pero vivir con alguien, ser o pretender ser lesbiana, estar entre los 20
 y 30 años, haber asistido a la universidad, ser cool, no ser muy cool,
-identificarse como "radical", tener hijos o que te gusten los niños, no
-tener hijos, tener ciertas características "femeninas" como ser
+identificarse como "extremista", tener hijos o que te gusten los niños,
+no tener hijos, tener ciertas características "femeninas" como ser
 "amable", vestirse correctamente (ya sea tradicional como
 anti-tradicionalmente), etc.  También hay algunas características que
 casi siempre sirven para etiquetarte de "desviada" con la que no hay que
@@ -269,17 +269,17 @@ entonces hay que formar amistades con un grupo selecto de forma
 deliberada y establecer los patrones de interacción informal que son
 cruciales para la creación de un estructura informal.  Una vez que se
 forman estos patrones informales funcionan para auto-mantenerse y una de
-las tácticas más exitosas de este mantenimiento es la reclutación
-continua de personas que "encajan".  Se forma parte de una élite de la
+las tácticas más exitosas de este mantenimiento es el reclutamiento
+continuo de personas que "encajan".  Se forma parte de una élite de la
 misma forma que se ingresa a una sororidad[^sororidad].  Si se es
-percibida como una adición potencial, se es preparada por las miembros
-de la estructura informal y eventualmente se es iniciada o descartada.
-Si la sororidad no está políticamente al tanto de este proceso como para
-llevarlo a cabo activamente, puede ser iniciado por la ajena casi de la
-misma forma en que una se une a un club privado.  Encuentra una
-esponsor, es decir una miembro de la élite respetada internamente, para
-cultivar activamente su amistad.  Eventualmente la esponsor nos hará
-entrar al círculo.
+percibida como una incorporación potencial, se es preparada por las
+miembros de la estructura informal y eventualmente se es iniciada o
+descartada.  Si la sororidad no está políticamente al tanto de este
+proceso como para llevarlo a cabo activamente, puede ser iniciado por la
+ajena casi de la misma forma en que una se une a un club privado.
+Encuentra una esponsor, es decir una miembro de la élite respetada
+internamente, para cultivar activamente su amistad.  Eventualmente la
+esponsor nos hará entrar al círculo.
 
 [^sororidad]: [https://es.wikipedia.org/wiki/Fraternidades_y_sororidades](https://es.wikipedia.org/wiki/Fraternidades_y_sororidades)
 
@@ -328,7 +328,7 @@ decisiones y que seleccionen personas que articulen esas decisiones para
 el público. La prensa y el público no saben cómo escuchar seriamente a
 mujeres individuales en tanto mujeres; quieren saber cómo se siente el
 grupo. Solo se han desarrollado tres técnicas para establecer opiniones
-grupales en forma masiva: el voto o referendum, las encuestas de opinión
+grupales en forma masiva: el voto o referéndum, las encuestas de opinión
 pública y la elección de voceras. El movimiento de liberación de las
 mujeres no ha utilizado ninguno de estos para comunicarse con el
 público. Tampoco el movimiento como un todo ni la mayoría de los
@@ -336,7 +336,7 @@ multitudinarios grupos dentro de este han establecido un medio para
 explicar sus posiciones sobre diversas cuestiones. Pero el público está
 condicionado a buscar voceras.
 
-Mientras no se ha elegido voceras concientemente, el movimiento ha
+Mientras no se ha elegido voceras conscientemente, el movimiento ha
 introducido muchas mujeres que han atrapado la atención del público por
 varias razones. Estas mujeres no representan a un grupo en particular o
 una opinión establecida; lo saben y usualmente así lo expresan. Pero
@@ -396,7 +396,7 @@ Mientras que trabajar en este tipo de grupo es una experiencia
 embriagadora, es también rara y muy difícil de reproducir. Hay casi
 inevitablemente cuatro condiciones encontradas en tal grupo:
 
-#. Está orientado a las tareas. Su función es muy angosta y muy
+#. Está orientado a las tareas. Su función es muy reducida y muy
 específica, como preparar una conferencia o sacar un diario. Esta es la
 tarea que básicamente estructura al grupo. La tarea determina qué
 necesita hacerse y cuándo. Provee una guía por la que las personas
@@ -528,24 +528,24 @@ efectivamente la competencia de otra estructura informal, tendrían que
 volverse "públicas" y esta posibilidad está cargada con muchas
 implicaciones peligrosas. Por lo tanto, para mantener su propio poder,
 es más fácil racionalizar la exclusion de las miembros de la otra
-estructura informal por medios como el hostigamiento a las rojas, a las
-reformistas, las lesbianas o las heterosexuales. La única alternativa es
-estructurar formalmente al grupo de tal manera que la estructura de
-poder original se institucionalice. Esto no siempre es posible. Si las
-élites informales han estado bien estructuradas y han ejercido una buena
-cantidad de poder en el pasado, tal tarea es factible. Estos grupos
-tienen una historia de efectividad política, así como la estrechez de su
-estructura informal se ha demostrado como un sustituto adecuado de una
-estructura formal. Convertirse en un grupo estructurado no altera mucho
-su forma de operar, aunque la institucionalización del poder
-estructurado lo abre a un desafío formal. Los grupos que tienen mayor
-necesidad de estructura son los que a menudo resultan menos capaces de
-crearla. Sus estructuras informales no han sido bien formadas y su
-adherencia a la ideología de la "falta de estructuras" las vuelve
-reluctantes a cambiar de táctica.  Mientras más falto de estructura sea
-un grupo, más carente de estructuras informales es y mientras más
-adhiera a la ideología de la "falta de estructuras", más vulnerable es a
-ser tomado por un grupo de camaradas políticas.
+estructura informal por medios como el hostigamiento a las
+izquierdistas, a las reformistas, las lesbianas o las heterosexuales. La
+única alternativa es estructurar formalmente al grupo de tal manera que
+la estructura de poder original se institucionalice. Esto no siempre es
+posible. Si las élites informales han estado bien estructuradas y han
+ejercido una buena cantidad de poder en el pasado, tal tarea es
+factible. Estos grupos tienen una historia de efectividad política, así
+como la estrechez de su estructura informal se ha demostrado como un
+sustituto adecuado de una estructura formal. Convertirse en un grupo
+estructurado no altera mucho su forma de operar, aunque la
+institucionalización del poder estructurado lo abre a un desafío formal.
+Los grupos que tienen mayor necesidad de estructura son los que a menudo
+resultan menos capaces de crearla. Sus estructuras informales no han
+sido bien formadas y su adherencia a la ideología de la "falta de
+estructuras" las vuelve reluctantes a cambiar de táctica.  Mientras más
+falto de estructura sea un grupo, más carente de estructuras informales
+es y mientras más adhiera a la ideología de la "falta de estructuras",
+más vulnerable es a ser tomado por un grupo de camaradas políticas.
 
 Ya que el movimiento en general es tan falto de estructuras como la
 mayoría de sus grupos constituyentes, es igualmente susceptible a la
@@ -559,8 +559,8 @@ prioridades. Grupos como NOW, WEAL y algunas camarillas de mujeres
 izquierdistas son simplemente las únicas organizaciones capaces de
 montar una campaña nacional. La multitud de grupos de liberación de las
 mujeres no estructurados pueden optar por apoyar o no las campañas
-nacionales, pero son incapaces de montar propias. Así sus miembros se
-vuelven las tropas bajo el liderazgo de las organizaciones
+nacionales, pero son incapaces de montar las suyas propias. Así sus
+miembros se vuelven las tropas bajo el liderazgo de las organizaciones
 estructuradas. Los grupos declaradamente no estructurados no tienen
 manera de recurrir a los vastos recursos del movimiento para apoyar sus
 prioridades. No tienen siquiera una manera de decidir lo que son.
@@ -576,7 +576,7 @@ que puedan aplicarse individualmente podrán ser practicadas, pero en la
 medida en que requieran poder político coordinado para ser
 implementadas, no lo serán.
 
-Mientras que los movimientos de liberación de las mujeres se dedicaba a
+Mientras que los movimientos de liberación de las mujeres se dedicaban a
 una forma de organización que hace hincapié en grupos de discusión
 pequeños e inactivos entre amigas, el peor problema de la falta de
 estructura no se sentía. Pero este estilo de organización tiene sus
@@ -601,7 +601,7 @@ simultáneamente se asegura que el movimiento es tan ineficaz como sea
 posible. Algún punto intermedio entre dominación e ineficacia puede y
 debe ser encontrado.
 
-Estos problemas estan alcanzando un punto crítico en este momento porque
+Estos problemas están alcanzando un punto crítico en este momento porque
 la naturaleza del movimiento necesariamente está cambiando. La
 concientización como la principal función del movimiento de liberación
 de las mujeres se está volviendo obsoleta. Debido a la intensa
