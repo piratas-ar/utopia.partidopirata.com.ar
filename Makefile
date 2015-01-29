@@ -15,11 +15,11 @@ all: tapas toggle-dest build seed
 
 toggle-test-dest:
 	sed "s,^destination:.*,destination: $(destination)/test.$(site)," \
-		  -i _config.yml
+	    -i _config.yml
 
 toggle-dest:
 	sed "s,^destination:.*,destination: $(destination)/$(site)," \
-		  -i _config.yml
+	    -i _config.yml
 
 build:
 	bundle exec jekyll build
@@ -27,8 +27,13 @@ build:
 seed:
 	transmission-remote --add "$(destination)/$(site)/$(torrent)" \
 	                    --download-dir "$(destination)" \
-											--no-honor-session \
-											--no-seedratio
+	                    --no-honor-session \
+	                    --no-seedratio
+
+release: all
+	rsync -av --delete-after --progress \
+	      $(destination)/$(site)/ \
+	      $(site):$(destination)/$(site)/
 
 test: toggle-test-dest build toggle-dest
 
