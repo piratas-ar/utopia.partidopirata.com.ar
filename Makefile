@@ -40,6 +40,14 @@ test: toggle-test-dest build toggle-dest
 clean:
 	rm -rf tmp src/tmp _site
 
+# Todas las tapas juntas
+tapas: $(tif_tapas) $(png_tapas)
+
+binder: $(patsubst tmp/pdf/%.pdf, tmp/pdf/%-binder.pdf, \
+				$(filter-out $(wildcard tmp/pdf/*-binder.pdf), \
+				$(filter-out $(wildcard tmp/pdf/*-imposed.pdf), \
+				$(wildcard tmp/pdf/*.pdf))))
+
 # Magia!
 %.tif: %.svg
 	convert -colorspace CMYK -density 300 '$<' '$@'
@@ -48,5 +56,12 @@ clean:
 %.png: %.tif
 	convert -resize 730x730\> '$<' '$@'
 
-# Todas las tapas juntas
-tapas: $(tif_tapas) $(png_tapas)
+tmp/pdf/%-binder.pdf: tmp/pdf/%-binder.latex
+	pdflatex -output-directory tmp/pdf $<
+
+tmp/pdf/%-binder.latex: tmp/pdf/%.pdf
+	pages=$$(pdfinfo $< | grep Pages | cut -d: -f2 | tr -d " ") ;\
+	printorder=$$(seq 1 $$pages | sed -e "p;p;p" | tr "\n" "," | sed -e "s/,$$//") ;\
+	sed -e "s/@@pages@@/$$printorder/g" \
+	    -e "s,@@document@@,$<,g" \
+	    binder.latex >$@
