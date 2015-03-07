@@ -547,7 +547,7 @@ decir que esto sea algo trivial.
 
 #  Contexto histórico del movimiento hacker
 
-### La historia de Internet
+## La historia de Internet
 
 Se podría argumentar que el ciberespacio surgió en 1876 con el teléfono.
 Internet, como actualmente la conocemos, es comúnmente considerada como
@@ -789,7 +789,7 @@ sobre la infraestructura telefónica, una comunicación más barata y
 accesible que el canal de ARPANET se había creado. El escenario estaba
 listo para la aparición de los hackers.
 
-### La historia del underground informático
+## La historia del underground informático
 
 Es una de las ironías de la historia que las raíces de Internet se
 remonten a dos fuentes, las instituciones de la Guerra Fría de los
@@ -991,7 +991,7 @@ hackers se dieron cuenta que la autoría colectiva de los desarrolladores
 de software tenía que ser protegida de los poderes legalmente
 instituidos en una solo parte por la ley de copyright.
 
-### El nacimiento de la licencia pública general
+## El nacimiento de la licencia pública general
 
 Las políticas del movimiento hacker gravitan en torno a la cuestión del
 acceso público al código fuente. El código fuente proporciona una lista
@@ -1189,7 +1189,7 @@ demasiado restrictiva y que la licencia perderá importancia debido a
 esto. En el momento de escribir estas líneas estas cuestiones siguen
 siendo discutidas.
 
-### La historia de GNU/Linux
+## La historia de GNU/Linux
 
 Para concretar el sueño de tener una computadora que ejecute enteramente
 software libre, la Free Software Foundation produjo una gran cantidad de
@@ -1273,7 +1273,7 @@ relaciones de propiedad privada*. Esto es cierto incluso cuando el
 software libre se enfrenta a software propietario. GNU/Linux no es más
 que uno de muchos proyectos de desarrollo de software libre exitosos.
 
-### El éxito del movimiento de software libre y de código abierto
+## El éxito del movimiento de software libre y de código abierto
 
 Una medida de la fuerza del modelo de desarrollo de FOSS está dada por
 el alcance en que el software libre supera el software propietario en el
@@ -1448,7 +1448,7 @@ sectores donde la concentración del capital fijo (es decir, la
 maquinaria a gran escala) y la división del trabajo (conocimiento
 especializado) no son un umbral insuperable.
 
-### Relaciones de poder dentro y fuera del movimiento hacker
+## Relaciones de poder dentro y fuera del movimiento hacker
 
 La imagen del desarrollo de FOSS presentada hasta ahora, como un modelo
 único, monolítico, para escribir código, debe ser dejada de lado. Cada
@@ -1604,7 +1604,7 @@ cuestiones de género. Estas realidades mundanas tendrán mayor peso sobre
 la comunidad hacker que el desarrollo del FOSS más integrado tiene en la
 economía global y el mundo de los negocios.
 
-### Modelos de negocios basados en software libre
+## Modelos de negocios basados en software libre
 
 Desde una perspectiva liberal, el desarrollo de software libre se
 entiende simplemente como otro modelo de negocio que se aproxima mejor
@@ -1911,7 +1911,7 @@ dos sentidos. En el extremo, las empresas de garaje probablemente haya
 sido las cabezas de puente para que las grandes corporaciones pudieran
 ingresar al movimiento.
 
-### La iniciativa open source
+## La iniciativa open source
 
 La invitación para los que manejan los hilos fue lanzada en 1998 con la
 puesta en escena de la Iniciativa Open Source. Si existe alguna compañía
@@ -2237,7 +2237,7 @@ Restricciones).[^nota78] Si una arquitectura de computadora libre se
 convierte en estándar será muy difícil que los proveedores de contenidos
 puedan hacer valer derechos de propiedad intelectual en Internet.
 
-### Las empresas enfrentan al desarrollo del FOSS
+## Las empresas enfrentan al desarrollo del FOSS
 
 Los fabricantes de hardware están acordando alianzas con los grupos de
 presión de los consumidores en un intento de superar la influencia de
@@ -2355,7 +2355,7 @@ haya comprometido a no perseguir a los desarrolladores de FOSS con sus
 patentes. Al crear un poder legal y no usarlo IBM se garantiza un socio
 rentable.
 
-### Hacking y lucha de clases
+## Hacking y lucha de clases
 
 Las escaramuzas entre el movimiento hacker y las corporaciones y los
 gobiernos tienen raíces más profundas de lo que se muestra por los
@@ -2655,7 +2655,7 @@ doscientos años de lucha obrera.
 
 #  Desarrollo de FOSS en una perspectiva posfordista
 
-### El saber popular en la era de la información y el marxismo
+## El saber popular en la era de la información y el marxismo
 
 Las políticas del movimiento hacker están basadas en una concepción
 vagamente definido del mundo. La clave de esta narrativa es la noción de
@@ -2811,7 +2811,7 @@ de las fuentes marxistas clásicas a medida que se suceden paralelamente
 con las ideas presentadas con mayor coherencia por algunos autores
 marxistas autónomos.
 
-### Materialismo histórico y lenguaje
+## Materialismo histórico y lenguaje
 
 La dinámica de la historia conceptualizada en el marxismo tiene una gran
 deuda con la filosofía de Hegel. Éste se apartó de sus contemporáneos en
@@ -3144,8 +3144,7 @@ conclusión, la decisión sobre lo que la próxima generación de la
 tecnología informática será se ha extendido a cada usuario de
 computadora.
 
-### La producción informatizada y automatizada en el capitalismo
-posfordista
+## La producción informatizada y automatizada en el capitalismo posfordista
 
 Los marxistas tienden a utilizar al fordismo y al posfordismo para
 categorizar la transformación histórica de la que en otros lugares se
@@ -3351,7 +3350,7 @@ hecho de que el código haya sido escrito principalmente por un grupo
 marginal de hombres de clase media que viven cómodamente en los países
 ricos.
 
-### Los algoritmos de software y la plusvalía
+## Los algoritmos de software y la plusvalía
 
 La situación hipotética de la automatización total, que elabora George
 Caffentzi, también desconcertó a la mente de Ernest Mandel. Éste
@@ -3459,7 +3458,7 @@ innovación estética se hace en la calle, en las comunidades, en el
 lenguaje, por los usuarios. Es aquí donde podemos empezar a esbozar las
 dimensiones de la fábrica social.
 
-### Las audiencias y los usuarios como fuentes de plusvalía
+## Las audiencias y los usuarios como fuentes de plusvalía
 
 Con el fin de incluir a los usuarios y a las audiencias en el proceso de
 producción necesitamos reexaminar la clasificación común de la
@@ -3713,7 +3712,7 @@ pirata.[^nota145] Desde este punto de vista, podemos proceder a examinar
 los temas debatidos en el underground informático desde una distancia
 más crítica.
 
-### El excepcionalismo en la información
+## El excepcionalismo en la información
 
 "La información quiere ser libre" ha sido durante mucho tiempo el grito
 de guerra de los hackers, crackers y de quienes comparten archivos. Las
@@ -3950,7 +3949,7 @@ información quieren ser libres.
 
 # Mercantilización de la información
 
-### Cinco escuelas sobre derechos de propiedad intelectual
+## Cinco escuelas sobre derechos de propiedad intelectual
 
 Las políticas del movimiento hacker están influenciadas por su oposición
 a la propiedad intelectual. Una crítica del régimen de propiedad
@@ -4031,7 +4030,7 @@ razones tácticas- nunca son suficientes en Washington/Bruselas. Las
 cuatro escuelas de William Fisher deben complementarse con un quinto
 punto de vista crítico.
 
-### Perspectiva marxista sobre lo legal y lo ilegal
+## Perspectiva marxista sobre lo legal y lo ilegal
 
 El debate sobre la propiedad intelectual se ve completamente diferente
 desde la perspectiva de la teoría marxista sobre lo legal y lo ilegal.
@@ -4213,7 +4212,7 @@ organizar las relaciones laborales. En última instancia, nos enfrentamos
 a la cuestión de quién tiene el privilegio de ser el autor de nuestra
 realidad.
 
-### El autor y su propia mercantilización
+## El autor y su propia mercantilización
 
 Los derechos de propiedad intelectual en un sentido no trivial son sólo
 un propósito dentro del contexto de una economía de mercado avanzada.
@@ -4428,7 +4427,7 @@ mercantilización ha calado hondo en la sociedad y las relaciones humanas
 lo demuestra el hecho de que el arco de la nariz o un acento peculiar es
 reconocido por la ley como un derecho de propiedad.
 
-### El régimen actual de propiedad intectual
+## El régimen actual de propiedad intectual
 
 Es una tarea inviable detallar los cambios que están teniendo lugar en
 las leyes de propiedad intelectual internacionales. Por otra parte,
@@ -4571,7 +4570,7 @@ del sistema, un régimen de propiedad intelectual más permisivo servirá
 para poco más que acelerar la circulación del capital y la
 intensificación de la explotación de los usuarios y el público.
 
-### Propiedad intelectual en el sistema mundial
+## Propiedad intelectual en el sistema mundial
 
 Una dificultad para la protección de los derechos de propiedad
 intelectual es que la información fluye fácilmente a través de las
@@ -4744,7 +4743,7 @@ desestabilización del régimen de propiedad intelectual. Los mercados de
 la información deben ser defendidos a nivel mundial si quieren
 subsistir.
 
-### El diseño tecnológico como un agente de la ley
+## El diseño tecnológico como un agente de la ley
 
 La historia DVD-Jon también nos señala cómo la tecnología está diseñada
 para regular el comportamiento de los consumidores y los ciudadanos. Una
@@ -5033,7 +5032,7 @@ equivocados. La derivación de una tecnología puede ser tan enigmática
 para su instigador como el apoyo del gobierno de los EE.UU. al
 movimiento talibán en la década de 1980.
 
-### Resistencia tecnológica
+## Resistencia tecnológica
 
 Anteriormente en este capítulo se dijo que hasta el avance del
 capitalismo, los estados nación y un sistema jurídico moderno, los
@@ -5320,7 +5319,7 @@ satisfacción en otras actividades, tales como el hacking.
 
 # Consumo y necesidades de los bienes de información
 
-### Maslow y la sociedad opulenta
+## Maslow y la sociedad opulenta
 
 En este capítulo se analiza el hacking desde la perspectiva de las
 necesidades y del consumo. El lector podría preguntarse cuál es la
@@ -5430,7 +5429,7 @@ superar la economía de mercado se desarrollan en el interior de la misma
 sociedad, estas circunstancias siguen siendo potenciales hasta que la
 relación capitalista sea derrotada.[^nota223]
 
-### Las necesidades en el capitalismo impulsado por el consumo
+## Las necesidades en el capitalismo impulsado por el consumo
 
 La aceptación extendida de las ideas de Maslow en el underground
 informático, donde se ordenan las necesidades en una jerarquía muy
@@ -5541,7 +5540,7 @@ de tales umbrales es el paso de productos hechos para usos concretos
 hacia bienes posicionales y cuyo uso principal es mostrar
 distinción.[^nota225]
 
-### La atractiva imagen de la mercancía
+## La atractiva imagen de la mercancía
 
 La famosa tesis de Guy Debord, formulada en el margen de la "sociedad de
 consumo masivo" en la década de 1960, es que la imagen se ha convertido
@@ -5684,7 +5683,7 @@ definición de gustos y promoción del consumo es sólo el último exponente
 de un proceso laboral que es genérico y que se ha extendido entre el
 público, los usuarios y los consumidores.
 
-### El consumo como producción
+## El consumo como producción
 
 La idea de que la distancia entre los productores y los consumidores se
 está acortando es expresada a menudo por los críticos de las leyes de
@@ -5847,7 +5846,7 @@ el productor y el consumidor. El "espíritu hacker se lanzó contra el
 facilitado este desarrollo, pero de ninguna manera es la causa raíz del
 problema.
 
-### Resistencia al capitalismo impulsado por el consumidor
+## Resistencia al capitalismo impulsado por el consumidor
 
 Esto nos lleva de nuevo a la pregunta inicial: ¿Qué tipo de resistencia
 es concebible en un régimen de acumulación capitalista impulsado por el
@@ -6126,7 +6125,7 @@ la temática del capítulo siguiente, es decir, la producción.
 
 # Producción de la información
 
-### Organización de las relaciones productivas
+## Organización de las relaciones productivas
 
 Existe una gran cantidad de literatura crítica del régimen actual de
 propiedad intelectual. Muchos de los escritores hacen hincapié en el
@@ -6248,7 +6247,7 @@ software es un paso importante, no es en sí misma una condición
 suficiente, como los primeros socialistas creían, para despojarse de las
 ataduras capitalistas.
 
-### Las relaciones de mercado y el trabajo científico
+## Las relaciones de mercado y el trabajo científico
 
 El comportamiento histórico de la propiedad intelectual para
 obstaculizar la investigación científica y el desarrollo tecnológico es
@@ -6518,7 +6517,7 @@ energías tenga ventaja sobre las relaciones capitalistas de producción.
 El éxito del modelo de desarrollo de FOSS puede interpretarse en este
 contexto.
 
-### El pirata como trabajador
+## El pirata como trabajador
 
 La relación salarial parece ser la única forma de organizar el trabajo.
 Observando con mayor detalle, sin embargo, se hace evidente que coexiste
@@ -6648,7 +6647,7 @@ técnica del trabajo. La necesidad de influir en este trabajo se hace más
 apremiante cuando los usuarios autoorganizan su actividad en
 comunidades.
 
-### Comunidades de desarrollo en el trabajo
+## Comunidades de desarrollo en el trabajo
 
 El trabajo del público y de los usuarios incluye de todo, desde muy
 dispares colectivos de usuarios al azar sin comunicación horizontal,
@@ -7006,7 +7005,7 @@ Esta es, en pocas palabras, la racionalidad económica detrás de las
 relaciones laborales entre pares organizadas en una comunidad y/o en
 público y contraídas voluntariamente.
 
-### Apropiación de herramientas y habilidades
+## Apropiación de herramientas y habilidades
 
 El acceso a las herramientas está en el corazón de la crítica marxista
 del capitalismo. El proletariado se creó cuando fue privado de los
@@ -7219,7 +7218,7 @@ informática y ciberterrorismo. Las autoridades policiales son el
 complemento necesario para el enfoque indulgente de los aliados
 corporativos del movimiento de FOSS.
 
-###  Dentro de la máquina de software
+##  Dentro de la máquina de software
 
 Hemos llegado a la conclusión de que, si los insumos críticos en la
 producción posfordista son los procesos estéticos y cognitivos de los
@@ -7357,7 +7356,7 @@ fines de convivencia, no instrumentales.
 
 # Los mercados y el don en la economía en red
 
-### Teoría de la red
+## Teoría de la red
 
 Los sueños de una alternativa al capitalismo a menudo se han estancado
 en la cuestión de cómo asignar recursos. La principal alternativa
@@ -7460,7 +7459,7 @@ asociar a las redes con el igualitarismo parece equivocada. Esta
 comparación es particularmente desafortunada ya que la red es cada vez
 más un modelo de reestructuración capitalista posfordista.
 
-### Mercados o monopolios en red
+## Mercados o monopolios en red
 
 Nuestro objetivo es evaluar si la red es un renacer para la economía de
 libre mercado o, posiblemente, una alternativa que podría reemplazar al
@@ -7675,8 +7674,7 @@ dependen de la buena voluntad de IBM. Por lo tanto, el capital puede
 mantener su supremacía en un modo de producción en red a través de una
 profundizada simbiosis con el Estado capitalista.
 
-### El estado de competencia schumpeteriano y el modo de producción en
-red
+## El estado de competencia schumpeteriano y el modo de producción en red
 
 La fuerte participación del Estado en la economía está lejos de ser una
 característica novedosa. La burocratización del capitalismo ya fue
@@ -7825,7 +7823,7 @@ pesar de su apariencia, es en realidad nada más que acumulación
 primitiva. Los estatutos sobre la propiedad intelectual y los mercados
 de fantasía son algo similar a un anexo de los bienes comunes.
 
-### Tragedia de exlusión, comedia de compatibilidad
+## Tragedia de exclusión, comedia de compatibilidad
 
 El núcleo del tema en discusión es la incompatibilidad entre la
 propiedad privada y la productividad del lenguaje. Esta contradicción
@@ -7986,7 +7984,7 @@ perdurar y esta es la magnitud de la tragedia. Es de este modo que la
 economía del don se perfila como una alternativa real al estado
 administrado por un mercado de fantasía.
 
-### Las economías del don en las sociedades antiguas
+## Las economías del don en las sociedades antiguas
 
 El término "economía del don" tiene su origen en los trabajos
 antropológicos pioneros de Bonislaw Malinowski y Marcel Mauss. La
@@ -8094,7 +8092,7 @@ de la relación salarial. La resistencia de los bienes comunes de la
 información en repeler la expansión del mercado es un índice del grado
 en que el trabajo humano se ha desmercantilizado.
 
-### Internet como una economía del don de alta tecnología
+## Internet como una economía del don de alta tecnología
 
 La idea más convincente sobre una "economía del don de alta tecnología"
 fue articulada por Richard Barbrook. En medio de la publicidad que
@@ -8391,7 +8389,7 @@ juego.
 
 # El juego como lucha de los hackers
 
-### Marx en el trabajo, el arte y el juego
+## Marx en el trabajo, el arte y el juego
 
 En este capítulo, el movimiento hacker está tomado como un escenario del
 concepto del juego como lucha. Anteriormente, en el libro se ha
@@ -8588,7 +8586,7 @@ el juego podría llegar a ser una alternativa al trabajo alienado.
 Herbert Marcuse es el pensador que más consistentemente ha seguido esta
 línea de investigación.
 
-### Teorías sobre la liberación, la estética y el juego
+## Teorías sobre la liberación, la estética y el juego
 
 A medida que el libro llega a su fin, las numerosas líneas argumentales
 convergen en el pensamiento de Herbert Marcuse. Él era un representante
@@ -8840,7 +8838,7 @@ alienado, no se puede tomar como algo sencillo y evidente por sí mismo
 por más tiempo. Con el fin de separarlos uno del otro, tenemos que
 investigar más de cerca el concepto del juego.
 
-### Definición del juego desde el trabajo
+## Definición del juego desde el trabajo
 
 No hemos especificado que al trabajo no alienado lo llamamos "juego".
 Herbert Marcuse no se detuvo en una definición, pero tomó el término
@@ -9115,7 +9113,7 @@ principalmente dedicadas a la prestación de formas mercantilizadas de
 juego. Esta razón es suficiente y justifica que los marxistas
 investiguen el juego en relación con la lucha obrera.
 
-### La trayectoria del trabajo en el estado workfare
+## La trayectoria del trabajo en el estado workfare
 
 Hasta ahora la discusión ha girado en torno de la problemática de cómo
 se relacionan el trabajo y la emancipación entre sí. Es una cuestión que
@@ -9405,7 +9403,7 @@ vara que utilizamos para las luchas laborales. Con estas precauciones en
 mente, podemos comenzar nuestra investigación sobre cómo el juego de los
 hackers puede constituir un asunto político.
 
-### El movimiento hacker como una lucha de clase o un conflicto de identidad
+## El movimiento hacker como una lucha de clase o un conflicto de identidad
 
 Ahora, cuando el juego como lucha se establece como un concepto, nos
 enfrentamos de nuevo con las mismas viejas preguntas que han aturdido a
@@ -9583,7 +9581,7 @@ relaciones de producción aún sigue vigente. Por lo tanto, se justifica
 hablar de antagonismo de clase cuando se hace referencia a las luchas
 dentro del movimiento hacker.
 
-### La conciencia de clase y el juego como lucha de los hackers
+## La conciencia de clase y el juego como lucha de los hackers
 
 Enmarcar al movimiento hacker en términos de la lucha de clases nos deja
 algunas dificultades prácticas. Una de las principales es la perspectiva
@@ -9886,7 +9884,7 @@ crackers compiten para liberar la mayor cantidad posible de warez a la
 comunidad. La resistencia se ha convertido aquí en un juego. La
 política, al igual que el trabajo, está subyugado bajo el juego duro.
 
-### Hackeando al capitalismo
+## Hackeando al capitalismo
 
 El hecho de que una comunidad poco cohesionada de personas ingeniosas
 pueda rivalizar con los departamentos de investigación de las
@@ -12303,7 +12301,7 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 
 # Bibliografía
 
-### Libros
+## Libros
 
 
 + Aglietta Michel. *A Theory of Capitalist Regulation*, London: NLB, 1979.
@@ -12917,7 +12915,7 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 
 + Zizek, Slavoj. *Organs Without Bodies—On Deleuze and Consequences*, New York: Routledge, 2004.
 
-### Revistas
+## Revistas
 
 + Allen, Robert. "Collective invention." *Journal of Economic Behavior and Organization* (Marzo de 1983).
 
