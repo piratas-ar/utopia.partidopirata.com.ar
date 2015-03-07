@@ -6,7 +6,7 @@ cover: "assets/covers/single_hackeando_al_capitalismo.png"
 slider: "assets/covers/slider_hackeando_al_capitalismo.png"
 ---
 
-## *Agradecimientos*
+# *Agradecimientos*
 
 Un buen número de personas me han ayudado a hacer este libro. Desearía
 agradecer especialmente a George Dafermos y Johan Lindgren que me han
@@ -19,7 +19,7 @@ Göransson, y muchas personas más, a las que les debo mucho por varias
 razones. El libro está dedicado a todos ustedes por hacer algo nuevo e
 interesante de él.
 
-## *Introducción*
+# *Introducción*
 
 El auge de la informática, como tantas otras cosas en el mundo moderno,
 podría decirse que surge después de la Revolución Francesa. El embrión
