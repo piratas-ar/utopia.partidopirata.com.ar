@@ -10337,7 +10337,7 @@ pescadores o programadores de computadoras.
 
 
 [^nota1]: Para una explicación de cómo funcionaba el telar de Jacquard,
-véase James Essinger, *Jacquard’s Web—How a Hand Loom Led to the Birth
+véase James Essinger, *Jacquard's Web—How a Hand Loom Led to the Birth
 of the Information Age* (Oxford: Oxford University Press, 2004).
 
 [^nota2]: En relación a la cuestión del telar de Jacquard, véase Daryl
@@ -10403,7 +10403,7 @@ del 2005).
 
 [^nota15]: Para un relato no tan acogedor del legado político de IBM,
 véase Edwin Black, *IBM and the Holocaust: The Strategic Alliance
-Between Nazi Germany and America’s Most Powerful Corporation* (London:
+Between Nazi Germany and America's Most Powerful Corporation* (London:
 Little, Brown 36 co, 2001). La posición política de hoy en día de IBM se
 puede apreciar a través de sus donaciones a la campaña presidencial de
 George Bush en los años 2000 y 2004, un gobierno difícilmente asociado
@@ -10427,7 +10427,7 @@ interés entre los progresistas en el tema:
     > 103; de aquí en más citado en el texto.
 
 [^nota17]: Para un relato exhaustivo sobre el perfil social de las
-computadoras, véase Lenny Siegel’s and John Markoff’s *The High Cost of
+computadoras, véase Lenny Siegel's and John Markoff's *The High Cost of
 High Tech--The Dark Side of the Chip* (New York: Harper & Row, 1985).
 Sobre la explotación global de los trabajadores en las fábricas
 clandestinas en Asia del Este y México donde las computadoras son
@@ -10444,7 +10444,7 @@ Hardt y Antonio Negri, véase *ed.* Gopal Balakrishnan, Debating Empire,
 (London: Verso, 2003). Para un resumen de los conceptos clave y de los
 pensamientos detrás de la tradición marxista autónoma, véase Finn
 Bowing, "From the Mass Worker to the Multitude: A Theoretical
-Contextualisation of Hardt and Negri’s Empire", in *Capital & Class* 83
+Contextualisation of Hardt and Negri's Empire", in *Capital & Class* 83
 (2004).
 
 [^nota19]: Antonio Negri, *Revolution Retrieved—Writings on Marx,
@@ -10455,7 +10455,7 @@ Red Notes, 1988).
 Witlhout Taking Power (London: Pluto Press, 2005). Altgunas partes del
 debate esparcido por el libro está cubierto en el ensayo especial de
 *Capital & Class*. Por ejemplo, véase Alex Callinicos, "Sympathy for the
-Devil? John Holloway’s Mephistophellan Marxism". *Capital & Class* 85
+Devil? John Holloway's Mephistophellan Marxism". *Capital & Class* 85
 (primavera 2005).
 
 [^nota21]: Bruce Sterling, *The Hacker Crackdown--Law and Disorder on
@@ -10536,7 +10536,7 @@ Press, 2001); de aquí en más citado en el texto.
 
 [^nota38]: Richard Stallman, "The GNU Operating System and the Free
 Software Movement", en *ed.* Chris DiBona, & Sam Ockman & Mark Stone,
-*Open Sources--Voices from the Open Source Revolution* (London: O’Reilly
+*Open Sources--Voices from the Open Source Revolution* (London: O'Reilly
 8c Associates, 1999), 59; de aquí en más citado en el texto.
 
 [^nota39]: La sección cinco en la Licencia Pública General dice:
@@ -10775,7 +10775,7 @@ suficientemente grande como para alcanzar un valor suficiente para que
 otras empresas comenzaran a pagar para acceder a ella.", Dan Bricklin,
 "The Cornucopia of the Commons", en *ed.* Andy Oram,
 *Peer-to-Peer-—Harnessing the Benefits of a Disruptive Technology*
-(Sebastopol: O’Reilly, 2001), 61. Dan Bricklin llama a esta estrategia
+(Sebastopol: O'Reilly, 2001), 61. Dan Bricklin llama a esta estrategia
 de negocios "un común". Pareciera como si los voluntarios no hubiesen
 perdido nada durante todo el tiempo, ya que pueden acceder a un sitio (y
 de este modo seguir contribuyendo a él) de forma gratuita. Él no ve que
@@ -10869,7 +10869,7 @@ Richard Sobel, *White Collar Working ClassFrom Structure to Politics*
 (New York: Praeger, 1989).
 
 [^nota93]: *ed.* Bernadette Schell and John Dodge, *The Hacking of
-America—Who’s Doing it. Why, and How* (London: Quorum Books, 2002), 117.
+America—Who's Doing it. Why, and How* (London: Quorum Books, 2002), 117.
 
 [^nota94]: Andrew Ross, *Strange Weather—Culture, Science, and
 Technology in the Age of Limits* (London: Verso, 1991), 92, en cursiva
@@ -10915,7 +10915,7 @@ CasteIls—From the Informational City to the Information Age*, vol. III
 (London: Sage, 2004).
 
 [^nota103]: Richard Florida, *The Rise of the Creative Class—And How
-it’s Transforming Work, Leisure, Community & Everyday Life* (New York:
+it's Transforming Work, Leisure, Community & Everyday Life* (New York:
 Basic Books, 2002).
 
 [^nota104]: Nick Dyer-Witheford, *Cyher-Marx—Cyeles and Circuits
@@ -10973,7 +10973,7 @@ totality it just slips in the back door, a menudo de una forma menos
 considerada. Martin Jay, *Marxism and Totality: the Adventures of a
 Concept from Lukács to Habermas* (Cambridge: Polity Press, 1984).
 
-[^nota110]: Gerald Cohen, *Karl Marx’s Theory of History—A Defence*
+[^nota110]: Gerald Cohen, *Karl Marx's Theory of History—A Defence*
 (Oxford: Clarendon Press, 2000).
 
 [^nota111]: El argumento de Alvin Gouldner es que ambos campos, el
@@ -11013,7 +11013,7 @@ cosas en común, éste último escribe de manera similar sobre el tema:
     > plusvalía, en relación con el cual la única fuente de plusvalía
     > considerada por Marx, es decir, la fuerza de trabajo de los
     > productores inmediatos, juega un papel cada vez más pequeño."
-    > Jurgen Habermas "Technology and Science as ‘Ideology’." en *ed.*
+    > Jurgen Habermas "Technology and Science as 'Ideology'." en *ed.*
     > Colin Chant, Sources for the Study of Science, Technology and
     > Everyday Life 1870—1950——A Secondary Reader, (London: Hodder 8c
     > Stoughton, 1988), 190.
@@ -11166,7 +11166,7 @@ Virno & Michael Hardt, *Radical Thought in Italy:A Potential Politics*.
 (Minneapolis: University of Minnesota Press, 1996).
 
 [^nota130]: Para una crítica de esta tendencia en el pensamiento de
-Negri, véase Nick-Dyer Witheford’s "Cyber-Negri: General Intellect and
+Negri, véase Nick-Dyer Witheford's "Cyber-Negri: General Intellect and
 Immaterial Labour", en *ed.* Timothy Murphy & Abdul-Karim Mustapha, *The
 Philosophy of Antonio Negri—Resistance in Practice* (London: Pluto
 Press, 2005).
@@ -11553,7 +11553,7 @@ Journal* (2004).
 York: Basic Books, 1999), 126.
 
 [^nota198]: La noción fue acuñada por Denise Caruso, un columnista del
-*New York Times*.  Denise Caruso, "The Legacy of Microsoft’s Trial",
+*New York Times*.  Denise Caruso, "The Legacy of Microsoft's Trial",
 *The New York Times* (6 de diciembre de 1999).
 
 [^nota199]: Karl Marx, *Capital*, vol.I (London: Penguin Books, 1990),
@@ -11773,21 +11773,21 @@ persona que la convierten en atractiva para otra a causa de su relación
 
 [^nota234]:. Stephen Kline, Nick Dyer-Witheford & Greig De Peuter,
 *Digital Play-The Interaction of Technology, Culture, and Marketing*,
-London: McGill-Queen’s University Press, 2003.
+London: McGill-Queen's University Press, 2003.
 
 [^nota235]: Angela McRobbie, "From Holloway to Hollywood: Happiness at
 Work in the New Cultural Economy?", en *ed.* Paul du Gay & Michael
 Pryke, *Cultural Economy: Cultural Analysis and Commercial Life*
 (London: Sage, 2002), de aquí en más citado en el texto.
 
-[^nota236]: Paul Heeles, "Work Ethics, Soft Capitalism and the ‘Turn to
-Life’ ", en *du Gay*.
+[^nota236]: Paul Heeles, "Work Ethics, Soft Capitalism and the 'Turn to
+Life' ", en *du Gay*.
 
 [^nota237]: Aunque hace pocas referencias explícitas a las necesidades,
 y aunque hay diferencias entre el joven Marx y el maduro, está claro que
 las "necesidades" juegan un papel central en el pensamiento de Marx.
 Para un relato de esta parte de la filosofía marxista, véase Agnes
-Heller, *The Theory of Need in Marx* (New York: St. Martin’s Publisher,
+Heller, *The Theory of Need in Marx* (New York: St. Martin's Publisher,
 1976).
 
 [^nota238]: En su conclusión, Henry Jenkins escribe: "La ironía, de
@@ -11836,7 +11836,7 @@ the United States* (New York: Oxford University Press, 1969).
 el predominio de la "invención colectiva". Robert Allen, "Collective
 invention", *Journal of Economic Behavior and Organization* (Marzo de
 1983). Para un ejemplo contra las patentes de software, véase Ben
-Klemens, *Math You Can’t Use—Patents, Copyright, and Software*
+Klemens, *Math You Can't Use—Patents, Copyright, and Software*
 (Washington, D.C.: Brookings Institution Press, 2006).
 
 [^nota246]: *ed.* Stephen Merrill, Richard Levin & Mark Myers, *A Patent
@@ -11895,7 +11895,7 @@ Cambridge University Press, 2001).
 Photocopying of ]ournals.", *Journal of Political Economy* 93 (1985).
 
 [^nota256]: Para una minuciosa investigación sobre el caso Napster,
-véase Joseph Menn, *All the Rave—The Rise and Fall of Shawn Fanning’s
+véase Joseph Menn, *All the Rave—The Rise and Fall of Shawn Fanning's
 Napster* (New York: Crown Business, 2003).
 
 [^nota257]: A Gnutella le siguieron rápidamente otras arquitecturas que
@@ -11912,16 +11912,16 @@ pasan a ser reclamados por un tercero.
 [^nota258]: Dorothy Kidd en *ed.* McCaughey & Ayers,
 *Cyberactivism--Online Activism in Theory and Practice* (New York:
 Routledge, 2003), Dan Gillmore, *We the Media—Grassroots Journalisrn—By
-the People, For the People* (Cebastopol C.A.; O’Reilly, 2006).
+the People, For the People* (Cebastopol C.A.; O'Reilly, 2006).
 
 [^nota259]: Eben Moglen, "Anarchism Triumphant, Free Software and the
 Death of Copyright", *First Monday*, vol.4, no.8 (Agosto de 1999).
 
 [^nota260]: Véase David Anderson, "SETI@home" en Andy Oram,
 *Peer-to-Peer-Harnessing the Benfits of a Disruptive Technology*,
-(Sebastopol: O’Reilly, 2001), 2001.
+(Sebastopol: O'Reilly, 2001), 2001.
 
-[^nota261]:. Mark Poster, *What’s the Matter With the Internet?*
+[^nota261]:. Mark Poster, *What's the Matter With the Internet?*
 (Minneapolis: University of Minnesota Press, 2001), 97.
 
 [^nota262]: <http://www.nature.com/news/2005/O51212/full/438900a.html>,
@@ -12014,7 +12014,7 @@ Economy" *Harvard Business Review* (1 de septiembre de 1998).
 Firm: Origins, Evolution, and Development* (New York: Oxford University
 Press, 1993).
 
-[^nota280]: Yochai Benkler, "Coase’s Penguin, or, Linux and The Nature
+[^nota280]: Yochai Benkler, "Coase's Penguin, or, Linux and The Nature
 of the Firm", *The Yale Law Journal* vol.112 no.3 (Diciembre del 2002),
 y *The Wealth of Networks—How Social Production Transforms Markets and
 Freedom*, (New Haven: Yale University Press, 2006).
@@ -12091,7 +12091,7 @@ atractivo para la apologética del capital. Jean-Joseph Goux, "General
 Economics and Postmodern Capitalism" Yale French Studies 78 (1990).
 Scott Shershow está de acuerdo con Goux pero hace un llamamiento para
 salvar a Bataille. Scott Cutler Shershow, "Of Sinking: Marxism and the
-‘General’ Economy". *Critical Inquiry* vol 27, no 3 (spring 2001).
+'General' Economy". *Critical Inquiry* vol 27, no 3 (spring 2001).
 
 [^nota294]: Georges Bataille, *The Accursed Share—An Essay on General
 Economy*, vol.I (New York: Zone Books, 1988).
@@ -12207,8 +12207,8 @@ History.
 [^nota314]: Herbert Marcuse, *The Aesthetic Dimension: Toward a Critique
 of Marxist Aesthetics* (Boston: Beacon Press, 1978).
 
-[^nota315]: Eve Chiapello, "Evolution and Co-optation: The ‘Artist
-Critique’ of Management and Capitalism", *Third Text* Vol.18, no.6
+[^nota315]: Eve Chiapello, "Evolution and Co-optation: The 'Artist
+Critique' of Management and Capitalism", *Third Text* Vol.18, no.6
 (2004).
 
 [^nota316]: Johan Huizinga, *Homo Ludens--A Study of the Play Element in
@@ -12232,7 +12232,7 @@ Enlightenment* (London: Verso, 1997), 137.
 [^nota322]: André Gorz, *Reclaiming Work--Beyond the Wage Based Society*
 (Cambridge: Polity Press, 1999), Jeremy Rifkin, *The End of Work: The
 Decline of the Global Labor Force and the Dawn of the Post-Market Era*
-(New York: G.P. Putnam’s sons, 1995), Jeremy Seabrook, *The Leisure
+(New York: G.P. Putnam's sons, 1995), Jeremy Seabrook, *The Leisure
 Society* (Oxford: Basil Blackwell, 1988).
 
 [^nota323]: Citado en Michael Perelman, *The Innovation of
@@ -12366,7 +12366,7 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 
 + Bijker, Wiebe. *Of Bicycles, Bakelites, and Bulbs——Towards a Theory of Sociotechnical Change*, Cambridge, Mass.: MIT Press, 1995.
 
-+ Black, Edwin, *IBM and the Holocaust: The Strategic Alliance Between Nazi Germany and America’s Most Powerful Corporation*, London: Little, Brown 86 co, 2001.
++ Black, Edwin, *IBM and the Holocaust: The Strategic Alliance Between Nazi Germany and America's Most Powerful Corporation*, London: Little, Brown 86 co, 2001.
 
 + Bollier, David. *Silent Theft—The Private Plunder of Our Common Wealth*, London: Routledge, 2003.
 
@@ -12413,11 +12413,11 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 
 + *ed.* Chant, Colin. *Sources for the Study of Science, Technology and Everyday Life 1870-1950--A Secondary Reader*, vol.II, London: Hodder & Stoughton, 1988.
 
-+ Cohen, Gerhald. *Karl Marx’s Theory of History—A Defence*, Oxford: Clarendon Press, 2000.
++ Cohen, Gerhald. *Karl Marx's Theory of History—A Defence*, Oxford: Clarendon Press, 2000.
 
 + Collins, Hugh, *Marxism and Law*, Oxford: Clarendon Press, 1982.
 
-+ *ed.* Comor, Edward. *The Global Political Economy of Communication--Hegemony, Telecommunication and the Information Economy*, St Martin’s Press: New York, 1994.
++ *ed.* Comor, Edward. *The Global Political Economy of Communication--Hegemony, Telecommunication and the Information Economy*, St Martin's Press: New York, 1994.
 
 + Coombe, Rosemary. *The Cultural Life of Intellectual Properties--Authorship, Appropriation, and the Law*, London: Duke University Press, 1998.
 
@@ -12447,7 +12447,7 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 
 + Derrida, Jacques. *Given Time. Counterfeit Money*, Chicago: University of Chicago Press, 1992.
 
-+ *ed.* DiBona, Chris, and Sam Ockman and Mark Stone. *Open Sources—Voices from the Open Source Revolution*, London: O’Reilly & Associates, 1999.
++ *ed.* DiBona, Chris, and Sam Ockman and Mark Stone. *Open Sources—Voices from the Open Source Revolution*, London: O'Reilly & Associates, 1999.
 
 + Drahos, Peter, and John Braithwaite. *Information Feudalism—Who Owns The Knowledge Economy*, London: Erthscan, 2002.
 
@@ -12467,7 +12467,7 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 
 + Ellickson, Robert. *Order Without Law: How Neighbors Settle Disputes*, Cambridge, Mass.: Harvard University Press, 1991.
 
-+ Essinger, James. *Jacquard’s Web—How a Hand Loom Led to the Birth of the Information Age*, Oxford: Oxford University Press, 2004.
++ Essinger, James. *Jacquard's Web—How a Hand Loom Led to the Birth of the Information Age*, Oxford: Oxford University Press, 2004.
 
 + Esteva, Gustavo, and Madhu Suri Prakash. *Grassroots Post-Modernism—Remaking the Soil of Cultures*, London: Zed Books, 1998.
 
@@ -12485,7 +12485,7 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 
 + *ed.* Fitzpatrick, Peter, and Alan Hunt, *Critical Legal Studies*, Kent: Basil Blackwell, 1990.
 
-+ Florida, Richard. *The Rise of the Creative Class—And How it’s Transforming Work, Leisure, Community & Everyday Life*, New York: Basic Books, 2002.
++ Florida, Richard. *The Rise of the Creative Class—And How it's Transforming Work, Leisure, Community & Everyday Life*, New York: Basic Books, 2002.
 
 + Fraad, Harriet, and Stephen Resnick and Richard Wolff. *Bringing it all Back Home—Class, Gender and Power in the Modern Household*, London: Pluto Press, 1994.
 
@@ -12513,9 +12513,9 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 
 + Giddens, Anthony. *A Contemporary Critique of Historical Materialism*, London: Macmillan Press ltd, 1995.
 
-+ Gillmore, Dan. *We the Media——Grassroots Journalism—By the People, For the People*, Cebastopol C.A.; O’Reilly, 2006.
++ Gillmore, Dan. *We the Media——Grassroots Journalism—By the People, For the People*, Cebastopol C.A.; O'Reilly, 2006.
 
-+ Goldstein, Paul. *Copyright’s Highway--The Law and Lore of Copyright from Gutenberg to the Celestial jukebox*, New Yrok: Hill and Wang, 1994.
++ Goldstein, Paul. *Copyright's Highway--The Law and Lore of Copyright from Gutenberg to the Celestial jukebox*, New Yrok: Hill and Wang, 1994.
 
 + *ed.* Gordon, Wendy, and Richard Watt. *The Economics of Copyright--Developments in Research and Analysis*, Northampton, Mass.: Elgar, 2003.
 
@@ -12549,7 +12549,7 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 
 + Hayes, Dennis. *Behind the Silicon Curtain--The Seduction of Work in a Lonely Era*, London: Free Association Books, 1989.
 
-+ Heller, Agnes. *The Theory of Need in Marx*, New York: St. Martin’s Publisher, 1976.
++ Heller, Agnes. *The Theory of Need in Marx*, New York: St. Martin's Publisher, 1976.
 
 + Hemmungs, Eva. *No Trespassing—Authorship, Intellectual Property Rights, and the Boundaries of Globalization*, Toronto: University of Toronto Press, 2004.
 
@@ -12607,9 +12607,9 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 
 + Kellner, Douglas. *Jean Baudrillard—From Marxism to Postmodernism and Beyond*, Cambridge: Polity Press, 1989.
 
-+ Klemens, Ben. *Math You Can’t Use --Patents, Copyright, and Software*, Washington, D.C.: Brookings Institution Press, 2006.
++ Klemens, Ben. *Math You Can't Use --Patents, Copyright, and Software*, Washington, D.C.: Brookings Institution Press, 2006.
 
-+ Kline, Stephen, and Nick Dyer-Witheford and Greig De Peuter. *Digital Play-The Interaction of Technology, Culture, and Marketing*, London: McGill-Queen’s University Press, 2003.
++ Kline, Stephen, and Nick Dyer-Witheford and Greig De Peuter. *Digital Play-The Interaction of Technology, Culture, and Marketing*, London: McGill-Queen's University Press, 2003.
 
 + Kloppenburg, Jack. *First the Seed--The Political Economy of Plant Biotechnology*, 1492-2000, Cambridge: Cambridge University Press, 1988.
 
@@ -12695,7 +12695,7 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 
 + Merrill, Stephen, and Richard Levin and Mark Myers. *A Patent System for the 21st Century*, Washington, D.C.: The National Academic Press, 2004.
 
-+ Menn, Joseph. *All the Rave—The Rise and Fall of Shawn Fanning’s Napster*, New York: Crown Business, 2003.
++ Menn, Joseph. *All the Rave—The Rise and Fall of Shawn Fanning's Napster*, New York: Crown Business, 2003.
 
 + Mihevc, John. *The Market Tells Them So: The World Bank and Economic Fundamentalism in Africa*, New Jersey: ZED books, 1995.
 
@@ -12724,7 +12724,7 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 
 + *ed.* Naples, Nancy. *Community Activism and Feminist Politics—Organizing Across Race*, Class, and Gender, New York: Routledge, 1998.
 
-+ *National Research Council. Computer Chips and Paper Clips--Technology and Women’s Employment*, Washington: National Academy Press, 1987.
++ *National Research Council. Computer Chips and Paper Clips--Technology and Women's Employment*, Washington: National Academy Press, 1987.
  + *Bits of Power: Issues in Global Access to Scientific Data*, Washington: National Academy Press, 1997.
  + *Digital Dilemma-Intellectual Property in the Information Age*, Washington DC: National Academy Press, 2000.
 
@@ -12751,13 +12751,13 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 
 + Olstrom, Elinor. *Governing the Commons: The Evolution of Institutions for Collective Action*, Cambridge: Cambridge University Press, 1990.
 
-+ *ed.* Oram, Andy. *Peer-to—Peer—Harnessing the Benefits of a Disruptive Technology*, Cambridge, Mass.: O’Reilly, 2001.
++ *ed.* Oram, Andy. *Peer-to—Peer—Harnessing the Benefits of a Disruptive Technology*, Cambridge, Mass.: O'Reilly, 2001.
 
 + Pashukanis, Evgeny. *The General Theory of Law and Marxism*, New Brunswick, NJ: Transaction Publishers, 2002.
 
 + Patterson, Lyman. *Copyright in Historical Perspective*, Nashville: Vanderbilt University Press, 1968.
 
-+ Perelman, Michael. *Class Warfare in the Information Age*, New York: St. Martin’s Press, 1998.
++ Perelman, Michael. *Class Warfare in the Information Age*, New York: St. Martin's Press, 1998.
  + *The Innovation of Capitalism—Classical Political Economy and the Secret History of Primitive Accumulation*, Durham: Duke University Press, 2000.
  + *Steal This Idea--Intellectual Property Rights and the Corporate Confiscations of Creativity*, New York: Palgrave, 2002.
 
@@ -12767,7 +12767,7 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 
 + Poster, Mark. *Foucault, Marxism and History: Mode of Production versus Mode of Information*, Cambridge: Polity Press, 1984.
  + *The Information Subject*, Amsterdam: G+B Arts International, 2000.
- + *What’s the Matter With the Internet?*, Minneapolis: University of Minnesota Press, 2001.
+ + *What's the Matter With the Internet?*, Minneapolis: University of Minnesota Press, 2001.
 
 + Poulantzas, Nicos. *Classes in Contemporary Capitalism*, London: Verso, 1979.
 
@@ -12782,7 +12782,7 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 + Rheingold, Howard. *The Virtual Community--Homesteading on the Electronic Frontier, (revised edition)*, Cambridge, Mass.: MIT Press, 2000.
  + *Smart Mobs—The Next Social Revolution*, Cambridge, Mass. Perseus Publishing, 2003.
 
-+ Rifkin, Jeremy. *The End of Work: The Decline of the Global Labor Force and the Dawn of the Post-Market Era*, New York: G.P. Putnam’s Sons, 1995.
++ Rifkin, Jeremy. *The End of Work: The Decline of the Global Labor Force and the Dawn of the Post-Market Era*, New York: G.P. Putnam's Sons, 1995.
  + *The Age of Access—How the Shift from Ownership to Access is Transforming Capitalism*, London: Penguin Books, 2000.
 
 + Robins, Kevin, and Frank Webster. *The Technical Fix—Education, Computers and Industry*, Basingstoke UK: Macmillan, 1989.
@@ -12800,7 +12800,7 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 
 + Sassen, Saskia. *Losing Control?—Sovereignity in an Age of Globalization*, New York: Columbia University Press, 1996.
 
-+ Schell, Bernadette, and John Dodge. *The Hacking of America— Who’s Doing it, Why, and How*, London: Quorum Books, 2002.
++ Schell, Bernadette, and John Dodge. *The Hacking of America— Who's Doing it, Why, and How*, London: Quorum Books, 2002.
 
 + Scherer, Frederic. *Industrial Market Structure and Economic Performance*, Chicago: Rand McNally & Co, 1970.
 
@@ -12846,7 +12846,7 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 
 + Sterling, Bruce. *The Hacker Crackdown--Law and Disorder on the Electronic Frontier*, London: Penguin, 1994.
 
-+ *ed.* Sussman, Gerald, and John Lent. *Global Productions-Labour in the Making of the ‘Information Society’*, Cresskill NJ: Hampton Press, 1998.
++ *ed.* Sussman, Gerald, and John Lent. *Global Productions-Labour in the Making of the 'Information Society'*, Cresskill NJ: Hampton Press, 1998.
 
 + Tapscott, Don, and David Ticoll, and Alex Lowy. *Digital Capitalism--Harnessing the Power of Business Webs*, London, Nicholas Brealey Publishing, 2001.
 
@@ -12931,21 +12931,21 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 
 + Bassiouni, Cherif. "Universal Jurisdiction for International Crimes:Historical Perspectives and Contemporary Practice." *Virginia Journal of International Law*, Vol.42, no.8 (2001).
 
-+ Benkler, Yochai. "Coase’s Penguin, or, Linux and The Nature of the Firm." *The Yale Law Journal*, vol.112, no.3, (Diciembre del 2002).
++ Benkler, Yochai. "Coase's Penguin, or, Linux and The Nature of the Firm." *The Yale Law Journal*, vol.112, no.3, (Diciembre del 2002).
 
 + Bettig, Roland. "The Enclosure of Cyberspace." *Critical Studies in Mass Communication* 14 (1997).
 
-+ Bowing, Finn. "From the Mass Worker to the Multitude: A Theoretical Contextualisation of Hardt and Negri’s Empire". *Capital & Class* 83 (2004).
++ Bowing, Finn. "From the Mass Worker to the Multitude: A Theoretical Contextualisation of Hardt and Negri's Empire". *Capital & Class* 83 (2004).
 
 + Bohme, Gernot. "Technical Gadgetry: Technological Development in the Aesthetic Economy." *Thesis Eleven* 86, (Agosto del 2006).
 
 + Camara, Gilberto. "Open Source Software Production: Facts & Fiction." *Mute*, no 27, (2004).
 
-+ Caruso, Denise. "The Legacy of Microsoft’s Trial." *The New York Times*, (6 de diciembre de 1999).
++ Caruso, Denise. "The Legacy of Microsoft's Trial." *The New York Times*, (6 de diciembre de 1999).
 
-+ Callinicos, Alex. "Sympathy for the Devil? John Holloway’s Mephistophellan Marxism" *Capital & Class* 85 (primavera del 2005).
++ Callinicos, Alex. "Sympathy for the Devil? John Holloway's Mephistophellan Marxism" *Capital & Class* 85 (primavera del 2005).
 
-+ Chiapello, Eve. "Evolution and Co-optation: The ‘Artist Critique’ of Management and Capitalism." *Third Text*, Vol.18, no.6 (2004).
++ Chiapello, Eve. "Evolution and Co-optation: The 'Artist Critique' of Management and Capitalism." *Third Text*, Vol.18, no.6 (2004).
 
 + Cohen, Amanda. "Surveying the Microsoft Antitrust Universe". Berkeley Technology Law Journal (2004).
 
@@ -13039,7 +13039,7 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 
 + Scott, Jason. *BBS the Documentary*, (2004).
 
-+ Shershow, Scott Cutler "Of Sinking: Marxism and the ‘General’ Economy". *Critical Inquiry* vol 27 no 3 (primavera del 2001).
++ Shershow, Scott Cutler "Of Sinking: Marxism and the 'General' Economy". *Critical Inquiry* vol 27 no 3 (primavera del 2001).
 
 + Stallabrass, Julian. "Empowering Technology: The Exploration of Cyberspace." *New Left Review* 211, (mayo/junio 1995).
 
