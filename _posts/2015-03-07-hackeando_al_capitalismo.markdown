@@ -3472,18 +3472,18 @@ el rol consumidor y el rol productor en la economía de la cultura, Karl
 Marx tenía un panorama más complejo para empezar. En **Grundrisse**,
 escribió:
 
->El consumo genera producción de una manera doble, (1) porque un
->producto se convierte en un producto real sólo al ser consumido. Por
->ejemplo, una prenda de vestir se convierte en una prenda real sólo en
->el acto de ser usada​​, una casa donde nadie vive de hecho no
->es una casa de verdad, por lo que el producto, a diferencia de un mero
->objeto natural, se prueba a sí mismo, *se convierte*, sólo en un
->producto a través del consumo. Solamente al descomponer el producto el
->consumo le da el toque final, porque el producto es la producción no
->como actividad objetivada, sino sólo como objeto para el sujeto activo,
->(2) porque el consumo crea la necesidad de una *nueva* producción, es
->decir, crea la causa ideal para la producción, impulsada internamente,
->que es su presupuesto. (**Grundrisse**, 91, *cursiva en el original*).
+> El consumo genera producción de una manera doble, (1) porque un
+> producto se convierte en un producto real sólo al ser consumido. Por
+> ejemplo, una prenda de vestir se convierte en una prenda real sólo en
+> el acto de ser usada, una casa donde nadie vive de hecho no es una
+> casa de verdad, por lo que el producto, a diferencia de un mero objeto
+> natural, se prueba a sí mismo, *se convierte*, sólo en un producto a
+> través del consumo. Solamente al descomponer el producto el consumo le
+> da el toque final, porque el producto es la producción no como
+> actividad objetivada, sino sólo como objeto para el sujeto activo, (2)
+> porque el consumo crea la necesidad de una *nueva* producción, es
+> decir, crea la causa ideal para la producción, impulsada internamente,
+> que es su presupuesto. (**Grundrisse**, 91, *cursiva en el original*).
 
 El punto clave es que un producto se convierte en un producto completo
 sólo cuando se consume. En otras palabras, el usuario juega un rol en la
@@ -8125,15 +8125,15 @@ Frow sugiere el término "economía de colección" en reemplazo de
 "economía del don" para describir con precisión la actividad económica
 híbrida que tiene lugar en Internet:
 
->En este sentido, (los modelos de colección) participan de la
->impersonalidad y la abstracción de la forma de la mercancía; a
->diferencia de las materias primas, sin embargo, también han estado en
->gran parte libres de las formas de coacción (las restricciones sobre el
->acceso y uso) que tienden a fluir desde el mecanismo de los precios.
->Aunque el "modelo de colecciones" por lo tanto tiende a colapsar en vez
->de dividir las categorías de dones y materias primas, nunca representa
->una verdadera alternativa a la privatización de los bienes comunes en
->la información.[^nota301]
+> En este sentido, (los modelos de colección) participan de la
+> impersonalidad y la abstracción de la forma de la mercancía; a
+> diferencia de las materias primas, sin embargo, también han estado en
+> gran parte libres de las formas de coacción (las restricciones sobre
+> el acceso y uso) que tienden a fluir desde el mecanismo de los
+> precios.  Aunque el "modelo de colecciones" por lo tanto tiende a
+> colapsar en vez de dividir las categorías de dones y materias primas,
+> nunca representa una verdadera alternativa a la privatización de los
+> bienes comunes en la información.[^nota301]
 
 La analogía de la colección parece apropiada cuando se refiere a las
 redes de intercambio de archivos. Las redes de pares involucran a los
@@ -10410,17 +10410,19 @@ con el viejo lema hippie.
 [^nota16]: En este ensayo sobre una teoría socialista de los medios
 masivos de comunicación, Hans Enzensberger se quejó de la falta de
 interés entre los progresistas en el tema:
->"Si el movimiento socialista descarta las nuevas fuerzas productivas de
->la industria del conocimiento y las relega a trabajar en los medios de
->comunicación a una subcultura, entonces entramos en un círculo vicioso.
->Aunque el underground puede ser cada vez más consciente de las
->posibilidades técnicas y estéticas del disco, de la cinta de video, de
->la cámara electrónica, etc, y está explorando sistemáticamente el
->terreno, no tiene un punto de vista político propio y por lo tanto es
->una víctima indefensa a la comercialización." Hans Enzensberger
->"Constituents of a Theory of the Media" en *ed.* John Hanhardt, *Video
->Culture--A Critical Investigation* (New York: Virtual Studies Workshop
->Press: 1986), 103; de aquí en más citado en el texto.
+
+    > "Si el movimiento socialista descarta las nuevas fuerzas
+    > productivas de la industria del conocimiento y las relega a
+    > trabajar en los medios de comunicación a una subcultura, entonces
+    > entramos en un círculo vicioso.  Aunque el underground puede ser
+    > cada vez más consciente de las posibilidades técnicas y estéticas
+    > del disco, de la cinta de video, de la cámara electrónica, etc, y
+    > está explorando sistemáticamente el terreno, no tiene un punto de
+    > vista político propio y por lo tanto es una víctima indefensa a la
+    > comercialización." Hans Enzensberger "Constituents of a Theory of
+    > the Media" en *ed.* John Hanhardt, *Video Culture--A Critical
+    > Investigation* (New York: Virtual Studies Workshop Press: 1986),
+    > 103; de aquí en más citado en el texto.
 
 [^nota17]: Para un relato exhaustivo sobre el perfil social de las
 computadoras, véase Lenny Siegel’s and John Markoff’s *The High Cost of
@@ -10536,13 +10538,15 @@ Software Movement", en *ed.* Chris DiBona, & Sam Ockman & Mark Stone,
 8c Associates, 1999), 59; de aquí en más citado en el texto.
 
 [^nota39]: La sección cinco en la Licencia Pública General dice:
->"Usted no está obligado a aceptar esta licencia, ya que no la ha
->firmado. No obstante, sólo se le concede permiso para modificar o
->distribuir el Programa o sus trabajos derivados. Estas acciones están
->prohibidas por ley si usted no acepta esta licencia." En otras
->palabras, si un usuario no cumple con las disposiciones adoptadas en el
->acuerdo de licencia GPL, se aplica la ley normal de copyright. Copyleft
->no es lo mismo que dominio público.
+
+    > "Usted no está obligado a aceptar esta licencia, ya que no la ha
+    > firmado. No obstante, sólo se le concede permiso para modificar o
+    > distribuir el Programa o sus trabajos derivados. Estas acciones
+    > están prohibidas por ley si usted no acepta esta licencia."
+
+    En otras palabras, si un usuario no cumple con las disposiciones
+    adoptadas en el acuerdo de licencia GPL, se aplica la ley normal de
+    copyright. Copyleft no es lo mismo que dominio público.
 
 [^nota40]: Posteriormente, la Free Software Foundation añadió un
 compromiso, la licencia Lesser GPL. La versión más debil era necesaria
@@ -10565,7 +10569,8 @@ Licenses." *Virginia Journal of Law & Technology* (otoño del 2000), y:
 Stephen McJohn, "The Paradoxes of Free Software." George Mason Law
 Review (otoño del 2000).
 
-[^nota42]: www.netﬁlter.org (consultado al 08 de febrero del 2007).
+[^nota42]: <http://www.netfilter.org> (consultado al 08 de febrero del
+2007).
 
 [^nota43]: Como la mayoría de las cosas en la subcultura hacker, el
 nombre (Linux o GNU/Linux) está lejos de ser algo inocente. El uso de
@@ -10582,50 +10587,58 @@ Movement Undercut the High-Tech Titans* (New York: HarperBusiness,
 2000).
 
 [^nota45]:
-http://news.netcraft.com/archives/2006/01/05/january_2006_web_server_
-survey.html, (consultado el 08 de febrero del 2007).
+<http://news.netcraft.com/archives/2006/01/05/january_2006_web_server_survey.html>,
+(consultado el 08 de febrero del 2007).
 
 [^nota46]: Tim Berners-Lee & Mark Fischetti, *Weaving the Web--The Past,
 Present and Future of the World Wide Web* (London: Texere, 2000).
 
 [^nota47]: Este hecho es felizmente admitido por el emprendedor del
 software libre Robert Young:
->"En silencio, desde la fundación de Red Hat en 1993, nos hemos enfocado
->en una aproximación al desarrollo de software que nos permite contar
->con un equipo de desarrollo de software internacional mayor que incluso
->cualquier equipo que pudiera formar el mas grande gigante industrial"
->Robert Young and Wendy Rohm, *Under the Radar—How Red Hat Changed the
->Software Business and Took Microsoft by Surprise* (Scottsdale, AZ:
->Coriolis, 1999), 9; de aquí en más citado en el texto.
+
+    > "En silencio, desde la fundación de Red Hat en 1993, nos hemos
+    > enfocado en una aproximación al desarrollo de software que nos
+    > permite contar con un equipo de desarrollo de software
+    > internacional mayor que incluso cualquier equipo que pudiera
+    > formar el mas grande gigante industrial" Robert Young and Wendy
+    > Rohm, *Under the Radar—How Red Hat Changed the Software Business
+    > and Took Microsoft by Surprise* (Scottsdale, AZ: Coriolis, 1999),
+    > 9; de aquí en más citado en el texto.
 
 [^nota48]: Eric Raymond podría ciertamente objetar ser asociado con el
 marxismo. Su compromiso con el Open Source proviene de sus convicciones
 libertarias, además es miembro de la Asociación Nacional del Rifle de
 los EE.UU. Al enterarse que China estaba adoptando una versión nacional
 de GNU/Linux, declaró:
->"Cualquier "similitud" entre los valores de la comunidad open-source y
->las prácticas represivas del comunismo no es más que un vicioso y
->cínico engaño". véase *Linux Today* (11 de noviembre de 1999).
+
+    > "Cualquier "similitud" entre los valores de la comunidad
+    > open-source y las prácticas represivas del comunismo no es más que
+    > un vicioso y cínico engaño". véase *Linux Today* (11 de noviembre
+    > de 1999).
 
 [^nota49]: Eric Raymond, "The Cathedral and the Bazaar." *First Monday*
 Vol.3, no.3 (1998), 21.
 
-[^nota50]: *HalloweenDocument I*, www.opensource.org/halloweenl.php
-(consultado el 8 de febrero del 2002). *Halloween Document
-II*,www.opensource.org/halloween/halloween2. php (consultado el 8 de
+[^nota50]: *HalloweenDocument I*,
+<http://www.opensource.org/halloweenl.php> (consultado el 8 de febrero
+del 2002). *Halloween Document II*,
+<http://www.opensource.org/halloween/halloween2.php> (consultado el 8 de
 febrero del 2007).
 
 [^nota51]: Relatado por Greg Michalec, *Free Software: History,
 Perspectives, and Implications*, 2002, p.29, disponible en
-gregprimate.net/sp/thesis.pdf, (consultado el 8 de febrero del 2007).
+<http://gregprimate.net/sp/thesis.pdf>, (consultado el 8 de febrero del
+2007).
 
 [^nota52]: En palabras similares a aquellas recientemente mencionadas
 por Torvalds, Karl Marx una vez comentó:
->"De hecho, por supuesto, este trabajador "productivo" se preocupa tanto
->por el trabajo de mierda que tiene que hacer al igual que el propio
->capitalista que lo emplea, y que además no le importa un comino esa
->porquería." Karl Marx, *Grundrisse*, (London: Penguin Books: 1993),
->273; de aquí en más citado en el texto como *Grundrisse*.
+
+    > "De hecho, por supuesto, este trabajador 'productivo' se preocupa
+    > tanto por el trabajo de mierda que tiene que hacer al igual que el
+    > propio capitalista que lo emplea, y que además no le importa un
+    > comino esa porquería." Karl Marx, *Grundrisse*, (London: Penguin
+    > Books: 1993), 273; de aquí en más citado en el texto como
+    > *Grundrisse*.
 
 [^nota53]: Robert Young, "Giving It Away--How Red Hat Software Stumbled
 Across a New Economic Model and Helped Improve an Industry", en
@@ -10706,7 +10719,7 @@ Industry" en (*DiBona*, 119).
 obra. La situación no es extraña al hacking pero es un rasgo
 característico de los mercados posmodernos.
 
-[^nota68]: Nathan Newman, *Net Loss: Internet Prophets, Private Proﬁts,
+[^nota68]: Nathan Newman, *Net Loss: Internet Prophets, Private Profits,
 and the Costs to Community* (University Park, Pa.: Pennsylvania State
 University Press, 2002); de aquí en más citado en el texto.
 
@@ -10727,15 +10740,16 @@ Abril del 2004.
 [^nota72]: Robert Young hizo una observación clave sobre cómo los
 derechos de propiedad intelectual crean enormes pérdidas y obstáculos
 para las industrias derivadas:
-> "Los ejecutivos de los más altos niveles de la compañía han reconocido
-> largamente que los fabricantes de sistemas operativos propietarios no
-> están implementando innovaciones tan rápidamente como Intel avanza en
-> la tecnología de microprocesadores. [...] Si hubiera una nueva
-> tecnología disponible a nivel de procesador que permitiera a los
-> usuarios de computadoras hacer cosas nuevas, estos tendrían que
-> esperar hasta que el proveedor del sistema operativo se decidiera a
-> desarrollar el soporte apoyo para estas funciones en el sistema."
-> (*Young*, 6).
+
+    > "Los ejecutivos de los más altos niveles de la compañía han
+    > reconocido largamente que los fabricantes de sistemas operativos
+    > propietarios no están implementando innovaciones tan rápidamente
+    > como Intel avanza en la tecnología de microprocesadores. [...] Si
+    > hubiera una nueva tecnología disponible a nivel de procesador que
+    > permitiera a los usuarios de computadoras hacer cosas nuevas,
+    > estos tendrían que esperar hasta que el proveedor del sistema
+    > operativo se decidiera a desarrollar el soporte apoyo para estas
+    > funciones en el sistema." (*Young*, 6).
 
 [^nota73]: Martin Kenney "Value Creation in the Late Twentieth Century:
 The Rise of the Knowledge Worker" en *ed.* Jim Davis, Thomas Hirschl and
@@ -10758,7 +10772,7 @@ Public-Private Divide: The Case of Large-Scale CDNA, Sequencing",
 suficientemente grande como para alcanzar un valor suficiente para que
 otras empresas comenzaran a pagar para acceder a ella.", Dan Bricklin,
 "The Cornucopia of the Commons", en *ed.* Andy Oram,
-*Peer-to-Peer-—Harnessing the Beneﬁts of a Disruptive Technology*
+*Peer-to-Peer-—Harnessing the Benefits of a Disruptive Technology*
 (Sebastopol: O’Reilly, 2001), 61. Dan Bricklin llama a esta estrategia
 de negocios "un común". Pareciera como si los voluntarios no hubiesen
 perdido nada durante todo el tiempo, ya que pueden acceder a un sitio (y
@@ -10925,13 +10939,15 @@ York: Routledge, 2002).
 [^nota107]: Mientras examinaba la literatura de un asunto cercanamente
 relacionado, la posmodernidad, Fredric Jameson se quejó de la falta de
 alternativas marxistas a la ideología posindustrial:
-> "[...] Mientras tanto el nuevo fenómeno social de información y
-> mediático ha sido colonizado (en su ausencia) por el Derecho, en una
-> serie de estudios influyentes en la que la primera idea tentativa de
-> la Guerra Fría de un "fin de la ideología", finalmente dio a luz el
-> concepto hecho y derecho de una "sociedad post-industrial" en sí
-> mismo". Frederic Jameson, *Postmodernism, or, the Cultural Logic of
-> Late Capitalism* (London: Verso, 1991), 400.
+
+    > "[...] Mientras tanto el nuevo fenómeno social de información y
+    > mediático ha sido colonizado (en su ausencia) por el Derecho, en
+    > una serie de estudios influyentes en la que la primera idea
+    > tentativa de la Guerra Fría de un "fin de la ideología",
+    > finalmente dio a luz el concepto hecho y derecho de una "sociedad
+    > post-industrial" en sí mismo". Frederic Jameson, *Postmodernism,
+    > or, the Cultural Logic of Late Capitalism* (London: Verso, 1991),
+    > 400.
 
 [^nota108]: La atención se centrará en la fracción de pensadores
 asociados con Antonio Negri. En los últimos años, la obra de Negri ha
@@ -10984,19 +11000,21 @@ and Economic Progress* (New York Oxford University Press, 1990).
 [^nota115]: Para ser justos, Antonio Negri no es el único preocupado por
 tales pensamientos. Aunque Antonio Negri y Jurgen Habermas tiene pocas
 cosas en común, éste último escribe de manera similar sobre el tema:
->"Así, la tecnología y la ciencia se convierten en la fuerza productiva
->principal, lo que convierte en inoperantes a las condiciones para la
->teoría laboral del valor de Marx. Ya no es muy importante calcular la
->cantidad de capital invertida en la investigación y el desarrollo sobre
->la base del valor de la mano de obra no calificada (simple), cuando el
->progreso científico-técnico se ha convertido en una fuente
->independiente de plusvalía, en relación con el cual la única fuente de
->plusvalía considerada por Marx, es decir, la fuerza de trabajo de los
->productores inmediatos, juega un papel cada vez más pequeño." Jurgen
->Habermas "Technology and Science as ‘Ideology’." en *ed.* Colin Chant,
->Sources for the Study of Science, Technology and Everyday Life
->1870—1950——A Secondary Reader, (London: Hodder 8c Stoughton, 1988),
->190.
+
+    > "Así, la tecnología y la ciencia se convierten en la fuerza
+    > productiva principal, lo que convierte en inoperantes a las
+    > condiciones para la teoría laboral del valor de Marx. Ya no es muy
+    > importante calcular la cantidad de capital invertida en la
+    > investigación y el desarrollo sobre la base del valor de la mano
+    > de obra no calificada (simple), cuando el progreso
+    > científico-técnico se ha convertido en una fuente independiente de
+    > plusvalía, en relación con el cual la única fuente de plusvalía
+    > considerada por Marx, es decir, la fuerza de trabajo de los
+    > productores inmediatos, juega un papel cada vez más pequeño."
+    > Jurgen Habermas "Technology and Science as ‘Ideology’." en *ed.*
+    > Colin Chant, Sources for the Study of Science, Technology and
+    > Everyday Life 1870—1950——A Secondary Reader, (London: Hodder 8c
+    > Stoughton, 1988), 190.
 
 [^nota116]: Bruce Norton destaca, sin embargo, que Fredric Jameson
 descarta silenciosamente más de lo que toma de Ernest Mandel. La idea
@@ -11025,24 +11043,27 @@ citado en el texto.
 Castells anunció que la "cadena de causalidad", desde la base material
 hasta la superestructura, se ha roto cuando la superestructura se
 convirtió ella misma en productiva, en:
->"... la era de la información, marcada por la autonomía de la cultura
->frente a las bases materiales de su propia existencia" (*Castells*,
->478). El pensamiento de Castells es típico ya que acepta parcialmente
->los postulados hechos en la teoría del materialismo histórico y sigue
->estos hasta el punto de la gran ruptura entre la sociedad industrial y
->la post-industrial y/o entre la sociedad moderna y la posmoderna. A
->partir de entonces, sin embargo, el modo informacional de la producción
->convierte en obsoleto al materialismo histórico, lo cual implica
->también que el marxismo y la idea misma de un proyecto universal,
->emancipador ha sido invalidada. Manuel Castells se hace eco de la
->acusación del filósofo francés Jean Baudrillard en contra el marxismo
->bajo la bandera del simulacro. En *Mirror of Production*, donde
->Baudrillard definitivamente se apartó de su herencia marxista, anunció
->que la economía política había sido anulada por la semiótica. En una
->mirada más cercana, sin embargo, se hace evidente que los simulacros se
->moviliza exactamente con el fin de simular los dogmas de la burguesía
->economía política. Jean Baudrillard, *The Mirror of Production* (St
->Lois: Telos Press, 1975); de aquí en más citado en el texto.
+
+    > "... la era de la información, marcada por la autonomía de la
+    > cultura frente a las bases materiales de su propia existencia"
+    > (*Castells*, 478). El pensamiento de Castells es típico ya que
+    > acepta parcialmente los postulados hechos en la teoría del
+    > materialismo histórico y sigue estos hasta el punto de la gran
+    > ruptura entre la sociedad industrial y la post-industrial y/o
+    > entre la sociedad moderna y la posmoderna. A partir de entonces,
+    > sin embargo, el modo informacional de la producción convierte en
+    > obsoleto al materialismo histórico, lo cual implica también que el
+    > marxismo y la idea misma de un proyecto universal, emancipador ha
+    > sido invalidada. Manuel Castells se hace eco de la acusación del
+    > filósofo francés Jean Baudrillard en contra el marxismo bajo la
+    > bandera del simulacro.  En *Mirror of Production*, donde
+    > Baudrillard definitivamente se apartó de su herencia marxista,
+    > anunció que la economía política había sido anulada por la
+    > semiótica. En una mirada más cercana, sin embargo, se hace
+    > evidente que los simulacros se moviliza exactamente con el fin de
+    > simular los dogmas de la burguesía economía política. Jean
+    > Baudrillard, *The Mirror of Production* (St Lois: Telos Press,
+    > 1975); de aquí en más citado en el texto.
 
 [^nota119]: Una excepción es el linguista soviético Valentin Volosinov.
 Allá por 1920, estudió el lenguaje en relación con la lucha de clases, y
@@ -11056,16 +11077,18 @@ Contemporary Forms of Life* (New York: Semiotext, 2004), 61.
 [^nota121]: La impresión de que lo virtual se ha desconectado a sí mismo
 del espacio real y se ha convertido en autónomo y preeminente es muy
 cuestionable. Katherine Hayles lo pone en los siguientes términos:
->"[...] *La eficacia de la información descansa sobre una base material
->muy bien articulada*. Sin dicha base, desde los sistemas de transporte
->veloz hasta los cables de fibra óptica, la información se vuelve mucho
->más marginal en su capacidad de afectar el resultado del mundo
->material. Irónicamente, una vez que esta base está puesta, la
->percepción primaria de la información sobre la materialidad obscurece
->la importancia de la misma infraestructura que le da valor a la
->información." Katherine Hayles, The Condition of Virtuality" en *ed.*
->Peter Lunenfeld, *The Digital Dialectic--New Essays on New Media*
->(Cambridge, Mass: MIT Press, 1998), 72.
+
+    > "[...] *La eficacia de la información descansa sobre una base
+    > material muy bien articulada*. Sin dicha base, desde los sistemas
+    > de transporte veloz hasta los cables de fibra óptica, la
+    > información se vuelve mucho más marginal en su capacidad de
+    > afectar el resultado del mundo material. Irónicamente, una vez que
+    > esta base está puesta, la percepción primaria de la información
+    > sobre la materialidad obscurece la importancia de la misma
+    > infraestructura que le da valor a la información." Katherine
+    > Hayles, The Condition of Virtuality" en *ed.* Peter Lunenfeld,
+    > *The Digital Dialectic--New Essays on New Media* (Cambridge, Mass:
+    > MIT Press, 1998), 72.
 
 [^nota122]: Raymond Williams, *Towards 2000* (London: Chatto SC Windus,
 1983), 146.
@@ -11073,13 +11096,15 @@ cuestionable. Katherine Hayles lo pone en los siguientes términos:
 [^nota123]: Wiebe Bijker describe los artefactos técnicos como "paquetes
 de significados" negociados entre grupos sociales relevantes. Pero
 Bijker también afirma que un artefacto no es infinitamente maleable:
->"Los grupos sociales relevantes, en la construcción del marco
->tecnológico, han invertido tanto en el artefacto que su significado se
->ha vuelto bastante fijo - no se puede cambiar fácilmente, y forma parte
->de una red rígida de prácticas, teorías e instituciones sociales. A
->partir de entonces es cierto que puede suceder que, ingenuamente
->hablando, un artefacto "determine" el desarrollo social" (*Bijker*,
->282).
+
+    > "Los grupos sociales relevantes, en la construcción del marco
+    > tecnológico, han invertido tanto en el artefacto que su
+    > significado se ha vuelto bastante fijo - no se puede cambiar
+    > fácilmente, y forma parte de una red rígida de prácticas, teorías
+    > e instituciones sociales. A partir de entonces es cierto que puede
+    > suceder que, ingenuamente hablando, un artefacto "determine" el
+    > desarrollo social" (*Bijker*,
+    > 282).
 
 [^nota124]: El lema de Mitch Kapor se hace eco de la pregunta de Langdon
 Winner en las "políticas del artefacto". El famoso ejemplo de Winner son
@@ -11272,15 +11297,17 @@ Peter Lunenfeld, *The Digital Dialectic—New Essays on New Media*
 convencionales. Si se modifica la expresión de Fritz Machlup, entonces
 por "conocimiento" debemos entender "trabajo", el sentido de este
 desarrollo se vuelve absolutamente claro:
->"Lo que se debe comprender y recordar es que la misma cantidad de
->conocimiento usado para hacer m unidades de producción servirán para
->hacer m + 1 unidades, y el mismo conocimiento que es usado por n
->personas (productores) podrá habilitar a n + 1 personas para hacer el
->mismo producto. Puede haber un costo de transferencia del conocimiento,
->de la enseñanza y el aprendizaje, pero no hay ningún costo adicional de
->uso una vez que se ha adquirido." Fritz Machlup, *Knowledge: Its
->Creation, Distribution and Economic Signiﬁcance* (Princeton: Princeton
->University Press, 1984), 160, *en cursiva en el original*.
+
+    > "Lo que se debe comprender y recordar es que la misma cantidad de
+    > conocimiento usado para hacer m unidades de producción servirán
+    > para hacer m + 1 unidades, y el mismo conocimiento que es usado
+    > por n personas (productores) podrá habilitar a n + 1 personas para
+    > hacer el mismo producto. Puede haber un costo de transferencia del
+    > conocimiento, de la enseñanza y el aprendizaje, pero no hay ningún
+    > costo adicional de uso una vez que se ha adquirido." Fritz
+    > Machlup, *Knowledge: Its Creation, Distribution and Economic
+    > Significance* (Princeton: Princeton University Press, 1984), 160,
+    > *en cursiva en el original*.
 
 [^nota158]: David Noble ha argumentado este punto en un artículo
 ampliamente leído donde predice una proletarización del aprendizaje
@@ -11296,11 +11323,12 @@ Makdisi, Cesare Casarino & Rebecca Karl, *Marxism Beyond Marxism*
 [^nota160]: El autor neoliberal Ayn Rand puede haber sentido esta
 posibilidad cuando hace su apasionada defensa de los derechos de
 propiedad intelectual:
->"Las patentes son el corazón y el núcleo de los derechos de propiedad,
->y una vez destruidos, automáticamente le sucederá la destrucción de
->todos los otros derechos, como una breve posdata." Ayn Rand,
->*Capitalism: The Unknown Ideal* (New York: New American Library, 1966),
->128.
+
+    > "Las patentes son el corazón y el núcleo de los derechos de
+    > propiedad, y una vez destruidos, automáticamente le sucederá la
+    > destrucción de todos los otros derechos, como una breve posdata."
+    > Ayn Rand, *Capitalism: The Unknown Ideal* (New York: New American
+    > Library, 1966), 128.
 
 [^nota161]: William Fisher "Theories of intellectual property" en *ed.*
 Stephen Munzer, *Essays in Legal and Political Economy of Property*
@@ -11383,9 +11411,10 @@ Personality* (London: Routledge, 1993).
 [^nota178]: Walter Benjamin hizo un comentario similar mientras
 investigaba el medio cinematográfico. Observó que el actor de cine vende
 a su propia persona:
-> "Este mercado, donde ofrece no sólo su trabajo sino también se ofrece
-> él mismo por completo, su corazón y su alma, [...]." Walter Benjamin,
-> *Illuminations* (New York: Schocken Books, 1969), 231.
+
+    > "Este mercado, donde ofrece no sólo su trabajo sino también se
+    > ofrece él mismo por completo, su corazón y su alma, [...]." Walter
+    > Benjamin, *Illuminations* (New York: Schocken Books, 1969), 231.
 
 [^nota179]: Eva Hemmungs Wirtén, *No Trespassing—Authorship,
 Intellectual Property Rights, and the Boundaries of Globalization*
@@ -11395,15 +11424,16 @@ Intellectual Property Rights, and the Boundaries of Globalization*
 atractivo y natural. Pero como todas las  clases de propiedad privada,
 no se obtiene sin pelea. Después de examinar muchos casos judiciales,
 Jane Gaines concluyó:
-> "Lo que quiero decir es que en el pensamiento jurídico actual una
-> persona no posee los derechos de publicidad de sí mismo a menos que,
-> en un momento u otro en el curso de su carrera, él o ella haya
-> transferido estos derechos a otra parte." Jane Gaines, Contested
-> Culture—The Image, the Voice, and the Law (Chapell Hill: The
-> University of North Carolina Press, 1991), 190. véase también Rosemary
-> J. Coombe, "Authorizing the Celebrity: Publicity Rights, Postmodern
-> Politics, and Unauthorized Genders," *Cardozo Arts & Entertainment Law
-> Journal* 10 (1992).
+
+    > "Lo que quiero decir es que en el pensamiento jurídico actual una
+    > persona no posee los derechos de publicidad de sí mismo a menos
+    > que, en un momento u otro en el curso de su carrera, él o ella
+    > haya transferido estos derechos a otra parte." Jane Gaines,
+    > Contested Culture—The Image, the Voice, and the Law (Chapell Hill:
+    > The University of North Carolina Press, 1991), 190. véase también
+    > Rosemary J. Coombe, "Authorizing the Celebrity: Publicity Rights,
+    > Postmodern Politics, and Unauthorized Genders," *Cardozo Arts &
+    > Entertainment Law Journal* 10 (1992).
 
 [^nota181]: Véase el informe de la Electronic Frontier Foundation sobre
 DMCA que posee un exhaustivo reporte de abusos:
@@ -11544,28 +11574,31 @@ Trust over the Internet and Other Networks* (New York: McGraw-Hill,
 
 [^nota204]: El término "taylorismo social" fue acuñado por Kevin Robins
 and Frank Webster. Ellos lo definieron del siguiente modo:
-> "Nuestra argumentación es que est concentración de
-> habilidad/conocimiento/información, hasta el momemto más aparente en
-> el proceso laboral capitalista, está ingresando ahora en una etapa
-> nueva y más general. [...] Estamos hablando de un proceso de
-> descualificación social, la depredación del conocimiento y de las
-> habilidades, que han sido revendidas en forma de mercancías [...]."
-> Robins and Webster "Cybernetic Capitalism: Information, Technology,
-> Everyday Life" en *ed.* Vincent Mosco & Janet Wasko, *The Political
-> Economy of Information* (Madison, Wisc: University of Wisconsin Press,
-> 1988), 65-66.
+
+    > "Nuestra argumentación es que est concentración de
+    > habilidad/conocimiento/información, hasta el momemto más aparente
+    > en el proceso laboral capitalista, está ingresando ahora en una
+    > etapa nueva y más general. [...] Estamos hablando de un proceso de
+    > descualificación social, la depredación del conocimiento y de las
+    > habilidades, que han sido revendidas en forma de mercancías
+    > [...]." Robins and Webster "Cybernetic Capitalism: Information,
+    > Technology, Everyday Life" en *ed.* Vincent Mosco & Janet Wasko,
+    > *The Political Economy of Information* (Madison, Wisc: University
+    > of Wisconsin Press,
+    > 1988), 65-66.
 
 [^nota205]: La hibridización ha tenido mucho en común con las
 tecnologías DRM que están siendo implementadas para impedir el
 intercambio pirata. Vandana Shiva, en un estudio sobre cómo afecta la
 propiedad intelectual a los granjeros en los países del Tercer Mundo,
 destaca:
-> "Los procesos tales como la hibridización pretenden impedir
-> tecnológicamente la siembra a partir de la autorreproducción,
-> concediéndole al capital una forma evidentemente efectiva de eludir
-> las restricciones naturales a la mercantilización de la semilla."
-> Vandana Shiva, *Biopiracy: the plunder of nature and knowledge*
-> (Boston: South End Press, 1997), 49.
+
+    > "Los procesos tales como la hibridización pretenden impedir
+    > tecnológicamente la siembra a partir de la autorreproducción,
+    > concediéndole al capital una forma evidentemente efectiva de
+    > eludir las restricciones naturales a la mercantilización de la
+    > semilla." Vandana Shiva, *Biopiracy: the plunder of nature and
+    > knowledge* (Boston: South End Press, 1997), 49.
 
 [^nota206]: Jack Kloppenburg, *First the Seed—The Political Economy of
 Plant Biotechnology 1492-2000* (Cambridge: Cambridge University Press,
@@ -11585,12 +11618,14 @@ comunicación, Hans Enzensberger se basó en las ideas de Walter Benjamin
 y Bertolt Brecht para identificar los intereses detrás de la
 comunicación de masas de una dirección. El medio radial es un ejemplo
 para señalar:
->"Cada radio transistor es, por la naturaleza de su construcción, al
->mismo tiempo un potencial transmisor; puede interactuar con otros
->receptores por reversión de circuitos. El desarrollo de un simple medio
->de distribución no es técnicamente un problema. [...] La distinción
->técnica entre receptores y transmisores reflejan la división social del
->trabajo en productores y consumidores [...]" (Hanhardt, 98).
+
+    > "Cada radio transistor es, por la naturaleza de su construcción,
+    > al mismo tiempo un potencial transmisor; puede interactuar con
+    > otros receptores por reversión de circuitos. El desarrollo de un
+    > simple medio de distribución no es técnicamente un problema. [...]
+    > La distinción técnica entre receptores y transmisores reflejan la
+    > división social del trabajo en productores y consumidores [...]"
+    > (Hanhardt, 98).
 
 [^nota210]: Stephanie Miles & Stephen Shankland "PIII debuts amid
 controversy", *CNET News.com* (26 de febrero de 1999),
@@ -11602,7 +11637,7 @@ Technological Challenges for a Networked World* (Cambridge Mass.: MIT
 Press, 1999).
 
 [^nota212]: *ed.* Anil Jain, Ruud Bolle & Sarath Pankanti:
-*Biometrics--Personal Identiﬁcation in Networked Society*, (Norwell:
+*Biometrics--Personal Identification in Networked Society*, (Norwell:
 Kluwer Academic Publishers, 1999), p.vii.
 
 [^nota213]: David Harvey, *Spaces of Capital—Towards a Critical
@@ -11621,13 +11656,16 @@ interesante de hardware libre es GNUbook. http://gnubook.org/
 [^nota216]: En un artículo en una revista de computación con el título
 "Puede el software reemplazar al hardware", el periodista habla acerca
 de las promesas de la tecnología FPGA.
->"En términos económicos, esto posibilita la construcción de nuevos
->sistemas de hardware para producirlos en fracciones de segundo a bajo
->costo."; y: "Nuestra ventaja es que podemos usar fácilmente las
->habilidades de programación disponibles para hacer lo que anteriormente
->requería diseñadores de chips costosos y difíciles de conseguir" Marcus
->Gibson, "Can Software Replace Hardware", *Ericsson Connexion* (Junio de
->1999), 36 y 38.
+
+    > "En términos económicos, esto posibilita la construcción de nuevos
+    > sistemas de hardware para producirlos en fracciones de segundo a
+    > bajo costo."; y: "Nuestra ventaja es que podemos usar fácilmente
+    > las habilidades de programación disponibles para hacer lo que
+    > anteriormente requería diseñadores de chips costosos y difíciles
+    > de conseguir" Marcus Gibson, "Can Software Replace Hardware",
+    > *Ericsson Connexion* (Junio de
+    > 1999), 36 y 38.
+
 La ventaja del hardware reprogramable es, en otras palabras, su
 conveniencia en la desprofesionalización y el abaratamiento del trabajo.
 
@@ -11673,14 +11711,16 @@ es la posibilidad de la suspensión de estos opuestos." (*Grundrisse*,
 [^nota225]: De hecho, no es el fenómeno lo novedoso, sino el grado en
 que se aplica. Ya en 1899, Torsten Veblen escribió su famoso discurso
 subrayando el consumo conspicuo de las clases altas:
->"Si, como se supone a veces, el incentivo a la acumulación era la
->búsqueda de subsistencia o de comodidad física, entonces las
->necesidades económicas agregadas de una comunidad podrían ser
->satisfechas posiblemente en un cierto punto del avance de la eficiencia
->industrial, pero ya que la lucha es sustancialmente una carrera para la
->reputación sobre la base de una comparación ingrata, no es posible
->aproximarse de ninguna manera a un logro definitivo". Thorstein Veblen,
->*The Theory of the Leisure Class* (London: Compton Printing, 1970), 39.
+
+    > "Si, como se supone a veces, el incentivo a la acumulación era la
+    > búsqueda de subsistencia o de comodidad física, entonces las
+    > necesidades económicas agregadas de una comunidad podrían ser
+    > satisfechas posiblemente en un cierto punto del avance de la
+    > eficiencia industrial, pero ya que la lucha es sustancialmente una
+    > carrera para la reputación sobre la base de una comparación
+    > ingrata, no es posible aproximarse de ninguna manera a un logro
+    > definitivo". Thorstein Veblen, *The Theory of the Leisure Class*
+    > (London: Compton Printing, 1970), 39.
 
 [^nota226]: Guy Debord, *The Society of the Spectacle* (New York: Zone
 books, 1994).
@@ -11800,7 +11840,7 @@ Klemens, *Math You Can’t Use—Patents, Copyright, and Software*
 [^nota246]: *ed.* Stephen Merrill, Richard Levin & Mark Myers, *A Patent
 System for the 21st Century*, 2004.
 <http://www.aipla.org/Content/ContentGroups/Issues_and_
-Advocacy/Comments2/Patent_and_Trademark_Ofﬁce/2004/PatentRpt.pdf>
+Advocacy/Comments2/Patent_and_Trademark_Office/2004/PatentRpt.pdf>
 (consultado el 8 de febrero del 2007).
 
 [^nota247]: Dorothy Nelkin, *Science as Intellectual Property* (New
@@ -11910,16 +11950,18 @@ York: Monthly Review Press, 1979).
 [^nota269]: Varios sociólogos, autores de administración y marxistas
 podrían ser citados para demostrar este punto. Será suficiente con un
 comentario de Clause Offe sobre los trabajadores de servicios:
-> "Aquí el resultado anticipado de la acción es a menudo más probable
-> que se logre cuanto menos medios y fines se especifican en detalle,
-> cuanto más margen haya para la interpretación y la maniobra, cuanto
-> menos sujeta a control externo está la motivación personal del
-> trabajador y, por lo tanto, dando mayor oportunidad de responder ad
-> hoc a las características particulares de un entorno particular que en
-> principio no puede ser estandarizado sin producir consecuencias
-> contraproducentes" Claus Offe, *Disorganized Capitalism--Contemporary
-> Transformations of Work and Politics* (Cambridge: Polity Press, 1985),
-> 106-7, *en cursiva en el original*.
+
+    > "Aquí el resultado anticipado de la acción es a menudo más
+    > probable que se logre cuanto menos medios y fines se especifican
+    > en detalle, cuanto más margen haya para la interpretación y la
+    > maniobra, cuanto menos sujeta a control externo está la motivación
+    > personal del trabajador y, por lo tanto, dando mayor oportunidad
+    > de responder ad hoc a las características particulares de un
+    > entorno particular que en principio no puede ser estandarizado sin
+    > producir consecuencias contraproducentes" Claus Offe,
+    > *Disorganized Capitalism--Contemporary Transformations of Work and
+    > Politics* (Cambridge: Polity Press, 1985), 106-7, *en cursiva en
+    > el original*.
 
 [^nota270]: Andrew Friedman, *Industry and Lahbur—Class Struggle at Work
 and Monopoly Capitalism* (London: Macmillan Press, 1977).
@@ -11982,22 +12024,26 @@ Freedom*, (New Haven: Yale University Press, 2006).
 [^nota282]: Algunos pocos retrógrados insisten en que la potencia de
 cálculo de las computadoras ha sido la pieza faltante que finalmente
 pueda hacer posible una economía planificada y centralizada:
-> "Donde haya una revolución, en cualquier país en el mundo de mañana,
-> la posibilidad de una transición inmediata a la planificación
-> democrática y eficiente a través de Internet podría ponerle fin a las
-> afirmaciones sobre la inviabilidad de una economía socialista." Andy
-> Pollack, en *ed.* Robert McChesney, Ellen Meiksins Wood & John Bellamy
-> Foster, *Capitalism and the Information Age-The Political Economy of
-> the Global Communication Revolution* (New York: Monthly Review Press,
-> 1998), 220.
+
+    > "Donde haya una revolución, en cualquier país en el mundo de
+    > mañana, la posibilidad de una transición inmediata a la
+    > planificación democrática y eficiente a través de Internet podría
+    > ponerle fin a las afirmaciones sobre la inviabilidad de una
+    > economía socialista." Andy Pollack, en *ed.* Robert McChesney,
+    > Ellen Meiksins Wood & John Bellamy Foster, *Capitalism and the
+    > Information Age-The Political Economy of the Global Communication
+    > Revolution* (New York: Monthly Review Press,
+    > 1998), 220.
 
 [^nota283]: Kim Moody señala un punto válido sobre la relación entre los
 sitios de pequeña producción y las grandes corporaciones:
-> "La ironía aquí es que los sistemas de producción se han vuelto tan
-> grandes y complejo en el tiempo que la instalación gigante de ayer no
-> es lo suficientemente grande para encerrar más de una fracción del
-> proceso global." Kim Moody, *Workers in a Lean World—Unions in the
-> International Economy* (London: Verso, 1997), 151.
+
+    > "La ironía aquí es que los sistemas de producción se han vuelto
+    > tan grandes y complejo en el tiempo que la instalación gigante de
+    > ayer no es lo suficientemente grande para encerrar más de una
+    > fracción del proceso global." Kim Moody, *Workers in a Lean
+    > World—Unions in the International Economy* (London: Verso, 1997),
+    > 151.
 
 [^nota284]: Alan Felstead, *The Corporate Paradox—Power and Control in
 the Business Franchise* (London: Routledge, 1993).
@@ -12063,12 +12109,13 @@ University of Chicago Press, 1992).
 
 [^nota298]: En la presentación de Peter Ekeh de las teorías de
 intercambio social, él escribe que:
-> "[...] los procesos de intercambio social producen para la sociedad en
-> general un código moral de conducta que adquiere una existencia
-> independiente fuera de la situación de intercambio social y que delata
-> todas las relaciones interpersonales sociales, económicas y políticas
-> de la sociedad" Peter Ekeh, *Social Exchange Theory-—The Two
-> Traditions* (London: Heinemann, 1974), 58.
+
+  > "[...] los procesos de intercambio social producen para la sociedad
+  > en general un código moral de conducta que adquiere una existencia
+  > independiente fuera de la situación de intercambio social y que
+  > delata todas las relaciones interpersonales sociales, económicas y
+  > políticas de la sociedad" Peter Ekeh, *Social Exchange Theory-—The
+  > Two Traditions* (London: Heinemann, 1974), 58.
 
 [^nota299]: Igor Kopytoff "The Cultural Biography of Things:
 Commoditization as Process" en *ed.* Arjun Appadurai, *The Social Life
@@ -12097,11 +12144,12 @@ Frontier* (Cambridge, Mass.: MIT Press, 2000).
 normas en lugar de la ley para mantener el orden social. Para que las
 normas regulen el comportamiento social, sin embargo, algunas
 condiciones deben cumplirse:
-> "Para lograr el orden sin ley, la gente debe tener relaciones de
-> continuidad, información confiable sobre el comportamiento pasado y
-> contrapoder eficaz". Robert Ellickson, *Order Without Law: How
-> Neighbours Settle Disputes* (Cambridge, Mass.: Harvard University
-> Press, 1991), 284.
+
+  > "Para lograr el orden sin ley, la gente debe tener relaciones de
+  > continuidad, información confiable sobre el comportamiento pasado y
+  > contrapoder eficaz". Robert Ellickson, *Order Without Law: How
+  > Neighbours Settle Disputes* (Cambridge, Mass.: Harvard University
+  > Press, 1991), 284.
 
 [^nota305]: Peter Ekeh, Social *Exchange Theory--The Two Traditions*
 (London: Heinemann, 1974), 205.
@@ -12120,14 +12168,15 @@ escribir código ellos elijen hacerlo "carismáticamente".
 
 [^nota307]: Claude Lévi-Strauss dice esto tan importante muy claramente
 en su estudio de las sociedades arcaicas:
-> "Los bienes no son sólo los productos económicos, sino los vehículos e
-> instrumentos para la realidad de otro orden, como el poder, la
-> influencia, la simpatía, el estado y la emoción, y el juego hábil de
-> intercambio [...] consiste en un complejo conjunto de maniobras,
-> conscientes o inconscientes, con el fin de obtener seguridad y para
-> precaverse contra los riesgos provocados por las alianzas y por
-> rivalidades." Claude Lévi—Strauss, *The Elementary Structures of
-> Kinship* (Boston: Beacon Press, 1969), 54.
+
+  > "Los bienes no son sólo los productos económicos, sino los vehículos
+  > e instrumentos para la realidad de otro orden, como el poder, la
+  > influencia, la simpatía, el estado y la emoción, y el juego hábil de
+  > intercambio [...] consiste en un complejo conjunto de maniobras,
+  > conscientes o inconscientes, con el fin de obtener seguridad y para
+  > precaverse contra los riesgos provocados por las alianzas y por
+  > rivalidades." Claude Lévi—Strauss, *The Elementary Structures of
+  > Kinship* (Boston: Beacon Press, 1969), 54.
 
 [^nota308]: En un estudio del movimiento warez, Alf Rehn ha documentado
 la gran cantidad de trabajo de los crackers con el fin de hacer su
@@ -12248,7 +12297,7 @@ Basic Books, 2005).
 Regression of Listening" en *ed.*Andrew Arato and Eike Gebhardt, *The
 Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 
-[^nota338]: <http://news.bbc.co.uk/2/hi/asia-paciﬁc/2960218.stm>
+[^nota338]: <http://news.bbc.co.uk/2/hi/asia-pacific/2960218.stm>
 (consultado el 8 de febrero del 2007).
 
 # Bibliografía
@@ -12675,7 +12724,7 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 + *ed.* Naples,.Nancy. *Community Activism and Feminist Politics—Organizing Across Race*, Class, and Gender, New York: Routledge, 1998.
 
 + *National Research Council. Computer Chips and Paper Clips--Technology and Women’s Employment*, Washington: National Academy Press, 1987.
- + *Bits of Power: Issues in Global Access to Scientiﬁc Data*, Washington: National Academy Press, 1997.
+ + *Bits of Power: Issues in Global Access to Scientific Data*, Washington: National Academy Press, 1997.
  + *Digital Dilemma-Intellectual Property in the Information Age*, Washington DC: National Academy Press, 2000.
 
 + Naughton, John. *A Brief History of the Future: the Origins of the Internet*, London: Phoenix, 2000.
@@ -12686,7 +12735,7 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 
 + Nelkin, Dorothy. *Science as Intellectual Property*, New York: McMillan Publishing Company, 1984.
 
-+ Newman, Nathan. *Net loss: Internet prophets, private proﬁts, and the costs to community*, University Park, Pa.: Pennsylvania State University Press, 2002.
++ Newman, Nathan. *Net loss: Internet prophets, private profits, and the costs to community*, University Park, Pa.: Pennsylvania State University Press, 2002.
 
 + Noble, David. *Forces of Production—A Social History of Industrial Automation*, New York: Alfred A Knopf, 1984.
 
@@ -12701,7 +12750,7 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 
 + Olstrom, Elinor. *Governing the Commons: The Evolution of Institutions for Collective Action*, Cambridge: Cambridge University Press, 1990.
 
-+ *ed.* Oram, Andy. *Peer-to—Peer—Harnessing the Beneﬁts of a Disruptive Technology*, Cambridge, Mass.: O’Reilly, 2001.
++ *ed.* Oram, Andy. *Peer-to—Peer—Harnessing the Benefits of a Disruptive Technology*, Cambridge, Mass.: O’Reilly, 2001.
 
 + Pashukanis, Evgeny. *The General Theory of Law and Marxism*, New Brunswick, NJ: Transaction Publishers, 2002.
 
