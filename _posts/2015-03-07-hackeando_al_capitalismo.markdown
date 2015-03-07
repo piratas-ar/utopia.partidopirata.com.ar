@@ -1,6 +1,10 @@
-% Hackeando al capitalismo: el movimiento de software libre y de código abierto
-% Johan Söderberg
-% 2008
+---
+layout: post
+title: "Hackeando al capitalismo: el movimiento de software libre y de código abierto"
+author: "Johan Söderberg"
+cover: "assets/covers/single_hackeando_al_capitalismo.png"
+slider: "assets/covers/slider_hackeando_al_capitalismo.png"
+---
 
 ## *Agradecimientos*
 
@@ -13003,8 +13007,3 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 + Travis, Hannibal. "Pirates of the Information Infrastructure: Blackstonian Copyright and the First Amendment." *Berkeley Technology Law Journal* Vol.15, no.2 (primavera del 2000).
 
 + Winner, Langdon. "Do Artifacts Have Politics?" *Daedalus*, Vol.109, no.1 (invierno de 1980).
-
-
-
-
-
