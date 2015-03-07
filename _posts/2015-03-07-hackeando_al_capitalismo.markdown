@@ -1451,7 +1451,7 @@ especializado) no son un umbral insuperable.
 ### Relaciones de poder dentro y fuera del movimiento hacker
 
 La imagen del desarrollo de FOSS presentada hasta ahora, como un modelo
-único, monolítico, para escribir código, debe ser dejada de lado.Cada
+único, monolítico, para escribir código, debe ser dejada de lado. Cada
 proyecto difiere de otro en la forma en que se toman las decisiones, se
 delega el trabajo, y se reconocen los créditos. Tampoco la codificación
 en FOSS está claramente separada del sector empresarial. Todos los
@@ -1936,7 +1936,7 @@ Microsoft reconoció la importancia de Internet y comenzó a impulsar su
 propio navegador web, Internet Explorer.[^nota69] Un año más tarde,
 Netscape estaba en dificultades. Su cuota en el mercado de los
 navegadores estaba disminuyendo rápida y drásticamente, y se imponía un
-cambio en su política.Entonces, la compañía se decidió a publicar el
+cambio en su política. Entonces, la compañía se decidió a publicar el
 código fuente de su navegador. En enero de 1998, Netscape hizo su
 anuncio delante de un desconcertado grupo de periodistas y un despedido
 grupo de programadores. Netscape había consultado a muchos "hackers
@@ -6760,19 +6760,21 @@ Inmediatamente, los hackers comenzaron a hacer ingeniería inversa sobre
 Gnutella y lo mejoraron, probablemente con alguna ayuda encubierta de
 los empleados de Nullsoft. Tres años más tarde Justin Frankel hizo lo
 mismo de nuevo. Durante unas pocas horas el servidor Nullsoft almacenó
-WASTE (N.de T: en español, residuos, desechos), un programa de tercera
-generación para compartir archivos entre pares. WASTE fue diseñado para
-frustrar las nuevas estrategias de las demandas de RIAA contra las
-personas que compartían archivos. En WASTE las conexiones se establecían
-entre un pequeño círculo de personas que confiaban mutuamente unas en
-otras desde el principio y la comunicación, que en la mayoría de los
-casos consistía en archivos copiados ilegalmente, estaba fuertemente
-cifrada. A las autoridades legales les costó un enorme esfuerzo
-encontrar las infracciones que se producían en la red privada. En el
-poco tiempo en que WASTE estuvo disponible por Nullsoft el código se
-propagó como reguera de pólvora en la comunidad de FOSS. El paradero de
-la aplicación se puso fuera del alcance de AOL Time Warner. Luego, se
-desconectó de Nullsoft.
+WASTE[^ndt-desechos], un programa de tercera generación para compartir
+archivos entre pares. WASTE fue diseñado para frustrar las nuevas
+estrategias de las demandas de RIAA contra las personas que compartían
+archivos. En WASTE las conexiones se establecían entre un pequeño
+círculo de personas que confiaban mutuamente unas en otras desde el
+principio y la comunicación, que en la mayoría de los casos consistía en
+archivos copiados ilegalmente, estaba fuertemente cifrada. A las
+autoridades legales les costó un enorme esfuerzo encontrar las
+infracciones que se producían en la red privada. En el poco tiempo en
+que WASTE estuvo disponible por Nullsoft el código se propagó como
+reguera de pólvora en la comunidad de FOSS. El paradero de la aplicación
+se puso fuera del alcance de AOL Time Warner. Luego, se desconectó de
+Nullsoft.
+
+[^ndt-desechos]: en español, residuos, desechos. Nota de la traducción.
 
 La historia sobre OpenNap, Gnutella y WASTE da una idea de lo que puede
 suceder cuando se dispersan los medios para escribir algoritmos en el
@@ -10393,8 +10395,8 @@ Socialism Journal* 95, (verano del 2002).
 
 [^nota13]: En "The DotCommunism Manifesto" Eben Moglen directamente
 parafrasea el manifiesto de Karl Marx.
-emoglen.law.columbia.edu/publications/dcm.html (consultado el 08 de
-febrero del 2007).
+<http://emoglen.law.columbia.edu/publications/dcm.html> (consultado el
+08 de febrero del 2007).
 
 [^nota14]: "Gates Taking a Seat in Your Den" *CNet News.com* (5 de enero
 del 2005).
@@ -10653,18 +10655,18 @@ Fiction." *Mute* 27 (primavera del 2004).
 [^nota56]: Rishab Ghosh and Vipul Prakash, "The Orbiten Free Software
 Survey", *First Monday*, Vol.5, no.7 (julio del 2000).
 
-[^nota57]: www.phrack.org/archives/7/P07-03 (consultado el 8 de febrero
-del 2007).
+[^nota57]: <http://www.phrack.org/archives/7/P07-03> (consultado el 8 de
+febrero del 2007).
 
 [^nota58]: Rishab Ghosh, et al., *Free/Libre and Open Source Software:
 survey and study*, part IV, 2002, disponible en
-www.infonomics.nl/FLOSS/report/ (consultado el 8 de febrero del 2007).
+<http://www.infonomics.nl/FLOSS/report/> (consultado el 8 de febrero del
+2007).
 
 [^nota59]: Dawn Nafus, James Leach and Bernhard Krieger,
 *Free/Libre/Open Source Software: Policy Support* (2006), disponible en
-<http://www.flosspols.org/deliverables/
-FLOSSPOLS-D16-Gender_Integrated_Report_of_Findings.pdf>,(consultado el 8
-de febreo del 2007).
+<http://www.flosspols.org/deliverables/FLOSSPOLS-D16-Gender_Integrated_Report_of_Findings.pdf>,(consultado
+el 8 de febreo del 2007).
 
 [^nota60]: Para una análisis así como entrevistas con hackers con
 respecto al predominio masculino dentro del movimiento hacker, véase
@@ -10682,8 +10684,8 @@ Nature* (London: Free Association Books, 2001); de aquí en más citado en
 el texto, Sadie Plant, *Zeros + Ones: Digital Women and the New
 Technoculture* (London: Fourth Estate.: Beacon Press, 1998).
 
-[^nota63]: www.osaia.org/letters/sco_hill.pdf, (consultado el 8 de
-febrero del 2007)
+[^nota63]: <http://www.osaia.org/letters/sco_hill.pdf>, (consultado el 8
+de febrero del 2007)
 
 [^nota64]: Red Hat aún soporta la licencia GPL, ya que publica el código
 fuente. Además brinda protección adicional contra las leyes de marcas
@@ -10702,7 +10704,7 @@ Linux* y *Tao Linux*.
 
 [^nota65]: Una copia del reporte anual de Red Hat del 2004 está
 disponible en
-http://phx.corporate-ir.net/phoenix.zhtml?c=671568cp=irol-reportsannual
+<http://phx.corporate-ir.net/phoenix.zhtml?c=671568cp=irol-reportsannual>
 (consultado el 8 de febrero del 2007)
 
 [^nota66]: "Los vendedores de S.O.(sistemas operativos), con su enorme
@@ -10813,8 +10815,8 @@ el Departamento de Justicia de los EE.UU. en el 2001 salvó a la compañía
 de una reestructuración forzada. Amanda Cohen, "Surveying the Microsoft
 Antitrust Universe", *Berkeley Technology Law Journal* (2004).
 
-[^nota83]: www.opensource.org/sco-vs-ibm.html (consultado el 8 de
-febrero del 2007).
+[^nota83]: <http://www.opensource.org/sco-vs-ibm.html> (consultado el 8
+de febrero del 2007).
 
 [^nota84]: Kerry Goettsch, "SCO Group v. IBM: The Future of Open-Source
 Software", University of Illinois journal of Law, Technology & Policy
@@ -11388,12 +11390,12 @@ estrechamente definidas no impide que tengan un efecto escalofriante
 sobre la libertad de expresión y el libre pensamiento. En ocasiones, las
 leyes del copyright se utilizan directamente para silenciar las voces
 disidentes. El equipo de campaña de George Bush envió una carta a Zack
-Exley, el creador de <gwbush.com>, para que cesara y desistiera de su
-parodia a Bush. Exley fue amenazado con acciones legales porque tenía
-inserto material inapropiado "en las palabras, el aspecto y el sentir
-del sitio del Comité Exploratorio". La nota final de la historia fue
-entregada por el propio George Bush, cuyo comentario fue que "tiene que
-ponerse límites a la la libertad". Citado por Hannibal Travis en
+Exley, el creador de <http://gwbush.com>, para que cesara y desistiera
+de su parodia a Bush. Exley fue amenazado con acciones legales porque
+tenía inserto material inapropiado "en las palabras, el aspecto y el
+sentir del sitio del Comité Exploratorio". La nota final de la historia
+fue entregada por el propio George Bush, cuyo comentario fue que "tiene
+que ponerse límites a la la libertad". Citado por Hannibal Travis en
 "Pirates of the Information Infrastructure: Blackstonian Copyright and
 the First Amendment", *Berkeley Technology Law Journal* vol.15, no.2
 (primavera del 2000).
@@ -11629,7 +11631,7 @@ para señalar:
 
 [^nota210]: Stephanie Miles & Stephen Shankland "PIII debuts amid
 controversy", *CNET News.com* (26 de febrero de 1999),
-news.com.com/2100-1040-222256.html? legacy=cnet (consultado el 8 de
+<http://news.com.com/2100-1040-222256.html?legacy=cnet> (consultado el 8 de
 febrero del 2007)
 
 [^nota211]: Mark Stefik, *The Internet Edge—Social, Legal, and
@@ -11650,8 +11652,8 @@ desarrollo. Además de acortar la brecha digital, estos proyectos ayudan
 a difundir el software libre en el hemisferio sur.
 
 [^nota215]: Entrevista con Damjan Lampret, iniciador de OpenCores. El
-proyecto se puede hallar en: www.opencores.org. Otro proyecto
-interesante de hardware libre es GNUbook. http://gnubook.org/
+proyecto se puede hallar en: <http://www.opencores.org>. Otro proyecto
+interesante de hardware libre es GNUbook. <http://gnubook.org/>
 
 [^nota216]: En un artículo en una revista de computación con el título
 "Puede el software reemplazar al hardware", el periodista habla acerca
@@ -11839,8 +11841,7 @@ Klemens, *Math You Can’t Use—Patents, Copyright, and Software*
 
 [^nota246]: *ed.* Stephen Merrill, Richard Levin & Mark Myers, *A Patent
 System for the 21st Century*, 2004.
-<http://www.aipla.org/Content/ContentGroups/Issues_and_
-Advocacy/Comments2/Patent_and_Trademark_Office/2004/PatentRpt.pdf>
+<http://www.aipla.org/Content/ContentGroups/Issues_and_Advocacy/Comments2/Patent_and_Trademark_Office/2004/PatentRpt.pdf>
 (consultado el 8 de febrero del 2007).
 
 [^nota247]: Dorothy Nelkin, *Science as Intellectual Property* (New
@@ -12093,7 +12094,7 @@ salvar a Bataille. Scott Cutler Shershow, "Of Sinking: Marxism and the
 ‘General’ Economy". *Critical Inquiry* vol 27, no 3 (spring 2001).
 
 [^nota294]: Georges Bataille, *The Accursed Share—An Essay on General
-Economy*, vol.l (New York: Zone Books, 1988).
+Economy*, vol.I (New York: Zone Books, 1988).
 
 [^nota295]: Michael Heller, "The Tragedy of the Anticommons: Property in
 the Transition from Marx to Markets", *Harvard Law Review* (enero de
@@ -12721,7 +12722,7 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 
 + *ed.* Munzer, Stephen. *New Essays in Legal and Political Economy of Property*, Cambridge: Cambridge University Press, 2001.
 
-+ *ed.* Naples,.Nancy. *Community Activism and Feminist Politics—Organizing Across Race*, Class, and Gender, New York: Routledge, 1998.
++ *ed.* Naples, Nancy. *Community Activism and Feminist Politics—Organizing Across Race*, Class, and Gender, New York: Routledge, 1998.
 
 + *National Research Council. Computer Chips and Paper Clips--Technology and Women’s Employment*, Washington: National Academy Press, 1987.
  + *Bits of Power: Issues in Global Access to Scientific Data*, Washington: National Academy Press, 1997.
@@ -12946,7 +12947,7 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 
 + Chiapello, Eve. "Evolution and Co-optation: The ‘Artist Critique’ of Management and Capitalism." *Third Text*, Vol.18, no.6 (2004).
 
-+ Cohen, Amanda. "Surveying the Microsoft Antitrust Universe.Berkeley Technology Law Journal (2004).
++ Cohen, Amanda. "Surveying the Microsoft Antitrust Universe". Berkeley Technology Law Journal (2004).
 
 + Coombe, Rosemary. "Authorizing the Celebrity: Publicity Rights, Postmodern Politics, and Unauthorized Genders." *Cardozo Arts & Entertainment Law Journal*, no.10 (1992).
 
@@ -13013,7 +13014,7 @@ Essential Frankfurth School Reader* (New York: Continuum, 1998), 293.
 
 + Meurer, Michael. "Too Many Markets or too Few? Copyright Policy Towards Shared Works." *Southern California Law Review* (julio del 2004).
 
-+ Miles, Stephanie and Stephen Shankland "PIII debuts amid controversy". CNETNews.com (26 de febrero de 1999).
++ Miles, Stephanie and Stephen Shankland "PIII debuts amid controversy".  <http://CNETNews.com> (26 de febrero de 1999).
 
 + Moglen, Eben. "Anarchism Triumphant: Free Software and the Death of Copyright." *First Monday* Vol.4, no.8 (agosto de 1999).
 
