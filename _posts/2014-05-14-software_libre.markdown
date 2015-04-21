@@ -1094,8 +1094,6 @@ técnicos en la productividad se traduzcan en menos trabajo para nosotros.
 
 [^43]: [http://www.gnu.org/software/software.html](http://www.gnu.org/software/software.html)
 
-% por alguna razón me salteé la 44
-
 [^45]:  Esta expresión resultó poco precisa. La intención era decir
 que nadie tendría que pagar por el **permiso** para usar el sistema
 GNU.  Pero la expresión no es del todo clara, y a menudo se interpreta
