@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+gem 'libv8', '3.16.14.3'
+gem 'json'
 gem 'therubyracer'
 gem 'jekyll'
 
