@@ -11,10 +11,12 @@ pdf_tapas = $(patsubst %.svg,%.pdf,$(src_single_tapas))
 # Todos los pdfs originales
 pdfs = $(filter-out $(wildcard tmp/pdf/*-binder.pdf), \
        $(filter-out $(wildcard tmp/pdf/*-imposed.pdf), \
+       $(filter-out $(wildcard tmp/pdf/*-imposition.pdf), \
        $(filter-out $(wildcard tmp/pdf/*-con_tapa.pdf), \
-       $(wildcard tmp/pdf/*.pdf))))
+       $(wildcard tmp/pdf/*.pdf)))))
 
 pdfs_binder = $(patsubst tmp/pdf/%.pdf, tmp/pdf/%-binder.pdf, $(pdfs))
+pdfs_imposicion = $(patsubst tmp/pdf/%.pdf, tmp/pdf/%-imposition.pdf, $(pdfs))
 pdfs_con_tapa = $(patsubst %.pdf,%-con_tapa.pdf,$(pdfs))
 
 destination = /srv/http
@@ -22,7 +24,7 @@ site = utopia.partidopirata.com.ar
 torrent = utopiapirata.torrent
 
 # All es el primero para que sea la opción por defecto
-all: tapas toggle-dest build binder covers copiar-pdfs seed
+all: tapas toggle-dest build binder imposicion covers copiar-pdfs seed
 
 toggle-test-dest:
 	sed "s,^destination:.*,destination: $(destination)/test.$(site)," \
@@ -67,7 +69,30 @@ covers: $(pdfs_con_tapa)
 
 # La encuadernación binder crea todas las páginas una detrás de otra
 # porque se cortan y pegan individualmente (no se hace cuadernillo)
+#
+# +---+---+
+# |   |   |
+# | 1 | 1 |
+# |   |   |
+# +---+---+
+# |   |   |
+# | 1 | 1 |
+# |   |   |
+# +---+---+
 binder: $(pdfs_binder)
+
+# La imposición crea cuadernillos plegables por la mitad
+#
+# +----+----+
+# |    |    |
+# | 16 | 1  |
+# |    |    |
+# +----+----+
+# |    |    |
+# | 16 | 1  |
+# |    |    |
+# +----+----+
+imposicion: $(pdfs_imposicion)
 
 # Magia!
 %.tif: %.svg
@@ -94,3 +119,6 @@ tmp/pdf/%-binder.latex: tmp/pdf/%.pdf
 	sed -e "s/@@pages@@/$$printorder/g" \
 	    -e "s,@@document@@,$<,g" \
 	    binder.latex >$@
+
+tmp/pdf/%-imposition.pdf: tmp/pdf/%.pdf
+	bundle exec ./bin/imposicion '$<'

@@ -1,7 +1,7 @@
 markdown: pandoc
 pandoc:
     skip: false
-    impose: true
+    impose: false
     output: ./tmp
     flags: '--csl=apa.csl --bibliography=ref.bib --smart -V lang=spanish
             --section-divs --email-obfuscation=references'

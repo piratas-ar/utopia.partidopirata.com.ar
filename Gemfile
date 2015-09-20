@@ -5,6 +5,9 @@ gem 'json'
 gem 'therubyracer'
 gem 'jekyll'
 
+gem 'pdf_info'
+gem 'rtex'
+
 group :plugins do
   gem 'jekyll-torrent'
   gem 'jekyll-pandoc-multiple-formats', github: 'fauno/jekyll-pandoc-multiple-formats', branch: 'develop'
