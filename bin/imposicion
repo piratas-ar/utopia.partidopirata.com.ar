@@ -66,7 +66,7 @@ ARGV.each do |file|
 
   # Crea un array con todas las páginas en orden y le suma páginas en
   # blanco en la medida que faltan.
-  padded = pages.times.to_a.map{|i|i+1}.fill('{}', pages..(rounded_pages-1))
+  padded = pages.times.map{|i|i+1} + Array.new(blank_pages, '{}')
   # Crear dos grupos de páginas por la mitad de la cantidad de páginas
   halved = padded.each_slice(rounded_pages / 2).to_a
   # A la segunda mitad se le agrega un nil para que al invertirla e
@@ -75,9 +75,9 @@ ARGV.each do |file|
   halved.last << nil
   # Invertir la segunda mitad e intercalar de a dos con la primera
   # mitad, eliminar los valores nulos y obtener un array plano
-  order = halved.last.reverse.each_slice(2).to_a.zip(halved.first.each_slice(2).to_a).flatten.compact
+  order = halved.last.reverse.each_slice(2).zip(halved.first.each_slice(2).to_a).flatten.compact
   # Crear la distribución Nx1
-  nup = order.each_slice(options[:nup]/2).to_a.map{|i| i+i}.flatten
+  nup = order.each_slice(2).map{|i| i+i}.flatten
 
   # Crear el PDF impuesto en base a la plantilla
   pdflatex = RTeX::Document.new(template.gsub('@@document@@', file).gsub('@@pages@@', nup * ','))
