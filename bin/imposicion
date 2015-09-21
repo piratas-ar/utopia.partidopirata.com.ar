@@ -6,7 +6,8 @@ require 'optparse'
 
 options = {
   papersize: 'a4paper',
-  nup: 4
+  nup: 4,
+  extra: ''
 }
 OptionParser.new do |opts|
   opts.banner = 'Usage: imposition file1.pdf [file2.pdf ...]'
@@ -15,8 +16,12 @@ OptionParser.new do |opts|
     options[:papersize] = p
   end
 
-  opts.on '-n', '--nup [pages]', 'Pages per fold (defaults to 4)' do |n|
+  opts.on '-n', '--nup [pages]', 'Pages per fold (defaults to 4, values 2, 4, 8, 16)' do |n|
     options[:nup] = n.to_i
+  end
+
+  opts.on '-e', '--extra [options]', 'Extra options for pdfpages (ie. "landscape")' do |e|
+    options[:extra] = ",#{e}"
   end
 end.parse!
 
@@ -27,7 +32,7 @@ TEMPLATE = <<-EOT.gsub(/^\s+/, '')
   \\usepackage{pgfpages}
   \\usepackage{pdfpages}
 
-  \\pgfpagesuselayout{@@nup@@ on 1}[a4paper]
+  \\pgfpagesuselayout{@@nup@@ on 1}[@@papersize@@@@extra@@]
 
   \\begin{document}
     \\includepdf[pages={@@pages@@}]{@@document@@}
@@ -39,7 +44,9 @@ def round_to_nearest(int, near)
   (int + (near - 1)) / near * near
 end
 
-template = TEMPLATE.gsub('@@nup@@', options[:nup].to_s).gsub('@@papersize@@', options[:papersize])
+template = TEMPLATE.gsub('@@nup@@', options[:nup].to_s)
+  .gsub('@@papersize@@', options[:papersize])
+  .gsub('@@extra@@', options[:extra])
 
 # Procesar todos los archivos
 ARGV.each do |file|
@@ -77,7 +84,7 @@ ARGV.each do |file|
   # mitad, eliminar los valores nulos y obtener un array plano
   order = halved.last.reverse.each_slice(2).zip(halved.first.each_slice(2).to_a).flatten.compact
   # Crear la distribución Nx1
-  nup = order.each_slice(2).map{|i| i+i}.flatten
+  nup = order.each_slice(2).map{|i| ((options[:nup]/2)-1).times { i = i+i}; i}.flatten
 
   # Crear el PDF impuesto en base a la plantilla
   pdflatex = RTeX::Document.new(template.gsub('@@document@@', file).gsub('@@pages@@', nup * ','))
