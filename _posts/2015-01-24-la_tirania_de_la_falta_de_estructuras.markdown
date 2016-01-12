@@ -8,11 +8,11 @@ slider: "assets/covers/slider_la_tirania_de_la_falta_de_estructuras.png"
 
 La versión más temprana de este artículo fue presentada como una charla
 en una conferencia organizada por el Sindicato por los Derechos de la
-Mujer Sureña [Southern Female Rights Union], sostenida en Beulah,
+Mujer Sureña [Southern Female Rights Union], que tuvo lugar en Beulah,
 Mississippi en mayo de 1970.  Fue transcrito para Notas del Tercer Año
 (1971) pero las editoras no lo usaron.  También fue enviado a varias
-publicaciones del movimiento, pero sólo uno pidió permiso para
-publicarlo; otros lo hicieron sin permiso.  La primera publicación
+publicaciones del movimiento, pero sólo una pidió permiso para
+publicarlo; otras lo hicieron sin permiso.  La primera publicación
 oficial fue en el Volumen 2, Número 1 de "La Segunda Ola" (1972).  Esta
 versión temprana fue firmada como Joreen.  Otras versiones fueron
 publicadas en la "Revista de Sociología" de Berkeley, Volumen 17,
@@ -62,8 +62,8 @@ voluntad de cambiar su estructura a medida que cambiaban sus tareas.
 Las mujeres habían aceptado profundamente la idea de la "falta de
 estructuras" sin darse cuenta de las limitaciones de sus usos.  Las
 personas intentaban utilizar el grupo "sin estructura" y la conferencia
-informal para propósitos para los que no eran adecuados por una
-confianza ciega en que cualquier otro medio no podría ser otra cosa que
+informal para propósitos para los que no eran adecuados, por una
+confianza ciega en que cualquier otro medio no podría ser más que
 opresivo.
 
 Para que el movimiento crezca más allá de los estadios elementales de su
@@ -102,19 +102,19 @@ hacer_ no le impide al económicamente poderoso establecer control sobre
 salarios, precios y distribución de bienes; solo impide al gobierno
 hacerlo. Es por esto que la "falta de estructura" deriva en una forma de
 esconder el poder y dentro de los movimientos feministas es usualmente
-promovido por aquellas que son las más poderosas (sean o no concientes
+promovido por aquellas que son las más poderosas (sean o no conscientes
 de su poder). Mientras que la estructura del grupo sea informal, las
 reglas de cómo se toman las decisiones son conocidas por unas pocas
 personas y el reconocimiento del poder está limitado a aquellas que
 saben las reglas. Aquellas que no saben las reglas y no son elegidas
 para iniciarse, deben permanecer en estado de confusión, o sufrir
 delirios paranoicos de que algo está pasando, aunque no están del todo
-concientes de qué se trata.
+conscientes de qué se trata.
 
 Para que todas tengan la oportunidad de participar en un grupo
 determinado y ser parte de sus actividades, la estructura debe ser
-explícita, no implícita. Las reglas de la toma de decisiones deben estar
-abiertas y disponibles para todo el mundo y esto sólo puede suceder si
+explícita, no implícita. Las reglas de la toma de decisiones deben ser
+abiertas y estar disponibles para todo el mundo y esto sólo puede suceder si
 se formalizan. Esto no significa que la formalización de la estructura
 de un grupo vaya a destruir su estructura informal. Por lo general, no
 lo hace. Pero sí impide que la estructura informal tenga el control
@@ -126,11 +126,11 @@ que podemos decidir es si el grupo tendrá una estructura formalizada o
 no. Por lo tanto, no utilizaremos más este concepto, excepto para
 referirnos a la idea de lo que representa. Por no estructurado nos
 referiremos a aquellos grupos que no han sido estructurados
-deliberadamente de una manera particular. Por organizado nos referiremos
-a aquellos que poseen estructura. Un grupo estructurado siempre tiene
+deliberadamente de una manera particular. Por estructurados nos referiremos
+a los que sí lo han sido. Un Grupo Estructurado siempre tiene
 una estructura formal, pero también puede tener una informal o
-encubierta. Es esta estructura informal, sobre todo en los grupos no
-estructurados, lo que constituye la base para las élites.
+encubierta. Es esta estructura informal, sobre todo en los Grupos No
+Estructurados, lo que constituye la base para las élites.
 
 
 # La naturaleza del elitismo
@@ -143,14 +143,14 @@ generalmente se refiere a personas, a pesar de que las características
 personales y actividades de aquellas a las que se refiere pueden diferir
 ampliamente: una persona nunca puede ser elitista individualmente porque
 el término "élite" se aplica únicamente a grupos. Una sola persona,
-independientemente de cuánto se la reconozca, nunca puede ser una élite.
+independientemente de cuán reconocida sea, nunca puede ser una élite.
 
-La forma correcta es que una élite hace referencia a un pequeño grupo de
+Correctamente, una élite se refiere a un pequeño grupo de
 personas que tienen poder sobre un grupo más grande del que son parte,
 usualmente sin responsabilidad directa hacia ese grupo y normalmente sin
 su conocimiento o consentimiento. Una persona se convierte en elitista
 siendo parte o promoviendo el gobierno de este pequeño grupo, sea o no
-reconocido. La notoriedad no es la definicion de una elitista. Las
+reconocido. La notoriedad no una definicion de elitista. Las
 élites más insidiosas son usualmente dirigidas por personas no conocidas
 por el público general.  Las elitistas inteligentes son lo
 suficientemente listas como para no volverse muy reconocidas; cuando son
@@ -168,8 +168,8 @@ fenómenos lo que crea élites en cualquier grupo y las hace tan difíciles
 de romper.
 
 Estos grupos de amistad funcionan como redes de comunicación fuera de
-cualquier canal regular montado por un grupo para ese tipo comunicación.
-Si ningún canal es montado, funcionan como la única red de comunicación.
+cualquier canal regular montado por un grupo para ese tipo de comunicación.
+Si no hay canales montados, funcionan como la única red de comunicación.
 Debido a que las personas son amigas, a que usualmente comparten los
 mismos valores y orientaciones y a que hablan entre sí socialmente y se
 consultan cuando tienen que tomar decisiones comunes, las personas
@@ -178,10 +178,10 @@ que no. A su vez es raro que un grupo no establezca alguna red de
 comunicación informal a través de las amigas que haya dentro.
 
 Algunos grupos, dependiendo de su tamaño, pueden tener más de una de
-estas redes informales de comunicación. Las redes pueden incluso
-solaparse. Cuando solo existe una red, es la red de la élite sin
-estructura, aun cuando sus participantes no quieran serlo.  Si hay una
-sola red en un grupo con estructura, puede o no ser de una élite
+estas redes informales de comunicación. Las redes incluso pueden
+solaparse. Cuando sólo existe una de estas redes, es la élite del Grupo No
+Estructurado, aun cuando sus participantes no quieran serlo.  Si hay una
+sola red en un Grupo Estructurado, puede o no ser de una élite
 dependiendo de su composición y de la naturaleza de la estructura
 formal.  Si existen dos o más redes de amigas, podrían competir por el
 poder sobre el grupo, formando facciones o una abandonando la
@@ -198,15 +198,15 @@ movimiento feminista, ni tampoco un fenómeno nuevo para las mujeres.
 Tales relaciones informales han excluido a las mujeres durante siglos,
 impidiéndoles participar en grupos de los que eran parte.  En cualquier
 profesión u organización estas redes son las que crean la mentalidad de
-vestuario y los lazos de "la vieja escuela" que han prevenido
-efectivamente que las mujeres de un grupo (así como a otros hombres
+"vestuario" y los lazos de "la vieja escuela", que han prevenido
+efectivamente que las mujeres como un grupo (así como algunos hombres
 individualmente) tengan igual acceso a las fuentes de poder y
 reconocimiento social.  En el pasado, los movimientos feministas han
 puesto mucha energía en la formalización de las estructuras de toma de
 decisiones y selección, de forma que la exclusión de las mujeres pueda
 ser confrontada directamente.  Como todas sabemos, estos esfuerzos no
-han prevenido que las redes informales masculinas sigan discriminando a
-las mujeres, pero las han vuelto más dificultosas.
+han evitado que las redes informales masculinas sigan discriminando a
+las mujeres, pero lo han vuelto más difícil.
 
 Que las élites sean informales no quiere decir que sean invisibles.  En
 cualquier reunión de un grupo pequeño puede notarse quién influencia a
@@ -225,7 +225,7 @@ Como los grupos del movimiento no han tomado decisiones concretas sobre
 quién ejerce el poder dentro suyo, existen diferentes criterios en uso.
 Muchos de estos criterios se basan en las características femeninas
 tradicionales.  Por ejemplo, en los primeros días del movimiento, el
-matrimonio era un pre-requisito para participar en la élite informal.
+matrimonio era un prerrequisito para participar en la élite informal.
 Como se les había enseñado tradicionalmente, las mujeres casadas se
 relacionaban entre sí, percibiendo a las solteras como una amenaza. En
 muchas ciudades, este criterio se refinó para incluir sólo a mujeres
@@ -252,28 +252,28 @@ particularmente si se tiene una "carrera", no ser "amable" y ser soltera
 (es decir, no ser ni activamente heterosexual ni homosexual).
 
 Podrían incluirse otros criterios, pero todos tienen temas en común.
-Las características que son pre-requisito para participar en las élites
-informales del movimiento y por lo tanto ejercer poder, conciernen a su
-historia, personalidad o disponibilidad de tiempo.  No incluye
+Las características que son prerrequisito para participar en las élites
+informales del movimiento y por lo tanto ejercer poder, conciernen al
+origen, personalidad o disponibilidad de tiempo de cada una.  No incluyen
 competencia, dedicación al feminismo, talentos o contribución potencial
 al movimiento.  Los primeros son los criterios que una utiliza
 usualmente para elegir amigas.  Los segundos son los criterios que
 cualquier movimiento u organización debe usar para ser políticamente
 efectivo.
 
-El criterio de participación puede diferir de grupo a grupo, pero los
-medios para convertirse en miembro de la élite informal, si se cumple
+Los criterios de participación pueden diferir de grupo a grupo, pero los
+medios para convertirse en miembro de la élite informal, si una cumple
 con esos criterios, son casi siempre los mismos.  La única diferencia
-depende de si se pertenece al grupo desde el principio o se une más
+depende de si una pertenece al grupo desde el principio o se une más
 tarde.  Si se involucra desde el principio lo importante es que todas
 las amigas personales también se unan.  Si no se conoce bien a nadie,
 entonces hay que formar amistades con un grupo selecto de forma
 deliberada y establecer los patrones de interacción informal que son
 cruciales para la creación de un estructura informal.  Una vez que se
-forman estos patrones informales funcionan para auto-mantenerse y una de
+forman, estos patrones informales funcionan para auto-mantenerse y una de
 las tácticas más exitosas de este mantenimiento es el reclutamiento
 continuo de personas que "encajan".  Se forma parte de una élite de la
-misma forma que se ingresa a una sororidad[^sororidad].  Si se es
+misma forma que se ingresa a una sororidad[^sororidad].  Si una es
 percibida como una incorporación potencial, se es preparada por las
 miembros de la estructura informal y eventualmente se es iniciada o
 descartada.  Si la sororidad no está políticamente al tanto de este
@@ -283,7 +283,8 @@ Encuentra una esponsor, es decir una miembro de la élite respetada
 internamente, para cultivar activamente su amistad.  Eventualmente la
 esponsor nos hará entrar al círculo.
 
-[^sororidad]: [https://es.wikipedia.org/wiki/Fraternidades_y_sororidades](https://es.wikipedia.org/wiki/Fraternidades_y_sororidades)
+[^sororidad]: Una organización social para estudiantes muy común en las
+universidades estadounidenses. Ver [https://es.wikipedia.org/wiki/Fraternidades_y_sororidades](https://es.wikipedia.org/wiki/Fraternidades_y_sororidades)
 
 Todos estos procedimientos toman tiempo, así que si una trabaja a tiempo
 completo o tiene otro compromiso similar, resulta imposible participar,
@@ -295,7 +296,7 @@ exceso de trabajo.  Tener un proceso establecido para la toma de
 decisiones asegura que todas pueden participar en alguna medida.
 
 Aunque esta disección del proceso de formación de élites dentro de
-grupos pequeños ha sido crítico, no está hecha bajo la creencia que
+grupos pequeños ha sido crítico, no está hecha bajo la creencia de que
 estas estructuras informales son inevitablemente malas, sino que son
 inevitables.  Todos los grupos crean estructuras informales como
 resultado de los patrones de interacción entre las miembros del grupo.
@@ -313,24 +314,24 @@ importantes.  Mientras el movimiento no haga cosas importantes esto no
 es un problema.  Pero si este desarrollo no se corta en el estadio
 preliminar, alterará sus capacidades.  La segunda consecuencia es que
 las estructuras informales no tienen obligaciones con el grupo.  El
-poder no se les ha dado desde el grupo, por lo que no se lo puede
+poder no se les ha dado, por lo que no se les puede
 quitar.  Su influencia no está basada en lo que hacen por el grupo, por
 lo que no puede ser influenciada por este.  Esto no necesariamente hace
 que las estructuras informales sean irresponsables.  Aquellas que
 quieren mantener su influencia tratarán de ser responsables también.
-Pero el grupo no puede compeler esa responsabilidad ya que depende de
+Pero el grupo no puede forzar esa responsabilidad, depende de
 los intereses de la élite.
 
 
-# El sistema de "estrella"
+# El sistema de "estrellas"
 
 La idea de "la falta de estructura" ha creado el sistema de "estrellas".
 Vivimos en una sociedad que espera que los grupos políticos tomen las
 decisiones y que seleccionen personas que articulen esas decisiones para
 el público. La prensa y el público no saben cómo escuchar seriamente a
 mujeres individuales en tanto mujeres; quieren saber cómo se siente el
-grupo. Solo se han desarrollado tres técnicas para establecer opiniones
-grupales en forma masiva: el voto o referéndum, las encuestas de opinión
+grupo. Solo se han desarrollado tres técnicas para establecer la opinión
+de un grupo masivo: el voto o referéndum, las encuestas de opinión
 pública y la elección de voceras. El movimiento de liberación de las
 mujeres no ha utilizado ninguno de estos para comunicarse con el
 público. Tampoco el movimiento como un todo ni la mayoría de los
@@ -338,11 +339,11 @@ multitudinarios grupos dentro de este han establecido un medio para
 explicar sus posiciones sobre diversas cuestiones. Pero el público está
 condicionado a buscar voceras.
 
-Mientras no se ha elegido voceras conscientemente, el movimiento ha
+Aun cuando no se han elegido voceras conscientemente, el movimiento ha
 introducido muchas mujeres que han atrapado la atención del público por
 varias razones. Estas mujeres no representan a un grupo en particular o
 una opinión establecida; lo saben y usualmente así lo expresan. Pero
-debido a de que no hay voceras oficiales ni un cuerpo de toma de
+debido a que no hay voceras oficiales ni un cuerpo de toma de
 decisiones que la prensa pueda consultar cuando quiere saber la postura
 del movimiento frente a un tema, esas mujeres son percibidas como las
 voceras. Por ello, quieran o no, le guste al movimiento o no, las
@@ -355,7 +356,7 @@ cuando la prensa asume que hablan por el movimiento. Pero mientras que
 el movimiento no elija sus propias voceras, tales mujeres serán ubicadas
 en ese rol por la prensa y el público, a pesar de sus propios deseos.
 
-Esto tiene varias consecuencias negativas para ambos, el movimiento y
+Esto tiene varias consecuencias negativas tanto para el movimiento como para
 esas mujeres etiquetadas "estrellas". Primero, como el movimiento no es
 quien las coloca en el rol de voceras, este no puede sacarlas de allí.
 La prensa las coloca allí y solamente la prensa puede elegir dejar de
@@ -377,7 +378,7 @@ inclinarse ante ese tipo de presión personal. Es así que el contragolpe
 al sistema de "estrella" efectivamente anima el mismo tipo de
 irresponsabilidad individualista que el movimiento condena. Marginando a
 una hermana como "estrella", el movimiento pierde cualquier control que
-podría haber tenido sobre la persona que luego tiene la libertad de
+podría haber tenido sobre la persona, que luego tiene la libertad de
 cometer todos los pecados individualistas de los que ha sido acusada.
 
 
@@ -618,7 +619,7 @@ manera coordinada. Para hacer esto debe estar organizado --local,
 regional y nacionalmente.
 
 
-# Principios de estructuracion democrática
+# Principios de estructuración democrática
 
 Una vez que el movimiento ya no se aferre tenazmente a la ideología de
 la "falta de estructura," es libre de desarrollar esas formas de
