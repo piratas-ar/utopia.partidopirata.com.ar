@@ -188,7 +188,7 @@ poder sobre el grupo, formando facciones o una abandonando la
 competencia y dejando a la otra como la élite.  En un grupo con
 estructura, dos o más de estas redes de amigas usualmente compiten entre
 sí por el poder formal.  Esta es la situación más saludable, porque las
-otras miembros están en posición de arbitrar entre ambos grupos en
+otras integrantes están en posición de arbitrar entre ambos grupos en
 competencia por el poder y por lo tanto hacer demandas a aquellas a las
 que se les dio lealtad temporal.
 
@@ -210,7 +210,7 @@ las mujeres, pero lo han vuelto más difícil.
 
 Que las élites sean informales no quiere decir que sean invisibles.  En
 cualquier reunión de un grupo pequeño puede notarse quién influencia a
-quién.  Las miembros de un grupo de amistad se relacionarán más entre sí
+quién.  Las integrantes de un grupo de amistad se relacionarán más entre sí
 que con otras personas.  Prestan más atención e interrumpen menos,
 repiten los mismos puntos y ceden amistosamente. Además tienden a
 ignorar o discutir con las "ajenas" cuya aprobación es innecesaria para
@@ -262,7 +262,7 @@ cualquier movimiento u organización debe usar para ser políticamente
 efectivo.
 
 Los criterios de participación pueden diferir de grupo a grupo, pero los
-medios para convertirse en miembro de la élite informal, si una cumple
+medios para convertirse en integrante de la élite informal, si una cumple
 con esos criterios, son casi siempre los mismos.  La única diferencia
 depende de si una pertenece al grupo desde el principio o se une más
 tarde.  Si se involucra desde el principio lo importante es que todas
@@ -275,11 +275,11 @@ las tácticas más exitosas de este mantenimiento es el reclutamiento
 continuo de personas que "encajan".  Se forma parte de una élite de la
 misma forma que se ingresa a una sororidad[^sororidad].  Si una es
 percibida como una incorporación potencial, se es preparada por las
-miembros de la estructura informal y eventualmente se es iniciada o
+integrantes de la estructura informal y eventualmente se es iniciada o
 descartada.  Si la sororidad no está políticamente al tanto de este
 proceso como para llevarlo a cabo activamente, puede ser iniciado por la
 ajena casi de la misma forma en que una se une a un club privado.
-Encuentra una esponsor, es decir una miembro de la élite respetada
+Encuentra una esponsor, es decir una integrante de la élite respetada
 internamente, para cultivar activamente su amistad.  Eventualmente la
 esponsor nos hará entrar al círculo.
 
@@ -299,7 +299,7 @@ Aunque esta disección del proceso de formación de élites dentro de
 grupos pequeños ha sido crítico, no está hecha bajo la creencia de que
 estas estructuras informales son inevitablemente malas, sino que son
 inevitables.  Todos los grupos crean estructuras informales como
-resultado de los patrones de interacción entre las miembros del grupo.
+resultado de los patrones de interacción entre las integrantes del grupo.
 Tales estructuras informales pueden realizar cosas valiosas pero solo
 los grupos sin estructura son gobernados por ellas.  Cuando las élites
 informales se combinan con el mito de la "falta de estructura" no puede
@@ -430,7 +430,7 @@ inevitablemente limita el grupo de participantes a unas cinco, o excluye
 a algunas de algunas decisiones. Los grupos exitosos pueden ser tan
 grandes como diez o quince personas, pero sólo cuando están de hecho
 compuestos por varios subgrupos más pequeños que realizan partes
-específicas de las tareas y cuyas miembros se solapan entre sí de modo
+específicas de las tareas y cuyas integrantes se solapan entre sí de modo
 que el conocimiento de lo que los diferentes grupos están haciendo puede
 ser transmitido con facilidad.
 
@@ -474,7 +474,7 @@ malicioso de manipular a otras (aunque a veces lo es) sino por una falta
 de algo mejor que hacer con sus talentos. Las personas capaces con
 tiempo en sus manos y una necesidad de justificar su unión pone sus
 esfuerzos en el control personal y pasa su tiempo criticando las
-personalidades de otras miembros del grupo. Las peleas internas y los
+personalidades de otras integrantes del grupo. Las peleas internas y los
 juegos de poder personal dominan el día. Cuando un grupo está
 involucrado en una tarea, hay quienes aprenden a llevarse bien con otras
 tal como son y dejar de lado las diferencias personales por el bien del
@@ -498,7 +498,7 @@ tipo de actividad efectiva y estructurada que no fueron capaces de
 encontrar en el movimiento de mujeres. Las organizaciones políticas que
 ven la liberación de las mujeres como solo una de muchas cuestiones a
 las cuales las mujeres deben dedicar su tiempo encuentran en el
-movimiento un vasto campo de reclutamiento de nuevas miembros. No hay
+movimiento un vasto campo de reclutamiento de nuevas integrantes. No hay
 necesidad de "infiltrar" tales organizaciones (aunque esto no se
 excluye). El deseo de una actividad política significativa generada en
 las mujeres por su devenir en el movimiento de liberación de las mujeres
@@ -530,7 +530,7 @@ Muchas de estas élites informales estuvieron ocultas bajo la bandera del
 efectivamente la competencia de otra estructura informal, tendrían que
 volverse "públicas" y esta posibilidad está cargada con muchas
 implicaciones peligrosas. Por lo tanto, para mantener su propio poder,
-es más fácil racionalizar la exclusion de las miembros de la otra
+es más fácil racionalizar la exclusion de las integrantes de la otra
 estructura informal por medios como el hostigamiento a las
 izquierdistas, a las reformistas, las lesbianas o las heterosexuales. La
 única alternativa es estructurar formalmente al grupo de tal manera que
@@ -563,7 +563,7 @@ izquierdistas son simplemente las únicas organizaciones capaces de
 montar una campaña nacional. La multitud de grupos de liberación de las
 mujeres no estructurados pueden optar por apoyar o no las campañas
 nacionales, pero son incapaces de montar las suyas propias. Así sus
-miembros se vuelven las tropas bajo el liderazgo de las organizaciones
+integrantes se vuelven las tropas bajo el liderazgo de las organizaciones
 estructuradas. Los grupos declaradamente no estructurados no tienen
 manera de recurrir a los vastos recursos del movimiento para apoyar sus
 prioridades. No tienen siquiera una manera de decidir lo que son.
@@ -694,11 +694,11 @@ participe. Cuanto más se sabe acerca de cómo funcionan las cosas y
 aquello que está sucediendo, más políticamente eficaces se puede ser.
 
 #. Igualdad de acceso a los recursos que necesite el grupo. Esto no
-siempre es perfectamente posible, pero se debería procurar. Una miembro
+siempre es perfectamente posible, pero se debería procurar. Una integrante
 que mantiene un monopolio sobre un recurso necesario (como una imprenta
 propiedad del marido o un cuarto oscuro) puede influir indebidamente en
 su uso. Las habilidades y la información también son recursos. Las
-habilidades de las miembros están equitativamente disponibles sólo
+habilidades de las integrantes están equitativamente disponibles sólo
 cuando están dispuestas a enseñar lo que saben a las demás.
 
 Cuando se aplican estos principios, se asegura que cualquier estructura
