@@ -279,9 +279,9 @@ integrantes de la estructura informal y eventualmente se es iniciada o
 descartada.  Si la sororidad no está políticamente al tanto de este
 proceso como para llevarlo a cabo activamente, puede ser iniciado por la
 ajena casi de la misma forma en que una se une a un club privado.
-Encuentra una esponsor, es decir una integrante de la élite respetada
+Encuentra una sponsor, es decir una integrante de la élite respetada
 internamente, para cultivar activamente su amistad.  Eventualmente la
-esponsor nos hará entrar al círculo.
+sponsor nos hará entrar al círculo.
 
 [^sororidad]: Una organización social para estudiantes muy común en las
 universidades estadounidenses. Ver [https://es.wikipedia.org/wiki/Fraternidades_y_sororidades](https://es.wikipedia.org/wiki/Fraternidades_y_sororidades)
@@ -384,9 +384,9 @@ cometer todos los pecados individualistas de los que ha sido acusada.
 
 # Impotencia política
 
-Los grupos desestructurados quizas sean muy efectivos para hacer que las
+Los grupos desestructurados quizás sean muy efectivos para hacer que las
 mujeres hablen sobre sus vidas; pero no son muy buenos para lograr que
-se hagan las cosas. Aquí es cuando las personas se cansan de "solo
+se hagan las cosas. Esto es cuando las personas se cansan de "solo
 hablar" y quieren hacer algo más que estar dando vueltas sin hacer nada
 pero en grupo, a menos que cambien la naturaleza de su operación.
 Ocasionalmente, la estructura informal desarrollada coincide con una
@@ -410,8 +410,8 @@ para asegurar que las participantes tengan un "lenguaje común" para
 interactuar. Las personas de diferentes contextos pueden enriquecer un
 grupo de toma de conciencia donde cada una puede aprender de las
 experiencias de otras, pero una diversidad muy amplia en un grupo
-orientado a tareas significa que las participantes no se van a entender
-entre sí constantemente.  Personas muy diversas interpretan las palabras
+orientado a tareas significa que las participantes van a malinterpretarse
+constantemente.  Personas muy diversas interpretan las palabras
 y las acciones de formas distintas.  Tienen distintas expectativas sobre
 el comportamiento de las demás y juzgan los resultados bajo diferentes
 criterios.  Si todas se conocen entre sí lo suficiente como para
@@ -423,7 +423,7 @@ que nadie esperaba.
 a todas, las opiniones chequeadas, el trabajo dividido y la
 participación asegurada en las decisiones relevantes. Esto sólo es
 posible si el grupo es pequeño y la personas viven prácticamente juntas
-la mayoría de las etapas cruciales de las tareas. No hace falta decir
+durante la mayoría de las etapas cruciales de las tareas. No hace falta decir
 que el número de interacciones necesarias para involucrar a todas
 aumenta geométricamnete con el número de participantes. Esto
 inevitablemente limita el grupo de participantes a unas cinco, o excluye
@@ -444,13 +444,15 @@ grupos pequeños, esto no es posible en los grandes. En consecuencia,
 porque el movimiento mayor en la mayoría de las ciudades es tan
 desestructurado como los grupos de difusión individuales, no son mucho
 más eficaces que grupos separados en distintas tareas específicas. La
-estructura informal es raramente lo bastante unida o lo suficientemente
-en contacto con la gente para ser capaces de operar efectivamente.
+estructura informal es raramente lo bastante unida o está lo suficientemente
+en contacto con la gente para ser capaz de operar efectivamente.
 Entonces el movimiento genera mucha tracción y pocos resultados.
 Desafortunadamente, las consecuencias de tal tracción no son tan inocuas
 como sus resultados y su víctima es el movimiento mismo.
 
-[^serendipia]: [https://es.wikipedia.org/wiki/Serendipia](https://es.wikipedia.org/wiki/Serendipia)
+[^serendipia]: Una serendipia es un descubrimiento o un hallazgo afortunado e
+inesperado que se produce cuando se está buscando otra cosa distinta. Ver más
+en [https://es.wikipedia.org/wiki/Serendipia](https://es.wikipedia.org/wiki/Serendipia)
 
 Algunos grupos se han convertido en proyectos de acción local porque no
 se involucra a muchas personas y trabajan en pequeña escala. Pero esta
@@ -458,8 +460,8 @@ forma restringe la actividad del movimiento al nivel local; no se puede
 hacer de la misma forma en lo nacional o regional. Además, para
 funcionar bien los grupos por lo general deben recortarse a ese grupo
 informal de amigas que hacían funcionar las cosas desde un principio.
-Esto excluye a muchas mujeres de participar. Mientras la única manera de
-que las mujeres pueden participar en el movimiento sea a través de la
+Esto excluye de participar a muchas mujeres. Mientras la única manera de
+que las mujeres puedan participar en el movimiento sea a través de la
 pertenencia a un pequeño grupo, las no gregarias están en una desventaja
 distintiva. Mientras los grupos de amigas sean los medios principales de
 la organización de las actividades, el elitismo seguirá
@@ -470,7 +472,7 @@ dedicarse, el mero acto de estar unidos se convierte en la razón de
 estar juntos. Cuando un grupo no tiene tareas específicas (y la toma de
 conciencia es una tarea), las personas vuelcan sus energías a controlar
 a otras dentro de los grupos. Esto no se hace tanto por el deseo
-malicioso de manipular a otras (aunque a veces lo es) sino por una falta
+malicioso de manipular a otras (aunque a veces sea así) sino por una falta
 de algo mejor que hacer con sus talentos. Las personas capaces con
 tiempo en sus manos y una necesidad de justificar su unión pone sus
 esfuerzos en el control personal y pasa su tiempo criticando las
@@ -478,8 +480,8 @@ personalidades de otras integrantes del grupo. Las peleas internas y los
 juegos de poder personal dominan el día. Cuando un grupo está
 involucrado en una tarea, hay quienes aprenden a llevarse bien con otras
 tal como son y dejar de lado las diferencias personales por el bien del
-objetivo mayor. Existen límites a la compulsión de remodelar a toda
-persona a nuestra imagen de lo que deben ser.
+objetivo mayor. Se ponen límites a la compulsión de remodelar a toda
+persona según nuestra imagen de lo que deberían ser.
 
 El fin de la toma de conciencia deja gente sin lugar donde ir y la falta
 de estructura los deja sin forma de llegar allí. Las mujeres del
@@ -496,7 +498,7 @@ proyectos grupales que les interesen.
 Muchas se dirigen a otras organizaciones políticas para encontrar el
 tipo de actividad efectiva y estructurada que no fueron capaces de
 encontrar en el movimiento de mujeres. Las organizaciones políticas que
-ven la liberación de las mujeres como solo una de muchas cuestiones a
+ven la liberación de las mujeres como sólo una de muchas cuestiones a
 las cuales las mujeres deben dedicar su tiempo encuentran en el
 movimiento un vasto campo de reclutamiento de nuevas integrantes. No hay
 necesidad de "infiltrar" tales organizaciones (aunque esto no se
@@ -511,8 +513,8 @@ convierten en el marco de nuevas estructuras informales. Estas redes de
 amistad están basadas en sus prácticas políticas no feministas en lugar
 de las características discutidas anteriormente, aunque operan en la
 misma manera. Como esas mujeres comparten valores en común, ideas y
-orientaciones políticas, también se vuelven informales, no planificadas,
-no seleccionadas, élites sin responsabilidad --intenten serlo o no.
+orientaciones políticas, también se vuelven élites informales, no planificadas,
+no seleccionadas, sin responsabilidad --intenten serlo o no.
 
 Estas nuevas élites informales son a menudo percibidas como amenazas por
 las antiguas élites informales previamente desarrolladas dentro de los
@@ -532,13 +534,13 @@ volverse "públicas" y esta posibilidad está cargada con muchas
 implicaciones peligrosas. Por lo tanto, para mantener su propio poder,
 es más fácil racionalizar la exclusion de las integrantes de la otra
 estructura informal por medios como el hostigamiento a las
-izquierdistas, a las reformistas, las lesbianas o las heterosexuales. La
+izquierdistas, las reformistas, las lesbianas o las heterosexuales. La
 única alternativa es estructurar formalmente al grupo de tal manera que
 la estructura de poder original se institucionalice. Esto no siempre es
 posible. Si las élites informales han estado bien estructuradas y han
 ejercido una buena cantidad de poder en el pasado, tal tarea es
-factible. Estos grupos tienen una historia de efectividad política, así
-como la estrechez de su estructura informal se ha demostrado como un
+factible. Estos grupos tienen una historia de efectividad política, ya que
+lo ajustado de su estructura informal ha demostrado ser un
 sustituto adecuado de una estructura formal. Convertirse en un grupo
 estructurado no altera mucho su forma de operar, aunque la
 institucionalización del poder estructurado lo abre a un desafío formal.
@@ -570,7 +572,7 @@ prioridades. No tienen siquiera una manera de decidir lo que son.
 
 Cuanto más falto de estructura es un movimiento, menos control tiene
 sobre las direcciones en las que se desarrolla y las acciones políticas
-en las que participa. Esto no quiere decir que sus ideas no se difunden.
+en las que participa. Esto no quiere decir que sus ideas no se difundan.
 Dado un cierto interés de los medios de comunicación y la adecuación de
 las condiciones sociales, las ideas serán todavía difundidas
 ampliamente. Pero la difusión de las ideas no significa que sean
@@ -579,23 +581,23 @@ que puedan aplicarse individualmente podrán ser practicadas, pero en la
 medida en que requieran poder político coordinado para ser
 implementadas, no lo serán.
 
-Mientras que los movimientos de liberación de las mujeres se dedicaban a
+Mientras los movimientos de liberación de las mujeres se dediquen a
 una forma de organización que hace hincapié en grupos de discusión
-pequeños e inactivos entre amigas, el peor problema de la falta de
-estructura no se sentía. Pero este estilo de organización tiene sus
+pequeños e inactivos entre amigas, los peores problemas de la falta de
+estructura no se sentirán. Pero este estilo de organización tiene sus
 límites; es políticamente ineficaz, exclusivo y discriminatorio contra
 aquellas mujeres que no son o no pueden ser atadas a esas redes de
-amistad. Aquellas que no caben en lo que ya existe porque su clase,
+amistad. Aquellas que no encajan en lo que ya existe por su clase,
 raza, ocupación, educación, situación parental o matrimonial,
 personalidad, etc., serán inevitablemente desalentadas de intentar
-participar. aquellas que encajen desarrollarán intereses personales en
+participar. Aquellas que encajen desarrollarán intereses personales en
 mantener las cosas tal y como están.
 
 Los intereses personales de los grupos informales serán sustentados por
 la estructura informal existente y el movimiento no tendrá manera de
 determinar quién ejercerá poder dentro suyo. Si el movimiento continua
-deliberadamente en no seleccionar quién ejercerá poder, no lo podrá
-abolir. Todo lo que hace es abdicar el derecho a exigir que las que
+deliberadamente no seleccionando quién ejercerá poder, no podrá
+abolir ese poder. Todo lo que hace es abdicar el derecho a exigir que las que
 ejercen poder e influencia sean responsables por ello. Si el movimiento
 continua manteniendo el poder tan difuso como sea posible porque sabe
 que no puede demandar responsabilidad de aquellas que lo tienen, evita
@@ -622,7 +624,7 @@ regional y nacionalmente.
 # Principios de estructuración democrática
 
 Una vez que el movimiento ya no se aferre tenazmente a la ideología de
-la "falta de estructura," es libre de desarrollar esas formas de
+la "falta de estructura", es libre de desarrollar esas formas de
 organización más adecuadas para un funcionamiento saludable. Esto no
 significa que debemos ir al otro extremo e imitar ciegamente las formas
 tradicionales de organización. Pero tampoco debemos rechazarlas
@@ -634,9 +636,9 @@ diferentes tipos de estructura y desarrollar una variedad de técnicas
 para usar en diferentes situaciones. El sistema de sorteo es una de esas
 ideas que emergieron del movimiento. No es aplicable a todas las
 situaciones, pero es útil en algunas. Otras ideas sobre estructuración
-son necesarias. Pero antes que podamos proceder a experimentar
-inteligentemente, debemos aceptar que no hay nada inherente malo en la
-estructura misma -- solo exceso de uso.
+son necesarias. Pero antes de que podamos proceder a experimentar
+inteligentemente, debemos aceptar que no hay nada inherentemente malo en la
+estructura misma -- sólo exceso de uso.
 
 Mientras nos involucramos en este proceso de prueba y error, hay algunos
 principios que podemos mantener en mente que son esenciales para una
@@ -654,7 +656,7 @@ fácilmente ignorado.
 autoridad sean responsables hacia las que las seleccionaron. Esta es la
 forma en que el grupo tiene control sobre las personas en posiciones de
 autoridad. Las personas pueden ejercer poder pero es el grupo el que
-tiene la última palabra sobre como será ejercido.
+tiene la última palabra sobre cómo será ejercido.
 
 #. La distribución de la autoridad entre tantas personas como sea
 razonablemente posible. Esto previene el monopolio del poder y requiere
@@ -665,16 +667,16 @@ tanto aprender diferentes habilidades.
 
 #. La rotación de tareas entre personas. Las responsabilidades que se
 mantienen demasiado tiempo por una sola persona, formal o informalmente,
-terminan siendo vistos como su "propiedad" y no resulta fácil renunciar
-a ellos, o volver a ser controlados por el grupo. Por el contrario, si
+terminan siendo vistas como su "propiedad" y no resulta fácil renunciar
+a ellas, o volver a controlarlas desde el grupo. Por el contrario, si
 las tareas son rotadas con demasiada frecuencia las personas no tienen
 tiempo de aprender bien su trabajo y adquirir el sentido de satisfacción
 por hacerlo bien.
 
 #. Asignación de tareas en base a criterios racionales. Seleccionar a
 alguien para una posición porque es del agrado del grupo o dándole
-trabajo pesado porque les disgusta no sirve al grupo ni a la persona en
-el largo plazo. Capacidad, interés y responsabilidad deben ser las
+trabajo pesado porque les disgusta no sirve en el largo plazo ni al grupo ni a
+la persona. Capacidad, interés y responsabilidad deben ser las
 principales preocupaciones para tal selección. Las personas deben tener
 una oportunidad para aprender habilidades que no tienen, pero esto se
 hace mejor a través de algún tipo de programa de "aprendizaje" en lugar
@@ -699,13 +701,13 @@ que mantiene un monopolio sobre un recurso necesario (como una imprenta
 propiedad del marido o un cuarto oscuro) puede influir indebidamente en
 su uso. Las habilidades y la información también son recursos. Las
 habilidades de las integrantes están equitativamente disponibles sólo
-cuando están dispuestas a enseñar lo que saben a las demás.
+cuando estas están dispuestas a enseñar lo que saben a las demás.
 
 Cuando se aplican estos principios, se asegura que cualquier estructura
 desarrollada por diferentes grupos del movimiento será controlada por el
-grupo y responsable ante este. El grupo de personas en posiciones de
+grupo y responsable ante éste. El grupo de personas en posiciones de
 autoridad será difuso, flexible, abierto y temporal. No van a estar en
-una posición tan fácil de institucionalizar su poder porque las
+una posición de institucionalizar su poder tan fácilmente porque las
 decisiones finales serán tomadas por el grupo en general. El grupo
 tendrá la facultad de determinar quién ejercerá la autoridad dentro
 suyo.
