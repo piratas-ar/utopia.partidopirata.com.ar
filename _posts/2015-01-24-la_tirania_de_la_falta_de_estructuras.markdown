@@ -644,7 +644,7 @@ Mientras nos involucramos en este proceso de prueba y error, hay algunos
 principios que podemos mantener en mente que son esenciales para una
 estructuración democrática y también son políticamente efectivos:
 
-#. Delegación de autoridad específica para que personas específicas
+#. __Delegación__ de autoridad específica para que personas específicas
 realicen tareas específicas mediante procedimientos democráticos.  Dejar
 que la gente asuma trabajos o tareas por su cuenta significa que no se
 llevarán a cabo de forma fiable. Si se seleccionan las personas para
@@ -653,19 +653,19 @@ de hacerlo, quiere decir que han hecho un compromiso que no podrá ser
 fácilmente ignorado.
 
 #. Requerir que todas aquellas a quienes se les ha delegado una
-autoridad sean responsables hacia las que las seleccionaron. Esta es la
+autoridad sean __responsables__ hacia las que las seleccionaron. Esta es la
 forma en que el grupo tiene control sobre las personas en posiciones de
 autoridad. Las personas pueden ejercer poder pero es el grupo el que
 tiene la última palabra sobre cómo será ejercido.
 
-#. La distribución de la autoridad entre tantas personas como sea
+#. La __distribución__ de la autoridad entre tantas personas como sea
 razonablemente posible. Esto previene el monopolio del poder y requiere
 que aquellas en posiciones de autoridad consulten con muchas otras
 durante el proceso de ejercerlo. También da a muchas personas la
 oportunidad de tener responsabilidad sobre tareas específicas y por lo
 tanto aprender diferentes habilidades.
 
-#. La rotación de tareas entre personas. Las responsabilidades que se
+#. La __rotación__ de tareas entre personas. Las responsabilidades que se
 mantienen demasiado tiempo por una sola persona, formal o informalmente,
 terminan siendo vistas como su "propiedad" y no resulta fácil renunciar
 a ellas, o volver a controlarlas desde el grupo. Por el contrario, si
@@ -673,7 +673,7 @@ las tareas son rotadas con demasiada frecuencia las personas no tienen
 tiempo de aprender bien su trabajo y adquirir el sentido de satisfacción
 por hacerlo bien.
 
-#. Asignación de tareas en base a criterios racionales. Seleccionar a
+#. __Asignación__ de tareas en base a criterios racionales. Seleccionar a
 alguien para una posición porque es del agrado del grupo o dándole
 trabajo pesado porque les disgusta no sirve en el largo plazo ni al grupo ni a
 la persona. Capacidad, interés y responsabilidad deben ser las
@@ -687,7 +687,7 @@ habilidades. Las mujeres han sido castigadas por ser competentes durante
 la mayor parte de la historia humana; el movimiento no necesita que
 repetir este proceso.
 
-#. Difusión de información a todo el mundo con la mayor frecuencia
+#. __Difusión de información__ a todo el mundo con la mayor frecuencia
 posible. La información es poder. El acceso a la información mejora el
 poder de cada una. Cuando una red informal difunde nuevas ideas e
 información entre ellas mismas por fuera del grupo, ya están
@@ -695,7 +695,7 @@ participando en el proceso de formación de opinión --sin que el grupo
 participe. Cuanto más se sabe acerca de cómo funcionan las cosas y
 aquello que está sucediendo, más políticamente eficaces se puede ser.
 
-#. Igualdad de acceso a los recursos que necesite el grupo. Esto no
+#. __Igualdad de acceso a los recursos__ que necesite el grupo. Esto no
 siempre es perfectamente posible, pero se debería procurar. Una integrante
 que mantiene un monopolio sobre un recurso necesario (como una imprenta
 propiedad del marido o un cuarto oscuro) puede influir indebidamente en
