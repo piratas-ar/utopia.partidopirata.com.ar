@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem 'libv8', '3.16.14.3'
+gem 'libv8' #, '3.16.14.3'
 gem 'json'
 gem 'therubyracer'
 gem 'jekyll'
@@ -10,5 +10,5 @@ gem 'rtex'
 
 group :plugins do
   gem 'jekyll-torrent'
-  gem 'jekyll-pandoc-multiple-formats', github: 'fauno/jekyll-pandoc-multiple-formats', branch: 'develop'
+  gem 'jekyll-pandoc-multiple-formats', github: 'edsl/jekyll-pandoc-multiple-formats', branch: 'develop'
 end

@@ -2,26 +2,30 @@
 # `make` o `make all` genera el sitio
 #
 # Toma todas los svg de las tapas y los convierte a tif
-src_tapas = $(wildcard assets/covers/*.svg)
-src_single_tapas = $(wildcard assets/covers/single_*.svg)
-tif_tapas = $(patsubst %.svg,%.tif,$(src_tapas))
-png_tapas = $(patsubst %.svg,%.png,$(src_tapas))
-pdf_tapas = $(patsubst %.svg,%.pdf,$(src_single_tapas))
+src_tapas        := $(wildcard assets/covers/*.svg)
+src_single_tapas := $(wildcard assets/covers/single_*.svg)
+tif_tapas        := $(patsubst %.svg,%.tif,$(src_tapas))
+png_tapas        := $(patsubst %.svg,%.png,$(src_tapas))
+pdf_tapas        := $(patsubst %.svg,%.pdf,$(src_single_tapas))
 
 # Todos los pdfs originales
-pdfs = $(filter-out $(wildcard tmp/pdf/*-binder.pdf), \
-       $(filter-out $(wildcard tmp/pdf/*-imposed.pdf), \
-       $(filter-out $(wildcard tmp/pdf/*-imposition.pdf), \
-       $(filter-out $(wildcard tmp/pdf/*-con_tapa.pdf), \
-       $(wildcard tmp/pdf/*.pdf)))))
+pdfs := $(filter-out $(wildcard tmp/pdf/*-binder.pdf), \
+        $(filter-out $(wildcard tmp/pdf/*-imposed.pdf), \
+        $(filter-out $(wildcard tmp/pdf/*-imposition.pdf), \
+        $(filter-out $(wildcard tmp/pdf/*-con_tapa.pdf), \
+        $(wildcard tmp/pdf/*.pdf)))))
 
-pdfs_binder = $(patsubst tmp/pdf/%.pdf, tmp/pdf/%-binder.pdf, $(pdfs))
-pdfs_imposicion = $(patsubst tmp/pdf/%.pdf, tmp/pdf/%-imposition.pdf, $(pdfs))
-pdfs_con_tapa = $(patsubst %.pdf,%-con_tapa.pdf,$(pdfs))
+pdfs_binder     := $(patsubst tmp/pdf/%.pdf, tmp/pdf/%-binder.pdf, $(pdfs))
+pdfs_imposicion := $(patsubst tmp/pdf/%.pdf, tmp/pdf/%-imposition.pdf, $(pdfs))
+pdfs_con_tapa   := $(patsubst %.pdf,%-con_tapa.pdf,$(pdfs))
+ps              := $(patsubst %.pdf,%.ps,$(pdfs_imposicion))
 
-destination = /srv/http
-site = utopia.partidopirata.com.ar
-torrent = utopiapirata.torrent
+copias    ?= 1
+impresora ?= ImprentaEnDefensa
+
+destination ?= /srv/http
+site        ?= utopia.partidopirata.com.ar
+torrent     ?= utopiapirata.torrent
 
 # All es el primero para que sea la opción por defecto
 all: tapas toggle-dest build binder imposicion covers copiar-pdfs seed
@@ -93,6 +97,14 @@ binder: $(pdfs_binder)
 # |    |    |
 # +----+----+
 imposicion: $(pdfs_imposicion)
+
+ps: $(ps)
+
+imprimir:
+	test -n "$(archivo)"
+	for i in $(shell seq 1 $(copias)); do \
+		lpr -o sides=two-sided-long-edge -P $(impresora) $(archivo) ;\
+	done
 
 # Magia!
 %.tif: %.svg
