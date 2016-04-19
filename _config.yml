@@ -2,7 +2,7 @@ markdown: pandoc
 pandoc:
     skip: false
     bundle_permalink: ':slug.:output_ext'
-    papersize: 'a5paper'
+    papersize: 'a6paper'
     sheetsize: 'a4paper'
     imposition: true
     binder: true
