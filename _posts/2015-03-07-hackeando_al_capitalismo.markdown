@@ -4,6 +4,7 @@ title: "Hackeando al capitalismo: el movimiento de software libre y de código a
 author: "Johan Söderberg"
 cover: "assets/covers/single_hackeando_al_capitalismo.png"
 slider: "assets/covers/slider_hackeando_al_capitalismo.png"
+papersize: a5paper
 ---
 
 # Agradecimientos

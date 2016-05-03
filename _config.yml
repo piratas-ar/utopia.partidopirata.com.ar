@@ -11,7 +11,7 @@ pandoc:
             --section-divs --email-obfuscation=references'
     site_flags: '--toc --template=_layouts/toc.html'
     outputs:
-        pdf: '-V fontsize=8pt,a6paper,twoside
+        pdf: '-V fontsize=8pt,twoside
                 -V documentclass=book
                 -V geometry=hcentering
                 -V geometry=bindingoffset=5mm
@@ -19,21 +19,21 @@ pandoc:
                 --table-of-contents
                 --include-in-header=_layouts/header.tex
                 --include-before-body=_layouts/license.tex'
-#        epub: '--epub-chapter-level=2'
-#       mediawiki:
-#       rst:
-#       latex: '-V fontsize=8pt,a6paper,twoside
-#                 -V documentclass=book
-#                 -V geometry=hcentering
-#                 -V geometry=bindingoffset=1cm
-#                 --latex-engine=xelatex
-#                 --table-of-contents
-#                 --include-in-header=_layouts/header.tex
-#                 --include-before-body=_layouts/license.tex'
+        epub: '--epub-chapter-level=2'
+        mediawiki:
+        rst:
+        latex: '-V fontsize=8pt,twoside
+                  -V documentclass=book
+                  -V geometry=hcentering
+                  -V geometry=bindingoffset=1cm
+                  --latex-engine=xelatex
+                  --table-of-contents
+                  --include-in-header=_layouts/header.tex
+                  --include-before-body=_layouts/license.tex'
 
 destination: /srv/http/utopia.partidopirata.com.ar
-layouts:  ./_layouts
-plugins:  ./_plugins
+layouts_dir:  ./_layouts
+plugins_dir:  ./_plugins
 
 exclude: [ tmp ]
 

@@ -1,7 +1,6 @@
 \usepackage{quotchap} % changes style of chapter headings
 \usepackage{setspace}
 \usepackage{fancyhdr}
-\usepackage[compact]{titlesec}
 
 \newcommand{\copyleft}{\reflectbox{©}}
 
@@ -14,7 +13,7 @@
 }
 
 \pagestyle{fancy}
-\setlength{\headheight}{15.2pt}
+\setlength{\headheight}{20pt}
 \fancyhead[]{}
 \fancyhead[LE]{\footnotesize{\leftmark}}
 \fancyhead[RE]{}
@@ -42,3 +41,5 @@
 \newcommand{\tmpsubsubsection}[1]{}
 \let\tmpsubsubsection=\subsubsection
 \renewcommand{\subsubsection}[1]{\tmpsubsubsection{\hfill\MakeUppercase{#1}}}
+
+\raggedbottom
