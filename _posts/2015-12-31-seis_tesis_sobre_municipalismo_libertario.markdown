@@ -94,7 +94,7 @@ creando así una nueva esfera de interrelaciones: el reino del
 polissonomos,literalmente la gestión de la polis o ciudad. Es
 precisamente a partir de esta conjunción de nomos y de polis que deriva
 la palabra «política», una palabra que ha sido desnaturalizada
-y convertida al estatalismo. Igualmente, la palabra polis ha sido
+y convertida al estatismo. Igualmente, la palabra polis ha sido
 reconvertida como «estado». Estas distinciones no son meras discusiones
 etimológicas. Reflejan, por el contrario, una auténtica degradación de
 estos conceptos, siendo todos y cada uno de ellos de enorme importancia
@@ -118,32 +118,42 @@ las relaciones interpersonales y de forma general, la esfera de la vida
 privada, están, sin paralelismo alguno, totalmente diferenciados, social
 e intrínsecamente, del estatismo.
 
-Lo «social» y el «estatalismo» pueden infiltrarse el uno en el otro;
+Lo «social» y el «estatismo» pueden infiltrarse el uno en el otro;
 así, en este sentido, los antiguos despotismos reflejaban la soberanía
-patriarcal del oikos. La absorción de lo social por el moderno
+patriarcal del oikos[^ndt-oikos]. La absorción de lo social por el moderno
 y gigantesco estado totalitario refleja la ampliación del concepto de
 «burocracia» (tanto en sus esferas psicoterapéuticas y educacionales,
 como en la esfera administrativa tradicional) evidenciando las
 imperfecciones que existen en todas las clases de organismos sociales.
 
+[^ndt-oikos]: El equivalente al término "casa" en la Grecia Antigua, es el
+  conjunto de bienes y personas que constituía la unidad básica de la sociedad
+  en la mayoría de las ciudades-estado (polis), e incluía a la cabeza del oikos
+  (el telestai, generalmente el varón de mayor edad). _(Nota de traducción)_
+
+
 El surgimiento de la ciudad nos ofrece diversos grados de desarrollo, no
 sólo con respecto a una nueva dominación de la humanítas universal,
 diferenciada de la parroquia; nos abre la posibilidad del espacio libre
 de un nuevo civismo, diferenciado de los lazos tradicionales, es la
-gemeinschaften biocéntrica. Asimismo nos ofrece el reino del
+gemeinschaften[^ndt-gemeinschaften] biocéntrica. Asimismo nos ofrece el reino del
 polissonomos, la gestión de la polís por un cuerpo político de
 ciudadanos libres, en resumen, se nos da la posibilidad de la política
-en una forma diferente a lo estrictamente social y al estatalismo.
+en una forma diferente a lo estrictamente social y al estatismo.
+
+[^ndt-gemeinschaften]:  Gemeinschaft (frecuentemente traducido como comunidad), es
+  una asociación en la cual los individuos se orientan hacia la comunidad tanto
+  o más que hacia su propio interés.  _(Nota de traducción)_
 
 La Historia no nos muestra una esfera de lo político en estado «puro»,
 tampoco nos da una visión mayor de las relaciones sociales a nivel de
 aldeas y grupos no jerarquizados, y tan sólo en una época más reciente,
-ha empezado a mostrarnos instituciones puramente estatalistas. El
+ha empezado a mostrarnos instituciones puramente estatistas. El
 término de «pureza» es un concepto que es introducible en teoría social,
 a expensas de perder cualquier contacto con la realidad según hemos
 podido comprobar por la historia. Sin embargo, existen aproximaciones
 a la política, invariablemente de carácter cívico, y que no son, en
-principio, de carácter social o estatalista: la democracia ateniense,
+principio, de carácter social o estatista: la democracia ateniense,
 las asambleas municipales de Nueva Inglaterra, las asambleas de sección
 de la Comuna de Paris en 1793, por citar tan sólo los ejemplos más
 conocidos. De duración considerable en algunos casos, y efímeras en
@@ -153,8 +163,9 @@ pueden componer trazos aquí y allá para ofrecer la imagen de un status
 político no parlamentario ni burocratizado, centralizado
 o profesionalizado, social o estatal, sino que hay que recoger la imagen
 ciudadana, reconociendo el papel de la ciudad en la transformación de
-una población o de una aglomeración monádica de individuos en una
+una población o de una aglomeración monádica[^ndt-monádico] de individuos en una
 ciudadanía basada en formas éticas y regionales de asociación.
+[^ndt-monádico]:  Aislado _(Nota de traducción)_
 
 TESIS III
 =========
@@ -187,7 +198,7 @@ la República, y que pudieron haberla transformado en una democracia, una
 vez que «bajaron» de las Siete Colinas en las que Roma se «fundó» se
 «empequeñecieron» usando la terminología de Heine. La «idea de Roma» en
 tanto que una herencia ética, se fue reduciendo en proporción directa al
-crecimiento de la ciudad. A partir de entonces, «cuanto más crecía Roma,
+crecimienta de la ciudad. A partir de entonces, «cuanto más crecía Roma,
 más se dilató esta idea; el individuo se perdió por completo en la urbe,
 los grandes personajes que conservaban cierto poder, ya nacían con esta
 idea, y se ahondaba aún más la diferencia con los individuos menores».
@@ -221,7 +232,7 @@ son individuos éticamente motivados; o según Aristóteles, decir que son
 habitantes de la polis; Bakunin decía que los hombres eran quienes
 buscan la libertad. Sin embargo, cuando no existe una presencia
 autogestionaria en todas las esferas de la vida --económica, ética,
-políticay libertaria, la formación del carácter que transforma al
+política y libertaria, la formación del carácter que transforma al
 «hombre» de objetos pasivos en sujetos activos es, lamentablemente,
 inexistente. La Personalidad, es tanto una función, dentro de la acción
 de «gestión», o mejor todavía de la comunización, como la gestión es una
@@ -255,7 +266,7 @@ vida, lo cual tiene un carácter tan revolucionario como el paso de los
 grupos cazadores hacia el cultivo de la tierra; o como del cultivo de la
 tierra a la industria manufacturera. A pesar de los absorbentes poderes
 del Estado, hubo un posterior desarrollo que combinó civismo con
-nacionalismo, y política con estatalismo; como decía V. Gordon Childe,
+nacionalismo, y política con estatismo; como decía V. Gordon Childe,
 la «revolución urbana» fue un cambio tan grande como la revolución
 agrícola o la revolución industrial. Además se puede comprobar, que la
 nación-estado, al igual que sus predecesores, lleva en las entrañas
@@ -292,7 +303,7 @@ entrar en la actividad habitual del Estado.
 La supremacía de la asamblea, como fuente de política por encima de
 cualquier organismo administrativo, es la única garantía, dentro de la
 existencia individual, para que prevalezca la política sobre el
-estatalismo. Este grado perfecto de supremacía tiene una importancia
+estatismo. Este grado perfecto de supremacía tiene una importancia
 crucial dentro de una sociedad que contiene expertos y especialistas
 para las operaciones de la maquinaria social; mientras que el problema
 del mantenimiento de la preponderancia de la asamblea popular sólo se
@@ -305,7 +316,7 @@ se podrá elaborar una auténtica democracia libertaria. Estructuralmente,
 dicha realización no tiene que conllevar problema alguno. Las
 comunidades se han apoyado en expertos y administradores desde hace
 tiempo, sin perder por ello su libertad. La destrucción de estas
-comunidades ha sido más bien debida a un acto estatalista, no a uno
+comunidades ha sido más bien debida a un acto estatista, no a uno
 administrativo. Las corporaciones sacerdotales y las jefaturas se han
 apoyado desde siempre en la ideología, y en la tontería humana en forma
 aún más clara, y no tuvieron que apoyarse en la fuerza, para atenuar el
@@ -330,7 +341,7 @@ irreprimible, un desafío potencial al poder centralizado a través de la
 historia. Esta tensión prosigue hoy en día, y como ejemplo, los
 conflictos entre el Estado centralizado y las municipalidades en toda
 Norteamérica e Inglaterra. Es aquí, en el entorno del individuo más
-inmediato, --la comunidad, el vecindario, el pueblo, la aldeadonde la
+inmediato, --la comunidad, el vecindario, el pueblo, la aldea donde la
 vida privada se va ligando lentamente con la vida pública, es el lugar
 auténtico para que exista un funcionamiento a nivel de base, siempre
 y cuando la urbanización no haya destruido totalmente las posibilidades
@@ -338,7 +349,7 @@ para ello. Cuando la urbanización haya enmascarado la ciudad de tal
 manera que ésta carezca por completo de identidad propia, le falte la
 cultura y los espacios para relacionarse socialmente, cuando le falten
 las bases para la democracia, --no importa con que palabras la
-definamosentonces habrá desaparecido la identidad de la ciudad, y la
+definamos entonces habrá desaparecido la identidad de la ciudad, y la
 posibilidad de crear formas revolucionarias serán tan sólo sombras de un
 juego de abstracciones. Por la misma razón, ningún símil radical basado
 en fórmulas libertarlas ni sus posibilidades, tienen sentido cuando se
@@ -415,9 +426,14 @@ situaciones de desarrollo de principios democráticos, en los que los
 burgueses nunca se han sentido demasiado cómodos. Los diferentes
 «derechos» formulados por estas revoluciones no se consiguieron gracias
 a los burgueses, sino a pesar de ellos; así los granjeros libres
-norteamericanos de la década de 1770 y los sans culottes (descamisados)
+norteamericanos de la década de 1770 y los sans culottes[^ndt-sans culottes] (descamisados)
 de la década de 1790 --y además su futuro es cada vez más cuestionable
 dentro de este mundo cibernético y corporativo que está en crecimiento.
+
+[^ndt-sans culottes]:  Eran los partisanos de izquierdas miembros de las clases sociales más bajas;
+típicamente eran quienes realizaban labores manuales. Constituyeron la mayor
+parte del ejército revolucionario durante el inicio de la Revolución francesa
+_(Nota de traducción)_
 
 Sin embargo, estas tendencias actuales y futuras de carácter
 tecnológico, social y cultural, que se agitan y amenazan con descomponer
@@ -472,7 +488,7 @@ TESIS VI
 Así mismo, cuando la imagen orwelliana de «1984» sea claramente
 asimilable en alguna «megalópolis» de un Estado altamente centralizado
 y una sociedad altamente corporativizada, tendremos que ver las
-posibilidades que tenemos de contraponer a este desarrollo estatalista
+posibilidades que tenemos de contraponer a este desarrollo estatista
 y social un tercer supuesto de práctica humana: la situación política
 que supone la municipalidad; el desarrollo histórico de la Revolución
 Urbana, que no ha podido ser digerido por el Estado. La Revolución
@@ -524,16 +540,20 @@ A partir de este momento, cuando la teoría y la realidad entran en
 conflicto, uno se justificaba invocando la famosa cita de Georg Lukacs:
 «Que se fastidie la realidad» «So much the worse for the facts». La
 Política, tantas veces degradada por los «políticos», y convertida en
-estatalisíno, tiene que ser rehabilitada por el anarquismo, y ser
+estatismo, tiene que ser rehabilitada por el anarquismo, y ser
 devuelta a su significado original, en el que suponía una participación
 y, una administración civil, levantándose en contraposición del Estado,
 y extendiéndose más allá de los aspectos básicos de interrelación humana
 que llamamos interrelación social.[^4]
 
-[^4]:  Antes de finalizar este punto, vale la pena observar que la
-distinción entre lo Social y lo Político mantiene una marca desde sus
-orígenes, remontándose a la época de Aristóteles, y que se ha mantenido
-a lo largo de toda la historia de la teoría social, hasta
+[^4]:  Antes de finalizar este punto, vale la pena observar que la distinción
+  entre lo Social y lo Político mantiene una marca desde sus orígenes,
+  remontándose a la época de Aristóteles, y que se ha mantenido a lo largo de
+  toda la historia de la teoría social, hasta épocas recientes con las teorías
+  de Hannah Arendt. Lo que se echa de menos en ambos pensadores es una teoría
+  del Estado. y por tanto la ausencia de una distinción tripartita dentro de sus
+  escritos.
+
 
 Con un significado totalmente radical, tenemos que volver hacia las
 raíces de la palabra en la polis, y dentro del inconsciente vital de la
@@ -546,7 +566,7 @@ regeneración moral, y la lucha por la contracultura (usando el término
 en el mejor de los sentidos), y en contra de la cultura establecida.
 Con esto se explica el énfasis que el anarquismo hace sobre la ética,
 y su interés por ser coherente en medios y fines, su defensa de los
-derechos humanos y de los derechos civiles, así como su interés épocas
+derechos humanos y de los derechos civiles, así como su interés en épocas
 recientes con las teorías de Hannah Arendt. Lo que se echa de menos en
 ambos pensadores es una teoría del Estado, y por tanto la ausencia de
 una distinción tripartita dentro de sus escritos. respecto a la opresión
@@ -578,7 +598,7 @@ tradición es tan fuerte que puede acabar con toda posible innovación,
 aún entre los antiautoritarios.
 
 El anarquismo está caracterizado por su actitud ante el parlamentarismo
-y el estatalismo. Esta actitud ha sido ampliamente justificada por el
+y el estatismo. Esta actitud ha sido ampliamente justificada por el
 curso de la historia; pero también nos puede llevar a una paralización
 mental que, en teoría no es menos dogmática que el radicalismo electoral
 corrompido, en la práctica. Así si el municipalismo libertario se
@@ -600,7 +620,7 @@ puede vivir y funcionar con fines libertarios, no es, ni mucho menos,
 estar cautivo de la tradición; sino que se trata de hilar conjuntamente
 los objetivos humanos únicos de asociación que permanecen como
 cualidades inherentes al espíritu humano, --la necesidad de la comunidad
-como taly que han surgido repetidas veces en el pasado. Permanecen en el
+como tal y que han surgido repetidas veces en el pasado. Permanecen en el
 presente como esperanzas que acaban de nacer, pero que la gente tiene
 consigo en todas épocas, saliendo a la superficie en los momentos de
 acción y libertad.
@@ -650,7 +670,7 @@ a la fábrica, desde el Sindicato a la ciudad; lo cual no significa que
 los individuos conscientes deban retirarse de cualquier tipo de
 relaciones humanas organizadas, de la propia piel de uno, para
 esconderse en un estado de pureza y abstracción, de forma que se
-convalidaría la descripción de Adorno sobre el anarquismo como un
+convalidaría la descripción de Theodor Adorno sobre el anarquismo como un
 «fantasma». Si hay algún fantasma que nos de caza, son los que toman
 forma de ritualismo y de rigidez tan sumamente inflexible que uno cae en
 un rigor mortis bastante parecido al que cae el cuerpo congelado cuando
