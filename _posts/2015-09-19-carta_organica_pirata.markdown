@@ -354,112 +354,38 @@ reglamento, no pudiendo esta superar el término de un (1) año.
 
 La revocación será presentada a la Asamblea pertinente mediante Propuesta.
 
+Serán causas para la revocación de una responsabilidad delegada o
+auto-asumida el no cumplimiento de las tareas acordadas, el no respeto
+de los consensos alcanzados y la exclusión de otros piratas de las
+responsabilidades y tareas.
+
+## ARTÍCULO 17: EXPULSIONES
+
+Los piratas que causen malestar o desorganización, incumplan repetidamente
+tareas delegadas o auto-asumidas, o no respeten los principios piratas podrán
+ser expulsados mediante Propuesta.
 
 ORGANIZACIÓN BUROCRÁTICA
 ========================
 
-## ARTÍCULO 17: ÓRGANOS BURÓCRÁTICOS
+## ARTÍCULO 18: ÓRGANOS BURÓCRÁTICOS
 
 Se llamará Órgano Burocrático a cualquier cargo personal o grupal.
 
 Solo podrán participar de los Órganos Burocráticos los Piratas Afiliados.
 
-Todas las posiciones en los Órganos Burocráticos del Partido son delegadas y revocadas por
-decisión asamblearia.
+Todas las posiciones en los Órganos Burocráticos del Partido son delegadas y
+revocadas por decisión asamblearia.
 
 Será obligación de los Órganos Burocráticos acatar la voluntad de las Asambleas
 Piratas siguiendo los mecanismos definidos en el Título III de este documento
 y elaborar Actas de sus actividades.
 
 
-## ARTÍCULO 18: SANCIONES
-
-Las Sanciones a los Piratas Afiliados serán puestas a consideración por
-Propuesta. 
-
-Las sanciones a los Piratas Afiliados solo serán dispuestas por la Asamblea
-pertinente previa denuncia de otro Pirata Afiliado, de descargo del imputado
-y de resolución fundada de la Asamblea.
-
-La Asamblea designará, si el mismo no hubiera sido ya designado por el
-imputado, un Contramaestre que actuará en su defensa, velando por sus derechos
-y obrando por su bienestar. La elección del mismo será notificada
-fehacientemente y de manera inmediata al imputado.
-
-Las sanciones temporales deberán indicar el plazo de vigencia.
-
-El abuso de los mecanismos de sanción será punible.
-
-Las sanciones serán proporcionales a la gravedad de la falta y desde la más
-leve a la mas grave serán:
-
-* _Pase a bodega_, la suspensión temporal en las tareas asignadas.
-
-* _Vaya al carajo_, la suspensión temporal del derecho a voto en Asambleas.
-
-* _Caminar por la plancha_, la suspensión temporal del derecho a voz, voto
-  y participación en actividades del Partido.
-
-* _Arrojarlo a los tiburones del mercado_, la expulsión del Partido. Esta
-  sanción será apelable y resuelta definitivamente por la Asamblea General
-  inmediata posterior.
-
-
-## ARTÍCULO 19: CONTRAMAESTRES
-
-Se define Contramaestre a aquel Pirata Afiliado que actuará como defensor
-de un Pirata imputado de sanción.
-
-Un Pirata imputado de sanción puede designar hasta un (1) Contramaestre,
-debiendo ser siempre notificados fehacientemente los Piratas y Asambleas
-pertinentes y debidamente registrado.
-
-El mismo será designado mediante las siguientes pautas:
-
-* Por el Pirata representado en carácter regular, esto es, con anterioridad al
-  hecho y habiendo sido registrado debidamente.
-
-* Por la Asamblea Pirata en carácter excepcional, _in situ et in momentum_;
-
-Derechos:
-
-* No aceptar el cargo conferido, o renunciar al mismo si ya hubiese sido
-  aceptado.
-
-Obligaciones del cargo:
-
-* Representar al actor, velando por sus derechos, intereses y mandatos.
-
-* Notificar a su representado sobre los hechos que se le imputen, así
-  como cualquier otra información respecto del mismo, en todo momento.
-
-Terminación del cargo:
-
-El Contramaestre podrá dar por concluido su cargo cuando, mediante debida
-notificación y registro:
-
-* Su representado así lo designase;
-
-* Estuviese imputado en el mismo hecho que su representado;
-
-* Por determinación asamblearia, siempre que existan razones valederas;
-
-* Por autorrevocación, esto es, renuncia al cargo;
-
-* Por motivos particulares, médicos u otros, no pudiera cumplir con sus
-  obligaciones.
-
-* Si, por cualquier motivo expreso en este Documento, dejase de ser un Pirata
-  Afiliado/a.
-
-* Si fuese imputado en una causa penal/civil/comercial y/o de cualquier otro
-  fuero, en los alcances de la Justicia de esta Ciudad.
-
-
 ACTIVIDADES PARLAMENTARIAS
 ==========================
 
-## ARTÍCULO 20: OBLIGACIONES DE LOS CANDIDATOS ELEGIDOS
+## ARTÍCULO 19: OBLIGACIONES DE LOS CANDIDATOS ELEGIDOS
 
 Las bancas en ambas cámaras del Congreso ganadas mediante sufragio, pertenecen
 al Partido. Se considerará por lo tanto a los representantes del Partido que
@@ -481,7 +407,7 @@ asegurarse que su actuar en representación del Partido sea fiel a los
 Principios y accionar propuestos por éste.
 
 
-## ARTÍCULO 21: SOBRE LOS CANDIDATOS
+## ARTÍCULO 20: SOBRE LOS CANDIDATOS
 
 La presentación de candidatos será potestad de las Asambleas Piratas.
 
@@ -493,7 +419,7 @@ Los candidatos serán elegidos por Propuesta en las Asambleas Piratas para
 conformar las listas electorales públicas.
 
 
-## ARTÍCULO 22: SOBRE LAS LISTAS PARTIDARIAS
+## ARTÍCULO 21: SOBRE LAS LISTAS PARTIDARIAS
 
 Las listas partidarias presentarán, juntamente con el pedido de oficialización
 de listas, datos de filiación completos de sus candidatos y constancia del
@@ -507,7 +433,7 @@ identificación inequívoca.
 TESORO PIRATA
 =============
 
-## ARTÍCULO 23: COMPOSICIÓN PATRIMONIAL
+## ARTÍCULO 22: COMPOSICIÓN PATRIMONIAL
 
 El Tesoro Pirata estará compuesto por:
 
@@ -531,14 +457,14 @@ El Tesoro Pirata estará compuesto por:
   con los principios ideológicos y/o éticos del Partido.
 
 
-## ARTÍCULO 24: SOBRE LA ADMINISTRACIÓN DEL TESORO
+## ARTÍCULO 23: SOBRE LA ADMINISTRACIÓN DEL TESORO
 
 El Tesoro es el órgano burocrático de la economía pirata. Es responsable de la
 administración del patrimonio del Partido Pirata. Se le delega el cumplimiento
 de lo establecido por la Ley de Financiamiento de Partidos Políticos (26.215).
 
 El Tesoro responde a todas las responsabilidades y limitaciones establecidas por
-el Art. 17 de esta Carta.
+el Art. 18 de esta Carta.
 
 Los Fondos del Partido serán depositados en una cuenta única del Banco de la
 Nación Argentina o de la Ciudad Autónoma de Buenos Aires, a nombre del Partido
@@ -556,7 +482,7 @@ Todos los movimientos de esta cuenta deberan ser públicos y justificados, su
 incumplimiento sera punible.
 
 
-## ARTÍCULO 25: SOBRE EL ÓRGANO FIDUCIARIO
+## ARTÍCULO 24: SOBRE EL ÓRGANO FIDUCIARIO
 
 Todas las actividades del Tesoro estarán regidas por los principios de
 Transparencia, Participación, Distribución y Orientación a la Acción.
@@ -620,7 +546,7 @@ por medio de una propuesta a las Asambleas, hacer un llamado a donaciones o
 contraer deuda.
 
 
-## ARTÍCULO 26: SOBRE EL EJERCICIO CONTABLE
+## ARTÍCULO 25: SOBRE EL EJERCICIO CONTABLE
 
 El ejercicio contable durará el tiempo máximo definido para todos los puestos
 elegidos salvo que se revoque el puesto por asamblea, o el elegido decida
@@ -633,7 +559,7 @@ en qué fue utilizado el dinero, el incumplimiento sera punible.
 CARTA ORGÁNICA
 ==============
 
-## ARTÍCULO 27: SOBRE MODIFICACIONES
+## ARTÍCULO 26: SOBRE MODIFICACIONES
 
 La Carta Orgánica podrá ser cambiada mediante Acuerdo por la Asamblea General.
 Esta Carta Orgánica comenzará a regir a partir del día posterior a su
@@ -643,7 +569,7 @@ aprobación por la Justicia Electoral.
 OTRAS DISPOSICIONES
 ===================
 
-## ARTÍCULO 28: DISOLUCIÓN DEL PARTIDO
+## ARTÍCULO 27: DISOLUCIÓN DEL PARTIDO
 
 Mediante el Consenso de una Asamblea General convocada a tal efecto podrá
 disolverse el Partido.
