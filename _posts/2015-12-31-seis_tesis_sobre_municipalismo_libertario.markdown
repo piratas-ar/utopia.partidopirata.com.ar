@@ -2,6 +2,8 @@
 title: Seis tesis sobre municipalismo libertario
 author: Murray Bookchin
 layout: post
+cover: "assets/covers/single_seis_tesis_sobre_municipalismo_libertario.png"
+slider: "assets/covers/slider_seis_tesis_sobre_municipalismo_libertario.png"
 ---
 
 Tesis I
