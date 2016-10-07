@@ -6,7 +6,7 @@ title: "Los nuevos anarquistas"
 author: "David Graeber"
 ---
 
-Los nuevos anarquistas 
+Los nuevos anarquistas
 ======================
 
 Notas de la edición
@@ -17,7 +17,7 @@ Publicado en la [New Left Review
 [Bazza](https://github.com/b4zz4/ManifestanteXXI/blob/master/textos/los_nuevos_anarquistas.md).
 
 
-Los nuevos anarquistas 
+Los nuevos anarquistas
 ======================
 
 Cuesta pensar en una época en la que haya habido tal abismo entre
@@ -81,7 +81,7 @@ a la luz de todo lo anterior.
 ======================
 
 La expresión «movimiento antiglobalización» ha sido acuñada por
-los *media* estadounidenses y los activistas nunca se han sentido
+los multimedios de prensa  estadounidenses y los activistas nunca se han sentido
 a gusto con esa definición. De ser un movimiento que luche contra
 algo, lo hace contra el neoliberalismo, que podemos definir como
 una especie de fundamentalismo del mercado --o, para ser más
@@ -131,10 +131,12 @@ marcha, tal y como lo expresó el Subcomandante Marcos, «por todos los
 rebeldes del mundo». Gentes provenientes de unos cincuenta países
 llegaron en tropel a la aldea zapatista de La Realidad. La imaginación
 de «una red intercontinental de resistencia» fue expuesta en la Segunda
-Declaración de La Realidad: «Declaramos: Primero. Que haremos una red
-colectiva de todas nuestras luchas y resistencias particulares. Una
-red intercontinental de resistencia contra el neoliberalismo, una red
-intercontinental de resistencia por la humanidad».
+Declaración de La Realidad:
+
+> «Declaramos: Primero. Que haremos una red
+> colectiva de todas nuestras luchas y resistencias particulares. Una
+> red intercontinental de resistencia contra el neoliberalismo, una red
+> intercontinental de resistencia por la humanidad
 
 > Una red de voces que resisten a la guerra que el Poder les hace.\
 > Una red de voces que no sólo hablen, también que luchen y resistan por
@@ -142,25 +144,25 @@ intercontinental de resistencia por la humanidad».
 > Una red de voces que nace resistiendo, reproduciendo su resistencia en
 > otras voces todavía mudas o solitarias.\
 > Una red que cubra los cinco continentes y ayude a resistir la muerte
-> que nos promete el Poder.[^2]
+> que nos promete el Poder.»[^2]
 
 Ésta última, como dejaba clara la Declaración, no era «una estructura
 de organización; no tiene un director ni un responsable único de la
 toma  de decisiones; no tiene un poder de mando central ni dispone
-de jerarquías. Nosotros somos la red, pertenece a los nuestros quien
-resiste».
+de jerarquías. Nosotros somos la red, pertenece a los nuestros, quienes
+resisten».
 
 Al año siguiente, los partidarios zapatistas europeos agrupados en Ya
 Basta organizaron un segundo encuentro en España, en el que la idea de
 un proceso en red continuó desarrollándose: la AGP nació en un encuentro
 en Ginebra en febrero de 1998. Desde el primer momento, incluyó no sólo
 a grupos anarquistas y sindicatos radicales de España, Gran Bretaña y
-Alemania, sino también a una liga socialista de agricultores socialistas
+Alemania, sino también a una liga de agricultores socialistas
 gandhianos de la India (el KRRS), asociaciones de pescadores de
 Indonesia y Sri Lanka, el sindicato de los maestros argentinos, grupos
 indígenas tales como los maoríes de Nueva Zelanda y los Kuna de
 Ecuador,  el Movimiento de los Sin Tierra de Brasil, una red formada
-por comunidades fundada por esclavos huidos de Sur y Centroamérica, así
+por comunidades, fundada por esclavos huidos de Sur y Centroamérica, así
 como muchos otros. Durante un buen período, Norteamérica apenas estuvo
 representada, con la excepción de los canadienses del *Canadian Postal
 Worker’s Union *[Sindicato de Trabajadores de Correos] --que actuó como
@@ -208,8 +210,8 @@ control contra el que luchamos, en nombre de la auténtica globalización.
 
 Estas conexiones --y los vínculos más genéricos entre políticas
 neoliberales y mecanismos de coerción estatal (policía, cárceles,
-militarismo)-- han venido cobrando una importancia creciente en
-nuestros análisis, a la par que hemos vivido en nuestras carnes
+militarismo)-- han venido cobrando una creciente importancia en
+nuestros análisis, a la par que hemos vivido en carne propia
 grados de represión estatal cada vez más intensos. Las fronteras
 pasaron a convertirse en una de las cuestiones principales durante las
 reuniones del FMI en Praga y la posterior reunión de la UE en Niza. En
@@ -250,8 +252,8 @@ una descripción sencilla y sin rodeos de lo sucedido (personas que
 tiran globos de pintura, que rompen las lunas de escaparates vacíos,
 que forman cordones para bloquear los cruces de calles, policías que
 cargan con las porras) podría dar la impresión de que la única parte
-verdaderamente violenta era la policía. Los *media *estadounidenses
-son probablemente los mayores culpables a este respecto y todo ello a
+verdaderamente violenta era la policía. Los multimedios de prensa de estadounidenses
+son probablemente los mayores culpables a
 pesar de que, dos años después de un crecimiento constante de la acción
 directa militante, sigue siendo imposible dar un solo ejemplo de nadie
 que haya resultado herido por un activista estadounidense. Me atrevería
@@ -266,19 +268,19 @@ bastante tímido. Mientras que hubo un momento en el que las únicas
 alternativas que existían al desfile de pancartas eran la desobediencia
 civil no violenta gandhiana o la insurrección total, grupos como
 la *Direct Action Network *[Red de Acción Directa], *Reclaim the
-Streets*, *Black Blocs* o los *Tute Bianche* [Monos Blancos] han
+Streets*, *Black Blocs* o los *Tute Bianche* [Overoles Blancos] han
 intentado, cada uno a su manera, trazar un territorio intermedio
-completamente nuevo. Intentan inventar lo que muchos denominan un
+completamente nuevo. Intentan crear lo que muchos denominan un
 «nuevo lenguaje» de la desobediencia civil, combinando elementos del
 teatro de calle, el festival y lo que podríamos denominar técnicas de
 guerra no violenta --no violenta en la acepción que comparten, pongamos
 por caso, los anarquistas del *Black Bloc*, que evitan todo daño físico
 directo a los seres humanos--. Ya Basta, por ejemplo, es famoso por su
-táctica de los *tute bianche *o monos blancos: hombres y mujeres que se
+táctica de los *tute bianche* u overloes blancos: hombres y mujeres que se
 visten con formas elaboradas de protección con materiales de relleno
 y amortiguamiento, que comprenden desde una armadura de gomaespuma
-a cámaras de aire, llegando incluso a contar con flamantes ingenios
-que recuerdan a una balsa neumática, cascos y monos blancos desechables
+dentro de cámaras de aire hasta salvavidas con forma de patito de bañera
+, cascos y overloes blancos desechables
 (sus primos británicos son los elegantes *Wombles*). A medida que este
 ejército de burla intenta abrirse camino a través de las barreras
 policiales, protegiéndose unos a otros en todo momento para que nadie
@@ -365,7 +367,7 @@ Ahora el EZLN es el tipo de ejército que organiza «invasiones» de
 bases militares mexicanas, en las que cientos de rebeldes las invaden
 completamente desarmados, gritando y tratando de avergonzar a los
 soldados que en ellas están destinados. De forma parecida, las acciones
-masivas del Movimiento de los Sin Tierra conquistan una enorme autoridad
+masivas del Movimiento de los Sin Tierra una enorme autoridad
 moral en Brasil reocupando tierras no cultivadas de forma completamente
 no violenta. En uno y otro caso, resulta palmario que si la misma gente
 hubiera intentado hacer lo mismo hace veinte años, sencillamente les
@@ -374,7 +376,7 @@ hubieran disparado.
 Anarquía y paz
 ==============
 
-Como quiera que se determinen sus orígenes, estas nuevas tácticas
+Como sea que se determinen sus orígenes, estas nuevas tácticas
 están en perfecta consonancia con la inspiración general anarquista
 del movimiento, que no apunta tanto a la conquista del poder estatal
 como al desenmascaramiento, la deslegitimación y el desmantelamiento
@@ -443,7 +445,7 @@ las afirmaciones vertidas por las corporaciones mediáticas según las
 cuales somos un manojo de niñatos que pregonan una ristra de causas
 inconexas: libertad para Mumia, cancelación de la deuda externa,
 salvemos las selvas vírgenes.) Otra línea de ataque consiste en decir
-que el movimiento está plagado de una opo sición genérica a toda
+que el movimiento está plagado de una oposición genérica a toda
 forma de estructura o de organización. Resulta penoso que, dos años
 después de Seattle, tenga que escribir esto, pero desde luego alguien
 tiene que hacerlo: éste es un movimiento que trata de reinventar la
@@ -505,7 +507,7 @@ pueden intervenir en el proceso efectivo de búsqueda del consenso en el
 consejo, pero antes de tomar las principales decisiones se dividen de
 nuevo en grupos de afinidad y cada grupo llega al consenso acerca de la
 posición que quieren que adopte su portavoz (aunque esto no es tan
-rígido como pudiera colegirse de esta descripción). Por su parte,
+rígido como pudiera interpretarse en  esta descripción). Por su parte,
 las discusiones en grupos se producen cuando una reunión amplia se
 divide temporalmente en grupos más pequeños que discuten acerca de la
 toma de decisiones o la generación de propuestas, que luego pueden
@@ -556,9 +558,9 @@ la ideología es inmanente a los principios antiautoritarios que subyacen
 a su práctica, y uno de los principios más explícitos es que las cosas
 deben seguir siendo así.
 
-Para terminar, me gustaría poner sobre el tapete alguna de las
+Para terminar, me gustaría poner sobre la mesa alguna de las
 cuestiones relativas a la alienación y a sus implicaciones
-generales para la práctica política suscitadas por las redes de
+generales para las prácticas políticas suscitadas por las redes de
 acción directa. ¿Cómo se explica que, por más que apenas pueda
 decirse que exista alguna otra área social de referencia de la
 política revolucionaria en una sociedad capitalista, el único grupo que
@@ -583,7 +585,7 @@ con aquellos habituados a generaciones de trabajo asalariado. También
 ayudaría a explicar la extraordinaria importancia de las luchas de los
 pueblos
 
-[^1]: Los hay que asumen tan profundamente los principios anarquistas
+[^1]: Hay quienes asumen tan profundamente los principios anarquistas
 de antisectarismo e indefinición prospectiva que a veces se muestran
 reticentes a llamarse «anarquistas» por este preciso motivo.
 
