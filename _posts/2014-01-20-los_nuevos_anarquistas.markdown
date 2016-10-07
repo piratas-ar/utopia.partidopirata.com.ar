@@ -303,7 +303,7 @@ Anarchist Clown Bloc*, con sus bicicletas de circo, sus pelucas
 multicolores y sus mazos chillones, confundieron a los policías
 atacándose unos a otros (o a los billonarios). Cantaron las mejores
 consignas: «¿Democracia? ¡ah, ah, ah!»; «¡La pizza, unida, jamás será
-vencida!»; «¡Eh oh, eh oh! --¡ah, ah, ji ji!», así como metaconsignas
+vencida!»; «¡Eh oh, eh oh! --¡ah, ah, ji ji!», así como meta-consignas
 tales como: «¡Grito! ¡Respuesta!, ¡Grito! ¡Respuesta!» y --el
 preferido por todo el mundo-- «¡Gritemos tres palabras! ¡Gritemos tres
 palabras!».
@@ -327,7 +327,7 @@ acciones de Monopoly --compra de hoteles en Mayfair para los sin
 techo, venta del siglo en Oxford Street, guerrilla jardinera-- sólo
 en parte interrumpidas por la fuerte presencia policial y la lluvia
 torrencial. Pero incluso los más militantes de los militantes --los
-ecosaboteadores, como el *Earth Liberation Front *[Frente de liberación
+eco-saboteadores, como el *Earth Liberation Front *[Frente de liberación
 de la Tierra]-- evitan escrupulosamente hacer cualquier cosa que pudiera
 causar daño a los seres humanos (o a los animales, por cierto). Este
 atravesamiento de las categorías convencionales desconcierta a
