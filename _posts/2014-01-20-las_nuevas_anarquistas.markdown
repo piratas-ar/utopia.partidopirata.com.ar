@@ -1,12 +1,12 @@
 ---
 layout: post
-cover: "assets/covers/single_los_nuevos_anarquistas.png"
-slider: "assets/covers/slider_los_nuevos_anarquistas.png"
-title: "Los nuevos anarquistas"
+cover: "assets/covers/single_las_nuevas_anarquistas.png"
+slider: "assets/covers/slider_las_nuevas_anarquistas.png"
+title: "Las nuevas anarquistas"
 author: "David Graeber"
 ---
 
-Los nuevos anarquistas
+Las nuevas anarquistas
 ======================
 
 Notas de la edición
@@ -17,7 +17,7 @@ Publicado en la [New Left Review
 [Bazza](https://github.com/b4zz4/ManifestanteXXI/blob/master/textos/los_nuevos_anarquistas.md).
 
 
-Los nuevos anarquistas
+Las nuevas anarquistas
 ======================
 
 Cuesta pensar en una época en la que haya habido tal abismo entre
