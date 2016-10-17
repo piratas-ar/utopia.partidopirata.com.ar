@@ -73,7 +73,7 @@ title: Utopía Pirata
       <li> <span class="glyphicon glyphicon-cloud-download" title="Descargar"></span> </li>
     {% for format in site.pandoc.outputs limit:2 %}
     {% capture extension %}{{ format | first }}{% endcapture %}
-      <li><a href="{{ extension }}{{ post.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
+      <li><a href="{{ post.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
     {% endfor %}
       <li><a href="{{ post.url }}#formats">otros...</a></li>
     </ul>

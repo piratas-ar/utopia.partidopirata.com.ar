@@ -10,7 +10,7 @@ layout: default
       <ul class="list-inline">
 {% for format in site.pandoc.outputs %}
         {% capture extension %}{{ format | first }}{% endcapture %}
-        <li><a href="{{ extension }}{{ page.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
+        <li><a href="{{ page.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
 {% endfor %}
         <li><a href="pdf{{ page.url | remove:'.html' }}-imposition.pdf">impresión</a></li>
         <li><a href="pdf{{ page.url | remove:'.html' }}-binder.pdf">binder</a></li>
