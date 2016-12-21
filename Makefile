@@ -8,60 +8,59 @@ tif_tapas        := $(patsubst %.svg,%.tif,$(src_tapas))
 png_tapas        := $(patsubst %.svg,%.png,$(src_tapas))
 pdf_tapas        := $(patsubst %.svg,%.pdf,$(src_single_tapas))
 
-# Todos los pdfs originales
-pdfs := $(filter-out $(wildcard tmp/pdf/*-binder.pdf), \
-        $(filter-out $(wildcard tmp/pdf/*-imposed.pdf), \
-        $(filter-out $(wildcard tmp/pdf/*-imposition.pdf), \
-        $(filter-out $(wildcard tmp/pdf/*-con_tapa.pdf), \
-        $(wildcard tmp/pdf/*.pdf)))))
+destination := $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "puts c['destination']")
+srv          = $(dir $(destination))
+site        ?= utopia.partidopirata.com.ar
+torrent     ?= utopiapirata.torrent
 
-pdfs_binder     := $(patsubst tmp/pdf/%.pdf, tmp/pdf/%-binder.pdf, $(pdfs))
-pdfs_imposicion := $(patsubst tmp/pdf/%.pdf, tmp/pdf/%-imposition.pdf, $(pdfs))
-pdfs_con_tapa   := $(patsubst %.pdf,%-con_tapa.pdf,$(pdfs))
-ps              := $(patsubst %.pdf,%.ps,$(pdfs_imposicion))
+# Todos los pdfs originales
+pdfs := $(filter-out $(wildcard $(destination)/*-binder.pdf), \
+        $(filter-out $(wildcard $(destination)/*-imposed.pdf), \
+        $(wildcard $(destination)/*.pdf)))
+
+pdfs_originales := $(patsubst $(destination)/%.pdf,tmp/%.orig.pdf,$(pdfs))
+pdfs_cover      := $(patsubst $(destination)/%.pdf,tmp/%.cover.pdf,$(pdfs))
+ps              := $(patsubst %.pdf,%.ps,$(wildcard $(destination)/*-imposed.pdf))
 
 copias    ?= 1
 impresora ?= ImprentaEnDefensa
 
-destination ?= /srv/http
-site        ?= utopia.partidopirata.com.ar
-torrent     ?= utopiapirata.torrent
-
 # All es el primero para que sea la opción por defecto
-all: tapas toggle-dest build binder imposicion covers copiar-pdfs seed
+all: tapas toggle-dest build
+	# TODO jekyll!!
+	make pre-covers covers post-covers seed
 
 toggle-test-dest:
-	sed "s,^destination:.*,destination: $(destination)/test.$(site)," \
+	sed "s,^destination:.*,destination: $(srv)/test.$(site)," \
 	    -i _config.yml
 
 toggle-dest:
-	sed "s,^destination:.*,destination: $(destination)/$(site)," \
+	sed "s,^destination:.*,destination: $(srv)/$(site)," \
 	    -i _config.yml
 
 build:
 	bundle exec jekyll build
 
-# Copia los PDFs binder y pisa los PDF de jekyll con los PDF con tapa
-copiar-pdfs:
-	cp -vt $(destination)/$(site)/pdf/ $(pdfs_binder)
-	for i in $(pdfs_con_tapa); do \
-		d="$${i##*/}" ; \
-		d="$${d//-con_tapa}" ; \
-		cp -vf "$$i" "$(destination)/$(site)/pdf/$$d" ; \
-	done
-
 seed:
-	transmission-remote --add "$(destination)/$(site)/$(torrent)" \
-	                    --download-dir "$(destination)" \
+	# TODO hay que recrear el torrent para incluir los PDFs con tapa que
+	# creamos fuera de jekyll
+	rm -f $(destination)/$(torrent)
+	mktorrent --verbose \
+	          --web-seed=http://$(site) \
+						--announce=udp://tracker.opentrackr.org:1337,udp://tracker.coppersurfer.tk:6969 \
+						--output=$(destination)/$(torrent) \
+						$(destination)
+	transmission-remote --add "$(destination)/$(torrent)" \
+	                    --download-dir "$(dir $(destination))" \
 	                    --no-honor-session \
 	                    --no-seedratio
 
 release: 
-	rsync -av --delete-after --progress \
-	      $(destination)/$(site)/ \
-	      $(site):$(destination)/$(site)/
+	rsync -av --progress \
+	      $(destination)/ \
+	      $(site):$(destination)/
 
-test: toggle-test-dest build toggle-dest
+test: toggle-test-dest build covers
 
 clean:
 	rm -rf tmp src/tmp _site
@@ -69,34 +68,14 @@ clean:
 # Todas las tapas juntas
 tapas: $(tif_tapas) $(png_tapas) $(pdf_tapas)
 
-covers: $(pdfs_con_tapa)
+covers: $(pdfs_cover)
 
-# La encuadernación binder crea todas las páginas una detrás de otra
-# porque se cortan y pegan individualmente (no se hace cuadernillo)
-#
-# +---+---+
-# |   |   |
-# | 1 | 1 |
-# |   |   |
-# +---+---+
-# |   |   |
-# | 1 | 1 |
-# |   |   |
-# +---+---+
-binder: $(pdfs_binder)
+pre-covers: $(pdfs_originales)
 
-# La imposición crea cuadernillos plegables por la mitad
-#
-# +----+----+
-# |    |    |
-# | 16 | 1  |
-# |    |    |
-# +----+----+
-# |    |    |
-# | 16 | 1  |
-# |    |    |
-# +----+----+
-imposicion: $(pdfs_imposicion)
+post-covers:
+	for i in $(pdfs_cover) ; do \
+	 	cp $$i $(destination)/`basename $$i .cover.pdf`.pdf ;\
+	done
 
 ps: $(ps)
 
@@ -111,26 +90,22 @@ imprimir:
 	convert -colorspace CMYK -density 300 '$<' '$@'
 
 # Los sliders son de 730px
-%.png: %.tif
-	convert -resize 730x730\> '$<' '$@'
+assets/covers/slider_%.png: assets/covers/slider_%.tif
+	convert -resize 730x730\> $< $@
 
+%.png: %.tif
+	convert $< $@
+
+# Mover los PDFs a un lugar temporal
+tmp/%.orig.pdf: $(destination)/%.pdf
+	mkdir -p $(dir $@)
+	mv $< $@
+
+# Convertir la tapa a PDF
 assets/covers/single_%.pdf: assets/covers/single_%.svg
 	convert '$<' '$@'
 
-tmp/pdf/%-con_tapa.pdf: tmp/pdf/%.pdf
-	if test -f assets/covers/single_$*.pdf ; then \
-		pdfunite assets/covers/single_$*.pdf '$<' '$@' ; \
-	fi
-
-tmp/pdf/%-binder.pdf: tmp/pdf/%-binder.latex
-	pdflatex -output-directory tmp/pdf $<
-
-tmp/pdf/%-binder.latex: tmp/pdf/%.pdf
-	pages=$$(pdfinfo $< | grep Pages | cut -d: -f2 | tr -d " ") ;\
-	printorder=$$(seq 1 $$pages | sed -e "p;p;p" | tr "\n" "," | sed -e "s/,$$//") ;\
-	sed -e "s/@@pages@@/$$printorder/g" \
-	    -e "s,@@document@@,$<,g" \
-	    binder.latex >$@
-
-tmp/pdf/%-imposition.pdf: tmp/pdf/%.pdf
-	bundle exec ./bin/imposicion '$<'
+# Ponerle la tapa al PDF original
+tmp/%.cover.pdf: assets/covers/single_%.pdf tmp/%.orig.pdf
+	mkdir -p $(dir $@)
+	pdfunite $^ $@
