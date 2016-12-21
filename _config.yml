@@ -6,7 +6,7 @@ pandoc:
     sheetsize: 'a4paper'
     imposition: true
     binder: true
-    covers_dir: 'images/covers'
+    covers_dir: 'assets/covers'
     flags: '--csl=apa.csl --bibliography=ref.bib --smart -V lang=es
             --section-divs --email-obfuscation=references'
     site_flags: '--toc --template=_layouts/toc.html'
@@ -15,6 +15,7 @@ pandoc:
                 -V documentclass=book
                 -V geometry=hcentering
                 -V geometry=bindingoffset=5mm
+                -V geometry=bmargin=2.5cm
                 --latex-engine=xelatex
                 --table-of-contents
                 --include-in-header=_layouts/header.tex
@@ -26,6 +27,7 @@ pandoc:
                   -V documentclass=book
                   -V geometry=hcentering
                   -V geometry=bindingoffset=1cm
+                  -V geometry=bmargin=2.5cm
                   --latex-engine=xelatex
                   --table-of-contents
                   --include-in-header=_layouts/header.tex
