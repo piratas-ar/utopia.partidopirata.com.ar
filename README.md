@@ -14,6 +14,7 @@ Requisitos para trabajar en este repositorio
 
 * TeXLive
 * Pandoc (>= 1.10)
+* mktorrent
 * Git Flow
 
 Instalación
