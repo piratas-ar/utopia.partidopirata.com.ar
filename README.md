@@ -10,6 +10,8 @@ Requisitos para trabajar en este repositorio
 --------------------------------------------
 
 * Ruby
+  + Por ejemplo, en Debian/Ubuntu: `sudo apt install ruby ruby-dev; sudo gem install bundler`
+
 * TeXLive
 * Pandoc (>= 1.10)
 * Git Flow
