@@ -132,7 +132,7 @@ entre que escribimos y lo lee la otra pirata.
 
 Tenemos una página web en un servidor. En él, además tenemos acceso a distintos
 servicios. Algunos de ellos son los que mencionados en
-[Herramientas][#Herramientas]. Con la cuenta pirata tenes acceso a todos ellos.
+[Herramientas](#Herramientas). Con la cuenta pirata tenes acceso a todos ellos.
 Además tenemos _CalDAV_ para sincronizar piratas con todos los eventos y
 actividades!
 
