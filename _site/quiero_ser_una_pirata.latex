@@ -1,0 +1,477 @@
+\documentclass[8pt,twoside,spanish,a6paper,]{book}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[bmargin=2.5cm,bindingoffset=1cm,hcentering]{geometry}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdftitle={Quiero ser una pirata!},
+            pdfauthor={Partido Interdimensional Pirata},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[shorthands=off,main=spanish]{babel}
+\else
+  \usepackage{polyglossia}
+  \setmainlanguage[]{spanish}
+\fi
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\usepackage{quotchap} % changes style of chapter headings
+\usepackage{setspace}
+\usepackage{fancyhdr}
+
+\newcommand{\copyleft}{\reflectbox{©}}
+
+\definecolor{grey}{cmyk}{0,0,0,0.6}
+
+\renewcommand{\chapnumfont}{
+    \fontsize{44}{46}
+    \selectfont
+    \color{grey}
+}
+
+\pagestyle{fancy}
+\setlength{\headheight}{20pt}
+\fancyhead[]{}
+\fancyhead[LE]{\footnotesize{\leftmark}}
+\fancyhead[RE]{}
+
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{#1}{}}
+
+% Por alguna razón pandoc lo pone en 0
+\setlength{\parindent}{15pt}
+
+% Cortar por cualquier lado, lo encontré en texexchange
+\expandafter\def\expandafter\UrlBreaks\expandafter{\UrlBreaks%  save the current one
+\do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j%
+\do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t%
+\do\u\do\v\do\w\do\x\do\y\do\z\do\A\do\B\do\C\do\D%
+\do\E\do\F\do\G\do\H\do\I\do\J\do\K\do\L\do\M\do\N%
+\do\O\do\P\do\Q\do\R\do\S\do\T\do\U\do\V\do\W\do\X%
+\do\Y\do\Z}
+
+% No mostrar los copetes en las imágenes
+\usepackage[labelformat=empty]{caption}
+
+% Convertir los nombres de los autores a mayusculas y alineado a la
+% derecha
+\newcommand{\tmpsubsubsection}[1]{}
+\let\tmpsubsubsection=\subsubsection
+\renewcommand{\subsubsection}[1]{\tmpsubsubsection{\hfill\MakeUppercase{#1}}}
+
+\raggedbottom
+
+\title{Quiero ser una pirata!}
+\author{Partido Interdimensional Pirata}
+\date{}
+
+\begin{document}
+\maketitle
+
+    \newpage
+    \thispagestyle{empty}
+
+    \begin{flushleft}\hbox{\Large{Utopía Pirata}}
+    \copyleft \, \the\year -- Partido Pirata
+    \url{http://utopia.partidopirata.com.ar}
+
+    \vfill
+
+    \centering
+    \includegraphics[width=3cm]{assets/images/la_copia_comparte_cultura.png}
+
+    \end{flushleft}
+   \newpage
+
+{
+\setcounter{tocdepth}{2}
+\tableofcontents
+}
+\chapter{Quiero ser una pirata}\label{quiero-ser-una-pirata}
+
+\section{Cómo acercarse}\label{cuxf3mo-acercarse}
+
+\begin{quote}
+Mi nombre es Guybrush Threepwood y quiero ser unx pirata!
+\end{quote}
+
+El paso mas rápido y fácil es entrar a la sala de
+\protect\hyperlink{chat}{chat}, saludar, esperar un rato y conversar con
+nosotras. También te podés acercar a una reunión
+\protect\hyperlink{Grogux5cux26Tor}{Grog\&Tor}.
+
+\section{Acciones permanentes}\label{acciones-permanentes}
+
+\subsection{Grog\&Tor}\label{grogtor}
+
+Son reuniones de autoformación en seguridad, vigilancia y
+ciberactivismo. Si es la primera vez que te pones en contacto con
+nosotras, te recomendamos venir!
+
+\begin{itemize}
+\tightlist
+\item
+  \url{https://wiki.partidopirata.com.ar/GrogTor}
+\end{itemize}
+
+\subsection{Yo los paro}\label{yo-los-paro}
+
+Es una plataforma de campañas donde las personas pueden contactar a las
+legisladoras de un distrito para ``aconsejarles'' respecto a un proyecto
+o problemática.
+
+\subsection{Hackatones}\label{hackatones}
+
+Son reuniones para trabajar en proyectos internos.
+
+\subsection{AFK Pirata}\label{afk-pirata}
+
+Los \emph{Away From Keyboard} son encuentros de camaradería pirata donde
+nos juntamos a tomar cerveza, comer algo y charlar de lo que se nos
+ocurra. Organizá el próximo!
+
+\begin{itemize}
+\tightlist
+\item
+  \url{https://wiki.partidopirata.com.ar/Como_organizar_un_encuentro_pirata}
+\end{itemize}
+
+\subsection{Asamblea anual}\label{asamblea-anual}
+
+Es ``la'' reunión. En ella hacemos un balance del tiempo pasado y las
+acciones concretadas. Nos sirve para reunir fuerzas en la política que
+queremos seguir adelante, lo que queremos mejorar de ella, o lo que ya
+no queremos continuar.
+
+\subsection{Utopía pirata}\label{utopuxeda-pirata}
+
+En Utopías piratas, seleccionamos textos que nos resulten interesantes
+como bases políticas comunes. La tarea es encontrar esos textos,
+debatirlos, traducirlos si es necesario, editarlos, imprimirlos y
+distribuirlos.
+
+\begin{itemize}
+\tightlist
+\item
+  \url{https://utopia.partidopirata.com.ar}
+\end{itemize}
+
+\section{Organización}\label{organizaciuxf3n}
+
+\subsection{Cómo se toman decisiones}\label{cuxf3mo-se-toman-decisiones}
+
+Las piratas tomamos decisiones por \textbf{consenso}. Esto quiere decir
+que presentamos nuestras propuestas, las discutimos entre todas y
+llegamos a una posición común. Esto no quiere decir que todas tenemos
+que votar de la misma forma, sino que al tomar una decisión estamos
+teniendo en cuenta las posiciones de todas las piratas. El consenso es
+un proceso que dura toda la vida de una acción, lo que nos permite
+actuar con flexibilidad, darnos cuentas de nuestros errores e incorporar
+las posiciones opuestas.
+
+\begin{itemize}
+\tightlist
+\item
+  Carta Orgánica:
+\item
+  \url{https://utopia.partidopirata.com.ar/carta_organica_pirata.html}
+\item
+  Herramientas para la democracia directa:
+\item
+  \url{https://utopia.partidopirata.com.ar/democracia_directa.html}
+\end{itemize}
+
+\subsection{Cómo organizamos
+acciones}\label{cuxf3mo-organizamos-acciones}
+
+No tenemos representantes ni líderes. Si hay que hacer algo, sos
+bienvenida a sumarte en la medida de tus posibilidades. Si no podés
+cumplir con un compromiso que asumiste, avisá con tiempo y en lo posible
+encontrá alguien que te reemplace. Estos principios básicos son la
+\textbf{adhocracia}.
+
+\subsection{Regla de las tres piratas}\label{regla-de-las-tres-piratas}
+
+La \emph{regla de las tres piratas} es una medida ``a ojo''. Si tenés
+una idea, a otras dos piratas les parece una buena idea y nadie se
+opone, quiere decir que te podés poner manos a la obra. Al menos a
+proponiendo tu idea de forma más amplia en
+\protect\hyperlink{loomio}{Loomio}.
+
+Acordate de esta canción:
+
+\begin{quote}
+Si tu tienes muchas ganas de \ldots{}\\
+Si tu tienes la razón\\
+y no hay oposición\\
+no te quedas con las ganas de \ldots{}
+\end{quote}
+
+\subsection{Propuesta significa
+acción}\label{propuesta-significa-acciuxf3n}
+
+Cualquier persona está invitada a sumarse, proponer cosas y realizarlas.
+Proponer cosas para que las haga otra persona no lleva a ningún lado. La
+mayor parte del tiempo vas a ver que nadie hace lo que a otra pirata le
+pareció que estaría bueno hacer. \emph{Si ves que algo está sucio,
+agarrá la escoba y ponete a limpiar}.
+
+\subsection{Código de camaradería}\label{cuxf3digo-de-camaraderuxeda}
+
+El único capital que tenemos como piratas son los piratas, sus
+conocimientos y sus capacidades. Preservemoslas manteniendo una buena
+relación entre todas.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{Todas las piratas son buenas}
+\end{enumerate}
+
+Para toda discusión siempre se supone que los demás actúan de buena fé y
+que participa por verdadero interés pirata. Nadie es un infiltrado de la
+SIDE, la CIA o los reptilianos iluminati.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\tightlist
+\item
+  \textbf{Argumentos \emph{ad hominem}}
+\end{enumerate}
+
+Evitemos las descalificaciones personales, se debaten las ideas no las
+personas.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
+\tightlist
+\item
+  \textbf{Que no se vaya Jose María}
+\end{enumerate}
+
+El intercambio por texto es ineficiente. Muchas veces no nos conocemos,
+el sentido, la entonación y demás sutilezas de la comunicación pueden
+perderse entre que escribimos y lo lee la otra pirata.
+
+\section{Herramientas}\label{herramientas}
+
+\subsection{Cuenta Pirata}\label{cuenta-pirata}
+
+Tenemos una página web en un servidor. En él, además tenemos acceso a
+distintos servicios. Algunos de ellos son los que mencionados en
+{[}Herramientas{]}{[}\#Herramientas{]}. Con la cuenta pirata tenes
+acceso a todos ellos. Además tenemos \emph{CalDAV} para sincronizar
+piratas con todos los eventos y actividades!
+
+\begin{itemize}
+\item
+  \url{https://consenso.partidopirata.com.ar/d/EVaOzJnI/c-mo-creamos-las-cuentas-piratas}
+\item
+  \url{https://tortuga.partidopirata.com.ar/remote.php/dav/calendars/fauno/eventos-pblicos/}
+\item
+  \url{https://tortuga.partidopirata.com.ar/remote.php/dav/calendars/fauno/eventos-privados/}
+\end{itemize}
+
+\hypertarget{loomio}{\subsection{Loomio}\label{loomio}}
+
+Consenso es nuestra instancia de Loomio, una plataforma de
+participación, debate y toma de decisiones. La probamos y nos gustó, en
+ella tomamos las decisiones. Tené en cuenta que las decisiones no son
+por voto y mayoría, sino por \textbf{consenso}.
+
+\begin{itemize}
+\tightlist
+\item
+  \url{https://wiki.partidopirata.com.ar/Consenso_(loomio)}
+\end{itemize}
+
+\hypertarget{chat}{\subsection{Chat}\label{chat}}
+
+La sala de chat se accede vía IRC o Telegram.
+
+\begin{itemize}
+\item
+  Si no tenés un cliente de IRC, podés usar este link:
+\item
+  \url{https://webchat.pirateirc.net/?channels=ppar}
+\item
+  Si tenés un cliente IRC, los datos son estos:
+\end{itemize}
+
+\begin{quote}
+Servidor: irc.pirateirc.net\\
+Puerto: 6697\\
+SSL/TLS: Habilitado
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  Si querés configurar Pidgin:
+\item
+  \url{https://wiki.partidopirata.com.ar/Pidgin_con_IRC}
+\end{itemize}
+
+Por favor recordá y tené presente nuestro \textbf{Código de
+camaradería}.
+
+\subsection{Redes sociales}\label{redes-sociales}
+
+No nos gustan las plataformas de redes sociales privativas. Tenemos
+serias discusiones con el uso de Facebook, Twitter y demás, aunque
+mantengamos perfiles en algunas de esas plataformas, las tomamos como
+herramientas de difusión, no como herramientas de organización.
+
+\subsection{Listas de correo}\label{listas-de-correo}
+
+Las listas de correo fueron nuestra primera herramienta de comunicación
+y organización, que fuimos abandonando en favor de herramientas más
+adecuadas para cada cosa, como IRC para el
+\protect\hyperlink{chat}{chat} o \protect\hyperlink{loomio}{Loomio} para
+tomar decisiones.
+
+\subsection{Pads}\label{pads}
+
+Los pads son textos colaborativos que nos permiten escribir textos con
+una posición en común, ya que todas podemos producir el texto a la vez.
+Cada participante tiene un color y mientras más colores haya quiere
+decir que un texto es más rico. No borres los colores!
+
+\begin{itemize}
+\tightlist
+\item
+  \url{https://pad.partidopirata.com.ar/}
+\end{itemize}
+
+\subsection{RocketGatitOS GNU/Linux}\label{rocketgatitos-gnulinux}
+
+RocketGatitOS, es una distribucion de GNU/Linux basada en Fedora, cuyo
+objetivo es proveer herramientas de comunicaciones seguras por defecto.
+Posee complementos para el navegador que evitan la publicidad y el
+rastreo además de configuraciones seguras, y algunas otras mejoras.
+
+\begin{itemize}
+\tightlist
+\item
+  \url{https://github.com/piratas-ar/RocketGatitos}
+\end{itemize}
+
+\section{Auto-formación}\label{auto-formaciuxf3n}
+
+\subsection{Piratas sombra}\label{piratas-sombra}
+
+Las piratas sombras son piratas que se ofrecen voluntariamente a ayudar
+a una pirata nueva a participar del partido. Si querés participar y
+necesitás una mano para ubicarte, pedí tus sombras P)
+
+\begin{itemize}
+\tightlist
+\item
+  \url{https://consenso.partidopirata.com.ar/d/r2wLy1Gz/-bienvenidxs-piratas-}
+\end{itemize}
+
+\subsection{Utopías piratas}\label{utopuxedas-piratas}
+
+Las utopías piratas son textos que nos interesa difundir como material
+de autoformación pirata en distintos temas. Por ejemplo,
+\emph{Herramientas para la democracia directa} son textos introductorios
+a la toma de decisiones por consenso, la forma en que tomamos
+decisiones.
+
+\begin{itemize}
+\tightlist
+\item
+  \url{https://utopia.partidopirata.com.ar}
+\end{itemize}
+
+\subsection{Carta Orgánica}\label{carta-orguxe1nica}
+
+La Carta Orgánica es un documento de organización pirata que sobrevivió
+nuestras ganas de ser un partido político reconocido por el Estado. La
+idea fue tener un documento organizativo que se adecue lo más posible a
+nuestra forma real de organizarnos (frente a, por ejemplo, aceptar un
+estatuto modelo pero verticalista y trabajar de ``otra forma'' en una
+red de confianza).
+
+\begin{itemize}
+\tightlist
+\item
+  \url{https://utopia.partidopirata.com.ar/carta_organica_pirata.html}
+\end{itemize}
+
+\subsection{Wiki}\label{wiki}
+
+En la wiki pirata documentamos algunos procesos, guías y etc.
+
+\begin{itemize}
+\tightlist
+\item
+  \url{https://wiki.partidopirata.com.ar}
+\end{itemize}
+
+\subsection{Zines / Stickers / Material
+gráfico}\label{zines-stickers-material-gruxe1fico}
+
+Los zines son hojitas de difusión rápida de ideas, creamos material
+sobre cómo y por qué usar algunas de las herramientas afines a nuestra
+liberación.
+
+\begin{itemize}
+\tightlist
+\item
+  \url{https://zines.partidopirata.com.ar}
+\end{itemize}
+
+\subsection{Grog\&Tor}\label{grogtor-1}
+
+Si tenés ganas de conocernos y/o aprender sobre herramientas de
+seguridad y privacidad, adoptar GNU en tu corazón y computadora,
+acercate a la próxima. Sucede los segundos sábados de cada mes en el
+rango de 15 a 20hs. El lugar es rotativo, estate atenta o preguntá en el
+\protect\hyperlink{chat}{chat}!
+
+\hypertarget{refs}{}
+
+\end{document}

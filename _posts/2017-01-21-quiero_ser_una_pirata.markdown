@@ -15,7 +15,7 @@ Quiero ser una pirata
 
 El paso mas rápido y fácil es entrar a la sala de [chat](#chat), saludar,
 esperar un rato y conversar con nosotras.  También te podés acercar a una
-reunión [Grog&Tor](Grog&Tor).
+reunión [Grog&Tor](#Grog&Tor).
 
 ## Acciones permanentes
 
@@ -80,8 +80,7 @@ errores e incorporar las posiciones opuestas.
 No tenemos representantes ni líderes.  Si hay que hacer algo, sos bienvenida a
 sumarte en la medida de tus posibilidades.  Si no podés cumplir con un
 compromiso que asumiste, avisá con tiempo y en lo posible encontrá alguien que
-te reemplace. Estos principios básicos de organizar la acción se denominan
-**adhocracia**.
+te reemplace. Estos principios básicos son la **adhocracia**.
 
 ### Regla de las tres piratas
 
@@ -92,9 +91,9 @@ amplia en [Loomio](#loomio).
 
 Acordate de esta canción:
 
-> Si tu tienes muchas ganas de ...
-> Si tu tienes la razón
-> y no hay oposición
+> Si tu tienes muchas ganas de ...  
+> Si tu tienes la razón  
+> y no hay oposición  
 > no te quedas con las ganas de ...
 
 ### Propuesta significa acción
@@ -107,24 +106,25 @@ limpiar_.
 
 ### Código de camaradería
 
-El único capital que tenemos como piratas son los piratas, sus conocimientos y sus capacidades. Preservemoslas manteniendo una buena relación entre todas.
+El único capital que tenemos como piratas son los piratas, sus conocimientos y
+sus capacidades. Preservemoslas manteniendo una buena relación entre todas.
 
 1. **Todas las piratas son buenas** 
 
-Para toda discusión siempre se supone que los
-demás actúan de buena fé y que participa por verdadero interés pirata. Nadie es
-un infiltrado de la SIDE, la CIA o los reptilianos iluminati. 
+Para toda discusión siempre se supone que los demás actúan de buena fé y que
+participa por verdadero interés pirata. Nadie es un infiltrado de la SIDE, la
+CIA o los reptilianos iluminati. 
 
-1. **Argumentos _ad hominem_**
+2. **Argumentos _ad hominem_**
 
-Evitemos las descalificaciones personales, se
-debaten las ideas no las personas.
+Evitemos las descalificaciones personales, se debaten las ideas no las
+personas.
 
-1. **Que no se vaya Jose María**
+3. **Que no se vaya Jose María**
 
-El intercambio por texto es ineficiente. Muchas
-veces no nos conocemos, el sentido, la entonación y demás sutilezas de la
-comunicación pueden perderse entre que escribimos y lo lee la otra pirata.
+El intercambio por texto es ineficiente. Muchas veces no nos conocemos, el
+sentido, la entonación y demás sutilezas de la comunicación pueden perderse
+entre que escribimos y lo lee la otra pirata.
 
 ## Herramientas
 
@@ -160,15 +160,15 @@ La sala de chat se accede vía IRC o Telegram.
 * <https://webchat.pirateirc.net/?channels=ppar> 
 
 * Si tenés un cliente IRC, los datos son estos:
-> Servidor: irc.pirateirc.net
-> Puerto: 6697
+
+> Servidor: irc.pirateirc.net  
+> Puerto: 6697  
 > SSL/TLS: Habilitado
 
 * Si querés configurar Pidgin:
 * <https://wiki.partidopirata.com.ar/Pidgin_con_IRC>
 
-Por favor recordá y tené presente nuestro [Código de camaradería](#Código de
-camaradería).
+Por favor recordá y tené presente nuestro **Código de camaradería**.
 
 ### Redes sociales
 
@@ -195,11 +195,12 @@ texto es más rico.  No borres los colores!
 
 ### RocketGatitOS GNU/Linux
 
-[RocketGatitOS](https://github.com/piratas-ar/RocketGatitos), es una
-distribucion de GNU/Linux basada en Fedora, cuyo objetivo es proveer
-herramientas de comunicaciones seguras por defecto. Posee complementos para el
-navegador que evitan la publicidad y el rastreo además de configuraciones
-seguras, y algunas otras mejoras.
+RocketGatitOS, es una distribucion de GNU/Linux basada en Fedora, cuyo objetivo
+es proveer herramientas de comunicaciones seguras por defecto. Posee
+complementos para el navegador que evitan la publicidad y el rastreo además de
+configuraciones seguras, y algunas otras mejoras.
+
+* <https://github.com/piratas-ar/RocketGatitos>
 
 ## Auto-formación
 
@@ -243,7 +244,7 @@ En la wiki pirata documentamos algunos procesos, guías y etc.
 Los zines son hojitas de difusión rápida de ideas, creamos material sobre cómo
 y por qué usar algunas de las herramientas afines a nuestra liberación.
 
-* <ref missing>
+* <https://zines.partidopirata.com.ar>
 
 ### Grog&Tor
 

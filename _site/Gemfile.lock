@@ -1,0 +1,73 @@
+GIT
+  remote: git://github.com/edsl/jekyll-pandoc-multiple-formats.git
+  revision: f34cf717eb63746b2c93ddf3ce5ee4bde230ae81
+  branch: develop
+  specs:
+    jekyll-pandoc-multiple-formats (0.2.4)
+      jekyll (~> 3.3.0)
+      rtex (~> 2.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    addressable (2.5.0)
+      public_suffix (~> 2.0, >= 2.0.2)
+    colorator (1.1.0)
+    ffi (1.9.14)
+    forwardable-extended (2.6.0)
+    jekyll (3.3.1)
+      addressable (~> 2.4)
+      colorator (~> 1.0)
+      jekyll-sass-converter (~> 1.0)
+      jekyll-watch (~> 1.1)
+      kramdown (~> 1.3)
+      liquid (~> 3.0)
+      mercenary (~> 0.3.3)
+      pathutil (~> 0.9)
+      rouge (~> 1.7)
+      safe_yaml (~> 1.0)
+    jekyll-sass-converter (1.5.0)
+      sass (~> 3.4)
+    jekyll-torrent (0.0.2)
+      jekyll
+    jekyll-watch (1.5.0)
+      listen (~> 3.0, < 3.1)
+    json (2.0.2)
+    kramdown (1.13.1)
+    libv8 (3.16.14.17)
+    liquid (3.0.6)
+    listen (3.0.8)
+      rb-fsevent (~> 0.9, >= 0.9.4)
+      rb-inotify (~> 0.9, >= 0.9.7)
+    mercenary (0.3.6)
+    pathutil (0.14.0)
+      forwardable-extended (~> 2.6)
+    pdf_info (0.5.3)
+    public_suffix (2.0.4)
+    rb-fsevent (0.9.8)
+    rb-inotify (0.9.7)
+      ffi (>= 0.5.0)
+    ref (2.0.0)
+    rouge (1.11.1)
+    rtex (2.1.1)
+    safe_yaml (1.0.4)
+    sass (3.4.23)
+    therubyracer (0.12.2)
+      libv8 (~> 3.16.14.0)
+      ref
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jekyll
+  jekyll-pandoc-multiple-formats!
+  jekyll-torrent
+  json
+  libv8
+  pdf_info
+  rtex
+  therubyracer
+
+BUNDLED WITH
+   1.13.6
