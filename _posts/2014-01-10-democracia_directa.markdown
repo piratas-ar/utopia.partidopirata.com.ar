@@ -4,6 +4,7 @@ title: Herramientas para la democracia directa
 layout: post
 cover: "assets/covers/single_democracia_directa.png"
 slider: "assets/covers/slider_democracia_directa.png"
+signature: 0
 ---
 
 Prólogo
@@ -25,18 +26,18 @@ https://es.wikipedia.org/wiki/Starhawk
 
 Danos una mano subiéndote al Barco de Traducción Pirata.
 
-Textos por [Starhawk](http://www.starhawk.org/activism/trainer-resources/).
+Textos por [Starhawk](http://www.starhawk.org/).
 Traducidos colaborativamente durante enero del 2014 por las piratas.
 Esta traducción utiliza la construcción "nosotras las personas" como
 plural indeterminado.
 
 ¡Hay muchos textos de Starhawk para traducir!
 
-Danos una mano en nuestro Barco de Traducción\
-traduccion@asambleas.partidopirata.com.ar
+Danos una mano en nuestro Barco de Traducción
+<traduccion@asambleas.partidopirata.com.ar>
 
 Los artículos de Starhawk en inglés están en:
-[http://www.starhawk.org/activism/trainer-resources/](http://www.starhawk.org/activism/trainer-resources/)
+<http://www.consensusdecisionmaking.org/>
 
 
 ¿Qué es el consenso?
@@ -450,3 +451,140 @@ Palabras clave
 -   Seguridad emocional
 -   Ayuda mutua
 -   Abierto o cerrado
+
+
+El consenso no es Unanimidad
+============================
+
+> Adaptado de Randy Schutt por Starhawk
+
+¿Qué es el consenso?
+--------------------
+
+¿Es un proceso cooperativo en el que la gente comparte sus mejores ideas
+y para llegar a decisiones superiores o es un proceso coercitivo,
+manipulador y desperdiciador de tiempo en el que aquellas que son más
+traicioneras, más verborrágicas o que tienen más tiempo pueden salirse
+con la suya?  ¿O es una fantasia idealista en la cual cada problema
+tiene siempre una buena y simple solución que incorpora las ideas de
+todas (sin importar lo ridículas que sean) y satisface a todas
+completamente?
+
+El consenso no es unanimidad
+----------------------------
+
+Mucha gente piensa que el consenso es simplemente un método de votación
+extendida en cual todas las participantes deben votar de la misma
+manera.  Visto que la unanimidad de este tipo solo ocurre raramente en
+grupos con más de una miembro, los grupos que tratan de usar este tipo
+de proceso usualmente terminan extremadamente frustrados o coercionados.
+Las decisiones nunca son tomadas (llevando al fracaso del grupo, su
+conversión en un grupo social que no realiza ninguna tarea), son tomadas
+encubiertamente, o algún grupo o individuo domina al resto.  A veces la
+mayoría domina, a veces la minoría, a veces un individuo que emplea "el
+Bloqueo".  Cualquiera de estas formas NO es consenso.
+
+El consenso es un proceso para decidir qué es lo mejor para el grupo
+--------------------------------------------------------------------
+
+La decisión final no siempre es la primera preferencia de cada persona
+en el grupo y puede que ni siquiera les guste el resultado final.  Pero
+es una decisión en la que todas consensuaron que es la mejor para el
+grupo.
+
+El consenso es un proceso cooperativo
+-------------------------------------
+
+El consenso es un proceso para las personas que quieren trabajar en
+conjunto, honestamente y de buena fe, para encontrar buenas soluciones
+para el grupo.  No puede ser usado por personas que no quieran cooperar
+de ningún modo.  El consenso no debería ser intentado en un grupo con
+personas que quisieran mantener su riqueza y privilegio o quisieran
+dominar o controlar a otras.  En estas situaciones, la lucha no violenta
+sería mas apropiada.
+
+El consenso no es solo un proceso, sino una meta valiosa
+--------------------------------------------------------
+
+El consenso es un proceso que permite a todas en el grupo participar y
+trabajar juntas para tomar decisiones de forma no violenta --la gran
+meta de una verdadera democracia, muy atractiva para quien alguna vez ha
+sido dominada u oprimida.  Le da a las personas el poder de tomar
+decisiones y también les demanda que tomen responsabilidad de esas
+decisiones.  En lugar de abdicar el poder a un individuo o
+representante, demanda que tomemos una responsabilidad completa.
+
+El consenso es uno de los mejores procesos
+------------------------------------------
+
+Si no es el consenso, ¿entonces qué?  Usualmente el voto es propuesto
+como una alternativa democrática razonable.  Pero el voto no es un
+proceso de encuentro, es simplemente un procedimiento.  La meta del voto
+es contar las preferencias (existentes) de un grupo de personas y de una
+manera lógica, justa y equitativa llegar a una buena decisión.  Kenneth
+Arrow recibió el premio Nobel por probar que esto era imposible de
+realizar a menos que sean situaciones bastante simples, por ejemplo,
+situaciones en las que solo hay dos opciones posibles.  Además, votar
+necesariamente ignora la intensidad de la preferencia que cada persona
+siente o la distribución de las consecuencias que esa decisión impone.
+Aun en las mejores circunstancias, votar necesariamente significa que un
+grupo de personas no tendrá lo que desea y si son severamente pisoteadas
+por la mayoría, pueden abandonar el grupo o tomar represalias.
+
+Entonces el voto solo puede producir decisiones satisfactorias cuando
+cada quien es extremadamente tolerante o existe unanimidad de opinión.
+La unanimidad a veces puede ser lograda si una persona o grupo puede
+persuadir a todo el resto de la validez de su persepectiva y solución.
+Pero si el problema no tiene una solución clara y fácil, algunas
+personas sienten una devoción particular hacia una solución específica,
+o se genera una competición por el poder en el grupo, el proceso se
+atascará rapidamente, se faccionalizará, y/o revertirá en coerción.
+
+Un buen proceso de consenso evita estos problemas permitiendo a las
+miembros del grupo poder explorar en profundidad el rango completo de
+opciones y preocupaciones en una atmósfera cooperativa y no
+contradictoria.  Las discusiones en pequeños grupos permiten a todas,
+incluso aquellas que no son adeptas a lo verbal, a expresar sus ideas,
+preocupaciones y opiniones.  Las miembros del grupo tienen la
+oportunidad de aprender desde las experiencias y pensamientos de las
+demás, empatizando con personas que poseen otras experiencias y
+trasfondos, cambiando sus puntos de vista al oir estas ideas nuevas y
+argumentos. Pueden desafiar presunciones tontas, obsoletas o inmorales y
+pueden explorar soluciones inusuales (transformaciones radicales,
+compromisos, negociaciones, etc.) que son normalmente pasadas por alto
+cuando la discusión se polaríza o es constreñida por proposiciones
+formales.  Las personas pueden ofrecer su tiempo, riqueza o sufrir una
+pérdida por el bien del grupo.  Y las personas pueden ser persuadidas,
+inspiradas, amadas o aconsejadas en sus prejuicios, sesgos u otras
+rigideces o si esto falla, prevenirlas no violentamente de actuar
+inmoralmente.
+
+Por supuesto que un buen proceso que termina en un voto también puede
+tener todos estos aspectos cooperativos.  De hecho, un buen proceso de
+voto puede ser indistinguible de un buen proceso de consenso hasta el
+final.  Pero los procesos no consensuales usualmente se basan en
+propuestas formales, debates y otros procedimientos parlamentarios que
+interfieren con la cooperación.  Sabiendo que habrá un voto por sí o por
+no al final normalmente polaríza la discusión. Además, si el grupo
+desarrolla una mentalidad de linchamiento o de pensamiento grupal, no
+hay camino para que una persona o minoría detenga o frustre las
+decisiones inmorales.
+
+El consenso no es conflicto, tampoco libre o indoloro
+-----------------------------------------------------
+
+Un buen proceso de consenso se apoya fuertemente en la solución de
+problemas, cuestionamiento, empatía, auto-sacrificio y acción directa no
+violenta.  En un buen proceso, el conflicto no es ignorado o encubierto,
+sino que es alentado.  Los problemas y soluciones propuestas son
+minuciosamente descartadas hasta que se encuentra una buena solución.
+Como en cualquier otra buena acción no violenta, las ideas son
+severamente desafiadas, pero las personas involucradas son escuchadas,
+queridas y apoyadas.  Cuando no hay soluciones fáciles, entonces las
+personas deberán estar dispuestas a sacrificarse por el bien del grupo o
+el grupo debe dividirse o disolverse.  Cuando una persona o grupo (la
+minoría o mayoría) rechaza o es incapaz de trabajar cooperativamente,
+todas deben valiente y a la vez tiernamente resistir y desafiarlas, o si
+es necesario echarlas del grupo (idealmente, ofreciendo soporte y guía
+en su próximo proyecto).
+

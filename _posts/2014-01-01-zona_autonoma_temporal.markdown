@@ -4,6 +4,7 @@ author: Hakim Bey
 layout: post
 cover: "assets/covers/single_zona_autonoma_temporal.png"
 slider: "assets/covers/slider_zona_autonoma_temporal.png"
+papersize: a5paper
 ---
 
 Zona Autónoma Temporal

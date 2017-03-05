@@ -12,8 +12,8 @@ layout: default
         {% capture extension %}{{ format | first }}{% endcapture %}
         <li><a href="{{ page.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
 {% endfor %}
-        <li><a href="pdf{{ page.url | remove:'.html' }}-imposition.pdf">impresión</a></li>
-        <li><a href="pdf{{ page.url | remove:'.html' }}-binder.pdf">binder</a></li>
+        <li><a href="{{ page.url | remove:'.html' }}-imposition.pdf">impresión</a></li>
+        <li><a href="{{ page.url | remove:'.html' }}-binder.pdf">binder</a></li>
         <li><a href="assets/covers{{ page.url | remove:'.html' }}.tif">tapas</a></li>
       </ul>
     </nav>
