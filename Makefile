@@ -6,7 +6,6 @@ src_tapas        := $(wildcard assets/covers/*.svg)
 src_single_tapas := $(wildcard assets/covers/single_*.svg)
 tif_tapas        := $(patsubst %.svg,%.tif,$(src_tapas))
 png_tapas        := $(patsubst %.svg,%.png,$(src_tapas))
-pdf_tapas        := $(patsubst %.svg,%.pdf,$(src_single_tapas))
 ps               := $(patsubst %.pdf,%.ps,$(wildcard $(destination)/*-imposed.pdf))
 
 destination := $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "puts c['destination']")
@@ -48,7 +47,7 @@ clean:
 	rm -rf tmp src/tmp _site
 
 # Todas las tapas juntas
-tapas: $(tif_tapas) $(png_tapas) $(pdf_tapas)
+tapas: $(tif_tapas) $(png_tapas)
 
 ps: $(ps)
 
