@@ -17,6 +17,7 @@ Requisitos para trabajar en este repositorio
 * Pandoc (>= 1.10)
 * mktorrent
 * Git Flow
+* Fonts de las tapas: Bitstream Vera, League Gothic
 
 Instalación
 -----------
