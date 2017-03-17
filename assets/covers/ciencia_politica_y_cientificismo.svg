@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4464844"
-     inkscape:cx="368.78822"
+     inkscape:cx="237.43527"
      inkscape:cy="241.42618"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -57,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -478,28 +478,28 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:28px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="398.30518"
-       y="631.68591"
+       y="623.68591"
        id="text4609"><tspan
          sodipodi:role="line"
          id="tspan4607"
          x="398.30518"
-         y="631.68591"
+         y="623.68591"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:'League Gothic';-inkscape-font-specification:'League Gothic'">Oscar Varsavsky</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:50.66666667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:50.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="397.30899"
-       y="682.74506"
+       y="674.74506"
        id="text4613"><tspan
          sodipodi:role="line"
          x="397.30899"
-         y="682.74506"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.66666667px;line-height:0.80000001;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';"
+         y="674.74506"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.66666794px;line-height:0.80000001;font-family:'League Gothic';-inkscape-font-specification:'League Gothic'"
          id="tspan5876">Ciencia,  política</tspan><tspan
          sodipodi:role="line"
          x="397.30899"
-         y="742.74506"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.66666667px;line-height:0.80000001;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';"
+         y="738.07837"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.66666794px;line-height:0.80000001;font-family:'League Gothic';-inkscape-font-specification:'League Gothic'"
          id="tspan5880">  y  cientificismo</tspan></text>
   </g>
 </svg>
