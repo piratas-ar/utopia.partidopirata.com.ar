@@ -178,7 +178,7 @@ Bloody Mary
 
 El rey Enrique VIII quería un hijo que pudiese heredar el trono de
 Inglaterra y continuar la Dinastía Túdor, pero su casamiento fue una
-decepción. Su esposa, Catalina de Aragón, le dió solamente una hija,
+decepción. Su esposa, Catalina de Aragón, le dio solamente una hija,
 María. Y peor aún, el papa no le permitió divorciarse de Catalina, para
 poder casarse nuevamente e intentar generar un heredero.
 
@@ -211,7 +211,7 @@ no era posible distinguir entre lo que era información religiosa y lo
 que era información política.)
 
 Conocedora del fracaso de Francia en su intento de acabar con la
-imprenta, incluso bajo la amenaza de la horca, ella se dió cuenta de que
+imprenta, incluso bajo la amenaza de la horca, ella se dio cuenta de que
 precisaría encontrar otra solución. Una solución que beneficiase a los
 impresores y, así, conseguir su complicidad.
 
@@ -387,7 +387,7 @@ introducción del copyright en su legislación:
 Es muy interesante que el monopolio no haya sido adoptado para favorecer
 la remuneración de cualquier profesional --ni escritores, ni editores,
 ni distribuidores. Al contrario, el objetivo es ejemplar en su claridad:
-la única justificación para la existencia de el monopolio es si este 
+la única justificación para la existencia de el monopolio es si este
 amplía la cultura y el conocimiento a disposición de la sociedad.
 
 Así, el copyright (en los Estados Unidos y por lo tanto en la forma
@@ -518,7 +518,7 @@ creado.)
 Victor Hugo no sobrevivió para ver los frutos de su iniciativa, pero
 la Convención de Berna fue firmada en 1886. La convención determinaba
 que los copyrights de un país deberían ser respetados por los demás
-y fué creada una agencia, la BIRPI, para fiscalizarlo. Esa agencia
+y fue creada una agencia, la BIRPI, para fiscalizarlo. Esa agencia
 creció, se transmutó y se tranformó en la Organización Mundial de la
 Propiedad Intelectual (OMPI), que supervisa hasta hoy el cumplimiento de
 la Convención de Berna. La OMPI, a su vez, también creció, se transformó
@@ -613,14 +613,14 @@ gil. Nadie, con una excepción:
 
 La Italia facista.
 
-(Esta palabra, facista, está cargada de emoción hoy. En aquél tiempo, el
-regimen italiano se autodeclaraba facista. Estoy usando la palabra para
+(Esta palabra, facista, está cargada de emoción hoy. En aquel tiempo, el
+régimen italiano se autodeclaraba facista. Estoy usando la palabra para
 describirlos exactamente como ellos lo hacían.)
 
 En 1933, la industria fonográfica fue invitada, por la Confederazione
 Generale Fascista dell’Industria Italiana, para participar de una
 conferencia en Roma. En este evento, celebrado entre los días 10 y 14
-de noviembre de aquél año, fue formada una federación internacional de
+de noviembre de aquel año, fue formada una federación internacional de
 la industria fonográfica, que sería más tarde conocida por sus siglas
 IFPI. Fue decidido, en la convención, que la IFPI trataría de trabajar
 dentro de la Convención de Berna para intentar establecer, para los
@@ -905,7 +905,7 @@ lados. La banda Dead Kennedys respondió cambiando sutilmente el mensaje
 agregando "las ganancias de la industria musical" y "Dejamos este lado
 [de la cinta] vacío, para que puedas ayudar."
 
-La década del 70 también vió otro cambio significativo, cuando los
+La década del 70 también vio otro cambio significativo, cuando los
 **DJs y altavoces** comenzaron a tomar el lugar de la música dance en
 vivo. Los sindicatos y la industria del copyright apuntaron sus armas
 contra esto y sugirieron el pago de "honorarios disco" que serían
@@ -949,7 +949,7 @@ conocido como MPEG-1 Audio Layer III, fue rápidamente resumido a
 "**MP3**" en la charla de todos los días. La industria del copyright
 volvió a gritar otra vez, llamándola una tecnología que sólo podía ser
 usada para la actividad criminal. El primer reproductor exitoso de MP3,
-el Diamind Rio, vió la luz en 1998. Tenía 32 megabytes de memoria. A
+el Diamind Rio, vio la luz en 1998. Tenía 32 megabytes de memoria. A
 pesar de las buenas ventas, la industria del copyright demandó a su
 creador, Diamond Multimedia, hasta dejarlo en el olvido: aunque la
 demanda fue dada de baja, la compañía no se recuperó de los costos de su
