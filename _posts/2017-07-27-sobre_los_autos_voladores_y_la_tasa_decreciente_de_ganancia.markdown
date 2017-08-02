@@ -1,15 +1,13 @@
 ---
 title: "Sobre los autos voladores y la tasa decreciente de ganancia"
-author: Mark S. Fisher
+author: "David Graeber"
 layout: post
 cover: "assets/covers/single_.png"
 slider: "assets/covers/slider_.png"
 ---
 
-<!-- ver si estan todas las imágenes -->
-
 Sobre los autos voladores y la tasa decreciente de ganancia
-==============================================================================
+===========================================================
 
 Una pregunta secreta flota sobre nosotras, una sensación de decepción, una
 promesa rota que nos fue dada de niñas sobre cómo sería el mundo al convertirnos
@@ -99,9 +97,6 @@ cazadores de dragones existieron en el pasado --otra pantalla para el
 corrimiento de los dramas morales y las fantasías míticas hacia los callejones
 sin salida del placer del consumidor.
 
-![image](Of%20Flying%20Cars%20and%20the%20Declining%20Rate%20of%20Profit_files/LewisGraeber02w600.png){.alignleft
-.wp-image-1960 width="450" height="300"}
-
 ¿Podría la sensibilidad cultural, que suele ser referirda como posmodernismo,
 verse mejor como una prolongada meditación sobre todos los cambios tecnológicos
 que nunca sucedieron?  La pregunta me asotó mientras veía una de las últimas
@@ -173,8 +168,6 @@ de granjeras mexicanas o indonesias que, como resultado de acuerdos comerciales
 esponsoreados por la OMC o NAFTA, habían sido desalojadas de sus tierras
 ancestrales.  Era una conciencia culpable la que descansaba bajo la sensibilidad
 posmoderna y su celebración del infinito interjuego de imágenes y superficies.
-
-![image](Of%20Flying%20Cars%20and%20the%20Declining%20Rate%20of%20Profit_files/LewisGraeber03w360.png){.alignright.wp-image-1961 .size-full width="360" height="384"}
 
 ¿Por qué falló la explosión de crecimiento tecnológico que proyectábamos --las
 bases lunares, las fábricas de robots?  Hay dos posibilidades.  O bien nuestras
@@ -341,8 +334,6 @@ llevar esos desarrollos en direcciones que no desafíen las estructuras de
 autoridad existentes-- hicieron eco en los pasillos del poder.  Los políticos y
 los capitanes de la industria habían estado pensando sobre estos problemas por
 un tiempo.
-
-![image](Of%20Flying%20Cars%20and%20the%20Declining%20Rate%20of%20Profit_files/LewisGraeber06w360.png){.alignleft.wp-image-1963 .size-full width="360" height="360"}
 
 El capitalismo industrial había criado una tasa de avances científicos e
 innovación tecnológica extremadamente rápida, sin paralelo previo en la historia
@@ -544,9 +535,6 @@ _phasers_ que ##TODO s/stun/aturden/paralizan/ ??????????????? no parecen estar 
 combate de infantería, el arma preferida en casi todos lados sigue siendo la
 AK-47, un diseño soviético nombrado por el año de introducción: 1947.
 
-![image](Of%20Flying%20Cars%20and%20the%20Declining%20Rate%20of%20Profit_files/LewisGraeber08w360.png){.alignright
-.wp-image-1966 .size-full width="360" height="346"}
-
 La Internet es una innovación remarcable, pero de lo que estamos hablando es de
 una super-rápida y globalmente accesible combinación de biblioteca, oficina de
 correos y catálogo de compra por correo.  Si la Internet hubiera sido descrita a
@@ -636,9 +624,6 @@ auto-destrucción social en la historia, hemos decidido que ya no hay lugar para
 nuestras ciudadanas excéntricas, brillantes e imprácticas.  La mayoría languidece en
 el sótano de sus madres, a lo mejor haciendo la ocasional intervención en la
 Internet.
-
-![image](Of%20Flying%20Cars%20and%20the%20Declining%20Rate%20of%20Profit_files/LewisGraeber10w400.png){.alignleft
-.wp-image-1968 width="360" height="324"} 
 
 Si todo esto es verdad para las ciencias sociales, donde la investigación
 todavía es llevada a cabo con mínimo costo principalmente por individuos, solo
@@ -758,8 +743,6 @@ cementó la dominación de élites conservadoras administrativistas, burócratas
 corporativos que usan el pretexto del pensamiento corto, competitivo y de cuarta
 para aplastar cualquier cosa con probables implicancias revolucionarias de
 cualquier tipo.
-
-![image](Of%20Flying%20Cars%20and%20the%20Declining%20Rate%20of%20Profit_files/LewisGraeber11w400.png){.alignright.wp-image-1970 width="360" height="288"}
 
 [I]{.dropcap}f we do not notice that we live in a bureaucratic society, that is
 because bureaucratic norms and practices have become so all-pervasive that we
@@ -1007,9 +990,6 @@ oportunidades para colaboraciones y diseminaciones que podrían ayudar a romper
 el muro también. ¿Dónde vendran los avances? No podemos saberlo. Quizás la
 impresión 3D hagan lo que las fábricas robot debían. O quizás alguna otra
 cosa. Pero sucederá.
-
-![image](Of%20Flying%20Cars%20and%20the%20Declining%20Rate%20of%20Profit_files/LewisGraeber18w540.png){.aligncenter
-.size-full .wp-image-1972 width="540" height="315"}
 
 [A]{.dropcap}bout one conclusion we can feel especially confident: it will not
 happen within the framework of contemporary corporate capitalism—or any form of
