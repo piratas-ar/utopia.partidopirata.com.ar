@@ -443,7 +443,7 @@ espacial.  Para los '70 cualquier investigación básica era conducida en base a
 prioridades militares.  Una de las razones por las que no tenemos fábricas robot
 es porque aproximadamente el 95% del financiamiento de la investigación robótica
 ha sido orientado por el Pentágono, cuyo interés reside en el desarrollo de
-drones no tripulados antes que en automatizar la producción. ##TODO: s/la produccion/paper mills/ ??????????????????????????????????
+drones no tripulados antes que en automatizar la producción de papel.
 
 Podría decirse que este cambio hacia la investigación y desarrollo de
 tecnologías informáticas y médicas no fue tanto una reorientación por los
@@ -523,17 +523,21 @@ ciudades, ni pensar en objetivos específicos dentro de ellas.  Este hecho
 significó que había poca razón para lanzar un primer golpe nuclear a menos que
 el objetivo sea destruir el mundo.
 
-Los misiles de crucero contemporáneos son precisos en comparación.  Aun así, las
+Los misiles de crucero contemporáneos son precisos en comparación.  Aún así, las
 armas de precisión nunca parecen ser capaces de asesinar a individuos
-específicos (Saddam, Osama, Qaddafi) aun cuando se lanzan cientos.  Y las armas
+específicos (Saddam, Osama, Qaddafi) aún cuando se lanzan cientos.  Y las armas
 de rayos no se han materializado, seguramente no por falta de intentos.  Podemos
 asumir que el Pentágono ha gastado miles de millones en investigación de rayos
 mortales, pero lo más cerca que han llegado hasta ahora es a lásers que podrían,
 apuntados correctamente, cegar a un enemigo mirándolo directamente.  Aparte de
 ser antideportivos, son patéticos: los láser son tecnología de los '50.  Los
-_phasers_ que ##TODO s/stun/aturden/paralizan/ ??????????????? no parecen estar en las pizarras.  Cuando se trata de
+_phasers_[^phasers] que paralizan no parecen estar en las pizarras de diseño. Cuando se trata de
 combate de infantería, el arma preferida en casi todos lados sigue siendo la
 AK-47, un diseño soviético nombrado por el año de introducción: 1947.
+
+[^phasers]: phaser es el nombre que adquiere una tecnología de aplicación bélica 
+en el universo de la saga de star trek. Un arma emblemática que se basa en esta 
+tecnología es una pistola de plasma. 
 
 La Internet es una innovación remarcable, pero de lo que estamos hablando es de
 una super-rápida y globalmente accesible combinación de biblioteca, oficina de
