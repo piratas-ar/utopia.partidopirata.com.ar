@@ -110,6 +110,12 @@ La mayor parte del tiempo vas a ver que nadie hace lo que a otra pirata
 le pareció que estaría bueno hacer.  _Si ves que algo está sucio, agarrá
 la escoba y ponete a limpiar_.
 
+## Ni una pirata sola
+
+No queremos que ninguna pirata se quede sola haciendo cosas, por lo
+tanto: no dejes que ninguna pirata se quede sola y si te quedaste sola,
+tirá bronca o dejá de lado la tarea hasta que estés acompañada.
+
 ### Código de camaradería
 
 El único capital que tenemos como piratas son los piratas, sus
