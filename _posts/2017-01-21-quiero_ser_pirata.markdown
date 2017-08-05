@@ -97,9 +97,9 @@ tu idea de forma más amplia en [Loomio](#loomio).
 
 Acordate de esta canción:
 
-> Si tu tienes muchas ganas de ...
-> Si tu tienes la razón
-> y no hay oposición
+> Si tu tienes muchas ganas de ...  
+> Si tu tienes la razón  
+> y no hay oposición  
 > no te quedas con las ganas de ...
 
 ### Propuesta significa acción
@@ -110,7 +110,7 @@ La mayor parte del tiempo vas a ver que nadie hace lo que a otra pirata
 le pareció que estaría bueno hacer.  _Si ves que algo está sucio, agarrá
 la escoba y ponete a limpiar_.
 
-## Ni una pirata sola
+### Ni una pirata sola
 
 No queremos que ninguna pirata se quede sola haciendo cosas, por lo
 tanto: no dejes que ninguna pirata se quede sola y si te quedaste sola,
