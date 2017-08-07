@@ -11,12 +11,12 @@ Sobre los autos voladores y la tasa decreciente de ganancia
 
 Una pregunta secreta flota sobre nosotras, una sensación de decepción, una
 promesa rota que nos fue dada de niñas sobre cómo sería el mundo al convertirnos
-en adultas.  No me refiero a las falsas promesas estándar, que son dadas siempre
+en adultas.  No me refiero a las falsas promesas estándar que son dadas siempre
 a las niñas (sobre cómo el mundo es justo, o cómo aquellas que se esfuercen más
 serán las mejor recompensadas), sino a la promesa generacional particular
 --hecha a las que fuimos niñas en los cincuentas, sesentas, setentas, u
 ochentas-- que nunca fue articulada como tal, más bien fueron dadas como un
-conjunto de asumiciones respecto a cómo sería nuestro mundo adulto.  Y como
+conjunto de sumposiciones respecto a cómo sería nuestro mundo adulto.  Y como
 nunca fue realmente prometida, ahora que no se ha convertido en realidad, nos
 hemos quedado confundidas: indignadas, pero al mismo tiempo, avergonzadas de
 nuestra propia indignación; avergonzadas, en primer lugar, que fuimos tan tontas
@@ -33,8 +33,8 @@ la clonación o la criogenia-- terminaron traicionando sus amplias promesas.
 
 Estamos bien informadas de las maravillas de la informática, como si se tratara
 de una compensación no anticipada. Pero de hecho la informática tampoco ha
-superado el punto de progreso que las personas de los '50 esperaban que tuviera
-para el día de hoy.  No tenemos computadoras con las que mantener conversaciones
+superado el estado de progreso que las personas de los '50 esperaban que tuviera
+para el día de hoy. No tenemos computadoras con las que mantener conversaciones
 interesantes, o robots que paseen a nuestros perros ni lleven la ropa a la
 lavandería.
 
@@ -45,16 +45,16 @@ maravillas?  Por supuesto.  Todas lo esperaban.  ¿Me siento engañado ahora?
 Parecía improbable que viviera para ver *todas* las cosas que leía en la ciencia
 ficción, pero nunca se me hubiera ocurrido que no llegaría a ver *ninguna*.
 
-Al pasar de milenio, esperaba un derrame de reflexiones sobre por qué nos
-imaginamos el futuro de la tecnología tan mal.  En cambio, casi todas las voces
+Al pasar de milenio esperaba un derrame de reflexiones sobre por qué nos
+imaginamos el futuro de la tecnología tan mal. En cambio, casi todas las voces
 de autoridad --tanto de Izquierda como de Derecha-- hicieron sus reflexiones
-desde la asunción que de hecho vivimos en una nueva utopía tecnológica sin
-precedentes, en cierto modo u otro.
+desde la aceptación de que, de cierto modo u otro vivimos en una nueva utopía 
+tecnológica sin precedentes.
 
 La forma más común de lidiar con la incómoda sensación de que esto podría no ser
-así es descartar dicha sensación a un costado, insistir que todo el progreso que
+así es descartar por completo dicha sensación, insistir que todo el progreso que
 podía haber ocurrido, ha ocurrido; y tratar cualquier otra cosa como una tontería.  
-"Ah, ¿vos decís esas cosas de *Los Supersónicos*?" me preguntan --¡como si fuera
+"Ah, ¿vos decís esas cosas de *Los Supersónicos*?" me preguntan --¡Como si fuera
 una cosa para niñas!-- Seguramente, como adultas, entendemos que *Los
 Supersónicos* ofrecían una visión del futuro tan certera como *Los Picapiedras*
 ofrecían de la Edad de Piedra.
@@ -65,21 +65,21 @@ ofrecían de la Edad de Piedra.
 
 Incluso en los setentas y ochentas, fuentes tan sobrias como *National
 Geographic* y el Museo Smithsoniano informaban a las niñas de las inminentes
-estaciones espaciales y expediciones a Marte.  Las creadoras de las películas de
+estaciones espaciales y expediciones a Marte. Las creadoras de las películas de
 ciencia ficción incluían fechas concretas, a menudo a no más de una generación
-en el futuro, para colocar sus fantasías futuristas.  En 1968, Stanley Kubrick
+en el futuro, para colocar sus fantasías futuristas. En 1968, Stanley Kubrick
 sintió que las audiencias cinematográficas encontrarían perfectamente natural
-que 31 años después, en el 2001, tendríamos vuelos comerciales a la luna,
+que 31 años después, en el 2001, tuviéramos vuelos comerciales a la luna,
 estaciones espaciales similares a ciudades y computadoras con personalidades
-humanas que mantendrían a las astronautas en suspensión animada mientras viajan
-a Júpiter.  La vídeollamada es casi la única nueva tecnología de esa película
-que ha aparecido --y ya era técnicamente posible cuando se estrenó--.  *2001*
+humanas que mantuvieran a las astronautas en animación suspendida mientras viajan
+a Júpiter. La vídeollamada es casi la única nueva tecnología de esa película
+que ha aparecido --y ya era técnicamente posible cuando se estrenó--. *2001*
 puede ser vista como una curiosidad, ¿pero qué pasa con *Star Trek*?  La
-mitología de *Star Trek* se situaba en los sesentas, también, pero el show
-siguió siendo revivido hasta dejar a las audiencias de *Star Trek Voyager*, en 
+mitología de *Star Trek* se situaba en los sesentas también, pero el show
+siguió siendo revivido hasta dejar a las audiencias de *Star Trek Voyager* en 
 2005, intentando dilucidar el hecho que de acuerdo con la lógica del
 programa, el mundo estaría recuperándose de la dictadura de los super hombres
-genéticamente creados, en las Guerras Eugenésicas de los noventas.
+genéticamente creados en las Guerras Eugenésicas de los noventas.
 
 Para 1989, cuando las creadoras de *Volver al Futuro II* colocaban
 diligentemente autos voladores y patinetas anti-gravedad en las manos de
@@ -90,61 +90,62 @@ La estrategia usual en ciencia ficción es mantener cierta vaguedad en las
 fechas, de forma de convertir "el futuro" en una zona de fantasía pura, no muy
 diferente a la Tierra Media o Narnia, o como en *Star Wars*, "en una época muy
 lejana, en una galaxia muy, muy lejana".  Como resultado, nuestro futuro en la
-ciencia ficción es, muy a menudo, nada parecido a un futuro, sino más bien una
-dimensión alternativa, un tiempo de ensueño, un Otro Lugar tecnológico,
-existiendo en días por venir ...en el mismo sentido que los elfos y los
+ciencia ficción es muy a menudo, nada parecido a un futuro, sino más bien una
+dimensión alternativa, un tiempo de ensueño, un Otro Lugar tecnológico
+existiendo en días por venir...en el mismo sentido que los elfos y los
 cazadores de dragones existieron en el pasado --otra pantalla para el
 corrimiento de los dramas morales y las fantasías míticas hacia los callejones
 sin salida del placer del consumidor.
 
-¿Podría la sensibilidad cultural, que suele ser referirda como posmodernismo,
+¿Podría la sensibilidad cultural que suele ser referirda como posmodernismo
 verse mejor como una prolongada meditación sobre todos los cambios tecnológicos
-que nunca sucedieron?  La pregunta me asotó mientras veía una de las últimas
-películas de *Star Wars*.  La película era horrible, pero no pude dejar de
-impresionarme por la calidad de los efectos especiales.  Recordando los torpes
+que nunca sucedieron? La pregunta me asotó mientras veía una de las últimas
+películas de *Star Wars*. La película era horrible, pero no pude dejar de
+impresionarme por la calidad de los efectos especiales. Recordando los torpes
 efectos especiales de las películas de ciencia ficción de los años cincuenta, me
 quedé pensando en lo impresionante que hubiera sido para una audiencia de
 aquella época presenciar lo que podemos hacer ahora-- sólo para darme
-cuenta que, "En realidad, no. No estarían impresionadas en absoluto, no?.  
+cuenta que "En realidad, no. No estarían impresionadas en absoluto ¿no?.  
 Aquellas personas pensaban que realmente estaríamos *haciendo* esas cosas en el
 presente, no encontrando formas cada vez más sofisticadas para simularlas".
 
-Esta última palabra--*simular*--es clave.  Las tecnologías que han avanzado
-desde los setentas han sido principalmente las tecnologías médicas o tecnologías
-informáticas --ampliamente, tecnologías de simulación.  Son las tecnologías que
-Jean Baudrillad y Umberto Eco llamaron "hiperreales", la habilidad de realizar
-imitaciones más realistas que sus originales.  La sensibilidad posmoderna, la
+Éste último término--*simular*--es clave.  Las tecnologías que han avanzado
+desde los setentas, han sido principalmente las tecnologías médicas o tecnologías
+informáticas --ampliamente, tecnologías de simulación. Son las tecnologías que
+Jean Baudrillad y Umberto Eco llamaron "hiperreales", tienen la capacidad de realizar
+imitaciones más realistas que sus originales. La sensibilidad posmoderna, la
 sensación que de alguna forma hemos irrumpido en un nuevo período histórico sin
-precedentes en el que hemos comprendido que no hay nada nuevo; que ahora todo es
-simulación, repetición irónica, fragmentación y pastiche --todo esto cobra
-sentido en un ambiente tecnológico donde los únicos progresos fueron aquellos
-que hicieron más fácil la creación, transferencia y reagrupación de proyecciones
-virtuales de cosas que ya existían o, como descubriríamos, nunca lo harían.
-Seguramente si vacacionáramos en domos geodésicos en Marte o tuviéramos plantas
-de fusión nuclear de bolsillo, o dispositivos telequinéticos de lectura mental;
-nadie tendría la necesidad de hablar al respecto.  El momento posmoderno fue una
-forma desesperada de tomar lo que de otra manera hubiera sido amarga decepción,
-y convertirlo en algo de época, excitante y nuevo.
+precedentes en el que hemos comprendido que no hay nada nuevo por descubrir; que las 
+grandes narrativas históricas de liberación y progreso eran falsas; que ahora todo es 
+simulación, repetición, fragmentación y pastiche --todo esto cobra sentido en 
+un ambiente tecnológico donde los únicos grandes progresos fueron aquellos que 
+hicieron más fácil la creación, transferencia y reagrupación de proyecciones virtuales 
+de cosas que, o ya existían, o que descubrimos que nunca existirán. Seguramente si 
+vacacionáramos en domos geodésicos en Marte o tuviéramos plantas de fusión nuclear de 
+bolsillo, o dispositivos telequinéticos de lectura mental; nadie tendría la necesidad 
+de hablar al respecto. El momento posmoderno es una forma desesperada de tomar 
+lo que de otra manera hubiera sido una decepción, y convertirlo en algo de época, 
+excitante y nuevo.
 
 En sus formulaciones tempranas, que en su mayoría provenían de la tradición
-marxista, mucho de este trasfondo tecnológico era reconocido.  "El
+marxista, mucho de este trasfondo tecnológico era reconocido. "El
 posmodernismo, o la lógica cultural del capitalismo tardío" de Fredric Jameson
 proponía el término "posmodernismo" como referencia a la lógica cultural
-apropiada para esta nueva y tecnológica fase del capitalismo, que ya venía
-siendo anunciada por el economista marxista Ernest Mandel desde 1972.  Mandel
+apropiada para esta nueva fase tecnológica del capitalismo que ya venía
+siendo anunciada por el economista marxista Ernest Mandel desde 1972. Mandel
 argumentaba que la humanidad se encontraba al borde de una "tercera revolución
 tecnológica" tan profunda como las revoluciones agrícola e industrial, donde las
 computadoras, los robots, las nuevas fuentes de energía y las nuevas tecnologías
 de la información reemplazarían el trabajo industrial --lo que pronto sería
 llamado el "fin del trabajo"-- reduciéndonos a diseñadoras y técnicas
-informáticas pergeñando las locas visiones que las fábricas cibernéticas
-producirían.
+informáticas pergeñadoras de las visiones más locas en lo que respecta a lo que
+las fábricas cibernéticas producirían.
 
 Los argumentos a favor del fin del trabajo eran populares a finales de los
 setentas y a principios de los ochentas, cuando las pensadoras sociales
 imaginaban qué sucedería a la lucha popular liderada por la clase obrera, una
 vez que esta clase dejara de existir.  (La respuesta: se convertiría en la
-política identitaria.)  Jameson pensaba que estaba explorando las formas de
+política identitaria). Jameson pensaba que estaba explorando las formas de
 conciencia y sensibilidades históricas que emergerían de esta nueva era.
 
 En cambio lo que sucedió fue que la difusión de las tecnologías de la
@@ -155,18 +156,17 @@ otros países donde la disponibilidad de trabajo barato permitió a los
 capitalistas emplear técnicas de producción en línea *mucho menos* sofisticadas
 tecnológicamente de lo que hubieran estado obligados a emplear localmente.
 
-Desde la perspectiva de aquellas viviendo en Europa, América del Norte y Japón,
-los resultados fueron más o menos los esperados.  Las industrias de chimenea en
+Los resultados fueron más o menos los esperados. Las industrias de chimenea en
 efecto desaparecieron; el trabajo se dividió entre un estrato bajo de
 trabajadoras de servicios y uno más alto compuesto por burbujas asépticas
-jugando con computadoras.  Pero debajo de todo esto descansa una conciencia
+jugando con computadoras. Pero debajo de todo esto descansa una conciencia
 intranquila de que la civilización post-trabajo era un fraude gigantesco.
 Nuestras zapatillas de alta tecnología no estaban siendo producida por cyborgs
 inteligentes ni nanotecnología molecular auto-replicante; estaban siendo
 manufacturados en el equivalente de las máquinas de coser Singer, por las hijas
 de granjeras mexicanas o indonesias que, como resultado de acuerdos comerciales
 esponsoreados por la OMC o NAFTA, habían sido desalojadas de sus tierras
-ancestrales.  Era una conciencia culpable la que descansaba bajo la sensibilidad
+ancestrales. Era una conciencia culpable la que descansaba bajo la sensibilidad
 posmoderna y su celebración del infinito interjuego de imágenes y superficies.
 
 ¿Por qué falló la explosión de crecimiento tecnológico que proyectábamos --las
