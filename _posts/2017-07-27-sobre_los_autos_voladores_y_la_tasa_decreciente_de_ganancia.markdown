@@ -169,25 +169,25 @@ esponsoreados por la OMC o NAFTA, habían sido desalojadas de sus tierras
 ancestrales. Era una conciencia culpable la que descansaba bajo la sensibilidad
 posmoderna y su celebración del infinito interjuego de imágenes y superficies.
 
-¿Por qué falló la explosión de crecimiento tecnológico que proyectábamos --las
-bases lunares, las fábricas de robots?  Hay dos posibilidades.  O bien nuestras
-expectativas sobre el paso del cambio tecnológico no eran realistas (y de ser
-así, tenemos que saber por qué tantas personas inteligentes no lo creían así) o
-que nuestras expectativas eran realistas (y de ser así, tenemos que saber qué
-fue lo que hizo que se descarriláran tantas ideas creíbles y prospectos.)
+¿Por qué falló la explosión de crecimiento tecnológico --las
+bases lunares, las fábricas de robots-- que proyectábamos? Hay dos posibilidades. 
+O bien nuestras expectativas sobre el paso del cambio tecnológico no eran realistas
+(y de ser así, tenemos que saber por qué tantas personas inteligentes no lo creían así)
+o que nuestras expectativas eran realistas (y de ser así, tenemos que saber qué
+fue lo que hizo que se descarriláran tantas ideas creíbles y prospectos).
 
 La mayoría de las analistas sociales eligió la primera explicación y trazó el
-problema hasta la carrera espacial de la Guerra Fría.  ¿Por qué, se preguntan,
+problema hasta la carrera espacial de la Guerra Fría. ¿Por qué, se preguntan,
 tanto los Estados Unidos como la Unión Soviética se obsesionaron con la idea del
-viaje al espacio tripulado?  Nunca fue una forma eficiente para la investigación
+viaje tripulado al espacio? Nunca fue una forma de estimular la investigación
 científica y alentó ideas irreales sobre cómo sería el futuro de la humanidad.
 
-¿Podría ser que ambas sociedades habían sido, un siglo atrás, sociedades de
+¿Podría ser que ambas sociedades habían sido, un siglo atrás, sociedades
 pioneras, una expandiéndose hacia la frontera Oeste, la otra a través de
 Siberia?  ¿Acaso no comparten un compromiso con el mito de un futuro expansivo y
 sin límites, de colonización humana de vastos espacios vacíos, que les ayudaría
 a convencer a los líderes de ambos superpoderes que habían entrado en una "edad
-espacial" donde lucharían por el control del futuro mismo?  Todo tipo de mitos
+espacial" donde lucharían por el control del futuro mismo? Todo tipo de mitos
 estaban puestos en juego, sin duda, pero esto no prueba nada sobre la
 factibilidad del proyecto.
 
@@ -201,7 +201,7 @@ era irreal soñar en 1900 que las personas viajarían a la luna, entonces por qu
 fue irreal en 1960 soñar con mochilas cohete y robots lavanderas-mucamas?
 
 De hecho, mientras esos sueños eran delineados, la base material para
-alcanzarlos estaba siendo cercenada.  Hay razones para creer que incluso en los
+alcanzarlos estaba siendo cercenada. Hay razones para creer que incluso en los
 '50 y '60, el paso de la innovación tecnológica estaba aminorando el paso
 acelerado de la primera mitad del siglo.  El último torrente fue en los '50 con
 los hornos microondas (1954), la pastilla anticonceptiva (1957) y los lásers
