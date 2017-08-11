@@ -217,7 +217,7 @@ incontrolables.
 
 El _best-seller_ de Alvin Toffler _El shock del futuro_ (_Future Shock_, 1970)
 argumentaba que casi todos los problemas sociales de los '60 podían trazarse al
-creciente paso del cambio tecnológico.  La efusión infinita de descubrimientos
+creciente paso del cambio tecnológico. La efusión infinita de descubrimientos
 científicos transformó las bases de la existencia diaria y dejó a los
 estadounidenses sin una idea clara de lo que era la vida normal.  Sólo
 considerando a la familia, donde no sólo la pastilla si no también la perspectiva
@@ -226,95 +226,95 @@ de la fertilización _in vitro_, las bebés de probeta y la donación de esperma
 
 Las humanas no estaban psicológicamente preparadas para el paso del cambio,
 decía Toffler.  Incluso acuñó un término para el fenómeno: "empuje acelerativo",
-que había comenzado con la Revolución Industrial, pero que para 1850 el efecto
-se había vuelto incontenible.  No solo todo lo que nos rodeaba estaba cambiando,
+que había comenzado con la Revolución Industrial, cuyo efecto se había vuelto 
+incontenible hacia 1850. No solo todo lo que nos rodeaba estaba cambiando,
 sino que casi todo --el conocimiento humano, el tamaño de la población, el
-crecimiento industrial, el uso energético-- estaba cambiendo exponencialmente.
-La única solución, decía Toffler, era empezar algún tipo de control sobre el
-proceso, creando instituciones que analizarían las tecnologías emergentes y sus
-efectos probables; y prohibir aquellas que fueran socialmente disruptivas,
-guiando el desarrollo en dirección de la armonía social.
+crecimiento industrial, el uso energético-- estaba cambiando exponencialmente.
+La única solución decía Toffler, era empezar algún tipo de control sobre el
+proceso, creando instituciones que analizaran las tecnologías emergentes y sus
+efectos probables; y prohibir aquellas que fueran socialmente disruptivas, de 
+forma de guiar el desarrollo en dirección a la armonía social.
 
 Mientras que muchas de las tendencias históricas que describió Toffler eran
-precisas, el libro apareció cuando la mayoría de estas tendencias exponenciales
-se habían detenido.  Era justo en los '70 cuando el incremento en la cantidad de
-_papers_ científicos publicados mundialmente empezó a nivelarse, cuando se
-habían duplicado cada 15 años desde alrededor de 1685.  Esto también es cierto
+precisas, su libro apareció cuando la mayoría de estas tendencias exponenciales
+se habían detenido. Justo en los '70 el incremento en la cantidad de
+_papers_ científicos publicados mundialmente empezó a nivelarse, luego de haberse 
+venido duplicando cada 15 años desde alrededor de 1685. Esto también es cierto
 para los libros y las patentes.
 
 El uso de la *aceleración* que hizo Toffler fue particularmente desafortunado.
 Para la mayor parte de la historia humana, la velocidad máxima a la que las
-personas podían viajar era de 40 km/h.  Para 1900 se había incrementado a 160
+personas podían viajar era de 40 km/h. Para 1900 se había incrementado a 160
 km/h y dentro de los próximos 70 años parecía incrementarse exponencialmente.
 Para el momento en que Toffler escribía, el récord de la máxima velocidad que
 ninguna humana haya viajado era de 40.000 km/h, alcanzado por la tripulación de
-_Apollo 10_ en 1969, un año antes de publicar su libro.  A esta tasa, parecía
+_Apollo 10_ en 1969, un año antes de que publicara su libro. A esta tasa, parecía
 razonable pensar que dentro de pocas décadas la humanidad estaría explorando
 otros sistemas solares.
 
-Pero desde 1970 no ha habido tal incremento.  El récord de velocidad máxima lo
-mantiene la tripulación de _Apollo 10_.  Es verdad que la aerolínea comercial
+Pero desde 1970 no ha habido tal incremento. El récord de velocidad máxima lo
+mantiene la tripulación de _Apollo 10_. Es verdad que la aerolínea comercial
 _Concorde_ que voló por primera vez en 1969, alcanzó una velocidad de 2.200 km/h
 y el _Tupolev Tu-144_ soviético, que voló antes, alcanzó una velocidad aún más
-rápida de 2.500 km/h.  Pero esas velocidades no han aumentado; solo han
+alta de 2.500 km/h. Pero esas velocidades no han aumentado; solo han
 disminuido desde que el _Tupolev Tu-144_ fue cancelado y el _Concorde_ fue
 abandonado.
 
-Nada de esto detuvo la carrera de Toffler, que se mantuvo readaptando su
-análisis para hacer anuncios cada vez más espectaculares.  En 1980, anunció _La
-Tercera Ola_, que tomaba sus argumentos de la "tercera revolución tecnológica"
-de Ernest Mandel.  Excepto que mientras Mandel pensaba que estos cambios serían
-el fin del capitalismo, Toffler asumía que el capitalismo era eterno.  En 1990,
+Nada de esto detuvo la carrera de Toffler que se mantuvo readaptando su
+análisis para hacer anuncios cada vez más espectaculares. En 1980 anunció _La
+Tercera Ola_, donde tomaba sus argumentos de la "tercera revolución tecnológica"
+de Ernest Mandel. Excepto que mientras Mandel pensaba que estos cambios serían
+el fin del capitalismo, Toffler asumía que el capitalismo era eterno. En 1990,
 Toffler se había convertido en el gurú personal del senador republicano Newt
 Gingrich, que proclamaba que su "Contrato con Norteamérica" de 1994 estaba
 inspirado, en parte, en una comprensión de que los Estados Unidos tenían que
 abandonar el pensamiento anticuado, materialista e industrial en favor de una
 civilización de Tercera Ola, de libre mercado y era de la información.
 
-Hay todo tipo de ironías en esta conexión.  Uno de los grandes logros de Toffler
+Hay todo tipo de ironías en esta conexión. Uno de los grandes logros de Toffler
 fue inspirar al Estado a crear una Oficina de Análisis Tecnológico (_OTA_,
-_Office of Technology Assessment_).  Uno de los primeros actos de Gingrich al
-ganar el control de la casa de representantes en 1995 fue desfinanciar la OTA
-como un ejemplo de inútil extravagancia estatal.  Pero aun así no existe una
-contradicción.  Para ese momento, Toffler había renunciado hacía tiempo a
-influenciar las políticas públicas por medio del interés general; se estaba
-ganando la vida dando seminarios a CEOs y _think tanks_ corporativos.  Sus
-análisis habían sido privatizados.
+_Office of Technology Assessment_). Mientras que por otro lado, una de las 
+primeras acciones de Gingrich al ganar el control de la casa de representantes 
+en 1995 fue desfinanciar la OTA como un ejemplo de inútil extravagancia estatal.
+Pero aun así no existe una contradicción. Para ese momento Toffler había 
+renunciado hacía tiempo a influenciar las políticas públicas por medio del interés
+general; se estaba ganando la vida dando seminarios a CEOs y _think tanks_ 
+corporativos. Sus análisis habían sido privatizados.
 
-Gingrich gustaba llamarse un "futurólogo conservador".  Esto también parece un
+Gingrich gustaba llamarse un "futurólogo conservador". Esto también parece un
 oxímoron, pero de hecho la concepción de la futurología que ostentaba Toffler
-nunca fue progresista.  El progreso siempre fue presentado como un problema que
+nunca fue progresista. El progreso siempre fue presentado como un problema que
 debía ser resuelto.
 
 Toffler podría ser visto como una version de peso ligero de Auguste Comte, el
 teórico social del siglo XIX que creía que estaba parado al borde una nueva edad
 --en su caso, la Edad Industrial-- impulsada por el inexorable progreso de la
 tecnología y que los cataclismos sociales de su época eran causados por la falta
-de ajuste del sistema social.  El orden feudal anterior había desarrollado la
+de ajuste del sistema social. El orden feudal anterior había desarrollado la
 teología católica como una forma de pensar el lugar de las personas en el cosmos
-que estaba perfectamente adaptada a ese sistema social, así como una estructura
+que se ajustaba perfectamente al sistema social, así como también una estructura
 institucional, la Iglesia, que transmitía y hacía cumplir esas ideas de forma
-que todas las personas tengan un sentido de significado y pertenencia.  La Edad
+que todas las personas tengan un sentido de significado y pertenencia. La Edad
 Industrial había desarrollado su propio sistema de ideas --la ciencia-- pero los
 científicos no habían tenido éxito en crear algo similar a la Iglesia Católica.
 Comte concluía que necesitábamos desarrollar una nueva ciencia, a la que llamó
 "sociología", donde los sociólogos jugarían el rol de sacerdotes de una nueva
 Religión de la Sociedad que inspiraría a todas las personas el amor por el
 orden, la comunidad, la disciplina del trabajo y los valores familiares.
-Toffler era menos ambicioso.  Sus futurologias no tenían que actuar de
+Toffler era menos ambicioso. Sus futurologias no tenían que actuar de
 sacerdotes.
 
 Gingrich tenía un segundo gurú, un teólogo _libertarian_[^libertarian] llamado
 George Gilde, que como Toffler, estaba obsesionado con la tecnología y el cambio
-social.  De una forma extraña, Gilder era más optimista.  Abrazando una versión
+social. De una forma extraña, Gilder era más optimista. Abrazando una versión
 radical de la tercera ola de Mandel, insistía que lo que estábamos presenciando
-con el auge de las computadoras era un "derrocamiento de la materia".  La
+con el auge de las computadoras era un "derrocamiento de la materia". La
 sociedad industrial, vieja y materialista, donde el valor provenía del trabajo
 físico, estaba cediendo lugar a una Edad de la Información donde el valor emerge
 directamente de la mente de los emprendedores, tal como el mundo había aparecido
 _ex nihilo_ de la mente de Dios y tal como el dinero en una economía de la
 oferta propiamente dicha emerge _ex nihilo_ de la Reserva Federal hacia las
-manos de los capitalistas creadores de valor.  Las políticas de la economía de
+manos de los capitalistas creadores de valor. Las políticas de la economía de
 la oferta, concluía Gilder, asegurarían que las inversiones continuarían
 alejándose de los programas estatales inútiles, como el programa espacial, hacia
 las más productivas tecnologías médicas e informáticas.
@@ -327,22 +327,22 @@ Pero si hubo una tendencia conciente, o semi-conciente, hacia el
 desfinanciamiento de la investigación que podría llevar a mejores cohetes y
 robots para favorecer aquella investigación que llevaría a las impresoras láser
 y la tomografía computada, ya había comenzado mucho antes que _El shock del
-futuro_ de Toffler (1970) y _Riqueza y pobreza_ de Gilder (1981).  Lo que su
+futuro_ de Toffler (1970) y _Riqueza y pobreza_ de Gilder (1981). Lo que su
 éxito demuestra es que los problemas que nombraban --que los patrones existentes
 de desarrollo tecnológico llevarían a un levantamiento social y que necesitamos
 llevar esos desarrollos en direcciones que no desafíen las estructuras de
-autoridad existentes-- hicieron eco en los pasillos del poder.  Los políticos y
+autoridad existentes-- hicieron eco en los pasillos del poder. Los políticos y
 los capitanes de la industria habían estado pensando sobre estos problemas por
 un tiempo.
 
 El capitalismo industrial había criado una tasa de avances científicos e
 innovación tecnológica extremadamente rápida, sin paralelo previo en la historia
-de la humanidad.  Aun los mayores detractores del capitalismo, Karl Marx y
-Friedrich Engels, celebraban la liberación de las "fuerzas productivas".  Marx y
+de la humanidad. Aun los mayores detractores del capitalismo, Karl Marx y
+Friedrich Engels, celebraban la liberación de las "fuerzas productivas". Marx y
 Engels también creían que la necesidad continua del capitalismo de revolucionar
-los medios de producción industrial llevarían a su destrucción.  Marx decía que
+los medios de producción industrial llevarían a su destrucción. Marx decía que
 según ciertas razones técnicas, el valor --y por lo tanto las ganancias-- solo
-podía extraerse del trabajo humano.  La competencia fuerza a los propietarios de
+podía extraerse del trabajo humano. La competencia fuerza a los propietarios de
 las fábricas a mecanizar la producción para reducir los costos laborales, pero
 en tanto esto es una ventaja de corto plazo para la empresa, el efecto global de
 la mecanización es reducir la tasa general de ganancia.
@@ -357,11 +357,11 @@ Global.
 Como dije, hay razones para creer que el paso de la innovación tecnológica en
 los procesos productivos --las fábricas mismas-- comenzó a reducirse en los '50
 y '60, aun cuando la rivalidad entre los Estados Unidos y la Unión Soviética
-hacia creer que en realidad se estaba acelerando.  Teníamos la asombrosa carrera
-espacial, junto con los frenéticos esfuerzos de los planificadores industriales
-estadounidenses por implementar las tecnologías existentes hacia las finalidades
-consumidoras, para crear una sensación optimista de prosperidad y garantizar un
-progreso que socavaría la atracción política de la clase trabajadora.
+hacia creer que en realidad se estaba acelerando. Para crear una sensación 
+optimista de prosperidad y garantizar un progreso que socavaría la atracción 
+política de la clase trabajadora teníamos la asombrosa carrera espacial, junto 
+con los frenéticos esfuerzos de los planificadores industriales estadounidenses 
+por implementar las tecnologías existentes hacia las finalidades consumistas.
 
 Estos movimientos fueron reacciones a iniciativas de la Unión Soviética.  Pero
 esta parte de la historia resulta difícil de recordar para los estadounidenses,
