@@ -363,256 +363,247 @@ política de la clase trabajadora teníamos la asombrosa carrera espacial, junto
 con los frenéticos esfuerzos de los planificadores industriales estadounidenses 
 por implementar las tecnologías existentes hacia las finalidades consumistas.
 
-Estos movimientos fueron reacciones a iniciativas de la Unión Soviética.  Pero
-esta parte de la historia resulta difícil de recordar para los estadounidenses,
+Estos movimientos fueron reacciones a iniciativas de la Unión Soviética. Pero
+esta parte de la historia resulta difícil de recordar para los estadounidenses
 porque hacia el fin de la Guerra Fría, la imagen popular respecto de la Unión
-Soviética cambió de ser una rival terriblemente audaz a una inútil patética--el
-ejemplar de una sociedad que no pudo funcionar.  Pero en los '50, de hecho,
-muchos de los planificadores de los Estados Unidos sospechaban que el sistema
-soviético funcionaba mejor.  Ciertamente, recordaban el hecho de que en los '30,
-mientras los Estados Unidos se hundían en la depresión, la Unión Soviética había
-sostenido un crecimiento económico sin precedentes de entre 10 y 12% anuales.
-Un logro sucedido rápidamente por la producción de ejércitos de tanques que
-derrotarían a la Alemania Nazi, el lanzamiento del _Sputnik_ en 1957 y el primer
+Soviética cambió de ser un rival terriblemente audaz, a un ejemplo de sociedad 
+inútil y patética que no pudo funcionar. Pero en los '50 de hecho, muchos de los 
+funcionarios de los Estados Unidos sospechaban que el sistema soviético funcionaba 
+mejor. Ciertamente, recordaban el hecho de que en los '30, mientras los Estados
+Unidos se hundían en la depresión, la Unión Soviética había sostenido cifras de 
+crecimiento económico sin precedentes, que rondaban entre 10 y 12% anuales.
+Un logro sucedido rápidamente por la producción del ejército de tanques que
+derrotaría a la Alemania Nazi, el lanzamiento del _Sputnik_ en 1957 y el primer
 viaje espacial tripulado por humanas, la _Vostok_, en 1961.
 
-Se dice muy a menudo que el aterrizaje en la luna del Apollo fue uno de los más
-grandes logros históricos del comunismo soviético.  Seguramente los Estados
-Unidos nunca hubieran contemplado tarea tal si no fuera por las ambiciones
-cósmicas del politburó soviético.  Estamos acostumbradas a pensar el politburó
+Se dice muy a menudo que el aterrizaje en la luna del Apollo fue uno de los logros 
+históricos más grandes del comunismo soviético. Seguramente los Estados Unidos 
+nunca hubieran contemplado tal tarea de no haber sido por las ambiciones
+cósmicas del politburó soviético. Estamos acostumbradas a pensar el politburó
 como un grupo de buroócratas grises sin imaginación, pero en realidad fueron
-burócratas que se animaron a soñar sueños asombrosos.  El sueño de la revolución
-mundial sólo fue el primero.  Es verdad que muchos de ellos --cosas como cambiar
+burócratas que se animaron a soñar sueños asombrosos. El sueño de la revolución
+mundial sólo fue el primero. Es verdad que muchos de ellos --cosas como cambiar
 el curso de poderosos ríos-- terminaron siendo ecológica y socialmente
-desastrosos, o, como el Palacio de los Soviets de 100 pisos de Iósif Stalin o la
-estatua de Vladimir Lenin de 20 pisos, que nunca se levantaron del suelo.
-
-After the initial successes of the Soviet space program, few of these schemes
-were realized, but the leadership never ceased coming up with new ones. Even in
-the eighties, when the United States was attempting its own last, grandiose
-scheme, Star Wars, the Soviets were planning to transform the world through
-creative uses of technology. Few outside of Russia remember most of these
-projects, but great resources were devoted to them. It’s also worth noting that
-unlike the Star Wars project, which was designed to sink the Soviet Union, most
-were not military in nature: as, for instance, the attempt to solve the world
-hunger problem by harvesting lakes and oceans with an edible bacteria called
-spirulina, or to solve the world energy problem by launching hundreds of
-gigantic solar-power platforms into orbit and beaming the electricity back to
-earth.
+desastrosos o, como el Palacio de los Soviets de 100 pisos de Iósif Stalin o la
+estatua de Vladimir Lenin de 20 pisos, nunca se levantaron del suelo.
 
 Luego de los éxitos iniciales del programa espacial soviético, pocos de estos
-planes fueron realizados, pero el liderazgo nunca cesó de imaginar nuevos.
-Incluso en los '80, cuando los Estados Unidos intentaban su último y más
-grandioso plan, la Guerra de las Galaxias,[^star-wars] los soviéticos
+planes fueron realizados, pero el liderazgo nunca cesó de imaginar nuevos 
+proyectos. Incluso en los '80, cuando los Estados Unidos intentaban su último 
+y más grandioso plan, la Guerra de las Galaxias,[^star-wars] los soviéticos
 planificaban la transformación del mundo a través de usos creativos de la
-tecnología.  Pocas personas fuera de Rusia recuerdan la mayor parte de estos
-proyectos, aunque les fueron dedicados grandes recursos.  También hay que notar
-que al contrario del proyecto de la Guerra de las Galaxias, que había sido
-diseñado para hundir a la Unión Soviética, muchos de esos proyectos no tenían
-fines militares.  Como, por ejemplo, el intento de solucionar el hambre mundial
-sembrando lagos y oceános con una bacteria comestible llamada _spirulina_ o
-solucionar el problema energético global lanzando cientos de plataformas solares
-al espacio y enviando la electricidad de vuelta a la Tierra.
+tecnología. Aunque les fueron dedicados gran cantidad de recursos, pocas 
+personas fuera de Rusia recuerdan la mayor parte de estos proyectos. También 
+hay que notar que al contrario del proyecto de la Guerra de las Galaxias, que 
+había sido diseñado para hundir a la Unión Soviética, muchos de esos proyectos 
+no perseguían una finalidad militar. Como por ejemplo, el intento de solucionar 
+el hambre mundial sembrando lagos y oceános con una bacteria comestible llamada 
+_spirulina_, o solucionar el problema energético global lanzando cientos de 
+plataformas solares al espacio y enviando la electricidad de vuelta 
+hacia la Tierra.
 
 [^star-wars]:
     https://es.wikipedia.org/wiki/Iniciativa_de_Defensa_Estrat%C3%A9gica
 
-La victoria estadounidense de la carrera espacial significó que después de 1968,
-los planificadores dejaron de tomar seriamente a la competencia.  Como
-resultado, se mantuvo la mitología de la frontera final, aun cuando la dirección
+La victoria estadounidense de la carrera espacial significó que después de 1968
+los planificadores dejaran de tomar seriamente la competencia. Como resultado, 
+se mantuvo la mitología de la frontera final, aun cuando la dirección
 de la investigación y desarrollo pivotó hacia cualquier cosa que no tuviera que
 ver con bases en Marte ni fábricas robot.
 
-La historia estándar es que esto fue el resultado del triunfo del mercado.  El
+La historia estándar es que esto fue el resultado del triunfo del mercado. El
 programa _Apollo_ fue un proyecto del _Gran Gobierno_, de inspiración soviética
 en el sentido de que requirió un esfuerzo nacional coordinado por burocracias
-estatales.  Tan pronto como la amenaza soviética hubo pasado, el capitalismo
+estatales. Tan pronto como la amenaza soviética hubo pasado, el capitalismo
 revirtió a líneas de desarrollo tecnológico más de acuerdo con sus imperativos
-normales, decentralizados y de libre mercado, como la investigación con fondos
-privados hacia bienes de consumo como las computadoras personales.  Esta es la
-línea que siguen tipos como Toffler y Gilder a partir de los '70 y '80.
+normales, decentralizados y de libre mercado, la investigación con fondos
+privados hacia bienes de consumo, como por ejemplo: las computadoras personales. 
+Esta es la línea que siguen tipos como Toffler y Gilder a partir de los '70 y '80.
 
 De hecho los Estados Unidos nunca abandonaron los planes estatales gigantescos
-de desarrollo tecnológico.  En su mayoría se convirtieron en investigación
+de desarrollo tecnológico. En su mayoría se convirtieron en investigación
 militar y no solo a escala soviética como la Guerra de las Galaxias, sino hacia
-proyectos armamentísticos, investigación en tecnologías de comunicación y
-vigilancia y otras preocupaciones relacionadas con la seguridad.  En algún grado
-esto siempre fue cierto.  Los miles de millones de dólares gastados en la
+proyectos armamentísticos, investigación en tecnologías de la comunicación y
+vigilancia y otras preocupaciones relacionadas con la seguridad. En algún grado
+esto siempre fue cierto. Los miles de millones de dólares gastados en la
 investigación de misiles siempre empequeñecieron las sumas asignadas al programa
-espacial.  Para los '70 cualquier investigación básica era conducida en base a
-prioridades militares.  Una de las razones por las que no tenemos fábricas robot
+espacial. Para los '70 cualquier investigación básica era conducida en base a
+prioridades militares. Una de las razones por las que no tenemos fábricas robot
 es porque aproximadamente el 95% del financiamiento de la investigación robótica
 ha sido orientado por el Pentágono, cuyo interés reside en el desarrollo de
 drones no tripulados antes que en automatizar la producción de papel.
 
 Podría decirse que este cambio hacia la investigación y desarrollo de
 tecnologías informáticas y médicas no fue tanto una reorientación por los
-imperativos de mercado de consumo, sino parte de un esfuerzo hacia la
-humillación tecnológica de la Unión Soviética sumada a una victoria total en la
+imperativos del mercado de consumo, sino parte de un esfuerzo hacia la
+humillación tecnológica de la Unión Soviética, sumada a una victoria total en la
 guerra de clases global --vista simultáneamente como la imposición absoluta de
 la dominación militar estadounidense en el exterior y, localmente, en la
 profunda derrota de los movimientos sociales.
 
 Las tecnologías que sí emergieron han demostrado ser muy conducentes para el
-campo de la vigilancia, la disciplina laboral y el control social.  Las
-computadoras han abierto ciertos espacios de libertad, como somos recordadas
+campo de la vigilancia, la disciplina laboral y el control social. Las
+computadoras han abierto ciertos espacios de libertad, como se nos recuerda
 constantemente, pero en lugar de llevarnos a la utopía del fin del trabajo que
 imaginaba Abbie Hoffman, fueron empleadas para producir el efecto contrario.
-Han habilitado una financialización del capital que ha empujado desesperadamente
-a las trabajadoras a endeudarse, a la vez que proveen los medios a través de los
-cuáles los empleadores han creado regímenes laborales "flexibles" que han
-destruido la tradicional seguridad laboral y aumentado las horas de trabajo para
-casi todo el mundo.  Junto con la exportación de los trabajos fabriles, el nuevo
-régimen laboral ha derrotado al movimiento sindical y destruido cualquier
-posibilidad de política obrera efectiva.
+Así, han habilitado una financialización del capital que ha empujado a las 
+trabajadoras a endeudarse desesperadamente, a la vez que han provisto los medios
+a través de los cuáles los empleadores crearon los regímenes laborales "flexibles"
+que destruyeron la tradicional seguridad laboral, aumentando las horas de trabajo 
+para casi todo el mundo. Junto con la exportación de los trabajos fabriles, 
+el nuevo régimen laboral ha derrotado al movimiento sindical y destruido 
+cualquier posibilidad de política obrera efectiva.
 
 Mientras tanto, a pesar de la inversión sin precedentes en investigación médica
 y biológica, todavía esperamos curas para el cáncer y el resfrío común; y los
 descubrimientos médicos más dramáticos han tomado la forma de drogas como
 _Prozac_, _Zoloft_ o _Ritalin_ --creadas específicamente para asegurarse que las
-nuevas demandas del trabajo no nos vuelvan completa, y disfuncionalmente, locas.
+nuevas demandas del trabajo no nos vuelvan completa, y disfuncionalmente locas.
 
-Con resultados como estos, ¿cómo será el epitafio del neoliberalismo?  Creo que
+Con resultados como estos, ¿Cómo será el epitafio del neoliberalismo? Creo que
 las historiadoras concluirán que se trató de una forma de capitalismo que
-priorizó sistemáticamente los imperativos políticos sobre los económicos.  Ante
+priorizó sistemáticamente los imperativos políticos sobre los económicos. Ante
 la elección entre un curso de acción que volvería al capitalismo el único
-sistema económico posible, y otro que transformaría el capitalismo en un sistema
-económico viable a largo plazo, el neoliberalismo elige la primera opción cada
-vez.  Tenemos todas las razones para pensar que destruir la seguridad laboral a
+sistema económico posible, y otro que transformaría al capitalismo en un sistema
+económico viable a largo plazo, el neoliberalismo elige la primera opción. 
+Tenemos todas las razones para pensar que destruir la seguridad laboral a
 la vez que se incrementan las horas laborales no crea una fuerza laboral más
-productiva (sin pensar en más innovativa o leal).  Probablemente, en términos
-económicos, el resultado es negativo.  Esta impresión queda confirmada por las
+productiva (sin pensar en más innovativa o leal). Probablemente, en términos
+económicos, el resultado es negativo. Esta impresión queda confirmada por las
 tasas de crecimiento más bajas en casi todas partes alrededor del mundo durante
 los '80 y '90.
 
 Pero la elección neoliberal ha sido efectiva en la despolitización del trabajo y
-la sobredeterminación del futuro.  Económicamente, el crecimiento de los
+la sobredeterminación del futuro. Económicamente, el crecimiento de los
 ejércitos, la policía y los servicios de seguridad privada equivale a peso
-muerto.  Es posible, de hecho, que el mismísimo peso muerto del aparato creado
+muerto. Es posible, de hecho, que el mismísimo peso muerto del aparato creado
 para asegurar la victoria ideológica del capitalismo sea el mismo que lo hunda.
-Pero resulta también fácil ver como el ahogo de cualquier sensación de un
-inevitable y redentor futuro, diferente de nuestro mundo, es parte crucial del
+Pero resulta también fácil ver cómo el ahogo de cualquier sensación de futuro
+redentor inevitable, diferente al mundo que tenemos, es parte crucial del
 proyecto neoliberal.
 
-En este punto todas las piezas parecen caer perfectamente en su lugar.  En los '60, las
-fuerzas políticas conservadoras estaban atemorizadas de los efectos disruptivos
-para la sociedad que tenía el progreso tecnológico, y los empleadores empezaban a
-preocuparse por el impacto económico de la mecanización.  La desvaneciente
+En este punto todas las piezas parecen caer perfectamente en su lugar. En los '60, las
+fuerzas políticas conservadoras estaban atemorizadas por los efectos disruptivos
+que tenía el progreso tecnológico para la sociedad, y los empleadores empezaban a
+preocuparse por el impacto económico de la mecanización. La desvaneciente
 amenaza soviética permitió reacomodar los recursos en direcciones vistas como
 menos desafiantes para los arreglos económicos y sociales, o direcciones que de
-hecho apoyaban una campaña que reviertiera los logros de los movimientos
-sociales progresivos y alcance una victoria decisiva en los que las élites
-estadounidenses veían como una guerra de clase global.  El cambio de prioridades
+hecho apoyaban una campaña que revirtiera los logros de los movimientos
+sociales progresivos, con el fin de alcanzar una victoria decisiva en lo que las elites
+estadounidenses veían como una guerra de clases global. El cambio de prioridades
 fue introducido como una retirada de los proyectos gran-gubernamentales y un regreso
-al mercado, pero en efecto el cambio fue que la investigación pública sea
-dirigida de programas como NASA o fuentes alternativas de energía hacia las
-tecnologías militares, informáticas y médicas.
+al mercado, pero en efecto el cambio fue que la investigación pública se dirigiera
+de programas como NASA o fuentes alternativas de energía, hacia tecnologías militares,
+informáticas y médicas.
 
-Por supuerto esto no lo explica todo.  Sobre todo, no explica por qué, aun en
+Por supuerto esto no lo explica todo. Sobre todo no explica por qué aún en
 aquellas áreas que se han convertido en el foco de proyectos de investigación de
 buena financiación, no hemos visto ninguno de los avances que anticipábamos 50
-años atrás.  Si el 95% de la investigación robótica ha sido financiado por los
-militares, ¿entonces dónde están los robots asesinados al estilo de Klaatu,
+años atrás. Si el 95% de la investigación robótica ha sido financiado por los
+militares, ¿Entonces dónde están los robots asesinados al estilo de Klaatu,
 disparando rayos mortales por los ojos?
 
-Obviamente, han habido avances en la tecnología militar en las décadas
-recientes.  Una de las razones por las que todas sobrevivimos la Guerra Fría es
+Obviamente han habido avances en la tecnología militar en las décadas
+recientes. Una de las razones por las que todas sobrevivimos la Guerra Fría es
 que mientras las bombas nucleares funcionaban como se publicitaba, los sistemas
-de lanzamiento no.  Los misiles intercontinentales eran incapaces de alcanzar
-ciudades, ni pensar en objetivos específicos dentro de ellas.  Este hecho
+de lanzamiento no. Los misiles intercontinentales eran incapaces de alcanzar
+ciudades, ni pensar objetivos específicos dentro de ellas. Este hecho
 significó que había poca razón para lanzar un primer golpe nuclear a menos que
 el objetivo sea destruir el mundo.
 
-Los misiles de crucero contemporáneos son precisos en comparación.  Aún así, las
+Los misiles de crucero contemporáneos son precisos en comparación. Aún así, las
 armas de precisión nunca parecen ser capaces de asesinar a individuos
-específicos (Saddam, Osama, Qaddafi) aún cuando se lanzan cientos.  Y las armas
-de rayos no se han materializado, seguramente no por falta de intentos.  Podemos
+específicos (Saddam, Osama, Qaddafi) aún cuando se lanzan cientos. Y las armas
+de rayos no se han materializado, seguramente no por falta de intentos. Podemos
 asumir que el Pentágono ha gastado miles de millones en investigación de rayos
 mortales, pero lo más cerca que han llegado hasta ahora es a lásers que podrían,
-apuntados correctamente, cegar a un enemigo mirándolo directamente.  Aparte de
-ser antideportivos, son patéticos: los láser son tecnología de los '50.  Los
-_phasers_[^phasers] que paralizan no parecen estar en las pizarras de diseño. Cuando se trata de
-combate de infantería, el arma preferida en casi todos lados sigue siendo la
-AK-47, un diseño soviético nombrado por el año de introducción: 1947.
+apuntados correctamente, cegar a un enemigo mirándolo directamente. Aparte de
+ser antideportivos son patéticos: el láser es tecnología de los '50. Los
+_phasers_[^phasers] paralizadores no parecen estar en las pizarras de diseño.
+Cuando se trata de combate de infantería, el arma preferida en casi todos lados
+sigue siendo la AK-47, un diseño soviético nombrado por el año de introducción:
+1947.
 
-[^phasers]: phaser es el nombre que adquiere una tecnología de aplicación bélica 
-en el universo de la saga de star trek. Un arma emblemática que se basa en esta 
-tecnología es una pistola de plasma. 
+[^phasers]: phaser es el nombre que se le dio a una tecnología de aplicación
+principalmente bélica, en el universo de la saga de Star Trek. Las armas de 
+rayos de plasma de dicho universo que se basan en ésta tecnología son conocidas 
+por las fans como _phasers_.
 
-La Internet es una innovación remarcable, pero de lo que estamos hablando es de
-una super-rápida y globalmente accesible combinación de biblioteca, oficina de
-correos y catálogo de compra por correo.  Si la Internet hubiera sido descrita a
+La Internet es una innovación notable, pero de lo que estamos hablando es de
+una súper-rápida y globalmente accesible combinación de biblioteca, oficina de
+correos y catálogo de compra por correo. Si la Internet hubiera sido descrita a
 una aficionada de la ciencia ficcion de los '50 y '60 y nombrada el logro
-tecnológico más dramático de su tiempo, su reacción sería de decepción.
+tecnológico más dramático de su tiempo, su reacción sería la decepción.
 _"¿Cincuenta años y esto es lo mejor que nuestras científicas pudieron lograr?
-¡Esperábamos computadoras que puedan pensar!"_
+¡Esperábamos computadoras que pudieran pensar!"_
 
-Los niveles de financimiento en investigación han incrementado dramáticamente
-desde los '70.  La proporción de ese financiamiento que viene del sector
-corporativo es lo que más dramáticamente ha incrementado, al punto que la
+Los niveles de financimiento en investigación se han incrementado dramáticamente
+desde los '70. La proporción de ese financiamiento que viene del sector
+corporativo es lo que más dramáticamente se ha incrementado, al punto que la
 empresa privada está financiando el doble de investigación que el Estado, pero
 el incremento es tan alto que la cantidad total de financiamiento público es de
-todas formas más alto que en los '60.  La investigación "básica", "impulsada por
+todas formas más alto que en los '60. La investigación "básica", "impulsada por
 la curiosidad" y "sin usos prácticos" --el tipo de investigación que no está
 impulsada por el prospecto de cualquier aplicación práctica inmediata y la que
 más probablemente lleve a descubrimientos inesperados-- ocupa una mucho menor
 proporción sobre el total, aunque se tira tanto dinero por ahí que hoy día el
-nivel global de financiamineto en investigación básica también ha incrementado.
+nivel global de financiamineto en investigación básica también se ha incrementado.
 
 Aun así muchas observadoras acuerdan que los resultados han sido pobres.
 Ciertamente ya no vemos nada parecido al flujo continuo de revoluciones
 conceptuales --herencia genética, relatividad, psicoanálisis, mecánica
 cuántica-- al que las personas estaban acostumbradas, y que incluso esperaban,
-unos cien años antes.  ¿Por qué?
+unos cien años antes. ¿Por qué?
 
 Parte de la respuesta tiene que ver con la concentración de recursos en unos
-pocos proyectos gigantescos: la "gran ciencia" como se ha dado en llamar.  El
-Proyecto Genoma Humano a menudo es sostenido como ejemplo.  Después de gastar
+pocos proyectos gigantescos: la "gran ciencia" como se ha dado en llamar. El
+Proyecto Genoma Humano a menudo es sostenido como ejemplo. Después de gastar
 casi 3 mil millones de dólares y emplear miles de científicas y personal en
 cinco países distintos, ha servido para establecer que no hay mucho que aprender
-de la secuenciación genómica que sea de mucha utilidad para alguien más.  Aun
-más, el bombo y la inversión política alrededor de estos proyectos demuestra el
-grado al que incluso la investigación básica parece ser impulsada por
-imperativos políticos, administrativos y de mercado que hacen improbable que
-ocurra algo revolucionario.
+de la secuenciación genómica que sea de mucha utilidad. Aun más, el bombo y 
+la inversión política alrededor de estos proyectos demuestra hasta qué punto
+la investigación básica parece ser impulsada por imperativos políticos, 
+administrativos y publicitarios, que hacen improbable la ocurrencia de 
+descubrimientos revolucionarios.
 
 Aquí, nuestra fascinación con los orígenes míticos de _Silicon Valley_ y la
-Internet nos han cegado a lo que realmente está sucediendo.  Nos ha hecho
-imaginar que la investigación y desarrollo es impulsada principalmente por
-pequeños equipos de emprendedores o la cooperación decentralizada que crea el
-software libre.  Esto no es así, aun cuando estos equipos tengan la mayor
-probabilidad de producir resultados.  La investigación y desarrollo todavía es
-impulsada por grandes y burocráticos proyectos.
+Internet nos han cegado a lo que realmente está sucediendo. Dicha mitología 
+nos ha hecho imaginar que la investigación y el desarrollo son impulsados 
+principalmente por pequeños equipos de emprendedores o, en su defecto, por
+la cooperación descentralizada que crea el software libre. Esto no es así 
+aún cuando éstos equipos tengan la mayor probabilidad de producir resultados.
+La investigación y el desarrollo todavía son impulsados por grandes proyectos 
+burocráticos.
 
-Lo que ha cambiado es la cultura burocrática.  La interpenetración creciente
+Lo que ha cambiado es la cultura burocrática. La interpenetración creciente
 entre Estado, Universidad y empresas privadas ha llevado a todo el mundo a
 adoptar el lenguaje, las sensibilidades y las formas organizacionales que
-originaron en el mundo corporativo.  Aunque esto haya ayudado a crear bienes de
+se originaron en el mundo corporativo. Aunque esto haya ayudado a crear bienes de
 consumo, ya que esto es para lo que las burocracias corporativas fueron
-diseñadas, los resultados han sido catastróficos en términos de promover la
+diseñadas, los resultados han sido catastróficos en términos de promover una
 investigación original.
 
 Mi propio conocimiento proviene de las universidades, tanto en Estados Unidos
-como en Inglaterra.  En ambos países, los últimos 30 años han presenciado una
+como en Inglaterra. En ambos países, los últimos 30 años han presenciado una
 verdadera explosión en la proporción de horas laborales utilizadas en tareas
-administrativas a expensas de prácticamente cualquier otra tarea.  En mi propio
+administrativas a expensas de prácticamente cualquier otra tarea. En mi propia
 universidad, por ejemplo, tenemos más administradoras que profesoras. Y de las
 profesoras se espera que también pasen tanto tiempo en administración como lo
-pasan en la enseñanza e investigación, combinadas.  Lo mismo es verdad, más o
-menos, para todas las universidades del mundo.
+pasan en la enseñanza e investigación. Lo mismo es ocurre, más o menos, en todas
+las universidades del mundo.
 
 El auge del trabajo administrativo es resultado directo de la introducción de
-las técnicas de gestión corporativas.  Invariablemente, son justificadas como
+las técnicas de gestión corporativa. Invariablemente son justificadas como
 formas de incrementar la eficiencia e introducir la competencia en todos los
-niveles.  Lo que termina significando en la práctica es que cada quien termina
+niveles. Lo que termina significando en la práctica es que cada quien termina
 gastando la mayor parte del tiempo tratando de vender cosas: propuestas de becas,
 propuestas de libros, evaluación del trabajo y aplicaciones de becas de las
-estudiantes, evaluación de las colegas, prospectos de nuevos doctorandos
+estudiantes, evaluación de las colegas, proyectos para nuevos doctorandos
 interdisciplinarios, institutos, talleres, conferencias y las universidades
 mismas (que se han convertido en marcas que se imponen a las posibles
 estudiantes y contribuidoras), entre otras cosas.
 
-Mientras la mecadotécnia sobresatura la vida universitaria, genera documentos
+Mientras la mercadotécnia sobresatura la vida universitaria, genera documentos
 acerca del cultivo de la imaginación y la creatividad que bien podrían además
 haber sido diseñados para estrangular la imaginación y la creatividaden en la
 cuna.  En los últimos 30 años no han emergido grandes obras de teoría social en
