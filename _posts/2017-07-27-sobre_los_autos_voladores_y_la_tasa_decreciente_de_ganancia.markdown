@@ -605,119 +605,119 @@ estudiantes y contribuidoras), entre otras cosas.
 
 Mientras la mercadotécnia sobresatura la vida universitaria, genera documentos
 acerca del cultivo de la imaginación y la creatividad que bien podrían además
-haber sido diseñados para estrangular la imaginación y la creatividaden en la
-cuna.  En los últimos 30 años no han emergido grandes obras de teoría social en
-los Estados Unidos.  Nos han reducido a escolásticas medievales, escribiendo
-infinitas anotaciones sobre teoría francesa de los '70, con la culposa
-conciencia de que si Gilles Deleuze, Michel Foucault o Pierre Bourdieu
-reencarnaran hoy les negaríamos la cátedra.
+haber sido diseñados para estrangular la imaginación y la creatividad desde la
+cuna. En los últimos 30 años no han emergido grandes obras de teoría social en
+los Estados Unidos. Nos han reducido a escolásticas medievales, escribiendo
+infinitas anotaciones sobre teoría francesa de los '70, con la conciencia 
+culpógena de que si Gilles Deleuze, Michel Foucault o Pierre Bourdieu 
+reencarnaran hoy, les negaríamos la cátedra.
 
 Hubo un tiempo en el que la academia era el refugio de lo excéntrico, lo
 brillanta y lo impráctico.  Ya no más.  Ahora es el dominio de los profesionales
-que se hacen auto-bombo.  Como resultado, en uno de los más bizarros encajes de
-auto-destrucción social en la historia, hemos decidido que ya no hay lugar para
-nuestras ciudadanas excéntricas, brillantes e imprácticas.  La mayoría languidece en
-el sótano de sus madres, a lo mejor haciendo la ocasional intervención en la
+que se hacen auto-bombo. Como resultado, en uno de los más bizarros encajes de
+auto-destrucción social de la historia, hemos decidido que ya no hay lugar para
+nuestras ciudadanas excéntricas, brillantes e imprácticas. La mayoría languidece en
+el sótano de sus madres, a lo mejor haciendo una ocasional intervención en la
 Internet.
 
 Si todo esto es verdad para las ciencias sociales, donde la investigación
-todavía es llevada a cabo con mínimo costo principalmente por individuos, solo
-podemos imaginar lo difícil que se hace para la astrofísica.  De hecho,
-recientemente un astrofísico llamado Jonathan Katz ha advertido recientemente a
-las estudiantes con perspectivas de hacer carrera en las ciencias.  Aun cuando
-emerjas del período de usualmente una década de largo languideciendo como la
-sombra de alguien más, él dice, puedes esperar que tus mejores ideas van a ser
-menospreciadas a cada punto:
+todavía es llevada a cabo con mínimo costo y principalmente por individuos, solo
+podemos imaginar lo difícil que se hace para la astrofísica. De hecho,
+recientemente un astrofísico llamado Jonathan Katz ha advertido a las estudiantes 
+con perspectivas de hacer carrera en las ciencias. Aún cuando emerjas del período 
+de usualmente una década de letargo como la sombra de otro, dice, podés esperar 
+que tus mejores ideas sean menospreciadas sistematicamente:
 
 > Vas a pasar el tiempo escribiendo propuestas antes que haciendo investigación.
 > Peor aún, ya que tus propuestas son juzgadas por tus competidores, no vas a
-> poder seguir tus curiosidades, sino que tendrás que poner tus esfuerzos y
+> poder seguir tus curiosidades, sino que vas a tener que poner tus esfuerzos y
 > talentos en anticipar y desviar las críticas antes que en resolver problemas
 > científicos importantes. [...] Resulta proverbial que las ideas originales
-> sean el beso de la muerte para una propuesta de trabajo, porque aun no se ha
+> sean el beso de la muerte para una propuesta de trabajo, porque aún no se ha
 > demostrado que sean productivas.
 
 Esto responde bastante a la pregunta sobre por qué no tenemos dispositivos de
-teletransportación o zapatos antigravitatorios.  El sentido común sugiere que si
+teletransportación o zapatos antigravitatorios. El sentido común sugiere que si
 queremos maximizar la creatividad científica, tenés que encontrar gente
-brillante, darle los recursos que necesiten para seguir las ideas que vengan a
-sus cabezas y dejarlos sólos.  La mayoría resultará en nada, pero una o dos
-descubrirán algo.  Pero si querés minimizar la posibilidad de descubrimientos
-inesperados, deciles a esas mismas personas que no van a recibir recursos hasta
-que pasan la mayor parte de su tiempo compitiendo entre sí para convencerte que
-saben de antemano aquello que van a descubrir.
+brillante, darle los recursos que necesiten para seguir las ideas que vengan de
+sus cabezas y dejarlos tranquilos para que hagan lo que deban y quieran hacer. 
+La mayoría resultará en nada, pero una o dos seguramente descubrirán algo. Pero 
+si querés minimizar la posibilidad de descubrimientos inesperados, deciles a esas 
+mismas personas que no van a recibir recursos hasta que pasen la mayor parte de 
+su tiempo compitiendo entre sí para convencerte que saben de antemano aquello que 
+van a descubrir.
 
 En las ciencias naturales, a la tiranía del administracionismo podemos agregar
-la privatización de los resultados de las investigacines.  Como nos recuerda el
-economista británico David Harvie, la investigación "abierta" no es nueva.  La
+la privatización de los resultados de las investigacines. Como nos recuerda el
+economista británico David Harvie, la investigación "abierta" no es nueva. La
 investigación escolástica siempre ha sido abierta en el sentido de que las
-académicas comparten materiales y resultados.  Existe la competencia,
-ciertamente, pero es "amistosa".  Esto ya no es verdad para las científicas que
+académicas comparten materiales y resultados. Existe la competencia,
+ciertamente, pero es "amistosa". Esto ya no es verdad para las científicas que
 trabajan en el sector corporativo, donde los hallazgos son celosamente
-guardados.  La difusión del _ethos_ corporativo dentro de la academia y los
+guardados. La difusión del _ethos_ corporativo dentro de la academia y los
 institutos de investigación ha resultado en que incluso los investigadores con
-financiamiento público traten sus hallazgos como propiedad privada.  Las
+financiamiento público traten sus hallazgos como propiedad privada. Las
 editoriales académicas aseguran que los hallazgos que son publicados sean cada
-vez más difíciles de acceder, cercando los bienes comunes intelectuales.  Como
+vez más difíciles de acceder, cercando los bienes comunes intelectuales. Como
 resultado, la competencia abierta, amistosa, se convierte en algo mucho más
 parecido a la clásica competencia de mercado.
 
-Existen muchas formas de privatización, incluyendo la simple compra y supresión
-de descubrimientos inconvenientes para las grandes corporaciones, temerosas de
-sus posibles efectos económicos.  (No podemos saber cuántas fórmulas de petróleo
-sintético han aparecido para terminar en las bóvedas de las compañías
-petroleras, pero resulta difícil imaginar que nada de esto suceda).  Más sutil
-es la forma en que el _ethos_ administrativista desalienta todo lo que sea
-aventurero o raro, especialmente si no hay prospecto de resultados inmediatos.
-Extrañamente, aquí la Internet es parte del problema.  Como decía Neal
-Stephenson:
+Existen muchas formas de privatización, incluyendo la compra y supresión
+de descubrimientos potencialmente, o de hecho, desfavorables para los intereses 
+de las grandes corporaciones, siempre temerosas de posibles efectos económicos 
+indeseables. (No podemos saber cuántas fórmulas de combustibles sintéticos han 
+terminado en las bóvedas de las compañías petroleras, pero resulta difícil 
+imaginar que no haya pasado). Más sutil es la forma en que el _ethos_  
+administrativista desalienta todo lo que sea aventurero o raro, especialmente 
+si no hay prospecto de resultados inmediatos. Extrañamente, la Internet 
+es parte del problema. Como decía Neal Stephenson:
 
-> La mayoría de las personas que trabaja en corporaciones o la academia ha
+> La mayoría de las personas que trabaja en corporaciones o en la academia ha
 > presenciado algo como lo siguiente: un grupo de ingenieras se encuentran en
-> una habitación rebotándose ideas entre sí.  De esta discusión emerge un
-> nuevo concepto que parece prometedor.  Entonces alguien con una computadora
+> una habitación rebotándose ideas entre sí. De esta discusión emerge un
+> nuevo concepto que parece prometedor. Entonces alguien con una computadora
 > portátil realiza una búsqueda en _Google_ y anuncia que esta "nueva" idea en
-> realidad es vieja.  Ya sido probada, o al menos algo vagamente similar.  Ha
-> fallado o ha sido exitosa.  Si ha fallado, ninguna administradora con ganas de
-> mantener su trabajo aprobaría el uso de dinero tratando de revivirla.  Si ha
+> realidad es vieja. Ya sido probada, o al menos algo vagamente similar. Ha
+> fallado o ha sido exitosa. Si ha fallado, ninguna administradora con ganas de
+> mantener su trabajo aprobaría el uso de dinero tratando de revivirla. Si ha
 > sido exitosa, entonces ha sido patentada y el ingreso al mercado se presume
 > inalcanzable, ya que las primeras personas que la han pensado tienen la
-> "ventaja inicial" y han creado "barreras para el ingreso".  La cantidad de
-> ideas prometedoras que han sido aplastadas de esta forma deben contarse entre
-> los millones.
+> "ventaja inicial" y han creado "barreras para el ingreso". La cantidad de
+> ideas prometedoras que han sido aplastadas de esta forma deben contarse en
+> millones.
 
 Entonces un espíritu tímido y burocrático sofoca cualquier aspecto de la vida
-cultural.  Viene adornado con un lenguaje de creatividad, iniciativa y
-emprendedorismo.  Pero el lenguaje es insignificante.  Las pensadoras con mayor
+cultural. Viene adornado con un lenguaje de creatividad, iniciativa y
+emprendedurismo. Pero el lenguaje es insignificante. Las pensadoras con mayor
 probabilidad de lograr descubrimientos interesantes son las que tienen menos
-probabilidad de conseguir financiamiento.  Y cuando los descubrimientos ocurren,
+probabilidad de conseguir financiamiento. Y cuando los descubrimientos ocurren,
 probablemente no encuentran a nadie con la voluntad de seguir sus implicaciones
 más audaces.
 
 Giovanni Arrighi señalaba que luego de la burbuja del Mar del Sur[^burbuja] en
-1720, el capitalismo británico abandonó ampliamente la forma corporativa.  Para
+1720, el capitalismo británico abandonó ampliamente la forma corporativa. Para
 la Revolución Industrial, Inglaterra había pasado a apoyarse sobre una
 combinación de altas finanzas y pequeñas empresas familiares --patrón que se
 sostuvo durante el siglo posterior, el período de máxima innovación científica y
-tecnológica.  (Inglaterra era por entonces también notable por ser tan generosa
-con sus "bichos raros" y excéntricos como es de intolerante los Estados Unidos
-contemporáneos.  Una solución común era permitirles convertirse en párrocos
-rurales, quienes, predeciblemente, se convirtieron en una de las principales fuentes de
-descubrimientos científicos _amateur_.)
+tecnológica. (Inglaterra era por entonces también notable por ser generosa
+con sus "bichos raros" y sus personajes excéntricos, tanto como es de 
+intolerante Estados Unidos actualmente. Una solución común entonces, era 
+permitirles  convertirse en párrocos rurales, quienes, predeciblemente, se 
+convirtieron en una de las principales fuentes de descubrimientos científicos 
+_amateur_).
 
 
-[^burbuja]: https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_del_Mar_del_Sur#Estalla_la_burbuja
+[^burbuja]: ver https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_del_Mar_del_Sur#Estalla_la_burbuja
 
-El capitalismo corporativo burócratico contemporáneo no fue la creación de
-Inglaterra, sino de los Estados Unidos y Alemania, los dos poderes rivales que
-pasaron la primer mitad del siglo XX luchando dos sangrientas guerras acerca de
-quién reemplazaría a Inglaterra como un poder mundial dominante --guerras que
-culminaron, bastante apropiadamente, en programas esponsoreados por el Estado para ser
-los primeros en descubrir la bomba atómica.  Resulta significativo entonces, que
-el estancamiento tecnológico actual haya comenzado en 1945, cuando los Estados
-Unidos reemplazaron a Inglaterra como los organizadores de la economía mundial.
-
-##TODO: sin revisar ?????????????? a partir de acá para abajo traduje yop
+El capitalismo corporativo burócratico contemporáneo, no fue creación de
+Inglaterra, sino de Estados Unidos y Alemania, dos poderes rivales que pasaron 
+la primer mitad del siglo XX luchando dos guerras sangrientas en torno
+a quién reemplazaría a Inglaterra como poder mundial dominante --guerras que
+culminaron en programas científicos apadrinados por el Estado, que tenían por 
+finalidad encabezarse en el descubrimiento de la bomba atómica. Resulta 
+significativo entonces, que el estancamiento tecnológico actual haya comenzado 
+en 1945, cuando Estados Unidos reemplazó a Inglaterra como organizador de la 
+economía mundial.
 
 Americans do not like to think of themselves as a nation of
 bureaucrats—quite the opposite—but the moment we stop imagining
@@ -730,22 +730,18 @@ bottom-line thinking to squelch anything likely to have revolutionary
 implications of any kind.
 
 A los estadounidenses no les gusta pensarse como una nación de burócratas --todo
-lo contrario-- pero en el momento en que dejámos de imaginarnos a la burocracia
-como a un fenómeno limitado por oficinas gubernamentales, se hace obvio que es
+lo contrario-- pero en el momento en que dejamos de imaginarnos a la burocracia
+como a un fenómeno limitado a oficinas gubernamentales, se hace obvio que es
 precisamente esto en lo que nos hemos convertido. La victoria final sobre la
-unión soviética no nos ha llevado a la dominación del mercado, pero, de hecho,
-cementó la dominación de élites conservadoras administrativistas, burócratas
+Unión Soviética no nos ha llevado a la dominación del mercado pero, de hecho,
+cementó la dominación de elites conservadoras administrativistas, burócratas
 corporativos que usan el pretexto del pensamiento corto, competitivo y de cuarta
 para aplastar cualquier cosa con probables implicancias revolucionarias de
 cualquier tipo.
 
-[I]{.dropcap}f we do not notice that we live in a bureaucratic society, that is
-because bureaucratic norms and practices have become so all-pervasive that we
-cannot see them, or, worse, cannot imagine doing things any other way.
-
 Si nosotras no nos damos cuenta que vivimos en una sociedad burocrática, eso es
 porque las normas y prácticas burocráticas se han vuelto tan completamente
-ubícuas que no las podemos ver, o, peor, no podemos hacer las cosas de otro
+ubícuas que no las podemos ver, o peor, no podemos hacer las cosas de otro
 modo.
 
 Las computadoras han jugado un rol crucial en este estrechamiento de nuestras
@@ -753,10 +749,10 @@ imaginaciones sociales. Así como las invenciónes de nuevas formas de
 automatización industrial en el siglo dieciocho o diecinueve han tenido el
 efecto paradójico de convertir más y más población del mudno en trabajadores
 industriales de tiempo completo, así también todo el software diseñado para
-salvarnos de responsabilidades administrativas nos ha convertido en
+salvarnos de responsabilidades administrativas. nos ha convertido en
 administradoras de tiempo part- o full-time. Del mismo modo que profesores
-universitarios deben sentir que es inevitable que van a pasar mas de su tiempo
-administrando los subsidios, también las opulentas esposas y amas de casa
+universitarios deben sentir que es inevitable pasar la mayor parte de su tiempo
+administrando subsidios, también las opulentas esposas y amas de casa
 aceptan simplemente que ellas van a pasar semanas de todos los años completando
 formularios _online_ de cuarenta páginas para que sus niños ingresen a la
 escuela primaria. Todas vamos a destinar cada vez mayores cantidades de nuestro
@@ -764,33 +760,13 @@ tiempo escribiendo contraseñas en nuestros teléfonos para administrar cuentas
 bancarias y de crédito, y aprendiendo cómo llevar a cabo el trabajo que alguna
 vez realizaban los agentes de viajes, corredores de bolsa y contadores.
 
-Someone once figured out that the average American will spend a cumulative six
-months of life waiting for traffic lights to change. I don’t know if similar
-figures are available for how long it takes to fill out forms, but it must be at
-least as long. No population in the history of the world has spent nearly so
-much time engaged in paperwork.
-
 Alguien una vez se dió cuenta que el estadounidense promedio pasaría unos seis
-meses cumulativos de su vida esperando que cambie la luz del semáforo. No sé si
+meses de su vida esperando que cambie la luz del semáforo. No sé si
 hay disponible estadísticas similares para el tiempo que lleva completar
 formularios, pero debe ser más tiempo. Ninguna población en la historia del
-mundo ha pasado ni de cerca tanto tiempo enganchado en papelerío.
+mundo ha pasado ni de cerca, tanto tiempo enganchada en papeleo.
 
-In this final, stultifying stage of capitalism, we are moving from poetic
-technologies to bureaucratic technologies. By poetic technologies I refer to the
-use of rational and technical means to bring wild fantasies to reality. Poetic
-technologies, so understood, are as old as civilization. Lewis Mumford noted
-that the first complex machines were made of people. Egyptian pharaohs were able
-to build the pyramids only because of their mastery of administrative
-procedures, which allowed them to develop production-line techniques, dividing
-up complex tasks into dozens of simple operations and assigning each to one team
-of workmen—even though they lacked mechanical technology more complex than the
-inclined plane and lever. Administrative oversight turned armies of peasant
-farmers into the cogs of a vast machine. Much later, after cogs had been
-invented, the design of complex machinery elaborated principles originally
-developed to organize people.
-
-En esta final, ridiculizante etapa del capitalismo, nos estamos moviendo desde
+En esta final y ridiculizante etapa del capitalismo, nos estamos moviendo desde
 tecnologías poéticas a burocráticas. Con tecnologías poéticas me refiero al uso
 racional y técnico para traer fantasías salvajes a la realidad. Las tecnologías
 poéticas, así entendidas, son tan viejas como la civilización. Lewis Mumford
@@ -805,13 +781,6 @@ en engranajes de una vasta máquina. Más tarde, después que se inventaran los
 engranajes, el diseño de maquinaria compleja elaboró principios originalmente
 desarrollados para organizar personas.
 
-Yet we have seen those machines—whether their moving parts are arms and torsos
-or pistons, wheels, and springs—being put to work to realize impossible
-fantasies: cathedrals, moon shots, transcontinental railways.  Certainly, poetic
-technologies had something terrible about them; the poetry is likely to be as
-much of dark satanic mills as of grace or liberation. But the rational,
-administrative techniques were always in service to some fantastic end.
-
 Sin embargo nosotras hemos visto esas máquinas --ya sea que sus partes móviles
 sean brazos y torzos o pistones, ruedas, y resortes-- siendo puestas a trabajar
 en realizar fantasías imposibles: catedrales, viajes a la luna, trenes
@@ -820,48 +789,21 @@ sobre sí mismas; la poesía probablemente sea tanto de oscuros molinos satánic
 como de gracia o liberación. Pero las racionales tecnologías administrativas
 estuvieron siempre en servicio de alguna finalidad fantástica.
 
-From this perspective, all those mad Soviet plans—even if never realized—marked
-the climax of poetic technologies. What we have now is the reverse. It’s not
-that vision, creativity, and mad fantasies are no longer encouraged, but that
-most remain free-floating; there’s no longer even the pretense that they could
-ever take form or flesh. The greatest and most powerful nation that has ever
-existed has spent the last decades telling its citizens they can no longer
-contemplate fantastic collective enterprises, even if—as the environmental
-crisis demands— the fate of the earth depends on it.
-
 Desde esta perspectiva, todos esos dementes planes soviéticos --aún si nunca
 fueran realizados-- marcaron el climax de las tecnologías poéticas. Lo que
-tenemos ahora es el reverso. No es que visión, creatividad, y fantasías dementes
-ya no son alentadas, pero al menos eso se mantiene flotando libremente; ya no
-hay siquiera la pretensión que pudieran cobrar forma o carne. La nación más
+tenemos ahora es el reverso. No es que la visión, la creatividad y las fantasías 
+dementes ya no son alentadas, pero al menos eso se mantiene flotando libremente; 
+ya no hay siquiera la pretensión que pudieran cobrar forma o carne. La nación más
 grandiosa y poderosa que jamás haya existido ha pasado las últimas décadas
 diciendo a sus ciudadanos que ya no pueden contemplar fantásticas empresas
 colectivas, aún si --como la crisis ambiental demanda-- el destino de la tierra
 dependiera de eso.
-
-[W]{dropcap}hat are the political implications of all this? First of all, we
-need to rethink some of our most basic assumptions about the nature of
-capitalism. One is that capitalism is identical with the market, and that both
-therefore are inimical to bureaucracy, which is supposed to be a creature of the
-state.
 
 ¿Cuáles son las implicancias políticas de todo esto? Primero que nada, debemos
 repensar algunas de nuestras asunciones más básicas sobre la naturaleza del
 capitalismo. Una es que el capitalismo es identico con el mercado, y que ambos
 por lo tanto son dañinos a la burocracia, que se supone es una criatura del
 estado.
-
-The second assumption is that capitalism is in its nature technologically
-progressive. It would seem that Marx and Engels, in their giddy enthusiasm for
-the industrial revolutions of their day, were wrong about this. Or, to be more
-precise: they were right to insist that the mechanization of industrial
-production would destroy capitalism; they were wrong to predict that market
-competition would compel factory owners to mechanize anyway. If it didn’t
-happen, that is because market competition is not, in fact, as essential to the
-nature of capitalism as they had assumed. If nothing else, the current form of
-capitalism, where much of the competition seems to take the form of internal
-marketing within the bureaucratic structures of large semi-monopolistic
-enterprises, would come as a complete surprise to them.
 
 La segunda asunción es que el capitalismo está en su naturaleza tecnológicamente
 progresiva. Pareciera que Marx y Engels en su apresurado entusiasmo por la
@@ -876,16 +818,6 @@ parte de la competencia parece tomar la forma de mercadotecnia interna entre
 estructuras burocráticas de enormes empresas semi-monopólicas; sería una gran
 sorpresa para ellos
 
-Defenders of capitalism make three broad historical claims: first, that it has
-fostered rapid scientific and technological growth; second, that however much it
-may throw enormous wealth to a small minority, it does so in such a way as to
-increase overall prosperity; third, that in doing so, it creates a more secure
-and democratic world for everyone. It is clear that capitalism is not doing any
-of these things any longer. In fact, many of its defenders are retreating from
-claiming that it is a good system and instead falling back on the claim that it
-is the only possible system—or, at least, the only possible system for a
-complex, technologically sophisticated society such as our own.
-
 Los defensores del capitalismo hacern tres grandes reivindicaciones históricas:
 primero, que ha fomentado rápido crecimiento científico y tecnológico; segundo,
 que a pesar de lo mucho que quizás tira de enorme riqueza para una pequeña
@@ -897,22 +829,10 @@ sistema y se repliegan clamando que es el único sistema posible --o, al menos,
 el único sistema posible, para una compleja, tecnológicamente sofisticada
 sociedad como la nuestra.
 
-But how could anyone argue that current economic arrangements are also the only
-ones that will ever be viable under any possible future technological society?
-The argument is absurd. How could anyone know?
-
 Pero, ¿cómo podría alguien argüir que los acuerdos económicos actuales son
 también los únicos que van a alguna vez ser viables bajo cualquier posible
 futura sociedad tecnológica? El argumento es absurdo. ¿Cómo podría alguien
 saber?
-
-Granted, there are people who take that position—on both ends of the political
-spectrum. As an anthropologist and anarchist, I encounter anticivilizational
-types who insist not only that current industrial technology leads only to
-capitalist-style oppression, but that this must necessarily be true of any
-future technology as well, and therefore that human liberation can be achieved
-only by returning to the Stone Age.  Most of us are not technological
-determinists.
 
 Concedido, hay gente que toma esa posición --a ambas puntas del espectro
 político--. Como antropólogo y anarquista, encuentro tipos anticivilizacionales
@@ -921,20 +841,6 @@ a opresiones estilo capitalista, pero que esto debe ser necesariamente verdad de
 cualquier tecnología futura también, y por lo tanto que la liberación humana
 puede ser alcanzada sólo volviendo a la Edad de Piedrea. La mayoría de nosotras
 no somos deterministas tecnológicos.
-
-But claims for the inevitability of capitalism have to be based on a kind of
-technological determinism. And for that very reason, if the aim of neoliberal
-capitalism is to create a world in which no one believes any other economic
-system could work, then it needs to suppress not just any idea of an inevitable
-redemptive future, but any radically different technological future. Yet there’s
-a contradiction. Defenders of capitalism cannot mean to convince us that
-technological change has ended—since that would mean capitalism is not
-progressive. No, they mean to convince us that technological progress is indeed
-continuing, that we do live in a world of wonders, but that those wonders take
-the form of modest improvements (the latest iPhone!), rumors of inventions about
-to happen (“I hear they are going to have flying cars pretty soon”), complex
-ways of juggling information and imagery, and still more complex platforms for
-filling out of forms.
 
 Pero pretensiones acerca de la inevitabilidad del capitalismo deben estar
 basadas en algún tipo de determinismo tecnológico. Y por esa misma razón, si el
@@ -950,23 +856,6 @@ maravillas toman la forma de mejorías modestas (¡el último iPhone!), rumores 
 invenciones que vendrán ("Escuché que pronto habrá autos voladores"), formas
 complejas de malabarear información e imágenes, y todavía más complejas
 plataformas para llenar nuestros formularios.
-
-I do not mean to suggest that neoliberal capitalism—or any other system—can be
-successful in this regard. First, there’s the problem of trying to convince the
-world you are leading the way in technological progress when you are holding it
-back. The United States, with its decaying infrastructure, paralysis in the face
-of global warming, and symbolically devastating abandonment of its manned space
-program just as China accelerates its own, is doing a particularly bad public
-relations job. Second, the pace of change can’t be held back forever.
-Breakthroughs will happen; inconvenient discoveries cannot be permanently
-suppressed. Other, less bureaucratized parts of the world—or at least, parts of
-the world with bureaucracies that are not so hostile to creative thinking—will
-slowly but inevitably attain the resources required to pick up where the United
-States and its allies have left off. The Internet does provide opportunities for
-collaboration and dissemination that may help break us through the wall as
-well. Where will the breakthrough come? We can’t know. Maybe 3D printing will do
-what the robot factories were supposed to. Or maybe it will be something
-else. But it will happen.
 
 Yo no intento sugerir que el capitalismo neoliberal --o ningún otro sistema--
 puede ser exitoso en estas consideraciones. Primero, hay un problema en tratar
@@ -985,22 +874,6 @@ oportunidades para colaboraciones y diseminaciones que podrían ayudar a romper
 el muro también. ¿Dónde vendran los avances? No podemos saberlo. Quizás la
 impresión 3D hagan lo que las fábricas robot debían. O quizás alguna otra
 cosa. Pero sucederá.
-
-[A]{.dropcap}bout one conclusion we can feel especially confident: it will not
-happen within the framework of contemporary corporate capitalism—or any form of
-capitalism. To begin setting up domes on Mars, let alone to develop the means to
-figure out if there are alien civilizations to contact, we’re going to have to
-figure out a different economic system. Must the new system take the form of
-some massive new bureaucracy? Why do we assume it must? Only by breaking up
-existing bureaucratic structures can we begin. And if we’re going to invent
-robots that will do our laundry and tidy up the kitchen, then we’re going to
-have to make sure that whatever replaces capitalism is based on a far more
-egalitarian distribution of wealth and power—one that no longer contains either
-the super-rich or the desperately poor willing to do their housework. Only then
-will technology begin to be marshaled toward human needs. And this is the best
-reason to break free of the dead hand of the hedge fund managers and the CEOs—to
-free our fantasies from the screens in which such men have imprisoned them, to
-let our imaginations once again become a material force in human history.
 
 Sobre una conclusión podemos sentirnos especialmente confiados: no sucederá en
 el marco del contemporáneo capitalismo corporativo --o ninguna forma de
