@@ -14,7 +14,7 @@
    viewBox="0 0 744.09449 524.40944"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r"
    sodipodi:docname="seis_tesis_sobre_municipalismo_libertario.svg">
   <defs
      id="defs4" />
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4945122"
-     inkscape:cx="195.89851"
-     inkscape:cy="306.8332"
+     inkscape:zoom="1.0567797"
+     inkscape:cx="503.46047"
+     inkscape:cy="294.6336"
      inkscape:document-units="mm"
      inkscape:current-layer="g3839"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="726"
+     inkscape:window-width="1280"
+     inkscape:window-height="758"
      inkscape:window-x="0"
      inkscape:window-y="42"
      inkscape:window-maximized="0">
@@ -43,7 +43,8 @@
        orientation="1,0"
        id="guide4070"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -53,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,12 +67,12 @@
        id="g3839"
        transform="translate(-19.246302,375.20279)">
       <rect
-         y="151.00224"
+         y="152.75"
          x="19.246304"
-         height="527.90491"
-         width="743.63721"
+         height="524.40942"
+         width="744.09448"
          id="rect3033"
-         style="fill:#37c837;fill-opacity:1" />
+         style="fill:#37c837;fill-opacity:1;stroke-width:0.99699026" />
       <path
          d="m 722.24613,599.0254 c -2.32629,3.27084 -4.84892,6.04234 -7.59922,9.34527 l -3.72206,4.20537 c -3.10172,2.95933 -10.85603,8.72225 -14.42301,11.05855 -2.01612,1.4018 -4.18732,2.4921 -6.35852,3.4266 l -2.83188,1.3769 c 0.46526,0.4672 1.33064,0.7228 2.11367,1.0903 0.46526,0 2.11398,-0.9096 2.57924,-1.2211 l 4.96275,-2.8036 c 0.93052,-0.623 1.86103,-1.4018 2.94664,-1.5576 -0.46526,1.0903 -1.55086,1.7133 -2.63647,2.3363 l -2.94663,1.7133 c 0,0 -3.09412,1.771 -3.51735,2.0653 0.84816,0.3365 2.12157,0.7229 2.92942,1.0498 0.77543,0 1.82862,-0.7787 2.44896,-1.0903 1.70595,-0.9345 3.87715,-2.3363 5.5831,-3.5823 l 2.79155,-1.8691 c 2.1712,-1.71326 4.34241,-3.58231 6.35853,-5.60712 1.55086,-1.40179 3.10172,-2.80358 4.34241,-4.51688 1.70594,-2.02481 2.79154,-4.36112 4.03223,-6.69744 1.39578,-2.18056 1.86104,-3.58235 2.63647,-5.91867 0.15508,-0.77877 0.62034,-2.02481 0.31017,-2.80358 z"
          id="path719"
@@ -242,51 +243,47 @@
            id="text3025">
           <text
              xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1960144px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              x="402.98987"
              y="765.41681"
-             id="text3956-0-9"
-             sodipodi:linespacing="125%"><tspan
+             id="text3956-0-9"><tspan
                sodipodi:role="line"
                id="tspan3958-3-1"
                x="402.98987"
                y="765.41681"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic'">Murray Bookchin</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1960144px;line-height:1.25;font-family:'League Gothic';-inkscape-font-specification:'League Gothic'">Murray Bookchin</tspan></text>
           <g
              id="g4062"
              transform="matrix(0.88293456,0,0,0.88293456,618.99045,-111.46169)">
             <text
-               sodipodi:linespacing="125%"
                id="text3956-93"
                y="1061.0559"
                x="-112.6953"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.78445053px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                xml:space="preserve"><tspan
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic'"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.78445053px;line-height:1.25;font-family:'League Gothic';-inkscape-font-specification:'League Gothic'"
                  y="1061.0559"
                  x="-112.6953"
                  id="tspan3958-38"
                  sodipodi:role="line">municipalismo libertario</tspan></text>
             <text
-               sodipodi:linespacing="125%"
                id="text3956-05"
                y="1030.0476"
                x="-262.65433"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.05457115px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                xml:space="preserve"><tspan
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic'"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.05457115px;line-height:1.25;font-family:'League Gothic';-inkscape-font-specification:'League Gothic'"
                  y="1030.0476"
                  x="-262.65433"
                  id="tspan3958-66"
                  sodipodi:role="line">tesis sobre</tspan></text>
             <text
-               sodipodi:linespacing="125%"
                id="text3956-9-0"
                y="1066.9836"
                x="-350.28336"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:76.47535706px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                xml:space="preserve"><tspan
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic'"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:76.47535706px;line-height:1.25;font-family:'League Gothic';-inkscape-font-specification:'League Gothic'"
                  y="1066.9836"
                  x="-350.28336"
                  id="tspan3958-6-4"
