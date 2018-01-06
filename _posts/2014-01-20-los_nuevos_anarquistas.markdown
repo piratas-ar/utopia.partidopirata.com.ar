@@ -440,7 +440,7 @@ la prensa progresista consiste en decir que éste, a pesar de la
 brillantez de sus tácticas, carece de toda temática central o de una
 ideología coherente.(Éste parece ser el equivalente de izquierdas de
 las afirmaciones vertidas por las corporaciones mediáticas según las
-cuales somos un manojo de niñatos que pregonan una ristra de causas
+cuales somos un manojo de inmaduros que pregonan una ristra de causas
 inconexas: libertad para Mumia, cancelación de la deuda externa,
 salvemos las selvas vírgenes.) Otra línea de ataque consiste en decir
 que el movimiento está plagado de una opo sición genérica a toda
@@ -547,8 +547,8 @@ yuxtaponer la visión de un futuro igualitario con formas de organización
 extremadamente autoritarias en el presente, aquéllas buscan la
 diversidad. La discusión siempre se centra en direcciones de acción
 determinadas; se da por supuesto que nadie convencerá por completo a
-nadie de su punto de vista. El lema podría ser: «Si quieres actuar como
-un anarquista ahora mismo, tu visión a largo plazo puedes guardártela
+nadie de su punto de vista. El lema podría ser: «Si querés actuar como
+un anarquista ahora mismo, tu visión a largo plazo podés guardártela
 como cosa tuya». Lo que a simple vista parece sensato: ninguno de
 nosotros sabe hasta dónde pueden conducirnos realmente esos principios o
 cómo será finalmente una sociedad compleja basada en ellos. Así, pues,
