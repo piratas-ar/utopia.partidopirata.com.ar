@@ -671,54 +671,59 @@ Deleuze, Michel Foucault o Pierre Bourdieu reencarnaran hoy, les
 negaríamos la cátedra.
 
 Hubo un tiempo en el que la academia era el refugio de lo excéntrico, lo
-brillante y lo impráctico.  Ya no más.  Ahora es el dominio de los profesionales
-que se hacen auto-bombo.  Como resultado, en uno de los más bizarros encajes de
-auto-destrucción social de la historia, hemos decidido que ya no hay lugar para
-nuestras ciudadanas excéntricas, brillantes e imprácticas.  La mayoría languidece en
-el sótano de sus madres, a lo mejor haciendo una ocasional intervención en la
-Internet.
+brillante y lo impráctico.  Ya no más.  Ahora es el dominio de los
+profesionales que se hacen auto-bombo.  Como resultado, en uno de los
+más bizarros encajes de auto-destrucción social de la historia, hemos
+decidido que ya no hay lugar para nuestras ciudadanas excéntricas,
+brillantes e imprácticas.  La mayoría languidece en el sótano de sus
+madres, a lo mejor haciendo una ocasional intervención en la Internet.
 
-Si todo esto es verdad para las ciencias sociales, donde la investigación
-todavía es llevada a cabo con mínimo costo y principalmente por individuos, solo
-podemos imaginar lo difícil que se hace para la astrofísica.  De hecho,
-recientemente un astrofísico llamado Jonathan Katz ha advertido a las estudiantes
-con perspectivas de hacer carrera en las ciencias.  Aún cuando emerjas del período
-de usualmente una década de letargo como la sombra de otro, dice, podés esperar
-que tus mejores ideas sean menospreciadas sistemáticamente:
+Si todo esto es verdad para las ciencias sociales, donde la
+investigación todavía es llevada a cabo con mínimo costo y
+principalmente por individuos, solo podemos imaginar lo difícil que se
+hace para la astrofísica.  De hecho, recientemente un astrofísico
+llamado Jonathan Katz ha advertido a las estudiantes con perspectivas de
+hacer carrera en las ciencias.  Aún cuando emerjas del período de
+usualmente una década de letargo como la sombra de otro, dice, podés
+esperar que tus mejores ideas sean menospreciadas sistemáticamente:
 
-> Vas a pasar el tiempo escribiendo propuestas antes que haciendo investigación.
-> Peor aún ya que tus propuestas son juzgadas por tus competidores, no vas a
-> poder seguir tus curiosidades, sino que vas a tener que poner tus esfuerzos y
-> talentos en anticipar y desviar las críticas antes que en resolver problemas
-> científicos importantes.  [...] Resulta proverbial que las ideas originales
-> sean el beso de la muerte para una propuesta de trabajo, porque aún no se ha
-> demostrado que sean productivas.
+> Vas a pasar el tiempo escribiendo propuestas antes que haciendo
+> investigación.  Peor aún ya que tus propuestas son juzgadas por tus
+> competidores, no vas a poder seguir tus curiosidades, sino que vas a
+> tener que poner tus esfuerzos y talentos en anticipar y desviar las
+> críticas antes que en resolver problemas científicos importantes.
+> [...] Resulta proverbial que las ideas originales sean el beso de la
+> muerte para una propuesta de trabajo, porque aún no se ha demostrado
+> que sean productivas.
 
-Esto responde bastante a la pregunta sobre por qué no tenemos dispositivos de
-teletransportación o zapatos antigravitatorios.  El sentido común sugiere que si
-queremos maximizar la creatividad científica, tenés que encontrar gente
-brillante, darle los recursos que necesiten para seguir las ideas que vengan de
-sus cabezas y dejarlas tranquilas para que hagan lo que deban y quieran hacer.
-La mayoría resultará en nada, pero una o dos seguramente descubrirán algo.  Pero
-si querés minimizar la posibilidad de descubrimientos inesperados, deciles a esas
-mismas personas que no van a recibir recursos hasta que pasen la mayor parte de
-su tiempo compitiendo entre sí para convencerte que saben de antemano aquello que
-van a descubrir.
+Esto responde bastante a la pregunta sobre por qué no tenemos
+dispositivos de teletransportación o zapatos antigravitatorios.  El
+sentido común sugiere que si queremos maximizar la creatividad
+científica, tenés que encontrar gente brillante, darle los recursos que
+necesiten para seguir las ideas que vengan de sus cabezas y dejarlas
+tranquilas para que hagan lo que deban y quieran hacer.  La mayoría
+resultará en nada, pero una o dos seguramente descubrirán algo.  Pero si
+querés minimizar la posibilidad de descubrimientos inesperados, deciles
+a esas mismas personas que no van a recibir recursos hasta que pasen la
+mayor parte de su tiempo compitiendo entre sí para convencerte que saben
+de antemano aquello que van a descubrir.
 
-En las ciencias naturales, a la tiranía del administracionismo podemos agregar
-la privatización de los resultados de las investigaciones.  Como nos recuerda el
-economista británico David Harvie, la investigación "abierta" no es nueva.  La
-investigación escolástica siempre ha sido abierta en el sentido de que las
-académicas comparten materiales y resultados.  Existe la competencia,
-ciertamente, pero es "amistosa".  Esto ya no es verdad para las científicas que
-trabajan en el sector corporativo, donde los hallazgos son celosamente
-guardados.  La difusión del _ethos_ corporativo dentro de la academia y los
-institutos de investigación ha resultado en que incluso las investigadoras con
+En las ciencias naturales, a la tiranía del administracionismo podemos
+agregar la privatización de los resultados de las investigaciones.  Como
+nos recuerda el economista británico David Harvie, la investigación
+"abierta" no es nueva.  La investigación escolástica siempre ha sido
+abierta en el sentido de que las académicas comparten materiales y
+resultados.  Existe la competencia, ciertamente, pero es "amistosa".
+Esto ya no es verdad para las científicas que trabajan en el sector
+corporativo, donde los hallazgos son celosamente guardados.  La difusión
+del _ethos_ corporativo dentro de la academia y los institutos de
+investigación ha resultado en que incluso las investigadoras con
 financiamiento público traten sus hallazgos como propiedad privada.  Las
-editoriales académicas aseguran que los hallazgos que son publicados sean cada
-vez más difíciles de acceder, cercando los bienes comunes intelectuales.  Como
-resultado, la competencia abierta, amistosa, se convierte en algo mucho más
-parecido a la clásica competencia de mercado.
+editoriales académicas aseguran que los hallazgos que son publicados
+sean cada vez más difíciles de acceder, cercando los bienes comunes
+intelectuales.  Como resultado, la competencia abierta, amistosa, se
+convierte en algo mucho más parecido a la clásica competencia de
+mercado.
 
 Existen muchas formas de privatización, incluyendo la compra y supresión
 de descubrimientos potencialmente, o de hecho, desfavorables para los
@@ -768,17 +773,18 @@ convirtieron en una de las principales fuentes de descubrimientos
 científicos amateur.
 
 
-[^burbuja]: Ver <https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_del_Mar_del_Sur#Estalla_la_burbuja>
+[^burbuja]: Ver
+  <https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_del_Mar_del_Sur#Estalla_la_burbuja>
 
 El capitalismo corporativo burócratico contemporáneo, no fue creación de
-Inglaterra, sino de Estados Unidos y Alemania, dos poderes rivales que pasaron
-la primer mitad del siglo XX luchando dos guerras sangrientas en torno
-a quién reemplazaría a Inglaterra como poder mundial dominante --guerras que
-culminaron en programas científicos apadrinados por el Estado, que tenían por
-finalidad encabezarse en el descubrimiento de la bomba atómica.  Resulta
-significativo entonces, que el estancamiento tecnológico actual haya comenzado
-en 1945, cuando Estados Unidos reemplazó a Inglaterra como organizador de la
-economía mundial.
+Inglaterra, sino de Estados Unidos y Alemania, dos poderes rivales que
+pasaron la primer mitad del siglo XX luchando dos guerras sangrientas en
+torno a quién reemplazaría a Inglaterra como poder mundial dominante
+--guerras que culminaron en programas científicos apadrinados por el
+Estado, que tenían por finalidad encabezarse en el descubrimiento de la
+bomba atómica.  Resulta significativo entonces, que el estancamiento
+tecnológico actual haya comenzado en 1945, cuando Estados Unidos
+reemplazó a Inglaterra como organizador de la economía mundial.
 
 A los estadounidenses no les gusta pensarse como una nación de
 burócratas --todo lo contrario-- pero en el momento en que dejamos de
@@ -791,10 +797,10 @@ corporativos que usan el pretexto del pensamiento cortoplacista,
 competitivo y de lucro para aplastar cualquier cosa con probables
 implicancias revolucionarias de cualquier tipo.
 
-Si nosotras no nos damos cuenta que vivimos en una sociedad burocrática, eso es
-porque las normas y prácticas burocráticas se han vuelto tan completamente
-ubícuas que no las podemos ver, o peor, no podemos hacer las cosas de otro
-modo.
+Si nosotras no nos damos cuenta que vivimos en una sociedad burocrática,
+eso es porque las normas y prácticas burocráticas se han vuelto tan
+completamente ubícuas que no las podemos ver, o peor, no podemos hacer
+las cosas de otro modo.
 
 Las computadoras han jugado un rol crucial en este estrechamiento de
 nuestras imaginaciones sociales.  Así como las invenciónes de nuevas
@@ -813,11 +819,12 @@ nuestros teléfonos para administrar cuentas bancarias y de crédito y
 aprendiendo cómo llevar a cabo el trabajo que alguna vez realizaban los
 agentes de viaje, corredores de bolsa y contadores.
 
-Alguien una vez se dió cuenta que la estadounidense promedio pasaría unos seis
-meses de su vida esperando que cambie la luz del semáforo.  No sé si
-hay disponibles estadísticas similares para el tiempo que lleva completar
-formularios, pero debe ser más tiempo.  Ninguna población en la historia del
-mundo ha pasado ni de cerca tanto tiempo enganchada en papeleo.
+Alguien una vez se dió cuenta que la estadounidense promedio pasaría
+unos seis meses de su vida esperando que cambie la luz del semáforo.  No
+sé si hay disponibles estadísticas similares para el tiempo que lleva
+completar formularios, pero debe ser más tiempo.  Ninguna población en
+la historia del mundo ha pasado ni de cerca tanto tiempo enganchada en
+papeleo.
 
 En esta final y ridiculizante etapa del capitalismo, nos estamos
 moviendo desde tecnologías poéticas a burocráticas.  Con tecnologías
@@ -831,34 +838,36 @@ técnicas de línea de montaje, dividiendo tareas complejas en docenas de
 simples operaciones y asignando cada una a un equipo de trabajadoras
 --incluso aún careciendo de tecnología mecánica más compleja que el
 plano inclinado y la palanca.  La supervisión administrativa convirtió
-ejércitos de granjeras en engranajes de una vasta máquina.  Más
-tarde, después que se inventaran los engranajes, el diseño de maquinaria
+ejércitos de granjeras en engranajes de una vasta máquina.  Más tarde,
+después que se inventaran los engranajes, el diseño de maquinaria
 compleja elaboró principios originalmente desarrollados para organizar
 personas.
 
-Sin embargo nosotras hemos visto esas máquinas --ya sea que sus partes móviles
-sean brazos y torzos o pistones, ruedas y resortes-- siendo puestas a trabajar
-en realizar fantasías imposibles: catedrales, viajes a la luna, trenes
-transcontinentales.  Ciertamente, las tecnologías poéticas tenían algo terrible
-sobre sí mismas; la poesía probablemente sea tanto de oscuros molinos satánicos
-como de gracia o liberación.  Pero las racionales tecnologías administrativas
-estuvieron siempre en servicio de alguna finalidad fantástica.
+Sin embargo nosotras hemos visto esas máquinas --ya sea que sus partes
+móviles sean brazos y torzos o pistones, ruedas y resortes-- siendo
+puestas a trabajar en realizar fantasías imposibles: catedrales, viajes
+a la luna, trenes transcontinentales.  Ciertamente, las tecnologías
+poéticas tenían algo terrible sobre sí mismas; la poesía probablemente
+sea tanto de oscuros molinos satánicos como de gracia o liberación.
+Pero las racionales tecnologías administrativas estuvieron siempre en
+servicio de alguna finalidad fantástica.
 
-Desde esta perspectiva, todos esos dementes planes soviéticos --aún si nunca
-fueran realizados-- marcaron el clímax de las tecnologías poéticas.  Lo que
-tenemos ahora es el reverso.  No es que la visión, la creatividad y las fantasías
-dementes ya no son alentadas, pero al menos eso se mantiene flotando libremente;
-ya no hay siquiera la pretensión que pudieran cobrar forma o carne.  La nación más
-grandiosa y poderosa que jamás haya existido ha pasado las últimas décadas
-diciendo a sus ciudadanas que ya no pueden contemplar fantásticas empresas
-colectivas, aún si --como la crisis ambiental demanda-- el destino de la Tierra
+Desde esta perspectiva, todos esos dementes planes soviéticos --aún si
+nunca fueran realizados-- marcaron el clímax de las tecnologías
+poéticas.  Lo que tenemos ahora es el reverso.  No es que la visión, la
+creatividad y las fantasías dementes ya no son alentadas, pero al menos
+eso se mantiene flotando libremente; ya no hay siquiera la pretensión
+que pudieran cobrar forma o carne.  La nación más grandiosa y poderosa
+que jamás haya existido ha pasado las últimas décadas diciendo a sus
+ciudadanas que ya no pueden contemplar fantásticas empresas colectivas,
+aún si --como la crisis ambiental demanda-- el destino de la Tierra
 dependiera de eso.
 
-¿Cuáles son las implicancias políticas de todo esto?  Primero que nada, debemos
-repensar algunas de nuestras asunciones más básicas sobre la naturaleza del
-capitalismo.  Una es que el capitalismo es idéntico con el mercado y que ambos
-por lo tanto son dañinos a la burocracia, que se supone es una criatura del
-Estado.
+¿Cuáles son las implicancias políticas de todo esto?  Primero que nada,
+debemos repensar algunas de nuestras asunciones más básicas sobre la
+naturaleza del capitalismo.  Una es que el capitalismo es idéntico con
+el mercado y que ambos por lo tanto son dañinos a la burocracia, que se
+supone es una criatura del Estado.
 
 La segunda asunción es que el capitalismo es en su naturaleza
 tecnológicamente progresivo.  Pareciera que Marx y Engels en su
