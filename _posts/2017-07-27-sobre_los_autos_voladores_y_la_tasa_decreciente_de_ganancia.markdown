@@ -174,7 +174,7 @@ burbujas asépticas jugando con computadoras.  Pero debajo de todo esto
 descansa una conciencia intranquila de que la civilización post-trabajo
 es un fraude gigantesco.  Nuestras zapatillas de alta tecnología no
 están siendo producidas por _cyborgs_ inteligentes ni nanotecnología
-molecular auto-replicante; están siendo manufacturados en el equivalente
+molecular auto-replicante; están siendo manufacturadas en el equivalente
 de las máquinas de coser _Singer_, por las hijas de granjeras mexicanas
 o indonesias que, como resultado de acuerdos comerciales esponsoreados
 por la OMC o NAFTA, habían sido desalojadas de sus tierras ancestrales.
