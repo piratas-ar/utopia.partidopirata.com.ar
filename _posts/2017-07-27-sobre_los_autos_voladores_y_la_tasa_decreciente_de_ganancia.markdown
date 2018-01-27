@@ -15,7 +15,7 @@ convertirnos en adultas.  No me refiero a las falsas promesas estándar
 que son hechas siempre a las niñas (sobre cómo el mundo es justo, o cómo
 aquellas que se esfuercen más serán las mejor recompensadas), sino a la
 promesa generacional particular --hecha a las que fuimos niñas en los
-cincuenta, sesenta, setenta, u ochenta-- que nunca fue articulada como
+cincuenta, sesenta, setenta y ochenta-- que nunca fue articulada como
 tal, más bien fueron dadas como un conjunto de suposiciones respecto a
 cómo sería nuestro mundo adulto.  Y como nunca fue realmente prometida,
 ahora que no se ha convertido en realidad, nos hemos quedado
@@ -24,7 +24,7 @@ propia indignación; avergonzadas, en primer lugar, de haber sido tan
 tontas en creer a nuestros mayores.
 
 En concreto, ¿dónde están los autos voladores?  ¿Dónde están los campos
-de fuerza, los rayos tractores, los podios de teletransportación, los
+de fuerza, los rayos atractores, los podios de teletransportación, los
 trineos antigravitacionales, _tricorders_, las drogas de la
 inmortalidad, las colonias en Marte y todas las otras maravillas
 tecnológicas que cualquier niña que haya crecido a partir de mediados
@@ -40,7 +40,7 @@ esperaban que tuviera para el día de hoy.  No tenemos computadoras con
 las que mantener conversaciones interesantes, o robots que paseen a
 nuestros perros ni lleven la ropa a la lavandería.
 
-En tanto alquien que tenía ocho años cuando el _Apollo_ aterrizó en la
+En tanto alguien que tenía ocho años cuando el _Apollo_ aterrizó en la
 luna, me recuerdo calculando que tendría treinta y nueve años en los
 mágicos 2000; y preguntándome cómo sería el mundo.  ¿Esperaba vivir en
 un mundo lleno de maravillas?  Por supuesto.  Todas lo esperaban.  ¿Me
@@ -51,8 +51,8 @@ ocurrido que no llegaría a ver *ninguna*.
 Al pasar de milenio esperaba un derrame de reflexiones sobre por qué nos
 imaginamos el futuro de la tecnología tan mal.  En cambio, casi todas
 las voces de autoridad --tanto de Izquierda como de Derecha-- hicieron
-sus reflexiones desde la aceptación de que de cierto modo u otro vivimos
-en una nueva utopía tecnológica sin precedentes.
+sus reflexiones desde la aceptación de que de cierto modo u otro,
+vivimos en una nueva utopía tecnológica sin precedentes.
 
 La forma más común de lidiar con la incómoda sensación de que esto
 podría no ser así es descartar por completo dicha sensación, insistir
@@ -93,8 +93,8 @@ las fechas, de forma de convertir "el futuro" en una zona de fantasía
 pura, no muy diferente a la Tierra Media o Narnia, o como en *Star
 Wars*, "en una época muy lejana, en una galaxia muy, muy lejana".  Como
 resultado, nuestro futuro en la ciencia ficción es muy a menudo nada
-parecido a un futuro sino más bien una dimensión alternativa, un tiempo
-del Sueño, un Otro Lugar tecnológico existiendo en días por venir...  en
+parecido a un futuro, sino más bien una dimensión alternativa, un tiempo
+del Sueño, un Otro Lugar tecnológico existiendo en días por venir... en
 el mismo sentido que los elfos y los cazadores de dragones existieron en
 el pasado --otra pantalla para el corrimiento de los dramas morales y
 las fantasías míticas hacia los callejones sin salida del placer del
@@ -173,18 +173,18 @@ estrato bajo de trabajadoras de servicios y uno más alto compuesto por
 burbujas asépticas jugando con computadoras.  Pero debajo de todo esto
 descansa una conciencia intranquila de que la civilización post-trabajo
 es un fraude gigantesco.  Nuestras zapatillas de alta tecnología no
-estaban siendo producidas por cyborgs inteligentes ni nanotecnología
-molecular auto-replicante; estaban siendo manufacturados en el
-equivalente de las máquinas de coser Singer, por las hijas de granjeras
-mexicanas o indonesias que, como resultado de acuerdos comerciales
-esponsoreados por la OMC o NAFTA, habían sido desalojadas de sus tierras
-ancestrales.  Era una conciencia culpable la que descansaba bajo la
-sensibilidad posmoderna y su celebración del infinito interjuego de
-imágenes y superficies.
+están siendo producidas por _cyborgs_ inteligentes ni nanotecnología
+molecular auto-replicante; están siendo manufacturados en el equivalente
+de las máquinas de coser _Singer_, por las hijas de granjeras mexicanas
+o indonesias que, como resultado de acuerdos comerciales esponsoreados
+por la OMC o NAFTA, habían sido desalojadas de sus tierras ancestrales.
+Era una conciencia culpable la que descansaba bajo la sensibilidad
+posmoderna y su celebración del infinito interjuego de imágenes y
+superficies.
 
 ¿Por qué falló la explosión de crecimiento tecnológico --las bases
 lunares, las fábricas de robots-- que proyectábamos?  Hay dos
-posibilidades.  O bien nuestras expectativas sobre el paso del cambio
+posibilidades, o bien nuestras expectativas sobre el paso del cambio
 tecnológico no eran realistas (y de ser así, tenemos que saber por qué
 tantas personas inteligentes no lo creían así) o que nuestras
 expectativas eran realistas (y de ser así, tenemos que saber qué fue lo
@@ -208,20 +208,20 @@ duda, pero esto no prueba nada sobre la factibilidad del proyecto.
 
 Algunas de esas fantasías de ciencia ficción (ya no podemos saber
 cuáles) podrían haberse convertido en realidad.  Para las generaciones
-anteriores, muchas fantasías de ciencia ficción _habían_ sido
-convertidas en realidad.  Aquellas que crecieron a principios de siglo
-leyendo a Julio Verne o H.G Wells imaginaban el mundo de 1960 (por decir
-una fecha) con máquinas voladoras, naves cohete, submarinos, radio y
-televisión --más o menos, lo obtuvieron.  ¿Si no era irreal soñar en
-1900 que las personas viajarían a la luna, entonces por qué fue irreal
-en 1960 soñar con mochilas cohete y robots lavanderas-mucamas?
+anteriores, muchas fantasías de ciencia ficción habían sido convertidas
+en realidad.  Aquellas que crecieron a principios de siglo leyendo a
+Julio Verne o H.G Wells imaginaban el mundo de 1960 (por decir una
+fecha) con máquinas voladoras, naves cohete, submarinos, radio y
+televisión --más o menos lo obtuvieron.  ¿Si no era irreal soñar en 1900
+que las personas viajarían a la luna, entonces por qué fue irreal en
+1960 soñar con mochilas cohete y robots lavandera-mucama?
 
 De hecho, mientras esos sueños eran delineados, la base material para
 alcanzarlos estaba siendo cercenada.  Hay razones para creer que incluso
-en los '50 y '60, el paso de la innovación tecnológica estaba aminorando
-el paso acelerado de la primera mitad del siglo.  El último torrente fue
-en los '50 con los hornos microondas (1954), la pastilla anticonceptiva
-(1957) y los lásers (1958) apareciendo en rápida sucesión.  Pero desde
+en los '50 y '60, la innovación tecnológica estaba aminorando el paso
+respecto de la primera mitad del siglo.  El último torrente fue en los
+'50 con los hornos microondas (1954), la pastilla anticonceptiva (1957)
+y los lásers (1958) que aparecieron en rápida sucesión.  Pero desde
 entonces, los avances tecnológicos han tomado la forma de combinaciones
 astutas de tecnologías existentes (como en la carrera espacial) y nuevas
 formas de poner tecnologías existentes en manos de las consumidoras (la
@@ -283,25 +283,26 @@ Tu-144_ fue cancelado y el _Concord_ fue abandonado.
 Nada de esto detuvo la carrera de Toffler que se mantuvo readaptando su
 análisis para hacer anuncios cada vez más espectaculares.  En 1980
 anunció _La Tercera Ola_, donde tomaba sus argumentos de la "tercera
-revolución tecnológica" de Ernst Mandel.  Excepto que mientras Mandel
-pensaba que estos cambios serían el fin del capitalismo, Toffler asumía
-que el capitalismo era eterno.  En 1990, Toffler se había convertido en
-el gurú personal del senador republicano Newt Gingrich, que proclamaba
-que su "Contrato con Norteamérica" de 1994 estaba inspirado, en parte,
-en una comprensión de que los Estados Unidos tenían que abandonar el
-pensamiento anticuado, materialista e industrial en favor de una
-civilización de Tercera Ola, de libre mercado y era de la información.
+revolución tecnológica" de Ernst Mandel, con la excepción que mientras
+Mandel pensaba que estos cambios serían el fin del capitalismo, Toffler
+asumía que el capitalismo era eterno.  En 1990, Toffler se había
+convertido en el gurú personal del senador republicano Newt Gingrich,
+que proclamaba que su "Contrato con Norteamérica" de 1994 estaba
+inspirado, en parte, en una comprensión de que los Estados Unidos tenían
+que abandonar el pensamiento anticuado, materialista e industrial en
+favor de una civilización de Tercera Ola, de libre mercado y era de la
+información.
 
 Hay todo tipo de ironías en esta conexión.  Uno de los grandes logros de
 Toffler fue inspirar al Estado a crear una Oficina de Análisis
-Tecnológico (_OTA_, _Office of Technology Assessment_).  Mientras que
-por otro lado, una de las primeras acciones de Gingrich al ganar el
-control de la casa de representantes en 1995 fue desfinanciar la OTA
-como un ejemplo de inútil extravagancia estatal.  Pero aun así no existe
-una contradicción.  Para ese momento Toffler había renunciado hacía
-tiempo a influenciar las políticas públicas por medio del interés
-general; se estaba ganando la vida dando seminarios a CEOs y _think
-tanks_ corporativos.  Sus análisis habían sido privatizados.
+Tecnológico (_OTA_, _Office of Technology Assessment_), mientras que por
+otro lado, una de las primeras acciones de Gingrich al ganar el control
+de la casa de representantes en 1995 fue desfinanciar la OTA como un
+ejemplo de inútil extravagancia estatal.  Pero aun así no existe una
+contradicción.  Para ese momento Toffler había renunciado hacía tiempo a
+influenciar las políticas públicas por medio del interés general; se
+estaba ganando la vida dando seminarios a CEOs y _think tanks_
+corporativos.  Sus análisis habían sido privatizados.
 
 Gingrich gustaba llamarse un "futurólogo conservador".  Esto también
 parece un oxímoron, pero de hecho la concepción de la futurología que
@@ -314,10 +315,10 @@ borde una nueva edad --en su caso, la Edad Industrial-- impulsada por el
 inexorable progreso de la tecnología y que los cataclismos sociales de
 su época eran causados por la falta de ajuste del sistema social.  El
 orden feudal anterior había desarrollado la teología católica como una
-forma de pensar el lugar de las personas en el cosmos que se ajustaba
+forma de pensar el lugar de las personas en el cosmos, que se ajustaba
 perfectamente al sistema social, así como también una estructura
 institucional, la Iglesia, que transmitía y hacía cumplir esas ideas de
-forma que todas las personas tengan un sentido de significado y
+forma que todas las personas tuvieran un sentido de significado y
 pertenencia.  La Edad Industrial había desarrollado su propio sistema de
 ideas --la ciencia-- pero los científicos no habían tenido éxito en
 crear algo similar a la Iglesia Católica.  Comte concluía que
@@ -350,18 +351,18 @@ tecnologías médicas e informáticas.
   denotar la diferencia con libertarias de raíz anarquista y
   anti-capitalista.
 
-Pero si hubo una tendencia conciente, o semi-conciente, hacia el
-desfinanciamiento de la investigación que podría llevar a mejores
-cohetes y robots para favorecer aquella investigación que llevaría a las
-impresoras láser y la tomografía computada ya había comenzado mucho
-antes que _El shock del futuro_ de Toffler (1970) y _Riqueza y pobreza_
-de Gilder (1981).  Lo que su éxito demuestra es que los problemas que
-nombraban --que los patrones existentes de desarrollo tecnológico
-llevarían a un levantamiento social y que necesitamos llevar esos
-desarrollos en direcciones que no desafíen las estructuras de autoridad
-existentes-- hicieron eco en los pasillos del poder.  Los políticos y
-los capitanes de la industria habían estado pensando sobre estos
-problemas por un tiempo.
+Pero si hubo una tendencia conciente o semi-conciente hacia el
+desfinanciamiento de la investigación que podría haber llevado a mejores
+cohetes y robots y a su vez, a la correspondiente investigación que
+conduciría a las impresoras láser y la tomografía computada; seguramente
+había comenzado mucho antes que _El shock del futuro_ de Toffler (1970)
+y la _Riqueza y pobreza_ de Gilder (1981).  Lo que su éxito demuestra es
+que los problemas que nombraban --que los patrones existentes de
+desarrollo tecnológico llevarían a un levantamiento social y que
+necesitamos redirigir esos desarrollos en direcciones que no desafíen
+las estructuras de autoridad existentes-- hicieron eco en los pasillos
+del poder.  Los políticos y los capitanes de la industria habían estado
+pensando sobre estos problemas por un tiempo.
 
 El capitalismo industrial había criado una tasa de avances científicos e
 innovación tecnológica extremadamente rápida, sin paralelo previo en la
@@ -386,10 +387,10 @@ intensivo y baja tecnología ubicadas en China o el Sur Global.
 Como dije, hay razones para creer que el paso de la innovación
 tecnológica en los procesos productivos --las fábricas mismas-- comenzó
 a reducirse en los '50 y '60, aun cuando la rivalidad entre los Estados
-Unidos y la Unión Soviética hacia creer que en realidad se estaba
+Unidos y la Unión Soviética hacía creer que en realidad se estaba
 acelerando.  Para crear una sensación optimista de prosperidad y
 garantizar un progreso que socavaría la atracción política de la clase
-trabajadora teníamos la asombrosa carrera espacial, junto con los
+trabajadora, teníamos la asombrosa carrera espacial, junto con los
 frenéticos esfuerzos de los planificadores industriales estadounidenses
 por implementar las tecnologías existentes hacia finalidades
 consumistas.
@@ -430,7 +431,7 @@ Galaxias_,[^star-wars] los soviéticos planificaban la transformación del
 mundo a través de usos creativos de la tecnología.  Aunque les fueron
 dedicados gran cantidad de recursos, pocas personas fuera de Rusia
 recuerdan la mayor parte de estos proyectos.  También hay que notar que
-al contrario del proyecto de la Guerra de las Galaxias, que había sido
+al contrario del proyecto de la _Guerra de las Galaxias_, que había sido
 diseñado para hundir a la Unión Soviética, muchos de esos proyectos no
 perseguían una finalidad militar.  Como por ejemplo, el intento de
 solucionar el hambre mundial sembrando lagos y oceános con una bacteria
@@ -453,14 +454,15 @@ inspiración soviética en el sentido de que requirió un esfuerzo nacional
 coordinado por burocracias estatales.  Tan pronto como la amenaza
 soviética hubo pasado, el capitalismo revirtió a líneas de desarrollo
 tecnológico más de acuerdo con sus imperativos normales, decentralizados
-y de libre mercado, la investigación con fondos privados hacia bienes de
-consumo, como por ejemplo: las computadoras personales.  Esta es la
-línea que siguen tipos como Toffler y Gilder a partir de los '70 y '80.
+y de libre mercado: a través de fondos privados redirigir la
+investigación hacia bienes de consumo, como por ejemplo, las
+computadoras personales.  Esta es la línea que siguen tipos como Toffler
+y Gilder a partir de los '70 y '80.
 
 De hecho los Estados Unidos nunca abandonaron los planes estatales
 gigantescos de desarrollo tecnológico.  En su mayoría se convirtieron en
-investigación militar y no solo a escala soviética como la Guerra de las
-Galaxias, sino hacia proyectos armamentísticos, investigación en
+investigación militar y no solo a escala soviética como la _Guerra de
+las Galaxias_, sino hacia proyectos armamentísticos, investigación en
 tecnologías de la comunicación y vigilancia y otras preocupaciones
 relacionadas con la seguridad.  En algún grado esto siempre fue cierto.
 Los miles de millones de dólares gastados en la investigación de misiles
@@ -509,8 +511,8 @@ sobre los económicos.  Ante la elección entre un curso de acción que
 volvería al capitalismo el único sistema económico posible y otro que
 transformaría al capitalismo en un sistema económico viable a largo
 plazo, el neoliberalismo elige la primera opción.  Tenemos todas las
-razones para pensar que destruir la seguridad laboral a la vez que se
-incrementan las horas laborales no crea una fuerza laboral más
+razones para pensar que destruir la seguridad laboral, al tiempo que se
+incrementan las horas laborales, no crea una fuerza laboral más
 productiva (sin pensar en más innovativa o leal).  Probablemente, en
 términos económicos, el resultado es negativo.  Esta impresión queda
 confirmada por las tasas de crecimiento más bajas en casi todas partes
@@ -566,23 +568,22 @@ cientos.  Y las armas de rayos no se han materializado, seguramente no
 por falta de intentos.  Podemos asumir que el Pentágono ha gastado miles
 de millones en investigación de rayos mortales, pero lo más cerca que
 han llegado hasta ahora es a lásers que podrían, apuntados
-correctamente, cegar a un enemigo mirándolo directamente.  Aparte de ser
-antideportivos son patéticos: el láser es tecnología de los '50.  Los
-_phasers_[^phasers] paralizadores no parecen estar en las pizarras de
-diseño.  Cuando se trata de combate de infantería, el arma preferida en
-casi todos lados sigue siendo la AK-47, un diseño soviético nombrado por
-el año de introducción: 1947.
+correctamente, cegar a un enemigo que lo mirase directamente.  Aparte de
+ser antideportivos son patéticos: el láser es tecnología de los '50.
+Los _phasers_[^phasers] paralizadores no parecen estar en las pizarras
+de diseño.  Cuando se trata de combate de infantería, el arma preferida
+en casi todos lados sigue siendo la AK-47, un diseño soviético nombrado
+por el año de introducción: 1947.
 
-[^phasers]: _Phaser_ es el nombre que se le dio a una tecnología de
-  aplicación principalmente bélica, en el universo de la saga de _Star
-  Trek._  Las armas de rayos de plasma de dicho universo que se basan en
-  ésta tecnología son conocidas por las fans como _phasers_.  (Nota de
-  la traducción.)
+[^phasers]: En el universo de _Star Trek_ se denomina _Phaser_ a una
+  tecnología de aplicación principalmente bélica.  Las armas de rayos de
+  plasma que en dicho universo que se basan en ésta tecnología, son
+  conocidas por las fans como _phasers_.  (Nota de la edición.)
 
 La Internet es una innovación notable, pero de lo que estamos hablando
 es de una súper-rápida y globalmente accesible combinación de
 biblioteca, oficina de correos y catálogo de compra por correo.  Si la
-Internet hubiera sido descrita a una aficionada de la ciencia ficcion de
+Internet hubiera sido descrita a una aficionada de la ciencia ficción de
 los '50 y '60 y nombrada el logro tecnológico más dramático de su
 tiempo, su reacción sería la decepción.  _"¿Cincuenta años y esto es lo
 mejor que nuestras científicas pudieron lograr?  ¡Esperábamos
@@ -624,16 +625,16 @@ Aquí, nuestra fascinación con los orígenes míticos de _Silicon Valley_ y
 la Internet nos han cegado a lo que realmente está sucediendo.  Dicha
 mitología nos ha hecho imaginar que la investigación y el desarrollo son
 impulsados principalmente por pequeños equipos de emprendedores o, en su
-defecto, por la cooperación descentralizada que crea el software libre.
-Esto no es así aún cuando éstos equipos tengan la mayor probabilidad de
-producir resultados.  La investigación y el desarrollo todavía son
-impulsados por grandes proyectos burocráticos.
+defecto, por la cooperación descentralizada que crea el _software_
+libre.  Esto no es así aún cuando éstos equipos tengan la mayor
+probabilidad de producir resultados.  La investigación y el desarrollo
+todavía son impulsados por grandes proyectos burocráticos.
 
 Lo que ha cambiado es la cultura burocrática.  La interpenetración
 creciente entre Estado, Universidad y empresas privadas ha llevado a
 todo el mundo a adoptar el lenguaje, las sensibilidades y las formas
 organizacionales que se originaron en el mundo corporativo.  Aunque esto
-haya ayudado a crear bienes de consumo ya que esto es para lo que las
+haya ayudado a crear bienes de consumo, ya que esto es para lo que las
 burocracias corporativas fueron diseñadas, los resultados han sido
 catastróficos en términos de promover una investigación original.
 
@@ -720,21 +721,22 @@ resultado, la competencia abierta, amistosa, se convierte en algo mucho más
 parecido a la clásica competencia de mercado.
 
 Existen muchas formas de privatización, incluyendo la compra y supresión
-de descubrimientos potencialmente, o de hecho, desfavorables para los intereses
-de las grandes corporaciones, siempre temerosas de posibles efectos económicos
-indeseables.  (No podemos saber cuántas fórmulas de combustibles sintéticos han
-terminado en las bóvedas de las compañías petroleras, pero resulta difícil
-imaginar que no haya pasado).  Más sutil es la forma en que el _ethos_
-administrativista desalienta todo lo que sea aventurero o raro, especialmente
-si no hay prospecto de resultados inmediatos.  Extrañamente, la Internet
-es parte del problema.  Como decía Neal Stephenson:
+de descubrimientos potencialmente, o de hecho, desfavorables para los
+intereses de las grandes corporaciones, siempre temerosas de posibles
+efectos económicos indeseables.  No podemos saber cuántas fórmulas de
+combustibles sintéticos han terminado en las bóvedas de las compañías
+petroleras, pero resulta difícil imaginar que no haya pasado.  Más sutil
+es la forma en que el _ethos_ administrativista desalienta todo lo que
+sea aventurero o raro, especialmente si no hay prospecto de resultados
+inmediatos.  Extrañamente, la Internet es parte del problema.  Como
+decía Neal Stephenson:
 
 > La mayoría de las personas que trabaja en corporaciones o en la
 > academia ha presenciado algo como lo siguiente: un grupo de ingenieras
 > se encuentran en una habitación peloteando ideas entre sí.  De esta
 > discusión emerge un nuevo concepto que parece prometedor.  Entonces
 > alguien con una computadora portátil realiza una búsqueda en _Google_
-> y anuncia que esta "nueva" idea en realidad es vieja.  Ya sido
+> y anuncia que esta "nueva" idea en realidad es vieja.  Ya ha sido
 > probada, o al menos algo vagamente similar.  Ha fallado o ha sido
 > exitosa.  Si ha fallado, ninguna administradora con ganas de mantener
 > su trabajo aprobaría el uso de dinero tratando de revivirla.  Si ha
@@ -744,25 +746,26 @@ es parte del problema.  Como decía Neal Stephenson:
 > La cantidad de ideas prometedoras que han sido aplastadas de esta
 > forma deben contarse en millones.
 
-Entonces un espíritu tímido y burocrático sofoca cualquier aspecto de la vida
-cultural.  Viene adornado con un lenguaje de creatividad, iniciativa y
-emprendedorismo.  Pero el lenguaje es insignificante.  Las pensadoras con mayor
-probabilidad de lograr descubrimientos interesantes son las que tienen menos
-probabilidad de conseguir financiamiento.  Y cuando los descubrimientos ocurren,
-probablemente no encuentran a nadie con la voluntad de seguir sus implicaciones
-más audaces.
+Entonces un espíritu tímido y burocrático sofoca cualquier aspecto de la
+vida cultural.  Viene adornado con un lenguaje de creatividad,
+iniciativa y emprendedurismo.  Pero el lenguaje es insignificante.  Las
+pensadoras con mayor probabilidad de lograr descubrimientos interesantes
+son las que tienen menos probabilidad de conseguir financiamiento.  Y
+cuando los descubrimientos ocurren, probablemente no encuentran a nadie
+con la voluntad de seguir sus implicaciones más audaces.
 
-Giovanni Arrighi señalaba que luego de la burbuja del Mar del Sur[^burbuja] en
-1720, el capitalismo británico abandonó ampliamente la forma corporativa.  Para
-la Revolución Industrial, Inglaterra había pasado a apoyarse sobre una
-combinación de altas finanzas y pequeñas empresas familiares --patrón que se
-sostuvo durante el siglo posterior, el período de máxima innovación científica y
-tecnológica.  (Inglaterra era por entonces también notable por ser generosa
-con sus "bichos raros" y sus personajes excéntricos, tanto como es de
-intolerante Estados Unidos actualmente.  Una solución común entonces, era
-permitirles  convertirse en párrocos rurales, quienes, predeciblemente, se
-convirtieron en una de las principales fuentes de descubrimientos científicos
-_amateur_).
+Giovanni Arrighi señalaba que luego de la burbuja del Mar del
+Sur[^burbuja] en 1720, el capitalismo británico abandonó ampliamente la
+forma corporativa.  Para la Revolución Industrial, Inglaterra había
+pasado a apoyarse sobre una combinación de altas finanzas y pequeñas
+empresas familiares --patrón que se sostuvo durante el siglo posterior,
+el período de máxima innovación científica y tecnológica.  Inglaterra
+era por entonces también notable por ser generosa con sus "bichos raros"
+y sus personajes excéntricos, tanto como es de intolerante Estados
+Unidos actualmente.  Una solución común entonces, era permitirles
+convertirse en párrocos rurales, quienes, predeciblemente, se
+convirtieron en una de las principales fuentes de descubrimientos
+científicos amateur.
 
 
 [^burbuja]: Ver <https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_del_Mar_del_Sur#Estalla_la_burbuja>
@@ -793,21 +796,22 @@ porque las normas y prácticas burocráticas se han vuelto tan completamente
 ubícuas que no las podemos ver, o peor, no podemos hacer las cosas de otro
 modo.
 
-Las computadoras han jugado un rol crucial en este estrechamiento de nuestras
-imaginaciones sociales.  Así como las invenciónes de nuevas formas de
-automatización industrial en el siglo XVII o XIX han tenido el
-efecto paradójico de convertir más y más población del mundo en trabajadores
-industriales de tiempo completo, así también todo el software diseñado para
-salvarnos de responsabilidades administrativas nos ha convertido en
-administradoras de tiempo completo.  Del mismo modo que profesoras
-universitarias deben sentir que es inevitable pasar la mayor parte de su tiempo
-administrando subsidios, también las opulentas esposas y amas de casa
-aceptan simplemente que van a pasar semanas de todos los años completando
-formularios _online_ de cuarenta páginas para que sus niñas ingresen a la
-escuela primaria.  Todas vamos a destinar cada vez mayores cantidades de nuestro
-tiempo escribiendo contraseñas en nuestros teléfonos para administrar cuentas
-bancarias y de crédito y aprendiendo cómo llevar a cabo el trabajo que alguna
-vez realizaban los agentes de viaje, corredores de bolsa y contadores.
+Las computadoras han jugado un rol crucial en este estrechamiento de
+nuestras imaginaciones sociales.  Así como las invenciónes de nuevas
+formas de automatización industrial en el siglo XVII o XIX han tenido el
+efecto paradójico de convertir más y más población del mundo en
+trabajadores industriales de tiempo completo, así también todo el
+_software_ diseñado para salvarnos de responsabilidades administrativas
+nos ha convertido en administradoras de tiempo completo.  Del mismo modo
+que profesoras universitarias deben sentir que es inevitable pasar la
+mayor parte de su tiempo administrando subsidios, también las opulentas
+esposas y amas de casa aceptan simplemente que van a pasar semanas de
+todos los años completando formularios _online_ de cuarenta páginas para
+que sus niñas ingresen a la escuela primaria.  Todas vamos a destinar
+cada vez mayores cantidades de nuestro tiempo escribiendo contraseñas en
+nuestros teléfonos para administrar cuentas bancarias y de crédito y
+aprendiendo cómo llevar a cabo el trabajo que alguna vez realizaban los
+agentes de viaje, corredores de bolsa y contadores.
 
 Alguien una vez se dió cuenta que la estadounidense promedio pasaría unos seis
 meses de su vida esperando que cambie la luz del semáforo.  No sé si
@@ -865,10 +869,10 @@ al capitalismo; estaban equivocados en predecir que la competencia del
 mercado compelería a los dueños de las fábricas a mecanizar de todas
 formas.  Si no ha ocurrido, es porque la competencia del mercado no es,
 de hecho, tan esencial a la naturaleza del capitalismo como ellos
-asumieron.  Si no otra cosa, la actual forma del capitalismo, donde
-buena parte de la competencia parece tomar la forma de mercadotecnia
-interna entre estructuras burocráticas de enormes empresas
-semi-monopólicas; sería una gran sorpresa para ellos.
+asumieron.  La actual forma del capitalismo donde buena parte de la
+competencia parece tomar la forma de mercadotecnia interna entre
+estructuras burocráticas de enormes empresas semi-monopólicas, sería una
+gran sorpresa para ellos.
 
 Los defensores del capitalismo hacen tres grandes reivindicaciones
 históricas: primero, que ha fomentado el rápido crecimiento científico y
