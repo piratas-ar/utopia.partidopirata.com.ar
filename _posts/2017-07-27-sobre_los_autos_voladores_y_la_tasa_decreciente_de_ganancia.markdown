@@ -25,13 +25,17 @@ tontas en creer a nuestros mayores.
 
 En concreto, ¿dónde están los autos voladores?  ¿Dónde están los campos
 de fuerza, los rayos atractores, los podios de teletransportación, los
-trineos antigravitacionales, _tricorders_, las drogas de la
+trineos antigravitacionales, _tricorders_[^tricorder], las drogas de la
 inmortalidad, las colonias en Marte y todas las otras maravillas
 tecnológicas que cualquier niña que haya crecido a partir de mediados
 del siglo XX asumía que iban a existir para este momento?  Incluso
 aquellas invenciones que parecían listas para emerger --como la
 clonación o la criogenia-- terminaron traicionando sus amplias promesas.
 ¿Qué fué lo que les pasó?
+
+[^tricorder]: Los _tricorders_ son dispositivos portátiles de análisis y
+  registro de datos en el universo de _Star Trek_.  (Nota de la
+  edición.)
 
 Estamos bien informadas de las maravillas de la informática, como si se
 tratara de una compensación no anticipada.  Pero de hecho la informática
@@ -44,9 +48,9 @@ En tanto alguien que tenía ocho años cuando el _Apollo_ aterrizó en la
 luna, me recuerdo calculando que tendría treinta y nueve años en los
 mágicos 2000; y preguntándome cómo sería el mundo.  ¿Esperaba vivir en
 un mundo lleno de maravillas?  Por supuesto.  Todas lo esperaban.  ¿Me
-siento engañado ahora?  Parecía improbable que viviera para ver *todas*
+siento engañado ahora?  Parecía improbable que viviera para ver _todas_
 las cosas que leía en la ciencia ficción, pero nunca se me hubiera
-ocurrido que no llegaría a ver *ninguna*.
+ocurrido que no llegaría a ver _ninguna_.
 
 Al pasar de milenio esperaba un derrame de reflexiones sobre por qué nos
 imaginamos el futuro de la tecnología tan mal.  En cambio, casi todas
@@ -58,13 +62,13 @@ La forma más común de lidiar con la incómoda sensación de que esto
 podría no ser así es descartar por completo dicha sensación, insistir
 que todo el progreso que podía haber ocurrido, ha ocurrido; y tratar
 cualquier otra cosa como una tontería.  "Ah, ¿vos decís esas cosas de
-*Los Supersónicos*?" me preguntan --¡Como si fuera una cosa para
-niñas!-- Seguramente, como adultas, entendemos que *Los Supersónicos*
-ofrecían una visión del futuro tan certera como *Los Picapiedras*
+_Los Supersónicos_?" me preguntan --¡Como si fuera una cosa para
+niñas!-- Seguramente, como adultas, entendemos que _Los Supersónicos_
+ofrecían una visión del futuro tan certera como _Los Picapiedras_
 ofrecían de la Edad de Piedra.
 
-Incluso en los setentas y ochentas, fuentes tan sobrias como *National
-Geographic* y el Museo Smithsoniano informaban a las niñas de las
+Incluso en los setentas y ochentas, fuentes tan sobrias como _National
+Geographic_ y el Museo Smithsoniano informaban a las niñas de las
 inminentes estaciones espaciales y expediciones a Marte.  Las creadoras
 de las películas de ciencia ficción incluían fechas concretas, a menudo
 a no más de una generación en el futuro, para colocar sus fantasías
@@ -75,23 +79,23 @@ espaciales similares a ciudades y computadoras con personalidades
 humanas que mantuvieran a las astronautas en animación suspendida
 mientras viajan a Júpiter.  La vídeollamada es casi la única nueva
 tecnología de esa película que ha aparecido --y ya era técnicamente
-posible cuando se estrenó.  *2001* puede ser vista como una curiosidad,
-¿pero qué pasa con *Star Trek*?  La mitología de *Star Trek* se situaba
+posible cuando se estrenó.  _2001_ puede ser vista como una curiosidad,
+¿pero qué pasa con _Star Trek_?  La mitología de _Star Trek_ se situaba
 en los sesenta también, pero el show siguió siendo revivido hasta dejar
-a las audiencias de *Star Trek Voyager* en 2005, intentando dilucidar el
+a las audiencias de _Star Trek Voyager_ en 2005, intentando dilucidar el
 hecho que de acuerdo con la lógica del programa, el mundo estaría
 recuperándose de la dictadura de los super hombres genéticamente creados
 en las Guerras Eugenésicas de los noventa.
 
-Para 1989, cuando las creadoras de *Volver al Futuro II* colocaban
+Para 1989, cuando las creadoras de _Volver al Futuro II_ colocaban
 diligentemente autos voladores y patinetas anti-gravedad en las manos de
 adolescentes ordinarias en el año 2015, no estaba claro si se trataba de
 una predicción o una broma.
 
 La estrategia usual en ciencia ficción es mantener cierta vaguedad en
 las fechas, de forma de convertir "el futuro" en una zona de fantasía
-pura, no muy diferente a la Tierra Media o Narnia, o como en *Star
-Wars*, "en una época muy lejana, en una galaxia muy, muy lejana".  Como
+pura, no muy diferente a la Tierra Media o Narnia, o como en _Star
+Wars_, "en una época muy lejana, en una galaxia muy, muy lejana".  Como
 resultado, nuestro futuro en la ciencia ficción es muy a menudo nada
 parecido a un futuro, sino más bien una dimensión alternativa, un tiempo
 del Sueño, un Otro Lugar tecnológico existiendo en días por venir... en
@@ -103,7 +107,7 @@ consumidor.
 ¿Podría la sensibilidad cultural que suele ser referida como
 posmodernismo verse mejor como una prolongada meditación sobre todos los
 cambios tecnológicos que nunca sucedieron?  La pregunta me azotó
-mientras veía una de las últimas películas de *Star Wars*.  La película
+mientras veía una de las últimas películas de _Star Wars_.  La película
 era horrible, pero no pude dejar de impresionarme por la calidad de los
 efectos especiales.  Recordando los torpes efectos especiales de las
 películas de ciencia ficción de los años cincuenta, me quedé pensando en
@@ -114,7 +118,7 @@ personas pensaban que realmente estaríamos *haciendo* esas cosas en el
 presente, no encontrando formas cada vez más sofisticadas para
 simularlas".
 
-Éste último término --*simular*-- es clave.  Las tecnologías que han
+Éste último término _simular_ es clave.  Las tecnologías que han
 avanzado desde los setenta, han sido principalmente las tecnologías
 médicas o tecnologías informáticas --ampliamente, tecnologías de
 simulación.  Son las tecnologías que Jean Baudrillard y Umberto Eco
@@ -164,7 +168,7 @@ _contenedorización_ de los envíos, por ejemplo-- habilitó que esos
 mismos trabajos industriales fueran tercerizados a Asia del Este,
 América Latina y otros países donde la disponibilidad de trabajo barato
 permitió a los capitalistas emplear técnicas de producción en línea
-*mucho menos* sofisticadas tecnológicamente de lo que hubieran estado
+_mucho menos_ sofisticadas tecnológicamente de lo que hubieran estado
 obligados a emplear localmente.
 
 Los resultados fueron más o menos los esperados.  Las industrias de
@@ -261,7 +265,7 @@ nivelarse, luego de haberse venido duplicando cada 15 años desde
 alrededor de 1685.  Esto también es cierto para los libros y las
 patentes.
 
-El uso de la *aceleración* que hizo Toffler fue particularmente
+El uso de la _aceleración_ que hizo Toffler fue particularmente
 desafortunado.  Para la mayor parte de la historia humana, la velocidad
 máxima a la que las personas podían viajar fue de 40 km/h.  Para 1900 se
 había incrementado a 160 km/h y dentro de los próximos 70 años parecía
@@ -427,7 +431,7 @@ Luego de los éxitos iniciales del programa espacial soviético, pocos de
 estos planes fueron realizados, pero el liderazgo nunca cesó de imaginar
 nuevos proyectos.  Incluso en los '80, cuando los Estados Unidos
 intentaban su último y más grandioso plan, la _Guerra de las
-Galaxias_,[^star-wars] los soviéticos planificaban la transformación del
+Galaxias_[^star-wars], los soviéticos planificaban la transformación del
 mundo a través de usos creativos de la tecnología.  Aunque les fueron
 dedicados gran cantidad de recursos, pocas personas fuera de Rusia
 recuerdan la mayor parte de estos proyectos.  También hay que notar que
@@ -439,8 +443,9 @@ comestible llamada _spirulina_, o solucionar el problema energético
 global lanzando cientos de plataformas solares al espacio y enviando la
 electricidad de vuelta hacia la Tierra.
 
-[^star-wars]:
-  https://es.wikipedia.org/wiki/Iniciativa_de_Defensa_Estrat%C3%A9gica
+[^star-wars]: Fue un programa estadounidense que pretendía generar un
+  escudo anti-misiles nucleares.
+  <https://es.wikipedia.org/wiki/Iniciativa_de_Defensa_Estrat%C3%A9gica>
 
 La victoria estadounidense de la carrera espacial significó que después
 de 1968 los planificadores dejaran de tomar seriamente la competencia.
@@ -575,10 +580,10 @@ de diseño.  Cuando se trata de combate de infantería, el arma preferida
 en casi todos lados sigue siendo la AK-47, un diseño soviético nombrado
 por el año de introducción: 1947.
 
-[^phasers]: En el universo de _Star Trek_ se denomina _Phaser_ a una
-  tecnología de aplicación principalmente bélica.  Las armas de rayos de
-  plasma que en dicho universo que se basan en ésta tecnología, son
-  conocidas por las fans como _phasers_.  (Nota de la edición.)
+[^phasers]: En el universo de _Star Trek_ se denomina _phaser_ a una
+  tecnología de aplicación principalmente bélica.  Las armas de rayos
+  que se basan en estas ideas son conocidas por las fans como _phasers_.
+  (Nota de la edición.)
 
 La Internet es una innovación notable, pero de lo que estamos hablando
 es de una súper-rápida y globalmente accesible combinación de
