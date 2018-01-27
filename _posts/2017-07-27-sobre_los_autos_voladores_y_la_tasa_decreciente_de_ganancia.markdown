@@ -75,13 +75,13 @@ espaciales similares a ciudades y computadoras con personalidades
 humanas que mantuvieran a las astronautas en animación suspendida
 mientras viajan a Júpiter.  La vídeollamada es casi la única nueva
 tecnología de esa película que ha aparecido --y ya era técnicamente
-posible cuando se estrenó--.  *2001* puede ser vista como una
-curiosidad, ¿pero qué pasa con *Star Trek*?  La mitología de *Star Trek*
-se situaba en los sesenta también, pero el show siguió siendo revivido
-hasta dejar a las audiencias de *Star Trek Voyager* en 2005, intentando
-dilucidar el hecho que de acuerdo con la lógica del programa, el mundo
-estaría recuperándose de la dictadura de los super hombres genéticamente
-creados en las Guerras Eugenésicas de los noventa.
+posible cuando se estrenó.  *2001* puede ser vista como una curiosidad,
+¿pero qué pasa con *Star Trek*?  La mitología de *Star Trek* se situaba
+en los sesenta también, pero el show siguió siendo revivido hasta dejar
+a las audiencias de *Star Trek Voyager* en 2005, intentando dilucidar el
+hecho que de acuerdo con la lógica del programa, el mundo estaría
+recuperándose de la dictadura de los super hombres genéticamente creados
+en las Guerras Eugenésicas de los noventa.
 
 Para 1989, cuando las creadoras de *Volver al Futuro II* colocaban
 diligentemente autos voladores y patinetas anti-gravedad en las manos de
