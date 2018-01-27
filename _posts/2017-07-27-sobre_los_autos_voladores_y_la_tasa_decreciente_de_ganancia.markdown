@@ -583,7 +583,10 @@ por el año de introducción: 1947.
 [^phasers]: En el universo de _Star Trek_ se denomina _phaser_ a una
   tecnología de aplicación principalmente bélica.  Las armas de rayos
   que se basan en estas ideas son conocidas por las fans como _phasers_.
-  (Nota de la edición.)
+  El ejército estadounidense se encuentra desarrollando armas similares
+  con usos represivos "no letales"
+  <https://en.wikipedia.org/wiki/Pulsed_energy_projectile> (Nota de la
+  edición.)
 
 La Internet es una innovación notable, pero de lo que estamos hablando
 es de una súper-rápida y globalmente accesible combinación de
