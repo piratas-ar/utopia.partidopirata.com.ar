@@ -3,43 +3,47 @@ Utopía Pirata
 
 ![Logo](assets/utopia_pirata_logo.png)
 
-Utopía Pirata es la editorial del [Partido Interdimensional Pirata Argentino](https://www.partidopirata.com.ar).
+Utopía Pirata es la editorial del [Partido Interdimensional Pirata
+Argentino](https://www.partidopirata.com.ar).
 
 
 Recomendaciones para trabajar en este repositorio
 -------------------------------------------------
 
-[Generar una llave SSH](https://0xacab.org/help/ssh/README) para no usar HTTPS que pide nombre de usuario y contraseña todo el tiempo.
+Conocimientos básicos de Git y Markdown, hay [una guía
+acá](https://github.com/infopublica/git-md).
+
+[Generar una llave SSH](https://0xacab.org/help/ssh/README) para no usar HTTPS
+que pide nombre de usuario y contraseña todo el tiempo. [Agregarla a la cuenta
+registrada en 0xacab.org](https://0xacab.org/profile/keys).
 
 Requisitos para trabajar en este repositorio
 --------------------------------------------
 
 * Ruby, Ruby-dev y Bundler
-  + Por ejemplo, en Debian/Ubuntu: `sudo apt install ruby ruby-dev; sudo gem install bundler`
-  + O en Fedora: `sudo dnf install ruby ruby-devel; gem install bundler`
 
 * TeXLive
-* Pandoc (>= 1.10)
+
+* Pandoc
+
 * mktorrent
-* Fonts de las tapas: Bitstream Vera, League Gothic
+
+* Fuentes de las tapas:
+	- Bitstream Vera
+	- League Gothic
 
 Instalación
 -----------
 
-Luego de clonar, correr `bundle install`.
+Por ejemplo, en GNU+Linux Debian/Ubuntu/Mint:
 
-Desarrollo
-----------
+`$ sudo apt install ruby ruby-dev texlive-full pandoc mktorrent`
+`$ gem install bundler jekyll`
 
-Usá git flow:
+<!-- faltan pasos de instalar las tipografías -->
 
-  git flow init
-
-Features:
-
-  git flow feature start nombre_de_la_feature
-  # etc...
-
+Luego de clonar, correr `$ bundle install` dentro de la carpeta del
+repositorio. Esto va a instalar todo lo especificado en el `Gemfile`.
 
 Compilar el sitio
 -----------------
