@@ -6,6 +6,11 @@ Utopía Pirata
 Utopía Pirata es la editorial del [Partido Interdimensional Pirata Argentino](https://www.partidopirata.com.ar).
 
 
+Recomendaciones para trabajar en este repositorio
+-------------------------------------------------
+
+[Generar una llave SSH](https://0xacab.org/help/ssh/README) para no usar HTTPS que pide nombre de usuario y contraseña todo el tiempo.
+
 Requisitos para trabajar en este repositorio
 --------------------------------------------
 
@@ -16,7 +21,6 @@ Requisitos para trabajar en este repositorio
 * TeXLive
 * Pandoc (>= 1.10)
 * mktorrent
-* Git Flow
 * Fonts de las tapas: Bitstream Vera, League Gothic
 
 Instalación
