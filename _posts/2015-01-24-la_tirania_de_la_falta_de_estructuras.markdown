@@ -23,8 +23,8 @@ Tiranía" en revistas, libros y sitios web, a menudo sin el permiso o el
 conocimiento de la autora.  Esta versión es una mezcla de las tres
 versiones citadas.
 
-Esta versión[^tyranny] fue traducida por piratas del Partido Pirata de
-Argentina[^ppar].
+Esta versión[^tyranny] fue traducida por piratas del Partido 
+Interdimensional Pirata de Argentina[^ppar].
 
 [^tyranny]: [http://www.jofreeman.com/joreen/tyranny.htm](http://www.jofreeman.com/joreen/tyranny.htm)
 [^ppar]: [http://partidopirata.com.ar](http://partidopirata.com.ar)
@@ -33,38 +33,37 @@ Argentina[^ppar].
 
 Durante los años en que se estaba formando el movimiento de liberación
 de la mujer se ponía un gran énfasis en lo que se llamaban grupos sin
-líderes y sin estructuras como la (única) forma de organización del
+líderes y sin estructuras, como la (única) forma de organización del
 movimiento.  La fuente de esta idea venía de una reacción natural contra
 la sociedad sobre-estructurada en la que muchas de nosotras nos
 encontrábamos y el inevitable control sobre nuestras vidas que esto le
-daba a otros junto al continuo elitismo de la izquierda y grupos
+daba a otros, junto al continuo elitismo de la izquierda y grupos
 similares, algunos de los cuales supuestamente luchaban también contra
 la sobre-estructuración.
 
 La idea de la "falta de estructuras", sin embargo, ha dejado de ser un
 sano contrabalance de esas tendencias para convertirse en una diosa por
 sí misma.  La idea se examina poco aunque el término se usa mucho y se
-ha convertido en parte intrínseca e incuestionable de la ideología de la
+haya convertido en parte intrínseca e incuestionable de la ideología de la
 liberación de las mujeres.  En los primeros momentos del movimiento esto
 no importó mucho.  Al quedar definido el objetivo primario, con su
 método principal que era la toma de conciencia, la "falta de
 estructuras" era un excelente medio para este fin.  La soltura e
 informalidad alentaba a la participación en las discusiones y la
-atmósfera a menudo amigable invitaba a la reflexión personal.  No
+atmósfera, a menudo amigable, invitaba a la reflexión personal.  No
 importaba si no se producía nada más que estas reflexiones personales
 dentro de los grupos, porque su propósito no se extendía más allá de
 eso.
 
 Los problemas básicos no aparecían hasta que cada grupo agotaba las
 virtudes de la toma de conciencia y decidía dedicarse a algo más
-específico.  En este momento la mayoría naufragaba porque no tenían la
-voluntad de cambiar su estructura a medida que cambiaban sus tareas.
-Las mujeres habían aceptado profundamente la idea de la "falta de
-estructuras" sin darse cuenta de las limitaciones de sus usos.  Las
-personas intentaban utilizar el grupo "sin estructura" y la conferencia
-informal para propósitos para los que no eran adecuados, por una
-confianza ciega en que cualquier otro medio no podría ser más que
-opresivo.
+específico.  En este momento la mayoría naufragaba porque no tenían 
+la voluntad de cambiar su estructura a medida que cambiaban sus 
+tareas. Las mujeres habían aceptado completamente la idea de la 
+"falta de estructuras" sin darse cuenta de las limitaciones de sus usos.  La
+genye intentaría utilizar el grupo "sin estructura" y la conferencia
+informal para propósitos inadecuados, solamente por una
+confianza ciega en que cualquier otro medio sería opresivo.
 
 Para que el movimiento crezca más allá de los estadios elementales de su
 desarrollo tendrá que deshacerse de algunos de sus prejuicios sobre
@@ -84,7 +83,7 @@ distribuir de forma equilibrada o desequilibrada tareas, poderes y
 recursos a las personas del grupo.  Pero se formará a pesar de las
 habilidades, personalidades o intenciones de las personas involucradas.
 El hecho mismo de que seamos individuos con diferentes talentos,
-predisposiciones y formaciones lo vuelve inevitable.  Solo si nos
+predisposiciones y formaciones, lo vuelve inevitable.  Solo si nos
 negamos a relacionarnos o interactuar de alguna forma nos podemos
 acercar a la falta de estructuras, pero esa no es la naturaleza de un
 grupo humano.
