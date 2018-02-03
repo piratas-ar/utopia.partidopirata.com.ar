@@ -134,14 +134,14 @@ Estructurados, lo que constituye la base para las élites.
 
 # La naturaleza del elitismo
 
-Probablemente, la palabra "elitista" sea la más abusada en el movimiento
-de liberación de las mujeres. Se utiliza tan frecuentemente y por las
-mismas razones por las que se usaba la palabra "zurdito" en los años
-cincuenta. Rara vez se utiliza correctamente. Dentro del movimiento,
+Probablemente la palabra "elitista" sea la más abusada en el movimiento
+de liberación de las mujeres.  Se utiliza tan frecuentemente y por las
+mismas razones con las que se usaba la palabra "zurdito" en los años
+cincuenta.  Rara vez se utiliza correctamente. Dentro del movimiento
 generalmente se refiere a personas, a pesar de que las características
 personales y actividades de aquellas a las que se refiere pueden diferir
 ampliamente: una persona nunca puede ser elitista individualmente porque
-el término "élite" se aplica únicamente a grupos. Una sola persona,
+el término "élite" se aplica únicamente a grupos.  Una sola persona,
 independientemente de cuán reconocida sea, nunca puede ser una élite.
 
 Correctamente, una élite se refiere a un pequeño grupo de
@@ -156,9 +156,9 @@ suficientemente listas como para no volverse muy reconocidas; cuando son
 reconocidas, son vigiladas y la máscara sobre su poder deja de estar
 firmemente sujeta.
 
-Las élites no son conspiraciones. Raramente un pequeño grupo de personas
+Las élites no son conspiraciones.  Raramente un pequeño grupo de personas
 se reune y deliberadamente trata de tomar control sobre un grupo más
-grande para sus propios fines. Las élites son ni más ni menos que grupos
+grande para sus propios fines.  Las élites no son ni más ni menos que grupos
 de amigas que a su vez participan en las mismas actividades políticas.
 Probablemente mantendrían esta amistad estén o no involucradas en
 actividades políticas; y a la vez estarían involucradas en actividades
@@ -167,13 +167,13 @@ fenómenos lo que crea élites en cualquier grupo y las hace tan difíciles
 de romper.
 
 Estos grupos de amistad funcionan como redes de comunicación fuera de
-cualquier canal regular montado por un grupo para ese tipo de comunicación.
+cualquier canal regular montado por un grupo con la finalidad de comunicarse.
 Si no hay canales montados, funcionan como la única red de comunicación.
 Debido a que las personas son amigas, a que usualmente comparten los
 mismos valores y orientaciones y a que hablan entre sí socialmente y se
 consultan cuando tienen que tomar decisiones comunes, las personas
 involucradas en estas redes tienen más poder en el grupo que aquellas
-que no. A su vez es raro que un grupo no establezca alguna red de
+que no.  A su vez es raro que un grupo no establezca alguna red de
 comunicación informal a través de las amigas que haya dentro.
 
 Algunos grupos, dependiendo de su tamaño, pueden tener más de una de
@@ -183,12 +183,12 @@ Estructurado, aun cuando sus participantes no quieran serlo.  Si hay una
 sola red en un Grupo Estructurado, puede o no ser de una élite
 dependiendo de su composición y de la naturaleza de la estructura
 formal.  Si existen dos o más redes de amigas, podrían competir por el
-poder sobre el grupo, formando facciones o una abandonando la
+poder sobre el grupo, formando facciones o una, abandonando la
 competencia y dejando a la otra como la élite.  En un grupo con
 estructura, dos o más de estas redes de amigas usualmente compiten entre
 sí por el poder formal.  Esta es la situación más saludable, porque las
 otras integrantes están en posición de arbitrar entre ambos grupos en
-competencia por el poder y por lo tanto hacer demandas a aquellas a las
+competencia por el poder y por lo tanto, hacer demandas a aquellas a las
 que se les dio lealtad temporal.
 
 El inevitable elitismo y exclusivismo de las redes de comunicación
@@ -196,7 +196,7 @@ informal entre amigas no es un nuevo fenómeno, característico del
 movimiento feminista, ni tampoco un fenómeno nuevo para las mujeres.
 Tales relaciones informales han excluido a las mujeres durante siglos,
 impidiéndoles participar en grupos de los que eran parte.  En cualquier
-profesión u organización estas redes son las que crean la mentalidad de
+profesión u organización, estas redes son las que crean la mentalidad de
 "vestuario" y los lazos de "la vieja escuela", que han prevenido
 efectivamente que las mujeres como un grupo (así como algunos hombres
 individualmente) tengan igual acceso a las fuentes de poder y
@@ -204,8 +204,8 @@ reconocimiento social.  En el pasado, los movimientos feministas han
 puesto mucha energía en la formalización de las estructuras de toma de
 decisiones y selección, de forma que la exclusión de las mujeres pueda
 ser confrontada directamente.  Como todas sabemos, estos esfuerzos no
-han evitado que las redes informales masculinas sigan discriminando a
-las mujeres, pero lo han vuelto más difícil.
+han evitado que las redes informales masculinas sigan discriminando
+mujeres, pero lo han vuelto más difícil.
 
 Que las élites sean informales no quiere decir que sean invisibles.  En
 cualquier reunión de un grupo pequeño puede notarse quién influencia a
@@ -226,24 +226,24 @@ Muchos de estos criterios se basan en las características femeninas
 tradicionales.  Por ejemplo, en los primeros días del movimiento, el
 matrimonio era un prerrequisito para participar en la élite informal.
 Como se les había enseñado tradicionalmente, las mujeres casadas se
-relacionaban entre sí, percibiendo a las solteras como una amenaza. En
+relacionaban entre sí, percibiendo a las solteras como una amenaza.  En
 muchas ciudades, este criterio se refinó para incluir sólo a mujeres
 casadas con miembros de la Nueva Izquierda.  Este estándar era más que
 tradicional, porque los miembros de la Nueva Izquierda tenían acceso a
 los recursos que necesitaba el movimiento (listas de correo, imprentas,
 contactos e información) y las mujeres estaban acostumbradas a obtener
-lo que necesitaban a través de sus maridos antes que independientemente.
-El movimiento ha cambiado con el tiempo y el matrimonio se volvió un
-criterio menos universal para la participación efectiva, pero todas las
-élites informales establecen estándares por los que solo las mujeres que
-poseen ciertos materiales o características personales pueden
-participar.  Esto incluye a menudo: ser de clase media (a pesar de toda
-la retórica sobre la clase trabajadora), estar casada, no estar casada
-pero vivir con alguien, ser o pretender ser lesbiana, estar entre los 20
-y 30 años, haber asistido a la universidad, ser cool, no ser muy cool,
-identificarse como "extremista", tener hijos o que te gusten los niños,
-no tener hijos, tener ciertas características "femeninas" como ser
-"amable", vestirse correctamente (ya sea tradicional como
+lo que necesitaban a través de sus maridos, en lugar de hacerlo 
+independientemente.  El movimiento ha cambiado con el tiempo y el 
+matrimonio se volvió un criterio menos universal para la participación 
+efectiva, pero todas las élites informales establecen estándares por los 
+que solo las mujeres que poseen ciertos materiales o características 
+personales pueden participar.  Esto incluye a menudo: ser de clase media 
+(a pesar de toda la retórica sobre la clase trabajadora), estar casada, 
+no estar casada pero vivir con alguien, ser o pretender ser lesbiana, 
+estar entre los 20 y 30 años, haber asistido a la universidad, ser cool, 
+no ser muy cool, identificarse como "extremista", tener hijos o que te 
+gusten los niños, no tener hijos, tener ciertas características "femeninas" 
+como ser "amable", vestirse correctamente (ya sea tradicional como
 anti-tradicionalmente), etc.  También hay algunas características que
 casi siempre sirven para etiquetarte de "desviada" con la que no hay que
 relacionarse.  Esto incluye: ser muy vieja, trabajar a tiempo completo,
@@ -254,11 +254,10 @@ Podrían incluirse otros criterios, pero todos tienen temas en común.
 Las características que son prerrequisito para participar en las élites
 informales del movimiento y por lo tanto ejercer poder, conciernen al
 origen, personalidad o disponibilidad de tiempo de cada una.  No incluyen
-competencia, dedicación al feminismo, talentos o contribución potencial
-al movimiento.  Los primeros son los criterios que una utiliza
-usualmente para elegir amigas.  Los segundos son los criterios que
-cualquier movimiento u organización debe usar para ser políticamente
-efectivo.
+competencia, compromiso con el feminismo, talentos o potencial de 
+contribución al movimiento.  Los primeros son los criterios que una utiliza
+usualmente para elegir amigas; los segundos son los criterios que
+cualquier movimiento u organización debe usar para accionar políticamente.
 
 Los criterios de participación pueden diferir de grupo a grupo, pero los
 medios para convertirse en integrante de la élite informal, si una cumple
@@ -269,18 +268,18 @@ las amigas personales también se unan.  Si no se conoce bien a nadie,
 entonces hay que formar amistades con un grupo selecto de forma
 deliberada y establecer los patrones de interacción informal que son
 cruciales para la creación de un estructura informal.  Una vez que se
-forman, estos patrones informales funcionan para auto-mantenerse y una de
+forman estos patrones informales, funcionan para auto-mantenerse y una de
 las tácticas más exitosas de este mantenimiento es el reclutamiento
-continuo de personas que "encajan".  Se forma parte de una élite de la
+continuo de personas que "encajen".  Se forma parte de una élite de la
 misma forma que se ingresa a una sororidad[^sororidad].  Si una es
 percibida como una incorporación potencial, se es preparada por las
 integrantes de la estructura informal y eventualmente se es iniciada o
 descartada.  Si la sororidad no está políticamente al tanto de este
 proceso como para llevarlo a cabo activamente, puede ser iniciado por la
 ajena casi de la misma forma en que una se une a un club privado.
-Encuentra una sponsor, es decir una integrante de la élite respetada
+Encuentra una _sponsor_, es decir una integrante de la elite respetada
 internamente, para cultivar activamente su amistad.  Eventualmente la
-sponsor nos hará entrar al círculo.
+_sponsor_ nos hará entrar al círculo.
 
 [^sororidad]: Una organización social para estudiantes muy común en las
 universidades estadounidenses. Ver [https://es.wikipedia.org/wiki/Fraternidades_y_sororidades](https://es.wikipedia.org/wiki/Fraternidades_y_sororidades)
@@ -313,13 +312,12 @@ importantes.  Mientras el movimiento no haga cosas importantes esto no
 es un problema.  Pero si este desarrollo no se corta en el estadio
 preliminar, alterará sus capacidades.  La segunda consecuencia es que
 las estructuras informales no tienen obligaciones con el grupo.  El
-poder no se les ha dado, por lo que no se les puede
-quitar.  Su influencia no está basada en lo que hacen por el grupo, por
-lo que no puede ser influenciada por este.  Esto no necesariamente hace
-que las estructuras informales sean irresponsables.  Aquellas que
-quieren mantener su influencia tratarán de ser responsables también.
-Pero el grupo no puede forzar esa responsabilidad, depende de
-los intereses de la élite.
+poder no se les ha dado, por lo que no se les puede quitar.  Su influencia 
+no está basada en lo que hacen por el grupo, por lo que no puede ser 
+influenciada por este.  Esto no necesariamente hace que las estructuras 
+informales sean irresponsables.  Aquellas que quieren mantener su 
+influencia tratarán de ser responsables también.  Pero el grupo no 
+puede forzar esa responsabilidad, depende de los intereses de la élite.
 
 
 # El sistema de "estrellas"
@@ -327,46 +325,46 @@ los intereses de la élite.
 La idea de "la falta de estructura" ha creado el sistema de "estrellas".
 Vivimos en una sociedad que espera que los grupos políticos tomen las
 decisiones y que seleccionen personas que articulen esas decisiones para
-el público. La prensa y el público no saben cómo escuchar seriamente a
+el público.  La prensa y el público no saben cómo escuchar seriamente a
 mujeres individuales en tanto mujeres; quieren saber cómo se siente el
-grupo. Solo se han desarrollado tres técnicas para establecer la opinión
+grupo.  Solo se han desarrollado tres técnicas para establecer la opinión
 de un grupo masivo: el voto o referéndum, las encuestas de opinión
-pública y la elección de voceras. El movimiento de liberación de las
+pública y la elección de voceras.  El movimiento de liberación de las
 mujeres no ha utilizado ninguno de estos para comunicarse con el
-público. Tampoco el movimiento como un todo ni la mayoría de los
+público.  Tampoco el movimiento como un todo ni la mayoría de los
 multitudinarios grupos dentro de este han establecido un medio para
-explicar sus posiciones sobre diversas cuestiones. Pero el público está
+explicar sus posiciones sobre diversas cuestiones.  Pero el público está
 condicionado a buscar voceras.
 
 Aun cuando no se han elegido voceras conscientemente, el movimiento ha
 introducido muchas mujeres que han atrapado la atención del público por
-varias razones. Estas mujeres no representan a un grupo en particular o
-una opinión establecida; lo saben y usualmente así lo expresan. Pero
+varias razones.  Estas mujeres no representan a un grupo en particular o
+una opinión establecida; lo saben y usualmente así lo expresan.  Pero
 debido a que no hay voceras oficiales ni un cuerpo de toma de
 decisiones que la prensa pueda consultar cuando quiere saber la postura
 del movimiento frente a un tema, esas mujeres son percibidas como las
 voceras. Por ello, quieran o no, le guste al movimiento o no, las
 mujeres notables son puestas en el rol de voceras por defecto.
 
-Esta es una fuente principal de la ira que a menudo se siente hacia
-estas mujeres etiquetadas como "estrellas". Como no fueron elegidas por
+Esta es la fuente principal de la ira que a menudo se siente hacia
+estas mujeres etiquetadas como "estrellas".  Como no fueron elegidas por
 las mujeres del movimiento para representar su visión, son odiadas
-cuando la prensa asume que hablan por el movimiento. Pero mientras que
+cuando la prensa asume que hablan por el movimiento.  Pero mientras que
 el movimiento no elija sus propias voceras, tales mujeres serán ubicadas
 en ese rol por la prensa y el público, a pesar de sus propios deseos.
 
 Esto tiene varias consecuencias negativas tanto para el movimiento como para
-esas mujeres etiquetadas "estrellas". Primero, como el movimiento no es
+esas mujeres etiquetadas "estrellas".  Primero, como el movimiento no es
 quien las coloca en el rol de voceras, este no puede sacarlas de allí.
 La prensa las coloca allí y solamente la prensa puede elegir dejar de
-escucharlas. La prensa continuará considerando a las "estrellas" como
+escucharlas.  La prensa continuará considerando a las "estrellas" como
 voceras mientras no tenga alternativas oficiales en quienes buscar el
-comentario autorizado del movimiento. El movimiento no tiene control en
+comentario autorizado del movimiento.  El movimiento no tiene control en
 la elección de sus representantes hacia el público ya que cree que ni
-siquiera debería tener representantes. Segundo, las mujeres puestas en
+siquiera debería tener representantes.  Segundo, las mujeres puestas en
 esta posición a menudo son atacadas maliciosamente por sus hermanas.
 Esto no trae logros al movimiento y es dolorosamente destructivo para
-las personas involucradas. Tales ataques solamente resultan en que la
+las personas involucradas.  Tales ataques solamente resultan en que la
 mujer abandone el movimiento, con frecuencia amargamente alienada --o
 dejando de sentirse responsable por sus "hermanas". Podría llegar a
 mantener algo de lealtad al movimiento, vagamente definida, pero sin ser
@@ -375,7 +373,7 @@ responsable por personas que han sido la causa de tanto dolor sin ser
 masoquista y estas mujeres son usualmente demasiado fuertes para
 inclinarse ante ese tipo de presión personal. Es así que el contragolpe
 al sistema de "estrella" efectivamente anima el mismo tipo de
-irresponsabilidad individualista que el movimiento condena. Marginando a
+irresponsabilidad individualista que el movimiento condena.  Marginando a
 una hermana como "estrella", el movimiento pierde cualquier control que
 podría haber tenido sobre la persona, que luego tiene la libertad de
 cometer todos los pecados individualistas de los que ha sido acusada.
@@ -385,135 +383,136 @@ cometer todos los pecados individualistas de los que ha sido acusada.
 
 Los grupos desestructurados quizás sean muy efectivos para hacer que las
 mujeres hablen sobre sus vidas; pero no son muy buenos para lograr que
-se hagan las cosas. Esto es cuando las personas se cansan de "solo
-hablar" y quieren hacer algo más que estar dando vueltas sin hacer nada
-pero en grupo, a menos que cambien la naturaleza de su operación.
-Ocasionalmente, la estructura informal desarrollada coincide con una
-necesidad que el grupo puede cumplir de forma tal que se da la
-apariencia de que su desestructura "funciona". Es decir, el grupo ha
-desarrollado fortuitamente el tipo de estructura más adecuado para
-comprometerse en un proyecto en particular.
+se hagan las cosas.  Así, a menos que cambien la naturaleza de su
+operación, acá es cuando las personas se cansan de "solo hablar" y 
+quieren empezar a hacer algo más que estar dando vueltas sin hacer nada
+en grupo.  Ocasionalmente la estructura informal desarrollada coincide 
+con la tendencia de consolidar la apariencia de que su desestructura 
+efectivamente "funciona". Es decir, el grupo ha desarrollado 
+fortuitamente el tipo de estructura más adecuado para comprometerse en 
+un proyecto en particular.
 
 Mientras que trabajar en este tipo de grupo es una experiencia
 embriagadora, es también rara y muy difícil de reproducir. Hay casi
-inevitablemente cuatro condiciones encontradas en tal grupo:
+inevitablemente cuatro condiciones encontradas en este tipo de grupo:
 
-#. Está orientado a las tareas. Su función es muy reducida y muy
-específica, como preparar una conferencia o sacar un diario. Esta es la
-tarea que básicamente estructura al grupo. La tarea determina qué
-necesita hacerse y cuándo. Provee una guía por la que las personas
+#. Está orientado a las tareas.  Su función es muy reducida y muy
+específica, como preparar una conferencia o sacar un diario.  Esta es la
+tarea que básicamente estructura al grupo.  La tarea determina qué
+necesita hacerse y cuándo.  Provee una guía por la que las personas
 pueden juzgar sus acciones y hacer planes para futuras actividades.
 
-#. Es relativamente pequeño y homogéneo. La homogeneidad es necesaria
+#. Es relativamente pequeño y homogéneo.  La homogeneidad es necesaria
 para asegurar que las participantes tengan un "lenguaje común" para
-interactuar. Las personas de diferentes contextos pueden enriquecer un
+interactuar.  Las personas de diferentes contextos pueden enriquecer un
 grupo de toma de conciencia donde cada una puede aprender de las
 experiencias de otras, pero una diversidad muy amplia en un grupo
-orientado a tareas significa que las participantes van a malinterpretarse
-constantemente.  Personas muy diversas interpretan las palabras
-y las acciones de formas distintas.  Tienen distintas expectativas sobre
-el comportamiento de las demás y juzgan los resultados bajo diferentes
-criterios.  Si todas se conocen entre sí lo suficiente como para
-comprender los matices, pueden acomodarse.  Usualmente, sólo llevan a
-mayor confusión e interminables horas ocupadas en resolver conflictos
-que nadie esperaba.
+orientado a las tareas, significa que las participantes van a 
+malinterpretarse constantemente.  Personas muy diversas interpretan las 
+palabras y las acciones de formas distintas.  Tienen distintas 
+expectativas sobre el comportamiento de las demás y juzgan los 
+resultados bajo diferentes criterios.  Si todas se conocen entre sí lo 
+suficiente como para comprender los matices, pueden acomodarse.  
+Usualmente, solo llevan a mayor confusión e interminables horas 
+ocupadas en resolver conflictos que nadie esperaba.
 
-#. Existe un alto grado de comunicación. La información debe ser pasada
+#. Existe un alto grado de comunicación.  La información debe ser pasada
 a todas, las opiniones chequeadas, el trabajo dividido y la
 participación asegurada en las decisiones relevantes. Esto sólo es
-posible si el grupo es pequeño y la personas viven prácticamente juntas
-durante la mayoría de las etapas cruciales de las tareas. No hace falta decir
-que el número de interacciones necesarias para involucrar a todas
-aumenta geométricamnete con el número de participantes. Esto
+posible si el grupo es pequeño y las personas viven prácticamente juntas
+durante la mayoría de las etapas cruciales de las tareas.  No hace falta 
+decir que el número de interacciones necesarias para involucrar a todas
+aumenta geométricamnete con el número de participantes.  Esto
 inevitablemente limita el grupo de participantes a unas cinco, o excluye
-a algunas de algunas decisiones. Los grupos exitosos pueden ser tan
-grandes como diez o quince personas, pero sólo cuando están de hecho
+a algunas de ciertas decisiones.  Los grupos exitosos pueden ser tan
+grandes como diez o quince personas, pero solo cuando están de hecho
 compuestos por varios subgrupos más pequeños que realizan partes
-específicas de las tareas y cuyas integrantes se solapan entre sí de modo
-que el conocimiento de lo que los diferentes grupos están haciendo puede
-ser transmitido con facilidad.
+específicas de las tareas y sus integrantes se solapan entre sí, 
+pueden funcionar de modo tal que el conocimiento de lo que están haciendo
+se transmita con facilidad entre los diferentes grupos.
 
-#. Existe un bajo grado de especialización de habilidades. No todas
+#. Existe un bajo grado de especialización de habilidades.  No todas
 tienen que ser capaces de hacer todo, pero todo debe ser posible de ser
-realizado por más de una persona. Por lo tanto ninguna es indispensable.
+realizado por más de una persona.  Por lo tanto ninguna es indispensable.
 En cierta medida, las personas se convierten en partes intercambiables.
 
 Si bien estas condiciones pueden ocurrir por serendipia[^serendipia] en
 grupos pequeños, esto no es posible en los grandes. En consecuencia,
-porque el movimiento mayor en la mayoría de las ciudades es tan
-desestructurado como los grupos de difusión individuales, no son mucho
-más eficaces que grupos separados en distintas tareas específicas. La
-estructura informal es raramente lo bastante unida o está lo suficientemente
-en contacto con la gente para ser capaz de operar efectivamente.
-Entonces el movimiento genera mucha tracción y pocos resultados.
-Desafortunadamente, las consecuencias de tal tracción no son tan inocuas
-como sus resultados y su víctima es el movimiento mismo.
+debido a que el movimiento mayor en la mayoría de las ciudades es tan
+desestructurado como los grupos de difusión individuales, no son más 
+eficaces que grupos separados en distintas tareas específicas.  
+La estructura informal es raramente lo bastante unida o está lo 
+suficientemente en contacto con la gente como para ser capaz de operar 
+efectivamente.  Entonces el movimiento genera mucha tracción y pocos 
+resultados.  Desafortunadamente, las consecuencias de tal tracción no 
+son tan inocuas como sus resultados y su víctima es el movimiento mismo.
 
 [^serendipia]: Una serendipia es un descubrimiento o un hallazgo afortunado e
 inesperado que se produce cuando se está buscando otra cosa distinta. Ver más
 en [https://es.wikipedia.org/wiki/Serendipia](https://es.wikipedia.org/wiki/Serendipia)
 
 Algunos grupos se han convertido en proyectos de acción local porque no
-se involucra a muchas personas y trabajan en pequeña escala. Pero esta
+se involucra a muchas personas y trabajan en pequeña escala.  Pero esta
 forma restringe la actividad del movimiento al nivel local; no se puede
-hacer de la misma forma en lo nacional o regional. Además, para
-funcionar bien los grupos por lo general deben recortarse a ese grupo
+hacer de la misma forma en lo nacional o regional.  Además, para
+funcionar bien, los grupos, por lo general deben recortarse a ese grupo
 informal de amigas que hacían funcionar las cosas desde un principio.
-Esto excluye de participar a muchas mujeres. Mientras la única manera de
+Esto excluye de participar a muchas mujeres.  Mientras la única manera de
 que las mujeres puedan participar en el movimiento sea a través de la
 pertenencia a un pequeño grupo, las no gregarias están en una desventaja
-distintiva. Mientras los grupos de amigas sean los medios principales de
+distintiva.  Mientras los grupos de amigas sean los medios principales de
 la organización de las actividades, el elitismo seguirá
 institucionalizándose.
 
 Para aquellos grupos que no logran encontrar un proyecto local al cual
-dedicarse, el mero acto de estar unidos se convierte en la razón de
-estar juntos. Cuando un grupo no tiene tareas específicas (y la toma de
+dedicarse, el mero acto de estar unidas se convierte en la razón de
+estar juntas.  Cuando un grupo no tiene tareas específicas (y la toma de
 conciencia es una tarea), las personas vuelcan sus energías a controlar
 a otras dentro de los grupos. Esto no se hace tanto por el deseo
 malicioso de manipular a otras (aunque a veces sea así) sino por una falta
-de algo mejor que hacer con sus talentos. Las personas capaces con
-tiempo en sus manos y una necesidad de justificar su unión pone sus
-esfuerzos en el control personal y pasa su tiempo criticando las
-personalidades de otras integrantes del grupo. Las peleas internas y los
-juegos de poder personal dominan el día. Cuando un grupo está
+de algo mejor que hacer con sus talentos.  Las personas capaces, con
+tiempo en sus manos y una necesidad de justificar su unión, ponen sus
+esfuerzos en el control personal y pasan su tiempo criticando las
+personalidades de otras integrantes del grupo.  Las peleas internas y los
+juegos de poder personal dominan el día.  Cuando un grupo está
 involucrado en una tarea, hay quienes aprenden a llevarse bien con otras
 tal como son y dejar de lado las diferencias personales por el bien del
-objetivo mayor. Se ponen límites a la compulsión de remodelar a toda
+objetivo mayor.  Se ponen límites a la compulsión de remodelar a toda
 persona según nuestra imagen de lo que deberían ser.
 
 El fin de la toma de conciencia deja gente sin lugar donde ir y la falta
-de estructura los deja sin forma de llegar allí. Las mujeres del
-movimiento se vuelven en sí mismas y sus hermanas o buscan otras
-alternativas de acción. Hay muy pocas disponibles. Algunas mujeres solo
-"hacen sus cosas." Esto puede llevar a una gran creatividad individual,
-mucha de la cual es útil para el movimiento, aunque no es una
-alternativa viable para la mayoría de las mujeres y ciertamente no
-fomenta un espíritu de esfuerzo grupal cooperativo. Otras mujeres se
-desvían completamente del movimiento porque no quieren desarrollar un
-proyecto individual y no hallan forma de descubrir, unirse o iniciar
-proyectos grupales que les interesen.
+de estructura las deja sin forma de llegar ahí.  Las mujeres del
+movimiento tienen dos alternativas,  o se vuelven en sí mismas y sus 
+hermanas, o buscan otras alternativas de acción.  Hay muy pocas opciones 
+disponibles.  Algunas mujeres solo "hacen sus cosas".  Esto puede llevar 
+a una gran creatividad individual, mucha de la cual es útil para el 
+movimiento, pero no es una alternativa viable para la mayoría de las 
+mujeres y ciertamente no fomenta un espíritu de esfuerzo grupal 
+cooperativo. Otras mujeres se desvían completamente del movimiento 
+porque no quieren desarrollar un proyecto individual y no hallan forma 
+de descubrir, unirse o iniciar proyectos grupales que les interesen.
 
 Muchas se dirigen a otras organizaciones políticas para encontrar el
 tipo de actividad efectiva y estructurada que no fueron capaces de
-encontrar en el movimiento de mujeres. Las organizaciones políticas que
-ven la liberación de las mujeres como sólo una de muchas cuestiones a
-las cuales las mujeres deben dedicar su tiempo encuentran en el
-movimiento un vasto campo de reclutamiento de nuevas integrantes. No hay
-necesidad de "infiltrar" tales organizaciones (aunque esto no se
-excluye). El deseo de una actividad política significativa generada en
+encontrar en el movimiento de mujeres.  Las organizaciones políticas que
+ven la liberación de las mujeres como solo una de muchas cuestiones a
+las cuales las mujeres deben dedicar su tiempo, encuentran en el
+movimiento un vasto campo de reclutamiento de nuevas integrantes.  
+No hay necesidad de "infiltrar" tales organizaciones (aunque esto no se
+excluye).  El deseo de una actividad política significativa generada en
 las mujeres por su devenir en el movimiento de liberación de las mujeres
 es suficiente para volverlas ansiosas por unirse a otras organizaciones
 cuando el movimiento en sí mismo es incapaz de proveer medios para sus
-nuevas ideas y energías. Aquellas mujeres que se unen a otras
+nuevas ideas y energías.  Aquellas mujeres que se unen a otras
 organizaciones políticas sin abandonar el movimiento o que se unen al
 movimiento sin abandonar otras organizaciones políticas, a su vez se
-convierten en el marco de nuevas estructuras informales. Estas redes de
+convierten en el marco de nuevas estructuras informales.  Estas redes de
 amistad están basadas en sus prácticas políticas no feministas en lugar
-de las características discutidas anteriormente, aunque operan en la
+de las características discutidas anteriormente, aunque operan de la
 misma manera. Como esas mujeres comparten valores en común, ideas y
-orientaciones políticas, también se vuelven élites informales, no planificadas,
-no seleccionadas, sin responsabilidad --intenten serlo o no.
+orientaciones políticas, también se vuelven élites informales, 
+no planificadas, no seleccionadas, sin responsabilidad --intenten serlo 
+o no.
 
 Estas nuevas élites informales son a menudo percibidas como amenazas por
 las antiguas élites informales previamente desarrolladas dentro de los
