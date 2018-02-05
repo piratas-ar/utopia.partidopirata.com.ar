@@ -514,36 +514,36 @@ orientaciones políticas, también se vuelven élites informales,
 no planificadas, no seleccionadas, sin responsabilidad --intenten serlo 
 o no.
 
-Estas nuevas élites informales son a menudo percibidas como amenazas por
-las antiguas élites informales previamente desarrolladas dentro de los
-diferentes grupos del movimiento. Esta percepción es correcta. Tales
+Estas nuevas elites informales son a menudo percibidas como amenazas por
+parte de las antiguas elites informales, previamente desarrolladas dentro de los
+diferentes grupos del movimiento.  Esta percepción es correcta. Tales
 redes políticamente orientadas están raramente dispuestas a ser
-meramente "sororidades" como lo eran muchas de las antiguas y quieren
-hacer proselitismo tanto de su política como de sus ideas feministas.
-Esto es natural, pero las implicancias para la liberación de las mujeres
-nunca fueron adecuadamente discutidas. Las antiguas élites están poco
+meramente "sororidades" como lo eran muchas de las antiguas, y quieren
+hacer proselitismo tanto de su política, como de sus ideas feministas.
+Esto es natural pero las implicancias para la liberación de las mujeres
+nunca fueron adecuadamente discutidas.  Las antiguas elites están poco
 dispuestas a traer tales diferencias de opinión a la luz pública porque
 implicaría exponer la naturaleza de la estructura informal del grupo.
 
-Muchas de estas élites informales estuvieron ocultas bajo la bandera del
-"anti-elitismo" o la "falta de estructuras."  Para contrarrestar
+Muchas de estas elites informales estuvieron ocultas bajo la bandera del
+"anti-elitismo" o la "falta de estructuras".  Para contrarrestar
 efectivamente la competencia de otra estructura informal, tendrían que
 volverse "públicas" y esta posibilidad está cargada con muchas
-implicaciones peligrosas. Por lo tanto, para mantener su propio poder,
+implicaciones peligrosas.  Por lo tanto, para mantener su propio poder,
 es más fácil racionalizar la exclusion de las integrantes de la otra
 estructura informal por medios como el hostigamiento a las
-izquierdistas, las reformistas, las lesbianas o las heterosexuales. La
+izquierdistas, las reformistas, las lesbianas o las heterosexuales.  La
 única alternativa es estructurar formalmente al grupo de tal manera que
-la estructura de poder original se institucionalice. Esto no siempre es
-posible. Si las élites informales han estado bien estructuradas y han
+la estructura de poder original se institucionalice.  Esto no siempre es
+posible.  Si las elites informales han estado bien estructuradas y han
 ejercido una buena cantidad de poder en el pasado, tal tarea es
-factible. Estos grupos tienen una historia de efectividad política, ya que
+factible.  Estos grupos tienen una historia de efectividad política, ya que
 lo ajustado de su estructura informal ha demostrado ser un
-sustituto adecuado de una estructura formal. Convertirse en un grupo
+sustituto adecuado de una estructura formal.  Convertirse en un grupo
 estructurado no altera mucho su forma de operar, aunque la
 institucionalización del poder estructurado lo abre a un desafío formal.
 Los grupos que tienen mayor necesidad de estructura son los que a menudo
-resultan menos capaces de crearla. Sus estructuras informales no han
+resultan menos capaces de crearla.  Sus estructuras informales no han
 sido bien formadas y su adherencia a la ideología de la "falta de
 estructuras" las vuelve reluctantes a cambiar de táctica.  Mientras más
 falto de estructura sea un grupo, más carente de estructuras informales
@@ -552,100 +552,100 @@ más vulnerable es a ser tomado por un grupo de camaradas políticas.
 
 Ya que el movimiento en general es tan falto de estructuras como la
 mayoría de sus grupos constituyentes, es igualmente susceptible a la
-influencia indirecta. Pero el fenómeno se manifiesta de forma diferente.
-A nivel local la mayoría de los grupos pueden operar de manera autónoma;
+influencia indirecta.  Pero el fenómeno se manifiesta de forma diferente.
+A nivel local la mayoría de los grupos pueden operar de manera autónoma,
 pero los únicos grupos que pueden organizar actividades nacionales son
-los grupos organizados en ese nivel. Por esto, es común que las
+los grupos organizados en ese nivel.  Por esto, es común que las
 organizaciones feministas estructuradas provean dirección nacional a las
 actividades feministas y esta dirección es determinada por sus
-prioridades. Grupos como NOW, WEAL y algunas camarillas de mujeres
-izquierdistas son simplemente las únicas organizaciones capaces de
-montar una campaña nacional. La multitud de grupos de liberación de las
-mujeres no estructurados pueden optar por apoyar o no las campañas
-nacionales, pero son incapaces de montar las suyas propias. Así sus
+prioridades.  Grupos como NOW, WEAL y algunas camarillas de mujeres
+izquierdistas, son simplemente las únicas organizaciones capaces de
+montar una campaña nacional.  La multitud de grupos de liberación de las
+mujeres no estructurados, pueden optar por apoyar o no las campañas
+nacionales pero son incapaces de montar las suyas propias.  Así sus
 integrantes se vuelven las tropas bajo el liderazgo de las organizaciones
-estructuradas. Los grupos declaradamente no estructurados no tienen
+estructuradas.  Los grupos declaradamente no estructurados no tienen
 manera de recurrir a los vastos recursos del movimiento para apoyar sus
-prioridades. No tienen siquiera una manera de decidir lo que son.
+prioridades.  No tienen siquiera una manera de decidir lo que son.
 
 Cuanto más falto de estructura es un movimiento, menos control tiene
 sobre las direcciones en las que se desarrolla y las acciones políticas
-en las que participa. Esto no quiere decir que sus ideas no se difundan.
+en las que participa.  Esto no quiere decir que sus ideas no se difundan.
 Dado un cierto interés de los medios de comunicación y la adecuación de
 las condiciones sociales, las ideas serán todavía difundidas
-ampliamente. Pero la difusión de las ideas no significa que sean
-implementadas; solo quiere decir que se habla de ellas. En la medida en
+ampliamente, pero la difusión de las ideas no significa que sean
+implementadas, solo quiere decir que se habla de ellas.  En la medida en
 que puedan aplicarse individualmente podrán ser practicadas, pero en la
 medida en que requieran poder político coordinado para ser
 implementadas, no lo serán.
 
 Mientras los movimientos de liberación de las mujeres se dediquen a
-una forma de organización que hace hincapié en grupos de discusión
+una forma de organización que haga hincapié en grupos de discusión
 pequeños e inactivos entre amigas, los peores problemas de la falta de
-estructura no se sentirán. Pero este estilo de organización tiene sus
+estructura no se sentirán.  Pero este estilo de organización tiene sus
 límites; es políticamente ineficaz, exclusivo y discriminatorio contra
 aquellas mujeres que no son o no pueden ser atadas a esas redes de
-amistad. Aquellas que no encajan en lo que ya existe por su clase,
+amistad.  Aquellas que no encajan en lo que ya existe por su clase,
 raza, ocupación, educación, situación parental o matrimonial,
 personalidad, etc., serán inevitablemente desalentadas de intentar
-participar. Aquellas que encajen desarrollarán intereses personales en
+participar.  Aquellas que encajen desarrollarán intereses personales en
 mantener las cosas tal y como están.
 
 Los intereses personales de los grupos informales serán sustentados por
 la estructura informal existente y el movimiento no tendrá manera de
-determinar quién ejercerá poder dentro suyo. Si el movimiento continua
+determinar quién ejercerá poder dentro suyo.  Si el movimiento continúa
 deliberadamente no seleccionando quién ejercerá poder, no podrá
-abolir ese poder. Todo lo que hace es abdicar el derecho a exigir que las que
-ejercen poder e influencia sean responsables por ello. Si el movimiento
-continua manteniendo el poder tan difuso como sea posible porque sabe
+abolir ese poder.  Todo lo que hace es abdicar el derecho a exigir que las que
+ejercen poder e influencia sean responsables por ello.  Si el movimiento
+continúa manteniendo el poder tan difuso como sea posible porque sabe
 que no puede demandar responsabilidad de aquellas que lo tienen, evita
-que cualquier grupo o persona sea totalmente dominante. Pero
+que cualquier grupo o persona sea totalmente dominante.  Pero
 simultáneamente se asegura que el movimiento es tan ineficaz como sea
-posible. Algún punto intermedio entre dominación e ineficacia puede y
-debe ser encontrado.
+posible. Se puede encontrar algún punto intermedio entre dominación e 
+ineficacia.
 
 Estos problemas están alcanzando un punto crítico en este momento porque
-la naturaleza del movimiento necesariamente está cambiando. La
+la naturaleza del movimiento necesariamente está cambiando.  La
 concientización como la principal función del movimiento de liberación
-de las mujeres se está volviendo obsoleta. Debido a la intensa
+de las mujeres se está volviendo obsoleta.  Debido a la intensa
 publicidad de la prensa de los últimos dos años y los numerosos libros
 superficiales y artículos que circulan actualmente, la liberación de las
-mujeres se convirtió en una palabra doméstica. Sus temas se discuten y
+mujeres se convirtió en una palabra doméstica.  Sus temas se discuten y
 los grupos de difusión informales están formados por personas que no
 tienen ninguna conexión explícita con cualquier grupo del movimiento.
-El movimiento tiene que pasar a otras tareas. Ahora necesita establecer
+El movimiento tiene que pasar a otras tareas.  Ahora necesita establecer
 sus prioridades, articular sus metas y perseguir sus objetivos de una
-manera coordinada. Para hacer esto debe estar organizado --local,
+manera coordinada.  Para hacer esto debe estar organizado --local,
 regional y nacionalmente.
 
 
 # Principios de estructuración democrática
 
 Una vez que el movimiento ya no se aferre tenazmente a la ideología de
-la "falta de estructura", es libre de desarrollar esas formas de
-organización más adecuadas para un funcionamiento saludable. Esto no
+la "falta de estructura", será libre de desarrollar formas de
+organización más adecuadas para un funcionamiento saludable.  Esto no
 significa que debemos ir al otro extremo e imitar ciegamente las formas
-tradicionales de organización. Pero tampoco debemos rechazarlas
+tradicionales de organización, pero tampoco debemos rechazarlas
 ciegamente a todas.  Algunas de las técnicas tradicionales serán útiles,
 aunque no perfectas; algunas nos darán ideas sobre qué debemos y qué no
-debemos hacer para lograr ciertos fines con mínimo costo para las
+debemos hacer para lograr ciertos fines con un costo mínimo para las
 mujeres del movimiento.  Mayormente tendremos que experimentar con
-diferentes tipos de estructura y desarrollar una variedad de técnicas
-para usar en diferentes situaciones. El sistema de sorteo es una de esas
-ideas que emergieron del movimiento. No es aplicable a todas las
-situaciones, pero es útil en algunas. Otras ideas sobre estructuración
-son necesarias. Pero antes de que podamos proceder a experimentar
+diferentes tipos de estructuras y desarrollar una variedad de técnicas
+para usar en diferentes situaciones.  El sistema de sorteo es una de esas
+ideas que emergieron del movimiento.  No es aplicable a todas las
+situaciones, pero es útil en algunas.  Otras ideas sobre estructuración
+son necesarias.  Pero antes de que podamos proceder a experimentar
 inteligentemente, debemos aceptar que no hay nada inherentemente malo en la
-estructura misma -- sólo exceso de uso.
+estructura misma -- sólo excesos en los usos.
 
-Mientras nos involucramos en este proceso de prueba y error, hay algunos
-principios que podemos mantener en mente que son esenciales para una
-estructuración democrática y también son políticamente efectivos:
+Mientras nos involucramos en este proceso de prueba y error, podemos 
+mantener en mente algunos principios que son esenciales para una
+estructuración democrática y además son políticamente efectivos:
 
 #. __Delegación__ de autoridad específica para que personas específicas
 realicen tareas específicas mediante procedimientos democráticos.  Dejar
 que la gente asuma trabajos o tareas por su cuenta significa que no se
-llevarán a cabo de forma fiable. Si se seleccionan las personas para
+llevarán a cabo de forma fiable.  Si se seleccionan las personas para
 hacer una tarea, preferiblemente después de expresar interés o voluntad
 de hacerlo, quiere decir que han hecho un compromiso que no podrá ser
 fácilmente ignorado.
@@ -657,55 +657,54 @@ autoridad. Las personas pueden ejercer poder pero es el grupo el que
 tiene la última palabra sobre cómo será ejercido.
 
 #. La __distribución__ de la autoridad entre tantas personas como sea
-razonablemente posible. Esto previene el monopolio del poder y requiere
+razonablemente posible.  Esto previene el monopolio del poder y requiere
 que aquellas en posiciones de autoridad consulten con muchas otras
-durante el proceso de ejercerlo. También da a muchas personas la
+durante el proceso de ejercerlo.  También da a muchas personas la
 oportunidad de tener responsabilidad sobre tareas específicas y por lo
-tanto aprender diferentes habilidades.
+tanto desarrollar diferentes habilidades.
 
-#. La __rotación__ de tareas entre personas. Las responsabilidades que se
+#. La __rotación__ de tareas entre personas.  Las responsabilidades que se
 mantienen demasiado tiempo por una sola persona, formal o informalmente,
 terminan siendo vistas como su "propiedad" y no resulta fácil renunciar
-a ellas, o volver a controlarlas desde el grupo. Por el contrario, si
+a ellas, o volver a controlarlas desde el grupo.  Por el contrario, si
 las tareas son rotadas con demasiada frecuencia las personas no tienen
 tiempo de aprender bien su trabajo y adquirir el sentido de satisfacción
 por hacerlo bien.
 
-#. __Asignación__ de tareas en base a criterios racionales. Seleccionar a
-alguien para una posición porque es del agrado del grupo o dándole
-trabajo pesado porque les disgusta no sirve en el largo plazo ni al grupo ni a
-la persona. Capacidad, interés y responsabilidad deben ser las
-principales preocupaciones para tal selección. Las personas deben tener
-una oportunidad para aprender habilidades que no tienen, pero esto se
-hace mejor a través de algún tipo de programa de "aprendizaje" en lugar
-del método "hundirse o nadar". Tener una responsabilidad que no se puede
-manejar bien resulta desmoralizante. Por el contrario, ser impedida de
-hacer lo que una puede hacer bien no nos alienta a desarrollar nuestras
-habilidades. Las mujeres han sido castigadas por ser competentes durante
-la mayor parte de la historia humana; el movimiento no necesita que
-repetir este proceso.
+#. __Asignación__ de tareas en base a criterios racionales.  Seleccionar a
+alguien para una tarea porque es del agrado del grupo o darle trabajo 
+pesado porque les desagrada no sirve en el largo plazo, ni al grupo ni a
+la persona.  Capacidad, interés y responsabilidad deben ser las principales 
+preocupaciones para tal selección.  Las personas deben tener una oportunidad 
+para aprender habilidades que no tienen, pero esto se hace mejor a través 
+de algún tipo de programa de "aprendizaje" en lugar del método "hundirse o 
+nadar".  Tener una responsabilidad que no se puede manejar bien resulta 
+desmoralizante.  Por el contrario, ser impedida de hacer lo que una puede 
+hacer bien no nos alienta a desarrollar nuestras habilidades.  Las mujeres 
+hemos sido castigadas por ser competentes durante la mayor parte de la historia 
+humana, el movimiento no necesita que repetir este proceso.
 
 #. __Difusión de información__ a todo el mundo con la mayor frecuencia
-posible. La información es poder. El acceso a la información mejora el
-poder de cada una. Cuando una red informal difunde nuevas ideas e
-información entre ellas mismas por fuera del grupo, ya están
+posible.  La información es poder.  El acceso a la información mejora el
+poder de cada una.  Cuando una red informal difunde nuevas ideas e
+información entre ellas mismas por fuera del grupo, ya está
 participando en el proceso de formación de opinión --sin que el grupo
-participe. Cuanto más se sabe acerca de cómo funcionan las cosas y
+participe.  Cuanto más se sabe acerca de cómo funcionan las cosas y
 aquello que está sucediendo, más políticamente eficaces se puede ser.
 
-#. __Igualdad de acceso a los recursos__ que necesite el grupo. Esto no
-siempre es perfectamente posible, pero se debería procurar. Una integrante
+#. __Igualdad de acceso a los recursos__ que necesite el grupo.  Esto no
+siempre es perfectamente posible, pero se debería procurar.  Una integrante
 que mantiene un monopolio sobre un recurso necesario (como una imprenta
 propiedad del marido o un cuarto oscuro) puede influir indebidamente en
-su uso. Las habilidades y la información también son recursos. Las
-habilidades de las integrantes están equitativamente disponibles sólo
-cuando estas están dispuestas a enseñar lo que saben a las demás.
+su uso.  Las habilidades y la información también son recursos.  Las
+habilidades de las integrantes están equitativamente disponibles, solo
+cuando estas están dispuestas a enseñar a las demás lo que saben.
 
-Cuando se aplican estos principios, se asegura que cualquier estructura
+Cuando se aplican estos principios se asegura que cualquier estructura
 desarrollada por diferentes grupos del movimiento será controlada por el
-grupo y responsable ante éste. El grupo de personas en posiciones de
-autoridad será difuso, flexible, abierto y temporal. No van a estar en
+grupo y responsable ante éste.  El grupo de personas en posiciones de
+autoridad será difuso, flexible, abierto y temporal, no van a estar en
 una posición de institucionalizar su poder tan fácilmente porque las
-decisiones finales serán tomadas por el grupo en general. El grupo
+decisiones finales serán tomadas por el grupo en general.  El grupo
 tendrá la facultad de determinar quién ejercerá la autoridad dentro
 suyo.
