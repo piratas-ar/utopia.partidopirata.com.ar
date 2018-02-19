@@ -17,37 +17,31 @@ ecofeminismo. Es columnista de Beliefnet.com y On Faith.
 
 Nació en Saint Paul, EE.UU., y vive ahora en San Francisco, en donde
 trabaja con Reclaiming, una tradición de brujería que ella cofundó en
-los 1970s.
+los 70s.
 
 Es internacionalmente conocida como entrenadora en no violencia y
 acción directa, y como activista en el movimiento pacifista. También
 actúa dentro del feminismo y del movimiento altermundista. --
 https://es.wikipedia.org/wiki/Starhawk
 
-Danos una mano subiéndote al Barco de Traducción Pirata.
-
+Este texto fue raducido colaborativamente durante enero del 2014 por las piratas
+y utiliza la construcción "nosotras las personas" como plural indeterminado.
 Textos por [Starhawk](http://www.starhawk.org/).
-Traducidos colaborativamente durante enero del 2014 por las piratas.
-Esta traducción utiliza la construcción "nosotras las personas" como
-plural indeterminado.
 
-¡Hay muchos textos de Starhawk para traducir!
-
-Danos una mano en nuestro Barco de Traducción
-<traduccion@asambleas.partidopirata.com.ar>
-
-Los artículos de Starhawk en inglés están en:
+Y si querés leer más podés encontrar los artículos de Starhawk en inglés en:
 <http://www.consensusdecisionmaking.org/>
 
+¡Hay muchos textos de Starhawk para traducir!
+Subite a la Barca de Utopía Pirata.
 
 ¿Qué es el consenso?
 ====================
 
-El consenso es un proceso de toma de decisiones grupales. Es un método
-democrático por el que un grupo completo de gente llega a un acuerdo.
-Las opiniones y las ideas de todos los participantes son relevadas y
-sintetizadas para lograr una decisión final que es aceptable por todas.
-A través del consenso, no solo estamos trabajando para obtener mejores
+El consenso es un proceso grupal de toma de decisiones. Es un método
+democrático por el que un grupo completo de personas llega a un acuerdo.
+Las opiniones y las ideas de todas las participantes son relevadas y
+sintetizadas para lograr una decisión final que resulta aceptable para todas.
+A través del consenso no solo estamos trabajando para obtener mejores
 soluciones, sino también para promover el crecimiento de la comunidad y
 la confianza.
 
@@ -56,16 +50,16 @@ Consenso vs. Votación
 
 El voto es un medio por el que elegimos una alternativa entre varias. El
 consenso, por otro lado, es un proceso donde sintetizamos muchos
-elementos diversos juntos. El voto asume que la gente siempre compite
+elementos diversos. El voto asume que la gente siempre compite
 entre sí y que un acuerdo sólo puede ser alcanzado a través del
 compromiso. El consenso asume que la gente es capaz de acordar con las
 demás y que en tal atmósfera los conflictos y las diferencias pueden
 resultar en decisiones creativas e inteligentes. Otro supuesto
-importante hecho por el consenso es que el proceso requiere la
+importante del consenso es que el proceso requiere la
 participación de todas, tanto hablando como escuchando. Ninguna idea se
 pierde, la opinión de cada participante es valorada como parte de la
-solución y los sentimientos son tan importantes como los hechos al tomar
-una decisión. Es posible que el conocimiento de una persona o las
+solución y al tomar una decisión, los sentimientos son tan importantes 
+como los hechos. Así, es posible que el conocimiento de una persona o las
 creencias fuertemente arraigadas puedan influenciar al grupo entero, no
 obstante se debería seguir manteniendo la posibilidad de participación.
 
@@ -78,13 +72,13 @@ La responsabilidad fundamental del consenso es asegurarle a otros su
 derecho a hablar y a ser escuchados. Dado que nuestra sociedad ofrece
 muy poca formación en estas áreas, tenemos que desaprender muchas pautas
 de conducta con el fin de practicar un buen proceso de consenso (ver "La
-superación de comportamiento opresivo," en este manual). Consenso no
+superación de comportamiento opresivo", en esta misma publicación). Consenso no
 significa que todo el mundo piense que la decisión tomada es la forma
-más eficiente de lograr algo, o que están absolutamente seguros que
-funcionará. Lo que sí significa es que al arribar a esa decisión, nadie
+más eficiente de lograr algo, o que todas estemos absolutamente seguras que
+funcionará. Lo que significa es que al arribar a una decisión, nadie
 siente que ella o su posición sobre el tema no fue considerada
-cuidadosamente. Con suerte, todo el mundo pensará que es la mejor
-decisión; lo que a menudo sucede porque, cuando el consenso funciona
+cuidadosamente. Con suerte todo el mundo pensará que es la mejor
+decisión; lo que a menudo sucede porque cuando el consenso funciona
 correctamente, la inteligencia colectiva obtendrá mejores soluciones que
 las que se toman individualmente.
 
@@ -95,7 +89,7 @@ proceso de trabajo con sus tareas. El siguiente es un resumen de
 consenso formal, el proceso que un grupo utiliza para llegar a un
 acuerdo sobre un curso de acción en particular. En primer lugar, el
 problema debe ser indicado claramente. Esto puede provocar alguna
-discusión, para que el grupo identifique lo que necesita ser resuelto.
+discusión para que el grupo identifique lo que necesita ser resuelto.
 Luego, se debe discutir el problema, por lo que el grupo puede empezar a
 trabajar para llegar a una propuesta. El mayor error de la gente que
 busca consenso es ofrecer propuestas demasiado pronto, antes de que el
@@ -106,17 +100,17 @@ de discusión y separación en grupos pequeños. Cuando es evidente que el
 grupo empieza a marchar por el mismo camino, se puede hacer una
 propuesta que trate de sintetizar todos los sentimientos y puntos de
 vista expresados. La propuesta debe indicarse claramente. Luego se
-pasa a discutirla, pudiendo ser corregida o modificada. Durante este
+pasa a discutir la idea, pudiendo eśta ser corregida o modificada. Durante este
 período de discusión, es importante articular las diferencias con
-claridad. Es responsabilidad de aquellos que están teniendo problemas
+claridad. Es responsabilidad de aquellas que están teniendo problemas
 con una propuesta brindar recomendaciones alternativas. Cuando la
-propuesta es entendida por todos, y no hay más cambios por hacer,
-alguien (generalmente el/la facilitadora) puede preguntar si existe
+propuesta es entendida por todas, y no hay más cambios por hacer,
+alguien (generalmente la facilitadora) puede preguntar si existe
 alguna objeción o reservas a la propuesta. Ayuda tener un momento de
 silencio aquí, para que nadie se sienta coaccionado a acordar. Si no hay
-objeciones, el grupo se debe preguntar "¿Existe consenso?" Todos los
-miembros del grupo deben entonces activa y visiblemente indicar que
-están de acuerdo, prestando atención a cada miembro del grupo. Después
+objeciones, el grupo se debe preguntar "¿Existe consenso?" Todas las
+miembros del grupo deben entonces, indicar que están de acuerdo, activa 
+y visiblemente, prestando atención a cada miembro del grupo. Después
 de que se alcanzó el consenso, la decisión debe ser propuesta de nuevo,
 como una forma de asegurarse que todas tengan claro lo que se ha
 decidido. Antes de cerrar el tema, el grupo debe tener claro que está
