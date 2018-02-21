@@ -15,7 +15,7 @@ Starhawk (nombre de nacimiento Miriam Simos, Saint Paul, Minnesota,
 autodenominada bruja. Es conocida como teórica del neopaganismo y del
 ecofeminismo. Es columnista de Beliefnet.com y On Faith.
 
-Nació en Saint Paul, EE.UU., y vive ahora en San Francisco, en donde
+Nació en Saint Paul, EE.UU., y vive ahora en San Francisco, donde
 trabaja con Reclaiming, una tradición de brujería que ella cofundó en
 los 70s.
 
