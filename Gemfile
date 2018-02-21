@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+ruby '2.3.6'
+
 gem 'libv8' #, '3.16.14.3'
 gem 'json'
 gem 'therubyracer'
