@@ -68,8 +68,8 @@ obstante se debería seguir manteniendo la posibilidad de participación.
 
 El derecho fundamental del consenso es que todas las personas sean
 capaces de expresarse en sus propias palabras y por su propia voluntad.
-La responsabilidad fundamental del consenso es asegurarle a otros su
-derecho a hablar y a ser escuchados. Dado que nuestra sociedad ofrece
+La responsabilidad fundamental del consenso es asegurarle a otras su
+derecho a hablar y a ser escuchadas. Dado que nuestra sociedad ofrece
 muy poca formación en estas áreas, tenemos que desaprender muchas pautas
 de conducta con el fin de practicar un buen proceso de consenso (ver "La
 superación de comportamiento opresivo", en esta misma publicación). Consenso no
@@ -120,13 +120,13 @@ Dificultades para alcanzar el consenso
 --------------------------------------
 
 Si se ha producido suficiente discusión y todo el mundo ha participado
-igualmente, la decisión grupal a la que se hubiera llegado debería ser
+en igual medida, la decisión grupal a la que se haya llegado debería ser
 apoyada por todas. Pero dependiendo de la importancia de la decisión,
-las condiciones externas, y cómo se haya desarrollado el proceso, el
+las condiciones externas y cómo se haya desarrollado el proceso, el
 grupo podría estar a punto de llegar a una decisión que una persona no
-podría apoyar. Existen varias formas de expresar sus objeciones:
+podría apoyar. En ese caso, existen varias formas de expresar las objeciones:
 
--   Falta de apoyo: "No veo la necesidad de esto, pero acompañaré al
+-   Falta de apoyo: "No veo la necesidad de esto, pero voy a acompañar al
     grupo."
 
 -   Reserva: "Creo que es un error, pero puedo vivir con él."
