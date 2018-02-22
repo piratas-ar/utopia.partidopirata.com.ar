@@ -4,6 +4,7 @@ cover: "assets/covers/single_las_nuevas_anarquistas.png"
 slider: "assets/covers/slider_las_nuevas_anarquistas.png"
 title: "Las nuevas anarquistas"
 author: "David Graeber"
+toc: true
 ---
 
 Las nuevas anarquistas
@@ -12,8 +13,8 @@ Las nuevas anarquistas
 Notas de la edición
 ===================
 
-Publicado en la [New Left Review
-#13](http://newleftreview.es/13).  Convertido a markdown por
+Publicado en la [New Left Review #13](http://newleftreview.es/13).
+Convertido a markdown por
 [Bazza](https://github.com/b4zz4/ManifestanteXXI/blob/master/textos/los_nuevos_anarquistas.md).
 
 

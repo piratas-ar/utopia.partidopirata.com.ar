@@ -4,6 +4,7 @@ title: Carta Orgánica
 layout: post
 cover: "assets/covers/single_carta_organica_pirata.png"
 slider: "assets/covers/slider_carta_organica_pirata.png"
+toc: true
 ---
 
 DEL PARTIDO

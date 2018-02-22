@@ -4,6 +4,7 @@ author: Rick Falkvinge
 title: Historia del Copyright
 cover: "assets/covers/single_historia_del_copyright.png"
 slider: "assets/covers/slider_historia_del_copyright.png"
+toc: true
 ---
 
 Prefacio
@@ -23,75 +24,11 @@ Rick Falkvinge, esta traducción se libera bajo la licencia de Producción
 de Pares.
 
 
-Licencia de Producción de Pares (Versión legible por humanos)
-=============================================================
-
-> Esto es un resumen legible por humanos del [texto legal (la licencia
-> completa)](http://endefensadelsl.org/ppl_es.html)
-
-Ud. es libre de
----------------
-
-* Compartir - copiar, distribuir, ejecutar y comunicar públicamente la obra
-* Hacer obras derivadas
-
-Bajo las condiciones siguientes:
---------------------------------
-
-![](assets/images/by.png)
-
-**Atribución** - Debe reconocer los créditos de la obra de la manera
-especificada por el autor o el licenciante (pero no de una manera que
-sugiera que tiene su apoyo o que apoyan el uso que hace de su obra).
-
-![](assets/images/sa.png)
-
-**Compartir bajo la Misma Licencia** - Si altera o transforma esta obra,
-o genera una obra derivada, sólo puede distribuir la obra generada bajo
-una licencia idéntica a ésta.
-
-![](assets/images/nc.png)
-
-**No Capitalista** - La explotación comercial de esta obra sólo está
-permitida a cooperativas, organizaciones y colectivos sin fines de
-lucro, a organizaciones de trabajadores autogestionados, y donde no
-existan relaciones de explotación.  Todo excedente o plusvalía obtenidos
-por el ejercicio de los derechos concedidos por esta Licencia sobre la
-Obra deben ser distribuidos por y entre los trabajadores.
-
-
-Entendiendo que
----------------
-
-* **Renuncia** - Alguna de estas condiciones puede no aplicarse si se obtiene
-  el permiso del titular de los derechos de autor.
-
-* **Dominio Público** - Cuando la obra o alguno de sus elementos se halle en
-  el dominio público según la ley vigente aplicable, esta situación no quedará
-  afectada por la licencia.
-
-* **Otros derechos** - Los derechos siguientes no quedan afectados por
-  la licencia de ninguna manera:
-
-    + Los derechos derivados de usos legítimos u otras limitaciones
-      reconocidas por ley no se ven afectados por lo anterior;
-
-    + Los derechos morales del autor;
-
-    + Derechos que pueden ostentar otras personas sobre la propia obra o
-      su uso, como por ejemplo derechos de imagen o de privacidad.
-
-* **Aviso** - Al reutilizar o distribuir la obra, tiene que dejar muy en claro
-  los términos de la licencia de esta obra.  La mejor forma de hacerlo es
-  enlazar a esta página.
-
-
-
 La Peste Negra diezma a los copistas
 ====================================
 
 > Publicado originalmente en
-> http://falkvinge.net/2011/02/01/history-of-copyright-part-1-black-death/
+> <http://falkvinge.net/2011/02/01/history-of-copyright-part-1-black-death/>
 
 Empezaremos con la llegada de la peste negra al oeste de Europa,
 alrededor de 1350. Como en todos los otros lugares, Europa fue alcanzada
@@ -174,11 +111,12 @@ por más literatura.
 Bloody Mary
 ===========
 
-> Publicado originalmente en http://falkvinge.net/2011/02/02/history-of-copyright-part-2-tudoric-feud/
+> Publicado originalmente en
+> <http://falkvinge.net/2011/02/02/history-of-copyright-part-2-tudoric-feud/>
 
 El rey Enrique VIII quería un hijo que pudiese heredar el trono de
 Inglaterra y continuar la Dinastía Túdor, pero su casamiento fue una
-decepción. Su esposa, Catalina de Aragón, le dio solamente una hija,
+decepción. Su esposa, Catalina de Aragón, le dió solamente una hija,
 María. Y peor aún, el papa no le permitió divorciarse de Catalina, para
 poder casarse nuevamente e intentar generar un heredero.
 
@@ -211,7 +149,7 @@ no era posible distinguir entre lo que era información religiosa y lo
 que era información política.)
 
 Conocedora del fracaso de Francia en su intento de acabar con la
-imprenta, incluso bajo la amenaza de la horca, ella se dio cuenta de que
+imprenta, incluso bajo la amenaza de la horca, ella se dió cuenta de que
 precisaría encontrar otra solución. Una solución que beneficiase a los
 impresores y, así, conseguir su complicidad.
 
@@ -257,7 +195,7 @@ El monopolio muere y resucita
 =============================
 
 > Publicado originalmente en
-> http://falkvinge.net/2011/02/05/history-of-copyright-part-3-the-monopoly-dies-and-rises/
+> <http://falkvinge.net/2011/02/05/history-of-copyright-part-3-the-monopoly-dies-and-rises/>
 
 Como vimos en la segunda parte de esta serie, el monopolio del copyright
 fue instituido como un instrumento de censura por María I, en 1557,
@@ -350,7 +288,7 @@ Los Estados Unidos y las Bibliotecas
 ====================================
 
 > Publicado originalmente en
-> http://falkvinge.net/2011/02/08/history-of-copyright-part-4-the-us-and-libraries/
+> <http://falkvinge.net/2011/02/08/history-of-copyright-part-4-the-us-and-libraries/>
 
 El copyright no nació en los Estados Unidos. La idea había aparecido
 mucho antes, en Europa, como vimos en los primeros capítulos de esta
@@ -387,7 +325,7 @@ introducción del copyright en su legislación:
 Es muy interesante que el monopolio no haya sido adoptado para favorecer
 la remuneración de cualquier profesional --ni escritores, ni editores,
 ni distribuidores. Al contrario, el objetivo es ejemplar en su claridad:
-la única justificación para la existencia de el monopolio es si este
+la única justificación para la existencia de el monopolio es si este 
 amplía la cultura y el conocimiento a disposición de la sociedad.
 
 Así, el copyright (en los Estados Unidos y por lo tanto en la forma
@@ -477,7 +415,7 @@ Derechos Morales
 ================
 
 > Publicado originalmente en
-> http://falkvinge.net/2011/02/14/history-of-copyright-part-5-moral-rights/
+> <http://falkvinge.net/2011/02/14/history-of-copyright-part-5-moral-rights/>
 
 A fines del siglo XIX, el fortalecido monopolio del copyright de
 los editores había reducido la posibilidad de que los autores
@@ -518,7 +456,7 @@ creado.)
 Victor Hugo no sobrevivió para ver los frutos de su iniciativa, pero
 la Convención de Berna fue firmada en 1886. La convención determinaba
 que los copyrights de un país deberían ser respetados por los demás
-y fue creada una agencia, la BIRPI, para fiscalizarlo. Esa agencia
+y fué creada una agencia, la BIRPI, para fiscalizarlo. Esa agencia
 creció, se transmutó y se tranformó en la Organización Mundial de la
 Propiedad Intelectual (OMPI), que supervisa hasta hoy el cumplimiento de
 la Convención de Berna. La OMPI, a su vez, también creció, se transformó
@@ -575,7 +513,7 @@ Secuestrado por la industria fonográfica
 ========================================
 
 > Publicado originalmente en
-> http://falkvinge.net/2011/02/16/history-of-copyright-part-6-hijacked-by-record-industry/
+> <http://falkvinge.net/2011/02/16/history-of-copyright-part-6-hijacked-by-record-industry/>
 
 Durante la mayor parte del siglo XX, una batalla causó importantes
 estragos entre los músicos y la industria discográfica. Durante la
@@ -613,14 +551,14 @@ gil. Nadie, con una excepción:
 
 La Italia facista.
 
-(Esta palabra, facista, está cargada de emoción hoy. En aquel tiempo, el
-régimen italiano se autodeclaraba facista. Estoy usando la palabra para
+(Esta palabra, facista, está cargada de emoción hoy. En aquél tiempo, el
+regimen italiano se autodeclaraba facista. Estoy usando la palabra para
 describirlos exactamente como ellos lo hacían.)
 
 En 1933, la industria fonográfica fue invitada, por la Confederazione
 Generale Fascista dell’Industria Italiana, para participar de una
 conferencia en Roma. En este evento, celebrado entre los días 10 y 14
-de noviembre de aquel año, fue formada una federación internacional de
+de noviembre de aquél año, fue formada una federación internacional de
 la industria fonográfica, que sería más tarde conocida por sus siglas
 IFPI. Fue decidido, en la convención, que la IFPI trataría de trabajar
 dentro de la Convención de Berna para intentar establecer, para los
@@ -838,7 +776,7 @@ Anexo: La industria del copyright, un siglo de engaños
 ======================================================
 
 > Publicado originalmente en
-> http://falkvinge.net/2012/01/27/the-copyright-industry-a-century-of-deceit/
+> <http://falkvinge.net/2012/01/27/the-copyright-industry-a-century-of-deceit/>
 
 **Se dice que aquellos que no conocen la historia estan condenados a
 repetirla. En el caso de la industria del copyright, han aprendido
@@ -905,7 +843,7 @@ lados. La banda Dead Kennedys respondió cambiando sutilmente el mensaje
 agregando "las ganancias de la industria musical" y "Dejamos este lado
 [de la cinta] vacío, para que puedas ayudar."
 
-La década del 70 también vio otro cambio significativo, cuando los
+La década del 70 también vió otro cambio significativo, cuando los
 **DJs y altavoces** comenzaron a tomar el lugar de la música dance en
 vivo. Los sindicatos y la industria del copyright apuntaron sus armas
 contra esto y sugirieron el pago de "honorarios disco" que serían
@@ -949,7 +887,7 @@ conocido como MPEG-1 Audio Layer III, fue rápidamente resumido a
 "**MP3**" en la charla de todos los días. La industria del copyright
 volvió a gritar otra vez, llamándola una tecnología que sólo podía ser
 usada para la actividad criminal. El primer reproductor exitoso de MP3,
-el Diamind Rio, vio la luz en 1998. Tenía 32 megabytes de memoria. A
+el Diamind Rio, vió la luz en 1998. Tenía 32 megabytes de memoria. A
 pesar de las buenas ventas, la industria del copyright demandó a su
 creador, Diamond Multimedia, hasta dejarlo en el olvido: aunque la
 demanda fue dada de baja, la compañía no se recuperó de los costos de su
@@ -992,5 +930,5 @@ industria del copyright tiene éxito en hacerlo, este comportamiento **se
 ve reforzado.**
 
 **Es hora de que le arranquemos los beneficios de nobleza a la industria
-del copyright, su renta concedida por el estado y sea pateada de su
+del copyright, su renta concedida por el Estado y sea pateada de su
 cómodo sillón para que aprenda a competir en igualdad de condiciones**.

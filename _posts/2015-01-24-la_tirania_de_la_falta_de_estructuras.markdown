@@ -4,7 +4,10 @@ author: Joreen
 title: "La tiranía de la falta de estructuras"
 cover: "assets/covers/single_la_tirania_de_la_falta_de_estructuras.png"
 slider: "assets/covers/slider_la_tirania_de_la_falta_de_estructuras.png"
+toc: true
 ---
+
+# Prefacio
 
 La versión más temprana de este artículo fue presentada como una charla
 en una conferencia organizada por el Sindicato por los Derechos de la
@@ -26,8 +29,8 @@ versiones citadas.
 Esta versión[^tyranny] fue traducida por piratas del Partido Pirata de
 Argentina[^ppar].
 
-[^tyranny]: [http://www.jofreeman.com/joreen/tyranny.htm](http://www.jofreeman.com/joreen/tyranny.htm)
-[^ppar]: [http://partidopirata.com.ar](http://partidopirata.com.ar)
+[^tyranny]: <http://www.jofreeman.com/joreen/tyranny.htm>
+[^ppar]: <https://partidopirata.com.ar>
 
 # Introducción
 
@@ -284,7 +287,8 @@ internamente, para cultivar activamente su amistad.  Eventualmente la
 sponsor nos hará entrar al círculo.
 
 [^sororidad]: Una organización social para estudiantes muy común en las
-universidades estadounidenses. Ver [https://es.wikipedia.org/wiki/Fraternidades_y_sororidades](https://es.wikipedia.org/wiki/Fraternidades_y_sororidades)
+  universidades estadounidenses. Ver
+  <https://es.wikipedia.org/wiki/Fraternidades_y_sororidades>
 
 Todos estos procedimientos toman tiempo, así que si una trabaja a tiempo
 completo o tiene otro compromiso similar, resulta imposible participar,
@@ -399,45 +403,47 @@ Mientras que trabajar en este tipo de grupo es una experiencia
 embriagadora, es también rara y muy difícil de reproducir. Hay casi
 inevitablemente cuatro condiciones encontradas en tal grupo:
 
-#. Está orientado a las tareas. Su función es muy reducida y muy
-específica, como preparar una conferencia o sacar un diario. Esta es la
-tarea que básicamente estructura al grupo. La tarea determina qué
-necesita hacerse y cuándo. Provee una guía por la que las personas
-pueden juzgar sus acciones y hacer planes para futuras actividades.
+1. Está orientado a las tareas. Su función es muy reducida y muy
+   específica, como preparar una conferencia o sacar un diario. Esta es
+   la tarea que básicamente estructura al grupo. La tarea determina qué
+   necesita hacerse y cuándo. Provee una guía por la que las personas
+   pueden juzgar sus acciones y hacer planes para futuras actividades.
 
-#. Es relativamente pequeño y homogéneo. La homogeneidad es necesaria
-para asegurar que las participantes tengan un "lenguaje común" para
-interactuar. Las personas de diferentes contextos pueden enriquecer un
-grupo de toma de conciencia donde cada una puede aprender de las
-experiencias de otras, pero una diversidad muy amplia en un grupo
-orientado a tareas significa que las participantes van a malinterpretarse
-constantemente.  Personas muy diversas interpretan las palabras
-y las acciones de formas distintas.  Tienen distintas expectativas sobre
-el comportamiento de las demás y juzgan los resultados bajo diferentes
-criterios.  Si todas se conocen entre sí lo suficiente como para
-comprender los matices, pueden acomodarse.  Usualmente, sólo llevan a
-mayor confusión e interminables horas ocupadas en resolver conflictos
-que nadie esperaba.
+2. Es relativamente pequeño y homogéneo. La homogeneidad es necesaria
+   para asegurar que las participantes tengan un "lenguaje común" para
+   interactuar. Las personas de diferentes contextos pueden enriquecer
+   un grupo de toma de conciencia donde cada una puede aprender de las
+   experiencias de otras, pero una diversidad muy amplia en un grupo
+   orientado a tareas significa que las participantes van a
+   malinterpretarse constantemente.  Personas muy diversas interpretan
+   las palabras y las acciones de formas distintas.  Tienen distintas
+   expectativas sobre el comportamiento de las demás y juzgan los
+   resultados bajo diferentes criterios.  Si todas se conocen entre sí
+   lo suficiente como para comprender los matices, pueden acomodarse.
+   Usualmente, sólo llevan a mayor confusión e interminables horas
+   ocupadas en resolver conflictos que nadie esperaba.
 
-#. Existe un alto grado de comunicación. La información debe ser pasada
-a todas, las opiniones chequeadas, el trabajo dividido y la
-participación asegurada en las decisiones relevantes. Esto sólo es
-posible si el grupo es pequeño y la personas viven prácticamente juntas
-durante la mayoría de las etapas cruciales de las tareas. No hace falta decir
-que el número de interacciones necesarias para involucrar a todas
-aumenta geométricamnete con el número de participantes. Esto
-inevitablemente limita el grupo de participantes a unas cinco, o excluye
-a algunas de algunas decisiones. Los grupos exitosos pueden ser tan
-grandes como diez o quince personas, pero sólo cuando están de hecho
-compuestos por varios subgrupos más pequeños que realizan partes
-específicas de las tareas y cuyas integrantes se solapan entre sí de modo
-que el conocimiento de lo que los diferentes grupos están haciendo puede
-ser transmitido con facilidad.
+3. Existe un alto grado de comunicación. La información debe ser pasada
+   a todas, las opiniones chequeadas, el trabajo dividido y la
+   participación asegurada en las decisiones relevantes. Esto sólo es
+   posible si el grupo es pequeño y la personas viven prácticamente
+   juntas durante la mayoría de las etapas cruciales de las tareas. No
+   hace falta decir que el número de interacciones necesarias para
+   involucrar a todas aumenta geométricamnete con el número de
+   participantes. Esto inevitablemente limita el grupo de participantes
+   a unas cinco, o excluye a algunas de algunas decisiones. Los grupos
+   exitosos pueden ser tan grandes como diez o quince personas, pero
+   sólo cuando están de hecho compuestos por varios subgrupos más
+   pequeños que realizan partes específicas de las tareas y cuyas
+   integrantes se solapan entre sí de modo que el conocimiento de lo que
+   los diferentes grupos están haciendo puede ser transmitido con
+   facilidad.
 
-#. Existe un bajo grado de especialización de habilidades. No todas
-tienen que ser capaces de hacer todo, pero todo debe ser posible de ser
-realizado por más de una persona. Por lo tanto ninguna es indispensable.
-En cierta medida, las personas se convierten en partes intercambiables.
+4. Existe un bajo grado de especialización de habilidades. No todas
+   tienen que ser capaces de hacer todo, pero todo debe ser posible de
+   ser realizado por más de una persona. Por lo tanto ninguna es
+   indispensable.  En cierta medida, las personas se convierten en
+   partes intercambiables.
 
 Si bien estas condiciones pueden ocurrir por serendipia[^serendipia] en
 grupos pequeños, esto no es posible en los grandes. En consecuencia,
@@ -450,9 +456,9 @@ Entonces el movimiento genera mucha tracción y pocos resultados.
 Desafortunadamente, las consecuencias de tal tracción no son tan inocuas
 como sus resultados y su víctima es el movimiento mismo.
 
-[^serendipia]: Una serendipia es un descubrimiento o un hallazgo afortunado e
-inesperado que se produce cuando se está buscando otra cosa distinta. Ver más
-en [https://es.wikipedia.org/wiki/Serendipia](https://es.wikipedia.org/wiki/Serendipia)
+[^serendipia]: Una serendipia es un descubrimiento o un hallazgo
+  afortunado e inesperado que se produce cuando se está buscando otra
+  cosa distinta. Ver más en <https://es.wikipedia.org/wiki/Serendipia>.
 
 Algunos grupos se han convertido en proyectos de acción local porque no
 se involucra a muchas personas y trabajan en pequeña escala. Pero esta
@@ -644,64 +650,65 @@ Mientras nos involucramos en este proceso de prueba y error, hay algunos
 principios que podemos mantener en mente que son esenciales para una
 estructuración democrática y también son políticamente efectivos:
 
-#. __Delegación__ de autoridad específica para que personas específicas
-realicen tareas específicas mediante procedimientos democráticos.  Dejar
-que la gente asuma trabajos o tareas por su cuenta significa que no se
-llevarán a cabo de forma fiable. Si se seleccionan las personas para
-hacer una tarea, preferiblemente después de expresar interés o voluntad
-de hacerlo, quiere decir que han hecho un compromiso que no podrá ser
-fácilmente ignorado.
+1. __Delegación__ de autoridad específica para que personas específicas
+   realicen tareas específicas mediante procedimientos democráticos.
+   Dejar que la gente asuma trabajos o tareas por su cuenta significa
+   que no se llevarán a cabo de forma fiable. Si se seleccionan las
+   personas para hacer una tarea, preferiblemente después de expresar
+   interés o voluntad de hacerlo, quiere decir que han hecho un
+   compromiso que no podrá ser fácilmente ignorado.
 
-#. Requerir que todas aquellas a quienes se les ha delegado una
-autoridad sean __responsables__ hacia las que las seleccionaron. Esta es la
-forma en que el grupo tiene control sobre las personas en posiciones de
-autoridad. Las personas pueden ejercer poder pero es el grupo el que
-tiene la última palabra sobre cómo será ejercido.
+2. Requerir que todas aquellas a quienes se les ha delegado una
+   autoridad sean __responsables__ hacia las que las seleccionaron. Esta
+   es la forma en que el grupo tiene control sobre las personas en
+   posiciones de autoridad. Las personas pueden ejercer poder pero es el
+   grupo el que tiene la última palabra sobre cómo será ejercido.
 
-#. La __distribución__ de la autoridad entre tantas personas como sea
-razonablemente posible. Esto previene el monopolio del poder y requiere
-que aquellas en posiciones de autoridad consulten con muchas otras
-durante el proceso de ejercerlo. También da a muchas personas la
-oportunidad de tener responsabilidad sobre tareas específicas y por lo
-tanto aprender diferentes habilidades.
+3. La __distribución__ de la autoridad entre tantas personas como sea
+   razonablemente posible. Esto previene el monopolio del poder y
+   requiere que aquellas en posiciones de autoridad consulten con muchas
+   otras durante el proceso de ejercerlo. También da a muchas personas
+   la oportunidad de tener responsabilidad sobre tareas específicas y
+   por lo tanto aprender diferentes habilidades.
 
-#. La __rotación__ de tareas entre personas. Las responsabilidades que se
-mantienen demasiado tiempo por una sola persona, formal o informalmente,
-terminan siendo vistas como su "propiedad" y no resulta fácil renunciar
-a ellas, o volver a controlarlas desde el grupo. Por el contrario, si
-las tareas son rotadas con demasiada frecuencia las personas no tienen
-tiempo de aprender bien su trabajo y adquirir el sentido de satisfacción
-por hacerlo bien.
+4. La __rotación__ de tareas entre personas. Las responsabilidades que
+   se mantienen demasiado tiempo por una sola persona, formal o
+   informalmente, terminan siendo vistas como su "propiedad" y no
+   resulta fácil renunciar a ellas, o volver a controlarlas desde el
+   grupo. Por el contrario, si las tareas son rotadas con demasiada
+   frecuencia las personas no tienen tiempo de aprender bien su trabajo
+   y adquirir el sentido de satisfacción por hacerlo bien.
 
-#. __Asignación__ de tareas en base a criterios racionales. Seleccionar a
-alguien para una posición porque es del agrado del grupo o dándole
-trabajo pesado porque les disgusta no sirve en el largo plazo ni al grupo ni a
-la persona. Capacidad, interés y responsabilidad deben ser las
-principales preocupaciones para tal selección. Las personas deben tener
-una oportunidad para aprender habilidades que no tienen, pero esto se
-hace mejor a través de algún tipo de programa de "aprendizaje" en lugar
-del método "hundirse o nadar". Tener una responsabilidad que no se puede
-manejar bien resulta desmoralizante. Por el contrario, ser impedida de
-hacer lo que una puede hacer bien no nos alienta a desarrollar nuestras
-habilidades. Las mujeres han sido castigadas por ser competentes durante
-la mayor parte de la historia humana; el movimiento no necesita que
-repetir este proceso.
+5. __Asignación__ de tareas en base a criterios racionales. Seleccionar
+   a alguien para una posición porque es del agrado del grupo o dándole
+   trabajo pesado porque les disgusta no sirve en el largo plazo ni al
+   grupo ni a la persona. Capacidad, interés y responsabilidad deben ser
+   las principales preocupaciones para tal selección. Las personas deben
+   tener una oportunidad para aprender habilidades que no tienen, pero
+   esto se hace mejor a través de algún tipo de programa de
+   "aprendizaje" en lugar del método "hundirse o nadar". Tener una
+   responsabilidad que no se puede manejar bien resulta desmoralizante.
+   Por el contrario, ser impedida de hacer lo que una puede hacer bien
+   no nos alienta a desarrollar nuestras habilidades. Las mujeres han
+   sido castigadas por ser competentes durante la mayor parte de la
+   historia humana; el movimiento no necesita que repetir este proceso.
 
-#. __Difusión de información__ a todo el mundo con la mayor frecuencia
-posible. La información es poder. El acceso a la información mejora el
-poder de cada una. Cuando una red informal difunde nuevas ideas e
-información entre ellas mismas por fuera del grupo, ya están
-participando en el proceso de formación de opinión --sin que el grupo
-participe. Cuanto más se sabe acerca de cómo funcionan las cosas y
-aquello que está sucediendo, más políticamente eficaces se puede ser.
+6. __Difusión de información__ a todo el mundo con la mayor frecuencia
+   posible. La información es poder. El acceso a la información mejora
+   el poder de cada una. Cuando una red informal difunde nuevas ideas e
+   información entre ellas mismas por fuera del grupo, ya están
+   participando en el proceso de formación de opinión --sin que el grupo
+   participe. Cuanto más se sabe acerca de cómo funcionan las cosas y
+   aquello que está sucediendo, más políticamente eficaces se puede ser.
 
-#. __Igualdad de acceso a los recursos__ que necesite el grupo. Esto no
-siempre es perfectamente posible, pero se debería procurar. Una integrante
-que mantiene un monopolio sobre un recurso necesario (como una imprenta
-propiedad del marido o un cuarto oscuro) puede influir indebidamente en
-su uso. Las habilidades y la información también son recursos. Las
-habilidades de las integrantes están equitativamente disponibles sólo
-cuando estas están dispuestas a enseñar lo que saben a las demás.
+7. __Igualdad de acceso a los recursos__ que necesite el grupo. Esto no
+   siempre es perfectamente posible, pero se debería procurar. Una
+   integrante que mantiene un monopolio sobre un recurso necesario (como
+   una imprenta propiedad del marido o un cuarto oscuro) puede influir
+   indebidamente en su uso. Las habilidades y la información también son
+   recursos. Las habilidades de las integrantes están equitativamente
+   disponibles sólo cuando estas están dispuestas a enseñar lo que saben
+   a las demás.
 
 Cuando se aplican estos principios, se asegura que cualquier estructura
 desarrollada por diferentes grupos del movimiento será controlada por el

@@ -4,6 +4,7 @@ author: Oscar Varsavsky
 title: "Ciencia, política y cientificismo"
 cover: "assets/covers/single_ciencia_politica_cientificismo.png"
 slider: "assets/covers/slider_ciencia_politica_cientificismo.png"
+toc: true
 ---
 
 Prefacio

@@ -5,6 +5,7 @@ layout: post
 cover: "assets/covers/single_zona_autonoma_temporal.png"
 slider: "assets/covers/slider_zona_autonoma_temporal.png"
 papersize: a5paper
+toc: true
 ---
 
 Zona Autónoma Temporal
@@ -247,157 +248,168 @@ negativas del ZAT; queda mucho por decir sobre su inspiración positiva. La
 reacción por sí sola no proporciona sino la energía necesaria para que se
 manifieste un ZAT. Pero una revuelta tiene también que hacerse para algo.
 
-  #. En primer lugar, podemos hablar de una antropología natural del ZAT. La
-     familia nuclear es la unidad base de las sociedades del consenso, pero no
-     del ZAT ("Familias: ¡cómo las odio! Miserias del amor" -- Gide). La familia
-     nuclear, con sus "miserias edificas", parece ser un invento neolítico, una
-     respuesta a la "revolución agrícola" con la escasez y la jerarquía
-     impuestas. El modelo paleolítico era a la vez más primario y radical: la
-     banda. La típica banda nómada o seminómada de cazadores en grupo reunía
-     a unos 50 miembros. En las sociedades tribales mayores, la estructura de
-     bandas se completaba por los clanes de la tribu, o por agrupamientos tales
-     como sociedades secretas o iniciativas, de caza o guerra, de género,
-     "repúblicas infantiles" etc. Si la familia nuclear tiene su origen en la
-     escasez -y se resuelve en miseria- la banda resulta de la abundancia y es
-     pródiga. La familia es cerrada, por lo genético, por la posesión machista
-     de la mujer y los niños, por la jerárquica totalización de la sociedad
-     agrícola/industrial. La banda en cambio es abierta -no a todos, por
-     supuesto, pero sí a todo el grupo de los afines: los iniciados se
-     comprometen por lazos de amor. La banda no es parte de ninguna jerarquía
-     superior, sino parte de un modelo horizontal de relaciones, lazos de
-     sangre extendidos, contratos y alianzas, afinidades espirituales, etc. (La
-     sociedad Indio-americana conserva ciertos aspectos de esa estructura
-     incluso ahora).
+1. En primer lugar, podemos hablar de una antropología natural del ZAT.
+   La familia nuclear es la unidad base de las sociedades del consenso,
+   pero no del ZAT ("Familias: ¡cómo las odio! Miserias del amor" --
+   Gide). La familia nuclear, con sus "miserias edificas", parece ser un
+   invento neolítico, una respuesta a la "revolución agrícola" con la
+   escasez y la jerarquía impuestas. El modelo paleolítico era a la vez
+   más primario y radical: la banda. La típica banda nómada o seminómada
+   de cazadores en grupo reunía a unos 50 miembros. En las sociedades
+   tribales mayores, la estructura de bandas se completaba por los
+   clanes de la tribu, o por agrupamientos tales como sociedades
+   secretas o iniciativas, de caza o guerra, de género, "repúblicas
+   infantiles" etc. Si la familia nuclear tiene su origen en la escasez
+   -y se resuelve en miseria- la banda resulta de la abundancia y es
+   pródiga. La familia es cerrada, por lo genético, por la posesión
+   machista de la mujer y los niños, por la jerárquica totalización de
+   la sociedad agrícola/industrial. La banda en cambio es abierta -no a
+   todos, por supuesto, pero sí a todo el grupo de los afines: los
+   iniciados se comprometen por lazos de amor. La banda no es parte de
+   ninguna jerarquía superior, sino parte de un modelo horizontal de
+   relaciones, lazos de sangre extendidos, contratos y alianzas,
+   afinidades espirituales, etc. (La sociedad Indio-americana conserva
+   ciertos aspectos de esa estructura incluso ahora).
 
-     En nuestra sociedad postespectacular del Simulacro, muchas fuerzas actúan
-     –incluso invisiblemente- para desfasar la familia nuclear, y traer de
-     vuelta la banda. Ciertas rupturas en la estructura del Trabajo tienen su
-     resonancia en la "estabilidad" arruinada de la unidadhogar y la
-     unidad-familia. Las bandas de cada cual incluyen ahora amigos, esposas
-     y amantes, la gente se reúne en trabajos o seminarios, por grupos de
-     afinidad, en redes de intereses especializados o redes de correo, etc. La
-     familia nuclear se convierte cada vez más en una trampa, en un desagüe
-     cultural, en una secreta y neurótica implosión de átomos estallados -y la
-     contraestrategia obvia que inmediatamente emerge desde el mismo
-     inconsciente pasa por el redescubrimiento de la -a la vez más arcaica
-     y postindustrial- posibilidad de la banda.
+   En nuestra sociedad postespectacular del Simulacro, muchas fuerzas
+   actúan –incluso invisiblemente- para desfasar la familia nuclear, y
+   traer de vuelta la banda. Ciertas rupturas en la estructura del
+   Trabajo tienen su resonancia en la "estabilidad" arruinada de la
+   unidadhogar y la unidad-familia. Las bandas de cada cual incluyen
+   ahora amigos, esposas y amantes, la gente se reúne en trabajos o
+   seminarios, por grupos de afinidad, en redes de intereses
+   especializados o redes de correo, etc. La familia nuclear se
+   convierte cada vez más en una trampa, en un desagüe cultural, en una
+   secreta y neurótica implosión de átomos estallados -y la
+   contraestrategia obvia que inmediatamente emerge desde el mismo
+   inconsciente pasa por el redescubrimiento de la -a la vez más arcaica
+   y postindustrial- posibilidad de la banda.
 
-  #. El ZAT como "festividad". Stephen Pearl Andrews ofreció en una ocasión,
-     como imagen de una sociedad anarquista, la descripción de una cena-fiesta,
-     en la que toda estructura de autoridad quedaba disuelta en la convivencia
-     de la celebración. También podríamos invocar a Fourier y su idea de la
-     sensualidad como base del devenir social -"tactilidad" y "grastrosofía"
-     como himnos de respuesta a la denegación social de las implicaciones del
-     olfato y el gusto. Los antiguos conceptos del julibeo y las fiestas
-     saturnales se originaban en la convicción de que ciertos eventos sucedían
-     fuera del orden del "tiempo profano", bajo la medida del Estado y la
-     Historia. Estas festividades literalmente ocupaban vacíos en el calendario
-     -eran intervalos intercalados. Durante la edad Media cerca de una tercera
-     parte del año era consagrado a festividades. Es posible que las razones de
-     la resistencia a la reforma de los calendarios tuvieran menos que ver con
-     los "once días perdidos" que con la sospecha de que la ciencia imperial
-     conspiraba para eliminar esos vacíos en el calendario que acumulaban la
-     libertad de las gentes -un golpe de estado, un cartografiado de los años,
-     un someter a medida al tiempo mismo, convirtiendo el cosmos orgánico en un
-     universo mecánico. La muerte de lo festivo. Los participantes en cualquier
-     insurrección invariablemente se entregan a su aspecto festivo, incluso en
-     medio de la lucha armada, el riesgo y el peligro. La revuelta es como una
-     saturnal arrancada -o forzada a desvanecersede su intervalo que quedara
-     libre para estallar en cualquier lugar o momento. Liberada de tiempo
-     y lugar, posee no obstante un olfato propio para el desencadenarse de los
-     acontecimientos, y una afinidad con el genius loci; la ciencia de la
-     psicotopología reconoce "flujos de fuerza" y "centros de poder" -para
-     utilizar metáforas ocultistas- en los que se puede localizar
-     espacio-temporalmente un ZAT, o al menos ayudar a definir su relación con
-     un momento y una localización.
+2. El ZAT como "festividad". Stephen Pearl Andrews ofreció en una
+   ocasión, como imagen de una sociedad anarquista, la descripción de
+   una cena-fiesta, en la que toda estructura de autoridad quedaba
+   disuelta en la convivencia de la celebración. También podríamos
+   invocar a Fourier y su idea de la sensualidad como base del devenir
+   social -"tactilidad" y "grastrosofía" como himnos de respuesta a la
+   denegación social de las implicaciones del olfato y el gusto. Los
+   antiguos conceptos del julibeo y las fiestas saturnales se originaban
+   en la convicción de que ciertos eventos sucedían fuera del orden del
+   "tiempo profano", bajo la medida del Estado y la Historia. Estas
+   festividades literalmente ocupaban vacíos en el calendario -eran
+   intervalos intercalados. Durante la edad Media cerca de una tercera
+   parte del año era consagrado a festividades. Es posible que las
+   razones de la resistencia a la reforma de los calendarios tuvieran
+   menos que ver con los "once días perdidos" que con la sospecha de que
+   la ciencia imperial conspiraba para eliminar esos vacíos en el
+   calendario que acumulaban la libertad de las gentes -un golpe de
+   estado, un cartografiado de los años, un someter a medida al tiempo
+   mismo, convirtiendo el cosmos orgánico en un universo mecánico. La
+   muerte de lo festivo. Los participantes en cualquier insurrección
+   invariablemente se entregan a su aspecto festivo, incluso en medio de
+   la lucha armada, el riesgo y el peligro. La revuelta es como una
+   saturnal arrancada -o forzada a desvanecersede su intervalo que
+   quedara libre para estallar en cualquier lugar o momento. Liberada de
+   tiempo y lugar, posee no obstante un olfato propio para el
+   desencadenarse de los acontecimientos, y una afinidad con el genius
+   loci; la ciencia de la psicotopología reconoce "flujos de fuerza" y
+   "centros de poder" -para utilizar metáforas ocultistas- en los que se
+   puede localizar espacio-temporalmente un ZAT, o al menos ayudar a
+   definir su relación con un momento y una localización.
 
-     El media nos invita a "venir a celebrar los grandes momentos de nuestra
-     vida" mediante la unificación espúrea de la mercancía y el Espectáculo, el
-     famoso no-acontecimiento de la pura representación. En respuesta a esa
-     obscenidad tenemos, de un lado, el espectro del rechazo (descrito por los
-     situacionistas, John Zerzan, Bob Black y otros), y por otro la emergencia
-     de una cultura festiva distinta y aún oculta a los managers de nuestro
-     ocio. "Luchar por el derecho a la fiesta" es algo más que una parodia de
-     la lucha radical: es una manifestación de esa misma lucha, adecuada a un
-     tiempo que ofrece televisiones y teléfonos como medios de "contactar
-     y tocar" a otros seres humanos, como vías para "estar Ahí". Pearl Andrews
-     tenía razón: la fiesta nocturna es ya "la semilla de una nueva sociedad
-     tomando forma en la cáscara de la anterior". Las reuniones tribales de los
-     60, los cónclaves de eco-saboteadores, la idílica Beltane de los
-     neopaganos, las grandes conferencias anarquistas, los círculos gays... Las
-     fiestas de alquiler en Harlem en los 20, los nightclubs, los banquetes,
-     los grandes picnics libertarios, debemos reconocer que todos ellos han
-     sido ya "zonas liberadas" de algún tipo, o por lo menos ZAT’s potenciales.
-     Ya abierta a sólo unos pocos amigos, como una fiesta-cena, ya a miles de
-     participantes, como un Be-In, la fiesta siempre es abierta porque no está
-     regulada, sometida a orden; puede estar planeada, pero a menos que
-     "suceda" por sí misma es un fracaso. El factor espontaneidad es crucial.
+   El media nos invita a "venir a celebrar los grandes momentos de
+   nuestra vida" mediante la unificación espúrea de la mercancía y el
+   Espectáculo, el famoso no-acontecimiento de la pura representación.
+   En respuesta a esa obscenidad tenemos, de un lado, el espectro del
+   rechazo (descrito por los situacionistas, John Zerzan, Bob Black y
+   otros), y por otro la emergencia de una cultura festiva distinta y
+   aún oculta a los managers de nuestro ocio. "Luchar por el derecho a
+   la fiesta" es algo más que una parodia de la lucha radical: es una
+   manifestación de esa misma lucha, adecuada a un tiempo que ofrece
+   televisiones y teléfonos como medios de "contactar y tocar" a otros
+   seres humanos, como vías para "estar Ahí". Pearl Andrews tenía razón:
+   la fiesta nocturna es ya "la semilla de una nueva sociedad tomando
+   forma en la cáscara de la anterior". Las reuniones tribales de los
+   60, los cónclaves de eco-saboteadores, la idílica Beltane de los
+   neopaganos, las grandes conferencias anarquistas, los círculos
+   gays... Las fiestas de alquiler en Harlem en los 20, los nightclubs,
+   los banquetes, los grandes picnics libertarios, debemos reconocer que
+   todos ellos han sido ya "zonas liberadas" de algún tipo, o por lo
+   menos ZAT’s potenciales.  Ya abierta a sólo unos pocos amigos, como
+   una fiesta-cena, ya a miles de participantes, como un Be-In, la
+   fiesta siempre es abierta porque no está regulada, sometida a orden;
+   puede estar planeada, pero a menos que "suceda" por sí misma es un
+   fracaso. El factor espontaneidad es crucial.
 
-     La esencia de la fiesta: el cara a cara, el grupo de humanos que pone en
-     común sus esfuerzos para realizar sus deseos, se trate de comida y bebida,
-     baile, conversación o el arte de vivir; puede que incluso para el placer
-     erótico, o para crear obras de arte colectivas, o para atraer el puro
-     circular de la alegría. En síntesis, la "unión de los egoístas" -en el
-     sentido de Stirner- o acaso -en términos ahora de Kropotkin- una base
-     biológica que conduce a la ayuda mutua. También aquí cabría mencionar la
-     "economía del derroche" bataillana y su teoría de la cultura potlach.
+   La esencia de la fiesta: el cara a cara, el grupo de humanos que pone
+   en común sus esfuerzos para realizar sus deseos, se trate de comida y
+   bebida, baile, conversación o el arte de vivir; puede que incluso
+   para el placer erótico, o para crear obras de arte colectivas, o para
+   atraer el puro circular de la alegría. En síntesis, la "unión de los
+   egoístas" -en el sentido de Stirner- o acaso -en términos ahora de
+   Kropotkin- una base biológica que conduce a la ayuda mutua. También
+   aquí cabría mencionar la "economía del derroche" bataillana y su
+   teoría de la cultura potlach.
 
-  #. Fundamental para dar forma a una realidad ZAT es el concepto de nomadismo
-     psíquico -o, como humorísticamente lo llamamos, un "cosmopolitanismo del
-     desarraigo". Algunos aspectos de este fenómeno han sido analizados por
-     Deleuze y Guattari en "La nomadología y la máquina de guerra", por Lyotard
-     en Deriva, y por diversos autores en el número sobre el "Oasis" de la
-     revista Semiotext (e). Utilizamos el término "nomadismo psíquico" mejor
-     que el de nomadismo urbano, nomadología, deriva, etc. , simplemente para
-     aglutinar todos estos conceptos en un único complejo difuso, para
-     estudiarlo a la luz del advenir del ZAT. La "muerte de dios", en muchos
-     aspectos un descentramiento global del proyecto europeo, abrió a una
-     visión del mundo multiperspectiva y postideológica capaz de moverse
-     desarraigada desde la filosofía al mito tribal, desde las ciencias
-     naturales al Taoismo -capaz de por primera vez percibir como a través de
-     los ojos múltiples de un insecto, cada faceta ofreciendo una visión
-     separada de un mundo completo.
+3. Fundamental para dar forma a una realidad ZAT es el concepto de
+   nomadismo psíquico -o, como humorísticamente lo llamamos, un
+   "cosmopolitanismo del desarraigo". Algunos aspectos de este fenómeno
+   han sido analizados por Deleuze y Guattari en "La nomadología y la
+   máquina de guerra", por Lyotard en Deriva, y por diversos autores en
+   el número sobre el "Oasis" de la revista Semiotext (e). Utilizamos el
+   término "nomadismo psíquico" mejor que el de nomadismo urbano,
+   nomadología, deriva, etc. , simplemente para aglutinar todos estos
+   conceptos en un único complejo difuso, para estudiarlo a la luz del
+   advenir del ZAT. La "muerte de dios", en muchos aspectos un
+   descentramiento global del proyecto europeo, abrió a una visión del
+   mundo multiperspectiva y postideológica capaz de moverse desarraigada
+   desde la filosofía al mito tribal, desde las ciencias naturales al
+   Taoismo -capaz de por primera vez percibir como a través de los ojos
+   múltiples de un insecto, cada faceta ofreciendo una visión separada
+   de un mundo completo.
 
-     Pero esta visión está sometida a la exigencia de habitar una época en que
-     la velocidad y el "fetichismo de la mercancía" han creado una tiránica
-     unidad falsa que tiende a difuminar toda diversidad cultural e individual,
-     de tal manera que "cualquier lugar vale tanto como cualquier otro". Esa
-     paradoja crea nómadas, viajeros psíquicos que se mueven por la curiosidad
-     o el deseo, aventureros de escasas lealtades -de hecho desleales al
-     "proyecto europeo", que ha perdido todo charme y toda vitalidad-, no
-     ligados a ningún tiempo ni lugar y lanzados a la busca de diversidad
-     y aventura. Esa descripción abarca no sólo a los intelectuales y artistas
-     de clase X, sino también a los inmigrantes, los refugiados, los homeless,
-     los turistas, los religionarios de la cultura de la caravana, -y también
-     a la gente que viaja por la red, aunque nunca abandone su propia
-     habitación, (o a aquellos que, como Thoureau, han viajado mucho -en la
-     concordia); y finalmente incluye a todo el mundo, a todos nosotros,
-     viviendo con nuestros automóviles, nuestros teléfonos, nuestros viajes de
-     vacaciones, nuestras televisiones, nuestros libros y películas, cambiando
-     de trabajos, de estilos de vida, religiones, dietas etc. , etc.
+   Pero esta visión está sometida a la exigencia de habitar una época en
+   que la velocidad y el "fetichismo de la mercancía" han creado una
+   tiránica unidad falsa que tiende a difuminar toda diversidad cultural
+   e individual, de tal manera que "cualquier lugar vale tanto como
+   cualquier otro". Esa paradoja crea nómadas, viajeros psíquicos que se
+   mueven por la curiosidad o el deseo, aventureros de escasas lealtades
+   -de hecho desleales al "proyecto europeo", que ha perdido todo charme
+   y toda vitalidad-, no ligados a ningún tiempo ni lugar y lanzados a
+   la busca de diversidad y aventura. Esa descripción abarca no sólo a
+   los intelectuales y artistas de clase X, sino también a los
+   inmigrantes, los refugiados, los homeless, los turistas, los
+   religionarios de la cultura de la caravana, -y también a la gente que
+   viaja por la red, aunque nunca abandone su propia habitación, (o a
+   aquellos que, como Thoureau, han viajado mucho -en la concordia); y
+   finalmente incluye a todo el mundo, a todos nosotros, viviendo con
+   nuestros automóviles, nuestros teléfonos, nuestros viajes de
+   vacaciones, nuestras televisiones, nuestros libros y películas,
+   cambiando de trabajos, de estilos de vida, religiones, dietas etc. ,
+   etc.
 
-     El nomadismo psíquico como táctica, lo que metafóricamente Deleuze
-     y Guattari llamaron la máquina de guerra, transforma la paradoja de pasiva
-     en activa -e incluso violenta. Los últimos estertores de dios se han
-     prolongado durante tanto tiempo -en las formas del Capitalismo, Comunismo
-     y Fascismo, por ejemplo- que todavía queda mucha "destrucción creativa"
-     por hacer, para ser satisfecha por los comandos post-bakunianos
-     y postnietzscheanos, o por los apaches -literalmente, "enemigos"- del
-     viejo Consenso. Estos nómadas practican la razzia, son corsarios, virus.
-     Necesitan y desean ZATs, campos de tiendas oscuras bajo las estrellas del
-     desierto, interzonas, fortificados oasis escondidos en las rutas de las
-     caravanas, pedazos liberados de jungla y tierras baldías, áreas
-     prohibidas, mercados negros y bazares underground.
+   El nomadismo psíquico como táctica, lo que metafóricamente Deleuze y
+   Guattari llamaron la máquina de guerra, transforma la paradoja de
+   pasiva en activa -e incluso violenta. Los últimos estertores de dios
+   se han prolongado durante tanto tiempo -en las formas del
+   Capitalismo, Comunismo y Fascismo, por ejemplo- que todavía queda
+   mucha "destrucción creativa" por hacer, para ser satisfecha por los
+   comandos post-bakunianos y postnietzscheanos, o por los apaches
+   -literalmente, "enemigos"- del viejo Consenso. Estos nómadas
+   practican la razzia, son corsarios, virus.  Necesitan y desean ZATs,
+   campos de tiendas oscuras bajo las estrellas del desierto,
+   interzonas, fortificados oasis escondidos en las rutas de las
+   caravanas, pedazos liberados de jungla y tierras baldías, áreas
+   prohibidas, mercados negros y bazares underground.
 
-     Estos nómadas guían sus movimientos por estrellas extrañas, que pueden ser
-     clusters luminosos de datos en el ciberespacio, o quizás meras
-     alucinaciones. Coloca un mapa de la tierra; sobre él superpón un mapa de
-     los cambios políticos; sobre él, otro de la red, particularmente de la
-     antired que enfatiza el flujo de información clandestina -y finalmente,
-     sobre todos ellos, el mapa 1:1 de la imaginación creativa, de los valores,
-     de la estética. Las coordenadas resultantes cobrarán vida, animadas por
-     gotas y olas de energía inesperada, coágulos de luz, secretos túneles,
-     sorpresas.
+   Estos nómadas guían sus movimientos por estrellas extrañas, que
+   pueden ser clusters luminosos de datos en el ciberespacio, o quizás
+   meras alucinaciones. Coloca un mapa de la tierra; sobre él superpón
+   un mapa de los cambios políticos; sobre él, otro de la red,
+   particularmente de la antired que enfatiza el flujo de información
+   clandestina -y finalmente, sobre todos ellos, el mapa 1:1 de la
+   imaginación creativa, de los valores, de la estética. Las coordenadas
+   resultantes cobrarán vida, animadas por gotas y olas de energía
+   inesperada, coágulos de luz, secretos túneles, sorpresas.
 
 
 La red y la web
@@ -1259,64 +1271,66 @@ Ratoneras en la Babilonia de la información
 
 LA ZAT como táctica consciente radical emergerá bajo ciertas condiciones:
 
-  #. Liberación psicológica. Esto es, debemos realizar (hacer reales) los
-     momentos y espacios en los que la libertad no es sólo posible sino
-     electiva. Debemos saber de qué forma somos genuinamente oprimidos,
-     y también de qué forma estamos autoreprimidos o atrapados en una fantasía
-     en la que son las ideas las que nos oprimen. El trabajo, por ejemplo, es
-     para la mayoría de nosotros una fuente mucho más efectiva de miseria que
-     la propia política legislativa. La alienación es para nosotros mucho más
-     peligrosa que cualquier caduca ideología moribunda y desdentada. La
-     adicción mental a los "ideales" -que de hecho resultan ser meras
-     proyecciones de nuestro resentimiento y nuestra sensación de
-     victimización- nunca harán avanzar nuestro proyecto. La ZAT no es el
-     heraldo de ninguna falsa promesa de utopía social a la que debamos
-     sacrificar nuestras vidas para que los hijos de nuestros hijos puedan
-     respirar un poco de aire libre. La ZAT debe ser el escenario de nuestra
-     presente autonomía, pero sólo puede existir bajo la condición de que ya
-     nos consideremos en efecto seres libres.
+1. Liberación psicológica. Esto es, debemos realizar (hacer reales) los
+   momentos y espacios en los que la libertad no es sólo posible sino
+   electiva. Debemos saber de qué forma somos genuinamente oprimidos, y
+   también de qué forma estamos autoreprimidos o atrapados en una
+   fantasía en la que son las ideas las que nos oprimen. El trabajo, por
+   ejemplo, es para la mayoría de nosotros una fuente mucho más efectiva
+   de miseria que la propia política legislativa. La alienación es para
+   nosotros mucho más peligrosa que cualquier caduca ideología moribunda
+   y desdentada. La adicción mental a los "ideales" -que de hecho
+   resultan ser meras proyecciones de nuestro resentimiento y nuestra
+   sensación de victimización- nunca harán avanzar nuestro proyecto. La
+   ZAT no es el heraldo de ninguna falsa promesa de utopía social a la
+   que debamos sacrificar nuestras vidas para que los hijos de nuestros
+   hijos puedan respirar un poco de aire libre. La ZAT debe ser el
+   escenario de nuestra presente autonomía, pero sólo puede existir bajo
+   la condición de que ya nos consideremos en efecto seres libres.
 
-  #. La contra-red debe expandirse. En la actualidad refleja más abstracción
-     que efectividad. Los fanzines y BBS’s intercambian información, lo que es
-     parte del trabajo de fondo necesario de la ZAT, pero muy poca información
-     de esta índole se refiere a bienes y servicios concretos necesarios para
-     la vida autónoma. No vivimos en el ciberespacio; soñar que lo hacemos es
-     caer en la cibergnosis, la falsa transcendencia del cuerpo. La ZAT es un
-     lugar físico y estamos en ella o no. Todos los sentidos deben estar
-     implicados. La trama es de alguna forma un nuevo sentido, pero debe ser
-     añadido a los otros -los otros no deben ser sustraídos de él, como en
-     alguna horrible parodia del trance místico-. Sin la trama, la realización
-     completa del complejo-ZAT sería imposible. Pero la trama no es un fin en
-     si misma. Es un arma.
+2. La contra-red debe expandirse. En la actualidad refleja más
+   abstracción que efectividad. Los fanzines y BBS’s intercambian
+   información, lo que es parte del trabajo de fondo necesario de la
+   ZAT, pero muy poca información de esta índole se refiere a bienes y
+   servicios concretos necesarios para la vida autónoma. No vivimos en
+   el ciberespacio; soñar que lo hacemos es caer en la cibergnosis, la
+   falsa transcendencia del cuerpo. La ZAT es un lugar físico y estamos
+   en ella o no. Todos los sentidos deben estar implicados. La trama es
+   de alguna forma un nuevo sentido, pero debe ser añadido a los otros
+   -los otros no deben ser sustraídos de él, como en alguna horrible
+   parodia del trance místico-. Sin la trama, la realización completa
+   del complejo-ZAT sería imposible. Pero la trama no es un fin en si
+   misma. Es un arma.
 
-  #. El aparato de Control -el "Estado"- ha de continuar (o así debemos asumir)
-     licuándose y petrificándose a un tiempo, debe progresar en su curso
-     presente en el que la rigidez histérica viene a enmascarar más y más su
-     vacuidad, un abismo de poder. Mientras el poder "desaparece", nuestra
-     voluntad de poder debe ser la desaparición. Ya hemos discutido la
-     cuestión de si la ZAT puede ser vista "meramente" como obra de arte. Pero
-     también querrás saber si es que es algo más que una pobre ratonera en la
-     Babilonia de la información, o más bien un laberinto de túneles, más y más
-     conectados, pero entregados sólo al callejón sin salida del parasitismo
-     pirata. Contestaré que preferiría ser una rata en el muro que una rata en
-     la jaula; pero también insistiré en que la ZAT trasciende estas
-     categorías. Un mundo en el que la ZAT echara efectivamente raíces puede
-     parecerse al mundo imaginado por "P. M. " en su novela de fantasía bolo
-     'bolo. Quizás la ZAT es un "protocolo". Pero en la medida en que la ZAT
-     existe ya, encarna mucho más que la mundanidad de la nolición. O que el
-     pasotismo contracultural. Hemos mencionado los aspectos festivos del
-     momento descontrolado que se conforma en una autocoordinación espontánea,
-     si bien breve. Es "epifánico"; una experiencia punta en la escala tanto
-     social como individual.
+3. El aparato de Control -el "Estado"- ha de continuar (o así debemos
+   asumir) licuándose y petrificándose a un tiempo, debe progresar en su
+   curso presente en el que la rigidez histérica viene a enmascarar más
+   y más su vacuidad, un abismo de poder. Mientras el poder
+   "desaparece", nuestra voluntad de poder debe ser la desaparición. Ya
+   hemos discutido la cuestión de si la ZAT puede ser vista "meramente"
+   como obra de arte. Pero también querrás saber si es que es algo más
+   que una pobre ratonera en la Babilonia de la información, o más bien
+   un laberinto de túneles, más y más conectados, pero entregados sólo
+   al callejón sin salida del parasitismo pirata. Contestaré que
+   preferiría ser una rata en el muro que una rata en la jaula; pero
+   también insistiré en que la ZAT trasciende estas categorías. Un mundo
+   en el que la ZAT echara efectivamente raíces puede parecerse al mundo
+   imaginado por "P. M. " en su novela de fantasía bolo 'bolo. Quizás la
+   ZAT es un "protocolo". Pero en la medida en que la ZAT existe ya,
+   encarna mucho más que la mundanidad de la nolición. O que el
+   pasotismo contracultural. Hemos mencionado los aspectos festivos del
+   momento descontrolado que se conforma en una autocoordinación
+   espontánea, si bien breve. Es "epifánico"; una experiencia punta en
+   la escala tanto social como individual.
 
-La liberación se realiza en la lucha; ésta es la esencia de la autosuperación
-de Nietzsche. La tesis presente puede igualmente tomar como señal el vagabundeo
-de Nietzsche. Es el precursor de la deriva, en el sentido situ de dérive y en
-la definición de Lyotard de driftwork. Podemos prever una geografía
-enteramente nueva, una especie de mapa de peregrinaciones en el que los lugares
-sagrados se han reemplazado con experiencias punta y ZAT’s: una verdadera
-ciencia de la psicotopografía, quizá para llamarla "geo-autonomía"
-o "anarcomancia".
+La liberación se realiza en la lucha; ésta es la esencia de la
+autosuperación de Nietzsche. La tesis presente puede igualmente tomar
+como señal el vagabundeo de Nietzsche. Es el precursor de la deriva, en
+el sentido situ de dérive y en la definición de Lyotard de driftwork.
+Podemos prever una geografía enteramente nueva, una especie de mapa de
+peregrinaciones en el que los lugares sagrados se han reemplazado con
+experiencias punta y ZAT’s: una verdadera ciencia de la psicotopografía,
+quizá para llamarla "geo-autonomía" o "anarcomancia".
 
 La ZAT implica una forma de feracidad, un crecimiento que va de la
 domesticación a lo salvaje, un "retorno" que es también un paso adelante.
@@ -1326,12 +1340,12 @@ del caos", del dinamismo complejo. La ZAT es un arte de la vida en continuo
 alzamiento, salvaje pero dulce; un seductor no un violador, un contrabandista
 más que un pirata sangriento, un bailarín más que un escatólogo.
 
-Admitamos que por una breve noche una república de deseos se vio gratificada.
-¿No confesaremos que la política de esa noche tiene más fuerza y realidad para
-nosotros que, digamos, el gobierno de la nación en pleno? Algunas de las
-"fiestas" que hemos mencionado duraron dos o tres años. ¿Es esto algo que
-merezca la pena imaginar, por lo que merezca la pena luchar? Estudiemos la
-invisibilidad, el tramaje, el nomadismo psíquico; y ¿quién sabe lo que hemos de
-conseguir?
+Admitamos que por una breve noche una república de deseos se vio
+gratificada.  ¿No confesaremos que la política de esa noche tiene más
+fuerza y realidad para nosotros que, digamos, el gobierno de la nación
+en pleno? Algunas de las "fiestas" que hemos mencionado duraron dos o
+tres años. ¿Es esto algo que merezca la pena imaginar, por lo que
+merezca la pena luchar? Estudiemos la invisibilidad, el tramaje, el
+nomadismo psíquico; y ¿quién sabe lo que hemos de conseguir?
 
-Equinoccio de primavera, 1990.
+_Equinoccio de primavera, 1990._

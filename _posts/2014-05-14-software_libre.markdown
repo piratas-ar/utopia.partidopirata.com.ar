@@ -4,13 +4,14 @@ author: GNU
 layout: post
 cover: "assets/covers/single_software_libre.png"
 slider: "assets/covers/slider_software_libre.png"
+toc: true
 ---
 
 
 ¿Qué es el software libre?[^free-sw]
 ==========================
 
-[^free-sw]: [http://www.gnu.org/philosophy/free-sw.es.html](http://www.gnu.org/philosophy/free-sw.es.html)
+[^free-sw]: <http://www.gnu.org/philosophy/free-sw.es.html>
 
 Definición de software libre
 ----------------------------
@@ -315,35 +316,35 @@ Traducción: Luis Miguel Arteaga Mejía, 2001.
 
 Revisiones: Hernán Giovagnoli, Daniel (lluvia).
 
-[^1]: [http://www.gnu.org/philosophy/free-sw.es.html#History](http://www.gnu.org/philosophy/free-sw.es.html#History)
+[^1]: <http://www.gnu.org/philosophy/free-sw.es.html#History>
 
-[^2]: [https://gnu.org/philosophy/free-software-even-more-important.html](https://gnu.org/philosophy/free-software-even-more-important.html)
+[^2]: <https://gnu.org/philosophy/free-software-even-more-important.html>
 
-[^3]: [http://www.gnu.org/philosophy/free-sw.es.html#exportcontrol](http://www.gnu.org/philosophy/free-sw.es.html#exportcontrol)
+[^3]: <http://www.gnu.org/philosophy/free-sw.es.html#exportcontrol>
 
-[^4]: [https://gnu.org/copyleft/copyleft.html](https://gnu.org/copyleft/copyleft.html)
+[^4]: <https://gnu.org/copyleft/copyleft.html>
 
-[^5]: [https://gnu.org/philosophy/pragmatic.html](https://gnu.org/philosophy/pragmatic.html)
+[^5]: <https://gnu.org/philosophy/pragmatic.html>
 
-[^6]: [https://gnu.org/philosophy/categories.html#Non-CopyleftedFreeSoftware](https://gnu.org/philosophy/categories.html#Non-CopyleftedFreeSoftware)
+[^6]: <https://gnu.org/philosophy/categories.html#Non-CopyleftedFreeSoftware>
 
-[^7]: [https://gnu.org/philosophy/categories.html](https://gnu.org/philosophy/categories.html)
+[^7]: <https://gnu.org/philosophy/categories.html>
 
-[^8]: [https://gnu.org/philosophy/selling.html](https://gnu.org/philosophy/selling.html)
+[^8]: <https://gnu.org/philosophy/selling.html>
 
-[^9]: [https://gnu.org/philosophy/words-to-avoid.html](https://gnu.org/philosophy/words-to-avoid.html)
+[^9]: <https://gnu.org/philosophy/words-to-avoid.html>
 
-[^10]: [https://gnu.org/licenses/license-list.es.html](https://gnu.org/licenses/license-list.es.html)
+[^10]: <https://gnu.org/licenses/license-list.es.html>
 
-[^11]: [https://gnu.org/philosophy/free-doc.html](https://gnu.org/philosophy/free-doc.html)
+[^11]: <https://gnu.org/philosophy/free-doc.html>
 
-[^12]: [http://wikipedia.org](http://wikipedia.org)
+[^12]: <http://wikipedia.org>
 
-[^13]: [http://freedomdefined.org](http://freedomdefined.org)
+[^13]: <http://freedomdefined.org>
 
-[^14]: [https://gnu.org/philosophy/open-source-misses-the-point.html](https://gnu.org/philosophy/open-source-misses-the-point.html)
+[^14]: <https://gnu.org/philosophy/open-source-misses-the-point.html>
 
-[^15]: [http://creativecommons.org/licenses/by-nd/3.0/us/deed.es](http://creativecommons.org/licenses/by-nd/3.0/us/deed.es)
+[^15]: <http://creativecommons.org/licenses/by-nd/3.0/us/deed.es>
 
 
 
@@ -351,7 +352,7 @@ Revisiones: Hernán Giovagnoli, Daniel (lluvia).
 ¿Qué es el copyleft?[^copyleft]
 ====================
 
-[^copyleft]: [http://www.gnu.org/copyleft/copyleft.es.html](http://www.gnu.org/copyleft/copyleft.es.html)
+[^copyleft]: <http://www.gnu.org/copyleft/copyleft.es.html>
 
 El copyleft es un método general para hacer un programa (u otro tipo
 de trabajo) libre, exigiendo que todas las versiones modificadas y
@@ -500,55 +501,55 @@ Copyright © 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005,
 Esta página está bajo una licencia Creative Commons
 Atribución-SinDerivadas 3.0 Estados Unidos de América[^15] .
 
-[^16]: [https://gnu.org/philosophy/categories.es.html#PublicDomainSoftware](https://gnu.org/philosophy/categories.es.html#PublicDomainSoftware)
+[^16]: <https://gnu.org/philosophy/categories.es.html#PublicDomainSoftware>
 
-[^17]: [https://gnu.org/philosophy/categories.es.html#ProprietarySoftware](https://gnu.org/philosophy/categories.es.html#ProprietarySoftware)
+[^17]: <https://gnu.org/philosophy/categories.es.html#ProprietarySoftware>
 
-[^18]: [https://gnu.org/gnu/thegnuproject.es.html](https://gnu.org/gnu/thegnuproject.es.html)
+[^18]: <https://gnu.org/gnu/thegnuproject.es.html>
 
-[^19]: [https://gnu.org/philosophy/pragmatic.es.html](https://gnu.org/philosophy/pragmatic.es.html)
+[^19]: <https://gnu.org/philosophy/pragmatic.es.html>
 
-[^20]: [https://gnu.org/prep/tasks.html](https://gnu.org/prep/tasks.html)
+[^20]: <https://gnu.org/prep/tasks.html>
 
-[^21]: [https://gnu.org/philosophy/free-sw.es.html](https://gnu.org/philosophy/free-sw.es.html)
+[^21]: <https://gnu.org/philosophy/free-sw.es.html>
 
-[^22]: [https://gnu.org/copyleft/gpl.html](https://gnu.org/copyleft/gpl.html)
+[^22]: <https://gnu.org/copyleft/gpl.html>
 
-[^23]: [https://gnu.org/copyleft/gpl.txt](https://gnu.org/copyleft/gpl.txt)
+[^23]: <https://gnu.org/copyleft/gpl.txt>
 
-[^24]: [https://gnu.org/copyleft/gpl.texi](https://gnu.org/copyleft/gpl.texi)
+[^24]: <https://gnu.org/copyleft/gpl.texi>
 
-[^25]: [https://gnu.org/licenses/gpl-faq.es.html](https://gnu.org/licenses/gpl-faq.es.html)
+[^25]: <https://gnu.org/licenses/gpl-faq.es.html>
 
-[^26]: [https://gnu.org/licenses/why-assign.es.html](https://gnu.org/licenses/why-assign.es.html)
+[^26]: <https://gnu.org/licenses/why-assign.es.html>
 
-[^27]: [https://gnu.org/licenses/agpl.html](https://gnu.org/licenses/agpl.html)
+[^27]: <https://gnu.org/licenses/agpl.html>
 
-[^28]: [https://gnu.org/licenses/agpl.txt](https://gnu.org/licenses/agpl.txt)
+[^28]: <https://gnu.org/licenses/agpl.txt>
 
-[^29]: [https://gnu.org/licenses/agpl.texi](https://gnu.org/licenses/agpl.texi)
+[^29]: <https://gnu.org/licenses/agpl.texi>
 
-[^30]: [https://gnu.org/licenses/lgpl.html](https://gnu.org/licenses/lgpl.html)
+[^30]: <https://gnu.org/licenses/lgpl.html>
 
-[^31]: [https://gnu.org/licenses/lgpl.txt](https://gnu.org/licenses/lgpl.txt)
+[^31]: <https://gnu.org/licenses/lgpl.txt>
 
-[^32]: [https://gnu.org/licenses/lgpl.texi](https://gnu.org/licenses/lgpl.texi)
+[^32]: <https://gnu.org/licenses/lgpl.texi>
 
-[^33]: [https://gnu.org/philosophy/why-not-lgpl.html](https://gnu.org/philosophy/why-not-lgpl.html)
+[^33]: <https://gnu.org/philosophy/why-not-lgpl.html>
 
-[^34]: [https://gnu.org/licenses/fdl.html](https://gnu.org/licenses/fdl.html)
+[^34]: <https://gnu.org/licenses/fdl.html>
 
-[^35]: [https://gnu.org/licenses/fdl.txt](https://gnu.org/licenses/fdl.txt)
+[^35]: <https://gnu.org/licenses/fdl.txt>
 
-[^36]: [https://gnu.org/copyleft/fdl.texi](https://gnu.org/copyleft/fdl.texi)
+[^36]: <https://gnu.org/copyleft/fdl.texi>
 
-[^37]: [https://gnu.org/copyleft/gpl-howto.html](https://gnu.org/copyleft/gpl-howto.html)
+[^37]: <https://gnu.org/copyleft/gpl-howto.html>
 
-[^38]: [https://gnu.org/copyleft/fdl.html#addendum](https://gnu.org/copyleft/fdl.html#addendum)
+[^38]: <https://gnu.org/copyleft/fdl.html#addendum>
 
-[^39]: [https://gnu.org/copyleft/fdl-howto.html](https://gnu.org/copyleft/fdl-howto.html)
+[^39]: <https://gnu.org/copyleft/fdl-howto.html>
 
-[^40]: [https://en.wikipedia.org/wiki/Copyleft#Symbol](https://en.wikipedia.org/wiki/Copyleft#Symbol)
+[^40]: <https://en.wikipedia.org/wiki/Copyleft#Symbol>
 
 
 
@@ -556,7 +557,7 @@ Atribución-SinDerivadas 3.0 Estados Unidos de América[^15] .
 El manifiesto de GNU[^manifesto]
 ====================
 
-[^manifesto]: [http://www.gnu.org/gnu/manifesto.es.html](http://www.gnu.org/gnu/manifesto.es.html)
+[^manifesto]: <http://www.gnu.org/gnu/manifesto.es.html>
 
 El manifiesto de GNU, que aparece a continuación, lo escribió Richard
 Stallman[^41] en los inicios del proyecto GNU para
@@ -573,7 +574,7 @@ estos puntos.
 Para obtener información actualizada sobre el software de GNU disponible,
 consulte nuestro servidor web[^42], en particular la lista de
 software[^43]. Para informarse de cómo colaborar, consulte la
-página [http://www.gnu.org/help/help.html.](http://www.gnu.org/help/help.html.)
+página <http://www.gnu.org/help/help.html>.
 
 ¿Qué es GNU? ¡GNU No es Unix!
 -----------------------------
@@ -1088,96 +1089,97 @@ competencia. El software libre reducirá en gran medida estos drenajes en
 el campo de producción de software. Debemos hacerlo, para que los avances
 técnicos en la productividad se traduzcan en menos trabajo para nosotros.
 
-[^41]: [http://www.stallman.org/](http://www.stallman.org/)
+[^41]: <http://www.stallman.org/>
 
-[^42]: [http://www.gnu.org/home.html](http://www.gnu.org/home.html)
+[^42]: <http://www.gnu.org/home.html>
 
-[^43]: [http://www.gnu.org/software/software.html](http://www.gnu.org/software/software.html)
+[^43]: <http://www.gnu.org/software/software.html>
 
-[^45]:  Esta expresión resultó poco precisa. La intención era decir
-que nadie tendría que pagar por el **permiso** para usar el sistema
-GNU.  Pero la expresión no es del todo clara, y a menudo se interpreta
-que las copias de GNU deberían distribuirse siempre a un costo bajo o
-sin costo.  Esta nunca fue la intención. Más adelante, el manifiesto
-menciona la posibilidad de que las empresas provean servicios de
-distribución para obtener ganancias. A partir de entonces, aprendí a
-distinguir cuidadosamente entre "free" (libre) en el sentido de libertad
-y "free" (gratis) referido al precio, ya que en inglés, el término
-"free" puede referirse tanto a la libertad como al precio. El software
-libre es aquel que ofrece a los usuarios la libertad de distribuirlo y
-modificarlo. Algunos pueden obtener copias sin pagar, mientras que otros
-pagan para obtenerlas, y si los fondos ayudan a apoyar la mejora del
-software, tanto mejor. Lo importante es que todos los que posean una
-copia tengan la libertad de colaborar con los demás al usar el programa.
+[^45]:  Esta expresión resultó poco precisa. La intención era decir que
+  nadie tendría que pagar por el **permiso** para usar el sistema GNU.
+  Pero la expresión no es del todo clara, y a menudo se interpreta que
+  las copias de GNU deberían distribuirse siempre a un costo bajo o sin
+  costo.  Esta nunca fue la intención. Más adelante, el manifiesto
+  menciona la posibilidad de que las empresas provean servicios de
+  distribución para obtener ganancias. A partir de entonces, aprendí a
+  distinguir cuidadosamente entre "free" (libre) en el sentido de
+  libertad y "free" (gratis) referido al precio, ya que en inglés, el
+  término "free" puede referirse tanto a la libertad como al precio. El
+  software libre es aquel que ofrece a los usuarios la libertad de
+  distribuirlo y modificarlo. Algunos pueden obtener copias sin pagar,
+  mientras que otros pagan para obtenerlas, y si los fondos ayudan a
+  apoyar la mejora del software, tanto mejor. Lo importante es que todos
+  los que posean una copia tengan la libertad de colaborar con los demás
+  al usar el programa.
 
 [^46]: GNU se pronuncia en inglés de forma muy similar a "new", que
-significa "nuevo".
+  significa "nuevo".
 
-[^47]: La expresión "regalar" es otro indicio de que yo todavía no
-había separado claramente la cuestión del precio de la cuestión de la
-libertad. Ahora recomendamos no usar esta expresión al hablar acerca
-del software libre. Para una explicación más detallada, consulte
-el artículo "Palabras y frases confusas que vale la pena evitar"
-(en [http://www.gnu.org/philosophy/words-to-avoid.html#GiveAwaySoftware)](http://www.gnu.org/philosophy/words-to-avoid.html#GiveAwaySoftware))
+[^47]: La expresión "regalar" es otro indicio de que yo todavía no había
+  separado claramente la cuestión del precio de la cuestión de la
+  libertad. Ahora recomendamos no usar esta expresión al hablar acerca
+  del software libre. Para una explicación más detallada, consulte el
+  artículo "Palabras y frases confusas que vale la pena evitar" (en
+  <http://www.gnu.org/philosophy/words-to-avoid.html#GiveAwaySoftware>)
 
-[^48]: [https://gnu.org/philosophy/categories.html#ProprietarySoftware](https://gnu.org/philosophy/categories.html#ProprietarySoftware)
+[^48]: <https://gnu.org/philosophy/categories.html#ProprietarySoftware>
 
-[^49]: [http://fsf.org/campaigns/priority-projects](http://fsf.org/campaigns/priority-projects)
+[^49]: <http://fsf.org/campaigns/priority-projects>
 
-[^50]: [http://savannah.gnu.org/people/?type_id=1](http://savannah.gnu.org/people/?type_id=1)
+[^50]: <http://savannah.gnu.org/people/?type_id=1>
 
-[^51]: [http://www.gnu.org/help/help.html](http://www.gnu.org/help/help.html)
+[^51]: <http://www.gnu.org/help/help.html>
 
 [^52]: Aquí también omití distinguir cuidadosamente entre los dos
-diferentes significados de "free" (que en inglés puede significar
-"gratis" o "libre", N. d. T.). La afirmación tal como está escrita no es
-falsa, se pueden obtener copias gratuitas de software de GNU --de los
-amigos o a través de Internet--, pero sugiere una idea errónea.
+  diferentes significados de "free" (que en inglés puede significar
+  "gratis" o "libre", N. d. T.). La afirmación tal como está escrita no
+  es falsa, se pueden obtener copias gratuitas de software de GNU --de
+  los amigos o a través de Internet--, pero sugiere una idea errónea.
 
 [^53]: Ya existen varias compañías de este tipo.
 
 [^54]: Aunque es una organización sin ánimo de lucro más que una
-empresa, la Free Software Foundation durante diez años ha obtenido la
-mayoría de los fondos a partir de su servicio de distribución. Puede
-comprar artículos de la FSF (en [http://www.gnu.org/order/order.html)](http://www.gnu.org/order/order.html))
-para apoyar su actividad.
+  empresa, la Free Software Foundation durante diez años ha obtenido la
+  mayoría de los fondos a partir de su servicio de distribución. Puede
+  comprar artículos de la FSF (en <http://www.gnu.org/order/order.html>)
+  para apoyar su actividad.
 
-[^55]: Un grupo de empresas de informática alrededor de 1991 reunió fondos
-para apoyar el mantenimiento del compilador C de GNU.
+[^55]: Un grupo de empresas de informática alrededor de 1991 reunió
+  fondos para apoyar el mantenimiento del compilador C de GNU.
 
 [^56]: Creo que me equivoqué al decir que el software privativo era la
-base más común para ganar dinero en el campo del software. Parece ser
-que en realidad el modelo de negocio más común era y es el desarrollo de
-software a medida, que no ofrece la posibilidad de percibir una renta,
-por lo que la empresa tiene que seguir haciendo el trabajo real para
-seguir recibiendo ingresos. El negocio del software a medida podrá
-seguir existiendo, más o menos igual, en un mundo de software libre. Por
-lo tanto, ya no supongo que los programadores ganarían menos en un mundo
-de software libre. 
+  base más común para ganar dinero en el campo del software. Parece ser
+  que en realidad el modelo de negocio más común era y es el desarrollo
+  de software a medida, que no ofrece la posibilidad de percibir una
+  renta, por lo que la empresa tiene que seguir haciendo el trabajo real
+  para seguir recibiendo ingresos. El negocio del software a medida
+  podrá seguir existiendo, más o menos igual, en un mundo de software
+  libre. Por lo tanto, ya no supongo que los programadores ganarían
+  menos en un mundo de software libre.
 
-[^57]: En la década de 1980 todavía no me había dado cuenta de
-lo confuso que era hablar de "la cuestión" de la "propiedad
-intelectual". Esa expresión es obviamente prejuiciosa, más sutil es
-el hecho de que agrupa leyes dispares que plantean cuestiones muy
-diferentes. Hoy en día insto a la gente a rechazar completamente
-el término "propiedad intelectual", para no inducir a otros a
-pensar que esas leyes forman un tema coherente. Para hablar con
-claridad, hay que referirse a las patentes, el copyright y las marcas
-registradas por separado. Veáse una explicación más amplia (ver
-[http://www.gnu.org/philosophy/not-ipr.html)](http://www.gnu.org/philosophy/not-ipr.html)) de cómo esta expresión
-genera confusión y prejuicios.
+[^57]: En la década de 1980 todavía no me había dado cuenta de lo
+  confuso que era hablar de "la cuestión" de la "propiedad intelectual".
+  Esa expresión es obviamente prejuiciosa, más sutil es el hecho de que
+  agrupa leyes dispares que plantean cuestiones muy diferentes. Hoy en
+  día insto a la gente a rechazar completamente el término "propiedad
+  intelectual", para no inducir a otros a pensar que esas leyes forman
+  un tema coherente. Para hablar con claridad, hay que referirse a las
+  patentes, el copyright y las marcas registradas por separado. Veáse
+  una explicación más amplia (ver
+  <http://www.gnu.org/philosophy/not-ipr.html>) de cómo esta expresión
+  genera confusión y prejuicios.
 
-[^58]: Véase [http://es.wikipedia.org/wiki/Caso\_XYZ](http://es.wikipedia.org/wiki/Caso\_XYZ) para más información
-sobre el contexto de esta sentencia.
+[^58]: Véase <http://es.wikipedia.org/wiki/Caso\_XYZ> para más
+  información sobre el contexto de esta sentencia.
 
-[^59]: Posteriormente aprendimos a distinguir entre "software
-libre" y "freeware". El término "freeware" significa que el
-software se puede redistribuir libremente, pero por lo general no
-ofrece la libertad para estudiar y modificar el código fuente,
-así que la mayoría de esos programas no son software libre. Veáse
-"palabras y frases confusas que vale la pena evitar" (ver
-[http://www.gnu.org/philosophy/words-to-avoid.html#Freeware)](http://www.gnu.org/philosophy/words-to-avoid.html#Freeware)) para más
-detalles.
+[^59]: Posteriormente aprendimos a distinguir entre "software libre" y
+  "freeware". El término "freeware" significa que el software se puede
+  redistribuir libremente, pero por lo general no ofrece la libertad
+  para estudiar y modificar el código fuente, así que la mayoría de esos
+  programas no son software libre. Veáse "palabras y frases confusas que
+  vale la pena evitar" (ver
+  <http://www.gnu.org/philosophy/words-to-avoid.html#Freeware> para más
+  detalles).
 
 ---
 
@@ -1198,7 +1200,8 @@ No se permite la realización de copias modificadas.
 El software libre es ahora aún más importante[^free-software-even-more-important]
 =============================================
 
-[^free-software-even-more-important]: [http://www.gnu.org/philosophy/free-software-even-more-important.es.html](http://www.gnu.org/philosophy/free-software-even-more-important.es.html)
+[^free-software-even-more-important]:
+  <http://www.gnu.org/philosophy/free-software-even-more-important.es.html>
 
 Por Richard Stallman[^62]
 
@@ -1399,7 +1402,7 @@ los muestra a la NSA, la agencia de espionaje digital del gobierno de
 EEUU[^arstechnica]. No sabemos si Apple hace lo mismo, pero está bajo la
 misma presión gubernamental que Microsoft.
 
-[^arstechnica]: [http://arstechnica.com/security/2013/06/nsa-gets-early-access-to-zero-day-data-from-microsoft-others/](http://arstechnica.com/security/2013/06/nsa-gets-early-access-to-zero-day-data-from-microsoft-others/)
+[^arstechnica]: <http://arstechnica.com/security/2013/06/nsa-gets-early-access-to-zero-day-data-from-microsoft-others/>
 
 ## Software libre y educación
 
@@ -1425,8 +1428,8 @@ Los desarrolladores de software privativo querrían que penalizáramos a
 los buenos estudiantes que comparten software y frustráramos a aquellos
 que son lo bastante curiosos como para querer modificarlo. Esto
 significa impartir una mala educación. En la sección
-[http://www.gnu.org/education/](http://www.gnu.org/education/) encontrará más información acerca del uso
-de software libre en las instituciones educativas.
+<http://www.gnu.org/education/> encontrará más información acerca del
+uso de software libre en las instituciones educativas.
 
 ## Software libre: Mucho más que "ventajas"
 
@@ -1484,28 +1487,28 @@ Traducción: Sergi Ruiz Trepat, 2014.
 
 Revisiones: Javier Fdez. Retenaga.
 
-[^62]: [http://www.stallman.org/](http://www.stallman.org/)
+[^62]: <http://www.stallman.org/>
 
-[^67]: [http://www.wired.com/opinion/2013/09/why-free-software-is-more-important-now-than-ever-before](http://www.wired.com/opinion/2013/09/why-free-software-is-more-important-now-than-ever-before)
+[^67]: <http://www.wired.com/opinion/2013/09/why-free-software-is-more-important-now-than-ever-before>
 
-[^68]: [https://gnu.org/help](https://gnu.org/help)
+[^68]: <https://gnu.org/help>
 
 [^69]: En inglés, el término "free" puede significar "libre" o "gratuito".
 
-[^70]: [https://gnu.org/philosophy/free-sw.html](https://gnu.org/philosophy/free-sw.html)
+[^70]: <https://gnu.org/philosophy/free-sw.html>
 
-[^71]: [https://gnu.org/philosophy/proprietary.html](https://gnu.org/philosophy/proprietary.html)
+[^71]: <https://gnu.org/philosophy/proprietary.html>
 
 [^72]: Adaptación de "*iThings*", término ideado para referirse de
-manera lúdica a artefactos tales como *iPod*, *iPad*, *iPhone* y
-similares.
+  manera lúdica a artefactos tales como *iPod*, *iPad*, *iPhone* y
+  similares.
 
-[^73]: [https://gnu.org/gnu/the-gnu-project.html](https://gnu.org/gnu/the-gnu-project.html)
+[^73]: <https://gnu.org/gnu/the-gnu-project.html>
 
-[^74]: [https://gnu.org/gnu/gnu-linux-faq.html](https://gnu.org/gnu/gnu-linux-faq.html)
+[^74]: <https://gnu.org/gnu/gnu-linux-faq.html>
 
-[^75]: [https://gnu.org/philosophy/who-does-that-server-really-serve.html](https://gnu.org/philosophy/who-does-that-server-really-serve.html)
+[^75]: <https://gnu.org/philosophy/who-does-that-server-really-serve.html>
 
-[^76]: [https://gnu.org/licenses/license-recommendations.html](https://gnu.org/licenses/license-recommendations.html)
+[^76]: <https://gnu.org/licenses/license-recommendations.html>
 
-[^77]: [http://www.gnu.org/help](http://www.gnu.org/help)
+[^77]: <http://www.gnu.org/help>

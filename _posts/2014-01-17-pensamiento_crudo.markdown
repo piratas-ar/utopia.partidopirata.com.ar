@@ -4,6 +4,7 @@ title: "Pensamiento Crudo"
 layout: post
 cover: "assets/covers/single_pensamiento_crudo.png"
 slider: "assets/covers/slider_pensamiento_crudo.png"
+signature: 0
 ---
 
 Democracia Exponencial

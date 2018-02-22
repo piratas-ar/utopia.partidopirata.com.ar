@@ -5,6 +5,7 @@ layout: post
 cover: "assets/covers/single_quiero_ser_pirata.png"
 slider: "assets/covers/slider_quiero_ser_pirata.png"
 signature: 0
+toc: true
 ---
 
 Quiero ser pirata
