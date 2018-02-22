@@ -2,8 +2,8 @@
 title: "Zona Autónoma Temporal"
 author: Hakim Bey
 layout: post
-cover: "assets/covers/single_zona_autonoma_temporal.png"
-slider: "assets/covers/slider_zona_autonoma_temporal.png"
+cover: "assets/covers/single/zona_autonoma_temporal.png"
+slider: "assets/covers/slider/zona_autonoma_temporal.png"
 papersize: a5paper
 toc: true
 ---

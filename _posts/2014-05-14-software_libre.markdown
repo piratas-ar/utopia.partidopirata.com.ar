@@ -2,8 +2,8 @@
 title: "Software Libre"
 author: GNU
 layout: post
-cover: "assets/covers/single_software_libre.png"
-slider: "assets/covers/slider_software_libre.png"
+cover: "assets/covers/single/software_libre.png"
+slider: "assets/covers/slider/software_libre.png"
 toc: true
 ---
 

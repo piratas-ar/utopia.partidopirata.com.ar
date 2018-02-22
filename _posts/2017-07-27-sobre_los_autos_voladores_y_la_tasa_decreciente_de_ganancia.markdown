@@ -2,8 +2,8 @@
 title: "Sobre los autos voladores y la tasa decreciente de ganancia"
 author: "David Graeber"
 layout: post
-cover: "assets/covers/single_sobre_los_autos_voladores_y_la_tasa_decreciente_de_ganancia.png"
-slider: "assets/covers/slider_sobre_los_autos_voladores_y_la_tasa_decreciente_de_ganancia.png"
+cover: "assets/covers/single/sobre_los_autos_voladores_y_la_tasa_decreciente_de_ganancia.png"
+slider: "assets/covers/slider/sobre_los_autos_voladores_y_la_tasa_decreciente_de_ganancia.png"
 ---
 
 ![](assets/images/autosVoladores.png)

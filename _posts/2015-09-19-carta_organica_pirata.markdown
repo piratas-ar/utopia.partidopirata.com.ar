@@ -2,8 +2,8 @@
 author: Partido Pirata
 title: Carta Orgánica
 layout: post
-cover: "assets/covers/single_carta_organica_pirata.png"
-slider: "assets/covers/slider_carta_organica_pirata.png"
+cover: "assets/covers/single/carta_organica_pirata.png"
+slider: "assets/covers/slider/carta_organica_pirata.png"
 toc: true
 ---
 

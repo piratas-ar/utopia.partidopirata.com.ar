@@ -1,9 +1,9 @@
 ---
 layout: post
-cover: "assets/covers/single_las_nuevas_anarquistas.png"
-slider: "assets/covers/slider_las_nuevas_anarquistas.png"
 title: "Las nuevas anarquistas"
 author: "David Graeber"
+cover: "assets/covers/single/las_nuevas_anarquistas.png"
+slider: "assets/covers/slider/las_nuevas_anarquistas.png"
 toc: true
 ---
 

@@ -2,8 +2,8 @@
 title: "Manifiesto por la prevención de datos"
 author: Las Plomeras de las Plataformas
 layout: post
-cover: "assets/covers/single_manifiesto_por_la_prevencion_de_datos.png"
-slider: "assets/covers/slider_manifiesto_por_la_prevencion_de_datos.png"
+cover: "assets/covers/single/manifiesto_por_la_prevencion_de_datos.png"
+slider: "assets/covers/slider/manifiesto_por_la_prevencion_de_datos.png"
 ---
 
 Manifiesto por la prevención de datos

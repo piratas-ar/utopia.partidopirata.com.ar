@@ -2,8 +2,8 @@
 title: "¡Quiero ser pirata!"
 author: Partido Interdimensional Pirata
 layout: post
-cover: "assets/covers/single_quiero_ser_pirata.png"
-slider: "assets/covers/slider_quiero_ser_pirata.png"
+cover: "assets/covers/single/quiero_ser_pirata.png"
+slider: "assets/covers/slider/quiero_ser_pirata.png"
 signature: 0
 toc: true
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Hackeando al capitalismo: el movimiento de software libre y de código abierto"
 author: "Johan Söderberg"
-cover: "assets/covers/single_hackeando_al_capitalismo.png"
-slider: "assets/covers/slider_hackeando_al_capitalismo.png"
+cover: "assets/covers/single/hackeando_al_capitalismo.png"
+slider: "assets/covers/slider/hackeando_al_capitalismo.png"
 papersize: a5paper
 toc: true
 ---

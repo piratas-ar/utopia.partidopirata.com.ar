@@ -2,8 +2,8 @@
 layout: post
 author: Joreen
 title: "La tiranía de la falta de estructuras"
-cover: "assets/covers/single_la_tirania_de_la_falta_de_estructuras.png"
-slider: "assets/covers/slider_la_tirania_de_la_falta_de_estructuras.png"
+cover: "assets/covers/single/la_tirania_de_la_falta_de_estructuras.png"
+slider: "assets/covers/slider/la_tirania_de_la_falta_de_estructuras.png"
 toc: true
 ---
 

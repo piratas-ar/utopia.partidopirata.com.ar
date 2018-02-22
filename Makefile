@@ -2,11 +2,10 @@
 # `make` o `make all` genera el sitio
 #
 # Toma todas los svg de las tapas y los convierte a tif
-src_tapas        := $(wildcard assets/covers/*.svg)
-src_single_tapas := $(wildcard assets/covers/single_*.svg)
-tif_tapas        := $(patsubst %.svg,%.tif,$(src_tapas))
-png_tapas        := $(patsubst %.svg,%.png,$(src_tapas))
-ps               := $(patsubst %.pdf,%.ps,$(wildcard $(destination)/*-imposed.pdf))
+tapas  := $(wildcard assets/covers/*.svg)
+single := $(wildcard assets/covers/single/*.svg)
+slider := $(wildcard assets/covers/slider/*.svg)
+png    := $(patsubst %.svg,%.png,$(tapas) $(single) $(slider))
 
 destination := $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "puts c['destination']")
 srv          = $(dir $(destination))
@@ -20,11 +19,11 @@ impresora ?= ImprentaEnDefensa
 all: tapas toggle-dest build seed
 
 toggle-test-dest:
-	sed "s,^destination:.*,destination: $(srv)/test.$(site)," \
+	sed "s,^destination:.*,destination: $(srv)test.$(site)," \
 	    -i _config.yml
 
 toggle-dest:
-	sed "s,^destination:.*,destination: $(srv)/$(site)," \
+	sed "s,^destination:.*,destination: $(srv)$(site)," \
 	    -i _config.yml
 
 build:
@@ -47,7 +46,7 @@ clean:
 	rm -rf tmp src/tmp _site
 
 # Todas las tapas juntas
-tapas: $(tif_tapas) $(png_tapas)
+tapas: $(png)
 
 ps: $(ps)
 
@@ -57,13 +56,12 @@ imprimir:
 		lpr -o sides=two-sided-long-edge -P $(impresora) $(archivo) ;\
 	done
 
-# Magia!
-%.tif: %.svg
-	convert -colorspace CMYK -density 300 '$<' '$@'
-
 # Los sliders son de 730px
-assets/covers/slider_%.png: assets/covers/slider_%.tif
-	convert -resize 730x730\> $< $@
+assets/covers/slider/%.png: assets/covers/slider/%.svg
+	convert -resize 730 $< $@
 
-%.png: %.tif
+assets/covers/single/%.png: assets/covers/single/%.svg
+	convert $< $@
+
+assets/covers/%.png: assets/covers/%.svg
 	convert $< $@

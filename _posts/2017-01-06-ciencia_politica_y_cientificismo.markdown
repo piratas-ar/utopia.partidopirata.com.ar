@@ -2,8 +2,8 @@
 layout: post
 author: Oscar Varsavsky
 title: "Ciencia, política y cientificismo"
-cover: "assets/covers/single_ciencia_politica_cientificismo.png"
-slider: "assets/covers/slider_ciencia_politica_cientificismo.png"
+cover: "assets/covers/single/ciencia_politica_y_cientificismo.png"
+slider: "assets/covers/slider/ciencia_politica_y_cientificismo.png"
 toc: true
 ---
 
