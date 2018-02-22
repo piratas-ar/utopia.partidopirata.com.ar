@@ -5,18 +5,16 @@
 \newcommand{\copyleft}{\reflectbox{©}}
 
 \definecolor{grey}{cmyk}{0,0,0,0.6}
+\definecolor{white}{cmyk}{0,0,0,0}
 
-\renewcommand{\chapnumfont}{
-    \fontsize{44}{46}
-    \selectfont
-    \color{grey}
-}
+\renewcommand{\chapnumfont}{\color{white}}
 
 \pagestyle{fancy}
-\setlength{\headheight}{30pt}
+\fancyheadoffset{0pt}
 \fancyhead[]{}
 \fancyhead[LE]{\footnotesize{\leftmark}}
-\fancyhead[RE]{}
+\fancyhead[RO]{}
+\fancyfoot[C]{\footnotesize{\thepage}}
 
 \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
 \renewcommand{\sectionmark}[1]{\markright{#1}{}}
@@ -36,10 +34,43 @@
 % No mostrar los copetes en las imágenes
 \usepackage[labelformat=empty]{caption}
 
-% Convertir los nombres de los autores a mayusculas y alineado a la
-% derecha
-\newcommand{\tmpsubsubsection}[1]{}
-\let\tmpsubsubsection=\subsubsection
-\renewcommand{\subsubsection}[1]{\tmpsubsubsection{\hfill\MakeUppercase{#1}}}
+% Poner la autora en el título
+%
+% Para esto el título del capítulo tiene que tener el formato "Título.
+% Autora"
+%
+% https://stackoverflow.com/a/1507530
+\usepackage{substr}
+\usepackage[explicit]{titlesec}
+\titleformat{\chapter}[hang]{}{}{0cm}{%
+  \raggedleft
+  \Huge\BeforeSubString{ --- }{#1}\\
+  \IfSubStringInString{ --- }{#1}{%
+  {\Large \itshape \BehindSubString{ --- }{#1}}%
+}}
+
+% https://tex.stackexchange.com/a/233271
+% resuelve https://github.com/jgm/pandoc/issues/1632 y además no muestra
+% guiones vacíos como con el substring anterior
+\titleformat{name=\chapter,numberless}[hang]{}{}{0cm}{%
+  \Huge #1\markboth{#1}{#1}%
+}
 
 \raggedbottom
+\widowpenalty=10000
+\clubpenalty=10000
+
+% eliminar los headers de las paginas que quedan vacias!
+\usepackage{emptypage}
+% re-definir \includegraphics para que todas las imagenes esten a sangre
+% en una pagina aparte
+\usepackage{eso-pic}
+\let\latexincludegraphics\includegraphics
+\renewcommand{\includegraphics}[2][]{%
+  \newpage
+  \thispagestyle{empty}
+  \null
+  \AddToShipoutPicture*{%
+    \put(0,0){\latexincludegraphics[width=\paperwidth,height=\paperheight]{#2}}}
+  \newpage
+}

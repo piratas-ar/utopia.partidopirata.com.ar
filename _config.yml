@@ -1,43 +1,58 @@
 markdown: pandoc
 pandoc:
-    skip: false
-    bundle_permalink: ':slug.:output_ext'
-    papersize: 'a6paper'
-    sheetsize: 'a4paper'
-    imposition: true
-    binder: true
-    covers_dir: 'assets/covers'
-    flags: '--csl=apa.csl --bibliography=ref.bib --smart -V lang=es
-            --section-divs --email-obfuscation=references'
-    site_flags: '--toc --template=_layouts/toc.html'
-    outputs:
-        pdf: '-V fontsize=8pt,twoside
-                -V documentclass=book
-                -V geometry=hcentering
-                -V geometry=bindingoffset=5mm
-                -V geometry=bmargin=2.5cm
-                --latex-engine=xelatex
-                --table-of-contents
-                --include-in-header=_layouts/header.tex
-                --include-before-body=_layouts/license.tex'
-        epub: '--epub-chapter-level=2'
-        mediawiki:
-        rst:
-        latex: '-V fontsize=8pt,twoside
-                  -V documentclass=book
-                  -V geometry=hcentering
-                  -V geometry=bindingoffset=1cm
-                  -V geometry=bmargin=2.5cm
-                  --latex-engine=xelatex
-                  --table-of-contents
-                  --include-in-header=_layouts/header.tex
-                  --include-before-body=_layouts/license.tex'
+  skip:
+    posts: false
+    categories: true
+    full: true
+  bundle_permalink: ':slug.:output_ext'
+  papersize: 'a6paper'
+  sheetsize: 'a4paper'
+  imposition: true
+  binder: true
+  covers_dir: 'assets/covers'
+  flags: '--csl=apa.csl --bibliography=ref.bib -V lang=es --section-divs --email-obfuscation=references'
+  site_flags: '--toc --template=_layouts/toc.html'
+  outputs:
+    pdf: '-V fontsize=8pt,twoside
+        -V documentclass=book
+        -V geometry=hcentering
+        -V links-as-notes=true
+        -V geometry=bindingoffset=0.75cm
+        -V geometry=bmargin=1cm
+        -V geometry=tmargin=1cm
+        -V geometry=rmargin=1.5cm
+        -V geometry=lmargin=1cm
+        -V geometry=includefoot
+        -V geometry=includehead
+        -V geometry=headsep=10pt
+        -V geometry=footskip=20pt
+        -V graphics
+        -V subparagraph
+        --pdf-engine=xelatex
+        --include-in-header=_layouts/header.tex
+        --include-before-body=_layouts/license.tex'
+    epub: '--epub-chapter-level=2'
+    mediawiki:
+    latex: '-V fontsize=8pt,twoside
+        -V documentclass=book
+        -V geometry=hcentering
+        -V links-as-notes=true
+        -V geometry=bindingoffset=0.75cm
+        -V geometry=bmargin=1cm
+        -V geometry=tmargin=1cm
+        -V geometry=rmargin=1.5cm
+        -V geometry=lmargin=1cm
+        -V geometry=includefoot
+        -V geometry=includehead
+        -V geometry=headsep=10pt
+        -V geometry=footskip=20pt
+        -V graphics
+        -V subparagraph
+        --pdf-engine=xelatex
+        --include-in-header=_layouts/header.tex
+        --include-before-body=_layouts/license.tex'
 
-destination: /srv/http/utopia.partidopirata.com.ar
-layouts_dir:  ./_layouts
-plugins_dir:  ./_plugins
-
-exclude: [ tmp ]
+destination: ./utopia.partidopirata.com.ar
 
 permalink: ":title.html"
 
