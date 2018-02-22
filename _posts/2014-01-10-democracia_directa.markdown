@@ -5,33 +5,30 @@ layout: post
 cover: "assets/covers/single_democracia_directa.png"
 slider: "assets/covers/slider_democracia_directa.png"
 signature: 0
+toc: true
 ---
+
+![](assets/images/starhawk.png)
 
 Prólogo
 =======
 
-Starhawk (nombre de nacimiento Miriam Simos, Saint Paul, Minnesota,
-17 de junio de 1951) es una escritora y activista anarquista y
-autodenominada bruja. Es conocida como teórica del neopaganismo y del
-ecofeminismo. Es columnista de Beliefnet.com y On Faith.
-
-Nació en Saint Paul, EE.UU., y vive ahora en San Francisco, donde
-trabaja con Reclaiming, una tradición de brujería que ella cofundó en
-los 70s.
+Starhawk es una escritora y activista anarquista y autodenominada bruja.
+Es conocida como teórica del neopaganismo y del ecofeminismo.
 
 Es internacionalmente conocida como entrenadora en no violencia y
 acción directa, y como activista en el movimiento pacifista. También
-actúa dentro del feminismo y del movimiento altermundista. --
-https://es.wikipedia.org/wiki/Starhawk
+actúa dentro del feminismo y del movimiento altermundista.
 
-Este texto fue raducido colaborativamente durante enero del 2014 por las piratas
-y utiliza la construcción "nosotras las personas" como plural indeterminado.
-Textos por [Starhawk](http://www.starhawk.org/).
+Este texto fue traducido colaborativamente durante enero del 2014 por
+las piratas y utiliza la construcción "nosotras las personas" como
+plural indeterminado.  Textos por [Starhawk](http://www.starhawk.org/).
 
-Y si querés leer más podés encontrar los artículos de Starhawk en inglés en:
-<http://www.consensusdecisionmaking.org/>
+Y si querés leer más podés encontrar los artículos de Starhawk en inglés
+en: <http://www.consensusdecisionmaking.org/>
 
 ¡Hay muchos textos de Starhawk para traducir!
+
 Subite a la Barca de Utopía Pirata.
 
 ¿Qué es el consenso?
@@ -40,10 +37,10 @@ Subite a la Barca de Utopía Pirata.
 El consenso es un proceso grupal de toma de decisiones. Es un método
 democrático por el que un grupo completo de personas llega a un acuerdo.
 Las opiniones y las ideas de todas las participantes son relevadas y
-sintetizadas para lograr una decisión final que resulta aceptable para todas.
-A través del consenso no solo estamos trabajando para obtener mejores
-soluciones, sino también para promover el crecimiento de la comunidad y
-la confianza.
+sintetizadas para lograr una decisión final que resulta aceptable para
+todas.  A través del consenso no solo estamos trabajando para obtener
+mejores soluciones, sino también para promover el crecimiento de la
+comunidad y la confianza.
 
 Consenso vs. Votación
 ---------------------
@@ -58,7 +55,7 @@ resultar en decisiones creativas e inteligentes. Otro supuesto
 importante del consenso es que el proceso requiere la
 participación de todas, tanto hablando como escuchando. Ninguna idea se
 pierde, la opinión de cada participante es valorada como parte de la
-solución y al tomar una decisión, los sentimientos son tan importantes 
+solución y al tomar una decisión, los sentimientos son tan importantes
 como los hechos. Así, es posible que el conocimiento de una persona o las
 creencias fuertemente arraigadas puedan influenciar al grupo entero, no
 obstante se debería seguir manteniendo la posibilidad de participación.
@@ -109,7 +106,7 @@ alguien (generalmente la facilitadora) puede preguntar si existe
 alguna objeción o reservas a la propuesta. Ayuda tener un momento de
 silencio aquí, para que nadie se sienta coaccionado a acordar. Si no hay
 objeciones, el grupo se debe preguntar "¿Existe consenso?" Todas las
-miembros del grupo deben entonces, indicar que están de acuerdo, activa 
+miembros del grupo deben entonces, indicar que están de acuerdo, activa
 y visiblemente, prestando atención a cada miembro del grupo. Después
 de que se alcanzó el consenso, la decisión debe ser propuesta de nuevo,
 como una forma de asegurarse que todas tengan claro lo que se ha
@@ -220,8 +217,8 @@ decisiones consensuadas por el grupo, cosas que fueron dejadas para ser
 decididas en otro momento y quienes han asumido responsabilidades para
 tareas particulares. El grupo (o las facilitadoras para la próxima
 reunión) debería ser capaz de usar las notas para construir una agenda
-para la próxima reunión. Si el grupo está teniendo problemas para 
-formular una propuesta, una apuntadora puede también ser útil para 
+para la próxima reunión. Si el grupo está teniendo problemas para
+formular una propuesta, una apuntadora puede también ser útil para
 recordar al grupo los puntos clave cubiertos por una discusión.
 
 Es importante resaltar que cada miembro del grupo debería tratar de ser
@@ -246,17 +243,17 @@ necesaria la gente" o "Queremos ir donde tengamos mas exposición
 mediática" o "Queremos panfletear a las trabajadoras dentro del lugar"
 ayudará al grupo a tomar decisiones bajo situaciones de estrés y de
 circunstancias cambiantes. Se debe estar preparada para situaciones
-inesperadas, seleccionando una vocera y una facilitadora para la rápida 
-toma de decisiones durante una accion. Será responsabilidad las voceras 
-comunicar las decisiones del grupo a la organización mayor de la acción. 
-Es responsabilidad de las facilitadoras articular rápida y suscintamente 
-los problemas a ser discutidos para descartar los puntos donde el acuerdo 
-ya haya sido alcanzado. Es responsabilidad de todas en el grupo mantener 
-las discusiones a un mínimo si son necesarias acciones inmediatas. Si el 
-tema que querías hablar ya ha sido cubierto por otra persona, no vuelvas 
-a plantearlo. Una aproximación calmada y un claro deseo de llegar a un 
+inesperadas, seleccionando una vocera y una facilitadora para la rápida
+toma de decisiones durante una accion. Será responsabilidad las voceras
+comunicar las decisiones del grupo a la organización mayor de la acción.
+Es responsabilidad de las facilitadoras articular rápida y suscintamente
+los problemas a ser discutidos para descartar los puntos donde el acuerdo
+ya haya sido alcanzado. Es responsabilidad de todas en el grupo mantener
+las discusiones a un mínimo si son necesarias acciones inmediatas. Si el
+tema que querías hablar ya ha sido cubierto por otra persona, no vuelvas
+a plantearlo. Una aproximación calmada y un claro deseo de llegar a un
 acuerdo puede ayudar a la velocidad del proceso. No dejes que la ansiedad
-sobrepase la confianza en las otras o tu propósito en la acción. 
+sobrepase la confianza en las otras o tu propósito en la acción.
 Las objeciones fuertes deben limitarse a cuestiones de principios.
 
 Herramientas para el proceso de consenso
@@ -265,10 +262,10 @@ Herramientas para el proceso de consenso
 ### Registros de entrada
 
 Por lo general son utilizados en las introducciones. Además de su nombre,
-cada persona puede decir al grupo cómo se siente (ansiosa, jodona, 
-cansada) y/o lo que esperan de la reunión (ciertas decisiones, cierta 
-duración). Un grupo puede ajustar su agenda de acuerdo a las necesidades 
-del estado o prácticas emocionales reveladas por el grupo durante el 
+cada persona puede decir al grupo cómo se siente (ansiosa, jodona,
+cansada) y/o lo que esperan de la reunión (ciertas decisiones, cierta
+duración). Un grupo puede ajustar su agenda de acuerdo a las necesidades
+del estado o prácticas emocionales reveladas por el grupo durante el
 ingreso.
 
 ### Rondas de discusión
@@ -290,14 +287,14 @@ puedan verlas y recordarlas.
 
 ### Dividirse en grupos pequeños
 
-Dependiendo del tamaño del grupo original, desde tres personas hasta 
-un grupo de afinidad entero. Un pequeño conjunto de pares tiene la 
+Dependiendo del tamaño del grupo original, desde tres personas hasta
+un grupo de afinidad entero. Un pequeño conjunto de pares tiene la
 oportunidad de hablar de las cosas en una determinada cantidad
-de tiempo antes de informar al resto del grupo. Esto le da a las 
-personas la oportunidad de escucharse de verdad las unas a las otras 
-y expresarse. Es muy útil cuando una agrupación parece incapaz de 
-llegar avun consenso. En una reunión de delegadas, dividirse en 
-grupos de afinidad para discutir asuntos o para tomar decisiones 
+de tiempo antes de informar al resto del grupo. Esto le da a las
+personas la oportunidad de escucharse de verdad las unas a las otras
+y expresarse. Es muy útil cuando una agrupación parece incapaz de
+llegar avun consenso. En una reunión de delegadas, dividirse en
+grupos de afinidad para discutir asuntos o para tomar decisiones
 específicas es a menudo necesario.
 
 ### Pecera/vidriera
@@ -339,16 +336,16 @@ El concepto de grupos de afinidad tiene una larga historia. Se
 desarrollaron como una estructura organizativa durante la Guerra Civil
 española y han sido utilizados con éxito sorprendente durante los
 últimos 30 años por movimientos feministas, anti nucleares,
-ambientalistas, entro otros movimientos sociales de todo el mundo. 
-Fueron utilizados por primera vez en 1969 como una estructura a gran 
-escala  para llevar a cabo un bloqueo no violento durante la fuerte 
-ocupación de la estación nuclear alemana de Ruhr por 30.000 personas, 
-y luego en las ocupaciones/bloqueos estadounidenses de la estación 
-nuclear Seabrook en 1977 donde 1.400 personas fueron arrestadas y de 
-nuevo, muchas veces en el altamente exitoso movimiento antinuclear 
-estadounidense de los '70 y '80. Su uso como sostén de las activistas 
-en situaciones de altos niveles de represión policial ha sido 
-confirmada una y otra vez. Recientemente, han sido utilizados 
+ambientalistas, entro otros movimientos sociales de todo el mundo.
+Fueron utilizados por primera vez en 1969 como una estructura a gran
+escala  para llevar a cabo un bloqueo no violento durante la fuerte
+ocupación de la estación nuclear alemana de Ruhr por 30.000 personas,
+y luego en las ocupaciones/bloqueos estadounidenses de la estación
+nuclear Seabrook en 1977 donde 1.400 personas fueron arrestadas y de
+nuevo, muchas veces en el altamente exitoso movimiento antinuclear
+estadounidense de los '70 y '80. Su uso como sostén de las activistas
+en situaciones de altos niveles de represión policial ha sido
+confirmada una y otra vez. Recientemente, han sido utilizados
 constructivamente en las protestas masivas de Seattle y Washington.
 
 No es necesario utilizar la expresión "grupo de afinidad" - equipos de
@@ -366,10 +363,10 @@ hasta la "Tribu de acción de Buckrabendinni".
 ¿Con quién puedo formar un grupo de afinidad?
 ---------------------------------------------
 
-La respuesta más simple a esto es, la gente que conocés, y que se 
-sienten de la misma manera sobre el(los) tema(s) en cuestión. Podrían 
+La respuesta más simple a esto es, la gente que conocés, y que se
+sienten de la misma manera sobre el(los) tema(s) en cuestión. Podrían
 ser las personas que ves en un taller (Hacklab), trabajás con, salís con,
-o vivís con. El punto a destacar sin embargo es que tengan algo en común 
+o vivís con. El punto a destacar sin embargo es que tengan algo en común
 aparte de la actividad que las está juntando, que confíes en ellas y que
 ellas confíen en vos.
 
@@ -388,8 +385,8 @@ qué tipo de apoyo se necesita de los demás, y lo que podés ofrecer a las
 demás. Sirve de ayuda si se tiene un acuerdo sobre algunas cosas
 básicas: qué tan activas, cuán espiritual, qué tan no-violentas, qué tan
 suave, qué tan molestas, cuán dispuestas a correr el riesgo de detención,
-cuándo se abandona la movida, su perspectiva política global, etc. 
-Pero entonces de nuevo, es posible que todas sólo compartan un mismo 
+cuándo se abandona la movida, su perspectiva política global, etc.
+Pero entonces de nuevo, es posible que todas sólo compartan un mismo
 trabajo, escuchen la misma música o hagan alpinismo, etc.
 
 Organización
@@ -401,33 +398,33 @@ determinados por el objetivo o razón de ser del grupo, pero podría
 incluir una vocera, para hablar o tratar con los medios, una
 facilitadora para las decisiones rápidas, primeros auxilios para hacerse
 cargo de la gente lastimada, una vocera que lleve las ideas y decisiones
-a otros grupos, una observadora legal para dar apoyo en situaciones de 
-arresto, etc. Así como estos roles pueden ser asumidos dentro de un grupo 
-de afinidad, el grupo puede tomar un rol especializado en su interacción 
-con otros grupos de afinidad o dentro de la campaña o protesta. Puede 
-haber grupos de afinidad especializados en la vigilancia hacia la policía, 
-contra las infiltraciones, observación legal, comida, comunicación y 
+a otros grupos, una observadora legal para dar apoyo en situaciones de
+arresto, etc. Así como estos roles pueden ser asumidos dentro de un grupo
+de afinidad, el grupo puede tomar un rol especializado en su interacción
+con otros grupos de afinidad o dentro de la campaña o protesta. Puede
+haber grupos de afinidad especializados en la vigilancia hacia la policía,
+contra las infiltraciones, observación legal, comida, comunicación y
 vinculación, medicina, performance artística, o cualquiera otra actividad
-común. Con este enfoque en los roles, cada grupo de afinidad puede hacer 
-su trabajo y apoyar el trabajo de las otras. De esta forma, muchos grupos 
+común. Con este enfoque en los roles, cada grupo de afinidad puede hacer
+su trabajo y apoyar el trabajo de las otras. De esta forma, muchos grupos
 de afinidad forman una red interdependiente que logra mucho más que un
 grupo grande de activistas individuales.
 
-En el contexto de una manifestación el grupo que está en la calle es tan 
-importante como el equipo de apoyo. Ellas hacen las cosas cotidianas y 
+En el contexto de una manifestación el grupo que está en la calle es tan
+importante como el equipo de apoyo. Ellas hacen las cosas cotidianas y
 lamentablemente no reciben el reconocimiento que merecen. Pueden pasear/
-alimentar los animales domésticos, regar las plantas, cuidar niñas, 
-llamar a los empleadores, padres/hijos, pagar el alquiler, etc. Como 
-consecuencia, más gente puede participar (y arriesgar más) porque tienen 
-ayuda con estas cosas. El apoyo emocional no debe ser subestimado; y 
-fuera de lo que ofrecen los abrazos, besos y las llamadas telefónicas, 
-la gente se siente lo suficientemente segura para arriesgarse cuando 
-saben que tienen apoyo emocional. El equipo de apoyo también puede apoyar 
-indirectamente la acción directa, mediante el suministro de información 
-a los medios de comunicación y los grupos comunitarios interesados, la 
-recaudación de fondos y apoyo logístico, como el suministro de alimentos, 
-agua y alojamiento. El aspecto de un grupo en la calle y su equipo de 
-apoyo puede (y debe) intercambiarse así se genera una clara comprensión 
+alimentar los animales domésticos, regar las plantas, cuidar niñas,
+llamar a los empleadores, padres/hijos, pagar el alquiler, etc. Como
+consecuencia, más gente puede participar (y arriesgar más) porque tienen
+ayuda con estas cosas. El apoyo emocional no debe ser subestimado; y
+fuera de lo que ofrecen los abrazos, besos y las llamadas telefónicas,
+la gente se siente lo suficientemente segura para arriesgarse cuando
+saben que tienen apoyo emocional. El equipo de apoyo también puede apoyar
+indirectamente la acción directa, mediante el suministro de información
+a los medios de comunicación y los grupos comunitarios interesados, la
+recaudación de fondos y apoyo logístico, como el suministro de alimentos,
+agua y alojamiento. El aspecto de un grupo en la calle y su equipo de
+apoyo puede (y debe) intercambiarse así se genera una clara comprensión
 en cuanto a la importancia de todos los roles en la efectividad del grupo.
 
 El objetivo al final del día es cuidar de una misma y de sus pares,
@@ -454,11 +451,11 @@ El consenso no es unanimidad
 
 ¿Es un proceso cooperativo en el que la gente comparte sus mejores ideas
 para llegar a decisiones superadoras o es un proceso coercitivo y
-manipulador mediante el cual aquellas personas que son traicioneras, más 
-verborrágicas o que tienen más recursos, pueden salirse con la suya 
-haciéndonos perder el tiempo? ¿O es una fantasía idealista en la cual 
-cada problema tiene siempre una buena y simple solución que incorpora 
-las ideas de todas (sin importar lo ridículas que sean) de forma de 
+manipulador mediante el cual aquellas personas que son traicioneras, más
+verborrágicas o que tienen más recursos, pueden salirse con la suya
+haciéndonos perder el tiempo? ¿O es una fantasía idealista en la cual
+cada problema tiene siempre una buena y simple solución que incorpora
+las ideas de todas (sin importar lo ridículas que sean) de forma de
 dejarnos y satisfechas?
 
 El consenso no es unanimidad
@@ -511,8 +508,8 @@ Si no es el consenso, ¿entonces qué?  Usualmente el voto es propuesto
 como una alternativa democrática razonable.  Pero el voto no es un
 proceso de encuentro, es simplemente un procedimiento.  La meta del voto
 es contar las preferencias (existentes) de un grupo de personas y de una
-manera lógica, justa y equitativa de llegar a una buena decisión.  
-Kenneth Arrow recibió el premio Nobel por probar que esto era imposible 
+manera lógica, justa y equitativa de llegar a una buena decisión.
+Kenneth Arrow recibió el premio Nobel por probar que esto era imposible
 de realizar a menos que sean situaciones bastante simples, por ejemplo,
 situaciones en las que solo hay dos opciones posibles.  Además, votar
 necesariamente ignora la intensidad de la preferencia que cada persona
@@ -528,7 +525,7 @@ persuadir a todo el resto de la validez de su persepectiva y solución.
 Pero si el problema no tiene una solución fácil y clara, algunas
 personas sienten una devoción particular hacia una solución específica,
 o se genera una competencia por el poder en el grupo; el proceso se
- va a atascar, se va a polarizar y/o va a devenir rapidamente 
+ va a atascar, se va a polarizar y/o va a devenir rapidamente
  en coerción.
 
 Un buen proceso de consenso evita estos problemas permitiendo a las
@@ -544,10 +541,10 @@ argumentos. Pueden desafiar presunciones tontas, obsoletas o inmorales y
 pueden explorar soluciones inusuales (transformaciones radicales,
 compromisos, negociaciones, etc.) que son normalmente pasadas por alto
 cuando la discusión se polaríza o es constreñida por proposiciones
-muy formales.  Las personas pueden ofrecer su tiempo, riqueza o sufrir 
-una pérdida por el bien del grupo.  Y las personas pueden ser 
-persuadidas, inspiradas, amadas o aconsejadas en sus prejuicios, sesgos 
-u otras rigideces o si esto falla, prevenirlas no violentamente de 
+muy formales.  Las personas pueden ofrecer su tiempo, riqueza o sufrir
+una pérdida por el bien del grupo.  Y las personas pueden ser
+persuadidas, inspiradas, amadas o aconsejadas en sus prejuicios, sesgos
+u otras rigideces o si esto falla, prevenirlas no violentamente de
 actuar inmoralmente.
 
 Por supuesto que un buen proceso que termina en un voto también puede

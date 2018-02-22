@@ -6,6 +6,8 @@ cover: "assets/covers/single_sobre_los_autos_voladores_y_la_tasa_decreciente_de_
 slider: "assets/covers/slider_sobre_los_autos_voladores_y_la_tasa_decreciente_de_ganancia.png"
 ---
 
+![](assets/images/autosVoladores.png)
+
 Sobre los autos voladores y la tasa decreciente de ganancia
 ===========================================================
 
@@ -549,7 +551,7 @@ pero en efecto el cambio fue que la investigación pública se dirigiera
 de programas como NASA o fuentes alternativas de energía, hacia
 tecnologías militares, informáticas y médicas.
 
-Por supuerto esto no lo explica todo.  Sobre todo no explica por qué aún
+Por supuesto esto no lo explica todo.  Sobre todo no explica por qué aún
 en aquellas áreas que se han convertido en el foco de proyectos de
 investigación de buena financiación, no hemos visto ninguno de los
 avances que anticipábamos 50 años atrás.  Si el 95% de la investigación
