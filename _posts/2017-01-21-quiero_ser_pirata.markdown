@@ -8,6 +8,8 @@ signature: 0
 toc: true
 ---
 
+![](assets/images/2017-01-21-quiero_ser_pirata.png)
+
 Quiero ser pirata
 =================
 
