@@ -586,7 +586,12 @@ campesinos y artesanos recientemente proletarizados-- los que de hecho
 derrocan a los regímenes capitalistas; mientras que no sucede lo mismo
 con aquellos habituados a generaciones de trabajo asalariado. También
 ayudaría a explicar la extraordinaria importancia de las luchas de los
-pueblos
+pueblos indígenas en el nuevo movimiento: tales personas tienden a ser
+al mismo tiempo los menos alienados y los más oprimidos de la tierra.
+Hoy día, cuando las nuevas tecnologías de comunicación han hecho posible
+incluirles dentro de alianzas revolucionarias globales, así como de
+resistencia y revuelta locales, resulta casi inevitable que hayan de
+desempeñar un papel enormemente inspirador.
 
 [^1]: Hay quienes asumen tan profundamente los principios anarquistas
 de antisectarismo e indefinición prospectiva que a veces se muestran
