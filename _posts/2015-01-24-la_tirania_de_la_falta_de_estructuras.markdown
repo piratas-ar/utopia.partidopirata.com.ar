@@ -7,6 +7,8 @@ slider: "assets/covers/slider/la_tirania_de_la_falta_de_estructuras.png"
 toc: true
 ---
 
+![](assets/images/2015-01-24-la_tirania_de_la_falta_de_estructuras.png)
+
 # Prefacio
 
 La versión más temprana de este artículo fue presentada como una charla

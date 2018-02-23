@@ -7,6 +7,7 @@ slider: "assets/covers/slider/software_libre.png"
 toc: true
 ---
 
+![](assets/images/2014-05-14-software_libre.png)
 
 ¿Qué es el software libre?[^free-sw]
 ==========================

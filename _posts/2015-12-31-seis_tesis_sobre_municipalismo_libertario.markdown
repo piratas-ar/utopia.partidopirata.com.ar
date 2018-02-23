@@ -7,6 +7,8 @@ slider: "assets/covers/slider/seis_tesis_sobre_municipalismo_libertario.png"
 toc: true
 ---
 
+![](assets/images/2015-12-31-seis_tesis_sobre_municipalismo_libertario.png)
+
 Tesis I
 =======
 

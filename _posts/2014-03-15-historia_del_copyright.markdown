@@ -7,6 +7,8 @@ slider: "assets/covers/slider/historia_del_copyright.png"
 toc: true
 ---
 
+![](assets/images/2014-03-15-historia_del_copyright.png)
+
 Prefacio
 ========
 

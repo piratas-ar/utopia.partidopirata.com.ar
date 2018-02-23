@@ -6,6 +6,8 @@ cover: "assets/covers/single/manifiesto_por_la_prevencion_de_datos.png"
 slider: "assets/covers/slider/manifiesto_por_la_prevencion_de_datos.png"
 ---
 
+![](assets/images/2016-12-20-manifiesto_por_la_prevencion_de_datos.png)
+
 Manifiesto por la prevención de datos
 =====================================
 
