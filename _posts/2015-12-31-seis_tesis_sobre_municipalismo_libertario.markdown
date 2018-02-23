@@ -433,15 +433,15 @@ situaciones de desarrollo de principios democráticos, en los que los
 burgueses nunca se han sentido demasiado cómodos. Los diferentes
 «derechos» formulados por estas revoluciones no se consiguieron gracias
 a los burgueses, sino a pesar de ellos; así los granjeros libres
-norteamericanos de la década de 1770 y los _sans culottes_[^ndt-sans
-culottes] (descamisados) de la década de 1790 --además su futuro es cada
-vez más cuestionable dentro de este mundo cibernético y corporativo que
-está en crecimiento.
+norteamericanos de la década de 1770 y los _sans
+culottes_[^ndt-sans-culottes] (descamisados) de la década de 1790
+--además su futuro es cada vez más cuestionable dentro de este mundo
+cibernético y corporativo que está en crecimiento.
 
-[^ndt-sans culottes]:  Eran los partisanos de izquierdas miembros de las
-clases sociales más bajas; típicamente eran quienes realizaban labores
-manuales. Constituyeron la mayor parte del ejército revolucionario
-durante el inicio de la Revolución francesa _(Nota de traducción.)_
+[^ndt-sans-culottes]:  Eran los partisanos de izquierdas miembros de las
+  clases sociales más bajas; típicamente eran quienes realizaban labores
+  manuales. Constituyeron la mayor parte del ejército revolucionario
+  durante el inicio de la Revolución francesa _(Nota de traducción.)_
 
 Sin embargo, estas tendencias actuales y futuras de carácter
 tecnológico, social y cultural, que se agitan y amenazan con descomponer
