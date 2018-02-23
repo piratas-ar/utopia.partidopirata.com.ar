@@ -8,7 +8,7 @@ signature: 0
 toc: true
 ---
 
-![](assets/images/starhawk.png)
+![](assets/images/2014-01-10-democracia_directa.png)
 
 Prólogo
 =======

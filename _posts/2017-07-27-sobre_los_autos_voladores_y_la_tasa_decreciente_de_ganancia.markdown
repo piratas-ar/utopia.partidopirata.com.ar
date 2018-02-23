@@ -6,7 +6,7 @@ cover: "assets/covers/single_sobre_los_autos_voladores_y_la_tasa_decreciente_de_
 slider: "assets/covers/slider_sobre_los_autos_voladores_y_la_tasa_decreciente_de_ganancia.png"
 ---
 
-![](assets/images/autosVoladores.png)
+![](assets/images/2017-07-27-sobre_los_autos_voladores_y_la_tasa_decreciente_de_ganancia.png)
 
 Sobre los autos voladores y la tasa decreciente de ganancia
 ===========================================================

@@ -7,6 +7,8 @@ slider: "assets/covers/slider_ciencia_politica_cientificismo.png"
 toc: true
 ---
 
+![](assets/images/2017-01-06-ciencia_politica_y_cientificismo.png)
+
 Prefacio
 ========
 

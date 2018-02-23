@@ -7,6 +7,8 @@ author: "David Graeber"
 toc: true
 ---
 
+![](assets/images/2014-01-20-las_nuevas_anarquistas.png)
+
 Las nuevas anarquistas
 ======================
 
