@@ -1,3 +1,6 @@
+title: 'Utopía Pirata'
+canonical: 'https://utopia.partidopirata.com.ar'
+email: 'contacto@partidopirata.com.ar'
 markdown: pandoc
 pandoc:
   skip:
@@ -52,7 +55,7 @@ pandoc:
         --include-in-header=_layouts/header.tex
         --include-before-body=_layouts/license.tex'
 
-destination: ./utopia.partidopirata.com.ar
+destination: /srv/http/utopia.partidopirata.com.ar
 
 permalink: ":title.html"
 

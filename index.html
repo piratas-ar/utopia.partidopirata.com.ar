@@ -64,6 +64,8 @@ title: Utopía Pirata
       <small class="author">{{post.author}}</small>
     </h4>
 
+    <br/>
+
     <ul class="list-inline format-list inline">
       <li> <span class="glyphicon glyphicon-cloud-download" title="Descargar"></span> </li>
     {% for format in site.pandoc.outputs limit:2 %}
@@ -79,14 +81,9 @@ title: Utopía Pirata
 </section>
 
 <footer>
-  <a href="licencia.html">Licencia</a> |
-  <a href="atom.xml">Feed Completo</a> |
-  <a href="{{ site.torrent.file }}">Torrent</a> |
-  <a href="git/">Código fuente</a> |
-  <a href="http://johnmacfarlane.net/pandoc/">jekyll</a>+
-  <a href="http://jekyllrb.com">pandoc</a>+
-  <a href="http://getbootstrap.com">bootstrap</a>+
-  <a href="http://endefensadelsl.org">edsl</a>
+  <a href="/atom.xml">Feed Completo</a> |
+  <a href="/{{ site.torrent.file }}">Torrent</a> |
+  <a href="https://0xacab.org/utopias-piratas/utopia.partidopirata.com.ar">Código fuente</a>
 </footer>
 
 <script src="https://code.jquery.com/jquery.js"></script>
