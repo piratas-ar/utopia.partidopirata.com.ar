@@ -24,9 +24,8 @@ publicadas en la "Revista de Sociología" de Berkeley, Volumen 17,
 1972-73, pp. 151-165 y en la "Revista Ms.", julio de 1973, pp. 76-78 y
 86-89, firmada como Jo Freeman.  Esta versión se difundió por todo el
 mundo.  Muchas personas han editado, reimpreso, cortado y traducido "La
-Tiranía" en revistas, libros y sitios web, a menudo sin el permiso o el
-conocimiento de la autora.  Esta versión es una mezcla de las tres
-versiones citadas.
+Tiranía" en revistas, libros y sitios web.  Esta versión es una mezcla
+de las tres versiones citadas.
 
 Esta versión[^tyranny] fue traducida por piratas del Partido Pirata de
 Argentina[^ppar].

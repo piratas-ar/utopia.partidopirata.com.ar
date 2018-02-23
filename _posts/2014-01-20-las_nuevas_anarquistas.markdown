@@ -12,16 +12,9 @@ toc: true
 Las nuevas anarquistas
 ======================
 
-Notas de la edición
-===================
-
-Publicado en la [New Left Review #13](http://newleftreview.es/13).
-Convertido a markdown por
-[Bazza](https://github.com/b4zz4/ManifestanteXXI/blob/master/textos/los_nuevos_anarquistas.md).
-
-
-Las nuevas anarquistas
-======================
+> Publicado en la [New Left Review #13](http://newleftreview.es/13).
+> Convertido a markdown por
+> [Bazza](https://github.com/b4zz4/ManifestanteXXI/blob/master/textos/los_nuevos_anarquistas.md).
 
 Cuesta pensar en una época en la que haya habido tal abismo entre
 intelectuales y activistas; entre los teóricos de la revolución y sus
@@ -83,16 +76,16 @@ a la luz de todo lo anterior.
 ¿Un movimiento global?
 ======================
 
-La expresión «movimiento antiglobalización» ha sido acuñada por
-los multimedios de prensa  estadounidenses y los activistas nunca se han sentido
-a gusto con esa definición. De ser un movimiento que luche contra
-algo, lo hace contra el neoliberalismo, que podemos definir como
+La expresión «movimiento antiglobalización» ha sido acuñada por los
+multimedios de prensa  estadounidenses y los activistas nunca se han
+sentido a gusto con esa definición. De ser un movimiento que luche
+contra algo, lo hace contra el neoliberalismo, que podemos definir como
 una especie de fundamentalismo del mercado --o, para ser más
-precisos, de estalinismo del mercado-- que sostiene que no hay
-más que una dirección posible para el desarrollo humano. Este
-diseño es sostenido por una elite de economistas y plumíferos
-de las corporaciones, a los que se ha de ceder todo el poder que
-antaño detentaran la instituciones que conservaban alguna traza de
+precisos, de estalinismo del mercado-- que sostiene que no hay más que
+una dirección posible para el desarrollo humano. Este diseño es
+sostenido por una elite de economistas y plumíferos de las
+corporaciones, a los que se ha de ceder todo el poder que antaño
+detentaran la instituciones que conservaban alguna traza de
 responsabilidad democrática; éste debe ser ejercido en lo sucesivo por
 organizaciones no electas resultantes de tratados internacionales, como
 el FMI, la OMC o el TLCA. En Argentina, Estonia o Taiwan sería posible

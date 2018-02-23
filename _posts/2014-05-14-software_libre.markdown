@@ -9,10 +9,10 @@ toc: true
 
 ![](assets/images/2014-05-14-software_libre.png)
 
-¿Qué es el software libre?[^free-sw]
+¿Qué es el software libre?
 ==========================
 
-[^free-sw]: <http://www.gnu.org/philosophy/free-sw.es.html>
+<http://www.gnu.org/philosophy/free-sw.es.html>
 
 Definición de software libre
 ----------------------------
@@ -350,10 +350,10 @@ Revisiones: Hernán Giovagnoli, Daniel (lluvia).
 
 
 
-¿Qué es el copyleft?[^copyleft]
+¿Qué es el copyleft?
 ====================
 
-[^copyleft]: <http://www.gnu.org/copyleft/copyleft.es.html>
+<http://www.gnu.org/copyleft/copyleft.es.html>
 
 El copyleft es un método general para hacer un programa (u otro tipo
 de trabajo) libre, exigiendo que todas las versiones modificadas y
@@ -555,10 +555,10 @@ Atribución-SinDerivadas 3.0 Estados Unidos de América[^15] .
 
 
 
-El manifiesto de GNU[^manifesto]
+El manifiesto de GNU
 ====================
 
-[^manifesto]: <http://www.gnu.org/gnu/manifesto.es.html>
+<http://www.gnu.org/gnu/manifesto.es.html>
 
 El manifiesto de GNU, que aparece a continuación, lo escribió Richard
 Stallman[^41] en los inicios del proyecto GNU para
@@ -1198,11 +1198,10 @@ No se permite la realización de copias modificadas.
 
 
 
-El software libre es ahora aún más importante[^free-software-even-more-important]
+El software libre es ahora aún más importante
 =============================================
 
-[^free-software-even-more-important]:
-  <http://www.gnu.org/philosophy/free-software-even-more-important.es.html>
+<http://www.gnu.org/philosophy/free-software-even-more-important.es.html>
 
 Por Richard Stallman[^62]
 
