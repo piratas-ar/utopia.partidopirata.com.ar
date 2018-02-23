@@ -270,112 +270,112 @@ idea de nueva apertura no está promoviendo un carácter formativo.
 Tesis IV
 ========
 
-Así pues, la municipalidad no es tan sólo el «lugar» donde uno vive, la
+Así pues, la municipalidad no es tan sólo el «lugar» donde uno vive la
 «inversión» de tener una casa, sanitarios, salud, servicios de
 seguridad, un trabajo, la biblioteca y amenidades culturales. La
-ciudadanización forma, históricamente, una nueva transición de la
-humanidad que desde las formas tribales hasta las formas civiles de
+ciudadanización constituye históricamente una nueva transición de la
+humanidad desde las formas tribales hasta las formas civiles de
 vida, lo cual tiene un carácter tan revolucionario como el paso de los
-grupos cazadores hacia el cultivo de la tierra; o como del cultivo de la
+grupos cazadores hacia el cultivo de la tierra, o como del cultivo de la
 tierra a la industria manufacturera. A pesar de los absorbentes poderes
-del Estado, hubo un posterior desarrollo que combinó civismo con
-nacionalismo y política con estatismo; como decía V. Gordon Childe, la
+del estado, hubo un posterior desarrollo que combinó civismo con
+nacionalismo y política con estatismo. Como decía V. Gordon Childe, la
 «revolución urbana» fue un cambio tan grande como la revolución agrícola
-o la revolución industrial. Además se puede comprobar, que la
-nación-estado, al igual que sus predecesores, lleva en las entrañas
+o la revolución industrial. Además se puede comprobar que el
+estado-nación, al igual que sus predecesores lleva en las entrañas
 mucho de este pasado ya mencionado y aún no lo ha digerido. La
-urbanización puede completar aquello que los Césares romanos, las
-monarquías absolutas y las repúblicas burguesas no pudieron
---destruyendo incluso la herencia de la propia revolución urbana--, sin
-embargo esto aún no ha tenido lugar.
+urbanización puede completar aquello que los césares romanos, las
+monarquías absolutas y las repúblicas burguesas no pudieron lograr
+--destruyendo incluso la herencia de la propia revolución urbana--, 
+aunque aún no haya tenido lugar.
 
 Antes de entrar en las implicaciones revolucionarias de las
-aproximaciones al municipio libertario y de volver sobre política
+aproximaciones al municipio libertario y de volver sobre la política
 libertaria, es necesario estudiar un problema teórico: la realización de
 la política diferenciada de la simple administración. En este punto,
 Marx, en sus análisis sobre la Comuna de París de 1871 ha construido una
 teoría social radical de considerable imperfección. La combinación
-existente en la Comuna, de política delegada, con la acción de policía
-realizada por los propios administradores, hecho que Marx celebró
-profusamente, supuso el mayor fracaso de esta revolución. Rousseau, con
-bastante razón, planteaba que el poder popular no se puede delegar sin
-que se destruya. O bien se tiene una asamblea popular que ostenta todos
-los poderes, o bien esos poderes los ostentará el Estado. El problema
-del poder delegado infectó por completo el sistema de consejos: los
-_soviets_ (Raten), la Comuna de 1871 y naturalmente los sistemas
-republicanos en general, tanto de carácter nacional como municipal, las
-palabras «democracia representativa» son una contradicción
-terminológica. Un pueblo no puede constituirse en _polissonomos_,
-realizando la designación del _nomos_ creando legislación, o
-_nomothesia_ delegando en cuerpos que excluyen el debate, el
-razonamiento y la forma de decisión que caracteriza la auténtica
-identidad de la política. No menos importante es la no entrega a la
-administración --mera ejecución de la política del poder de formular qué
-debe ser administrado sin entrar en la actividad habitual del Estado.
+existente en la Comuna, de política delegada junto con la acción de 
+policía realizada por los propios administradores (cosa que Marx
+celebrara profusamente), supuso el mayor fracaso de esta revolución. 
+Rousseau, con bastante razón, planteaba que el poder popular no se puede 
+delegar sin que se destruya. O bien se tiene una asamblea popular que 
+ostenta todos los poderes, o bien esos poderes los ostentará el Estado. 
+El problema del poder delegado infectó por completo el sistema de 
+consejos: los _soviets_ (Raten), la Comuna de 1871 y naturalmente los 
+sistemas republicanos en general, tanto de carácter nacional como 
+municipal, el término «democracia representativa» constituye una 
+contradicción terminológica. Un pueblo no puede constituirse en 
+_polissonomos_ realizando la designación del _nomos_, creando legislación
+o _nomothesia_ delegando en cuerpos que excluyen el debate, el
+razonamiento y las formas de decisión que caracterizan la identidad de la 
+política. No menos importante es la falta de entrega a la administración, 
+mera ejecución de la política del poder respecto a formular qué
+debe ser administrado sin entrar en la actividad habitual del estado.
 
-La supremacía de la asamblea, como fuente de política por encima de
-cualquier organismo administrativo, es la única garantía, dentro de la
-existencia individual para que prevalezca la política sobre el
-estatismo. Este grado perfecto de supremacía tiene una importancia
-crucial dentro de una sociedad que contiene expertos y especialistas
-para las operaciones de la maquinaria social; mientras que el problema
-del mantenimiento de la preponderancia de la asamblea popular sólo se
-presenta durante el período de tránsito de una sociedad
-administrativamente centralizada hacia una sociedad descentralizada. Tan
-sólo cuando las asambleas populares, tanto en los barrios de las
-ciudades como en los pueblos pequeños, mantengan la mayor y más estricta
-vigilancia sobre cualquier tipo de organismo de coordinación confederal,
-se podrá elaborar una auténtica democracia libertaria. Estructuralmente,
-dicha realización no tiene que conllevar problema alguno. Las
-comunidades se han apoyado en expertos y administradores desde hace
-tiempo, sin perder por ello su libertad. La destrucción de estas
-comunidades ha sido más bien debida a un acto estatista, no a uno
-administrativo. Las corporaciones sacerdotales y las jefaturas se han
-apoyado desde siempre en la ideología y en la tontería humana en forma
-aún más clara y no tuvieron que apoyarse en la fuerza, para atenuar el
-poder popular y finalmente eliminarlo.
+La supremacía de la asamblea como fuente de política por encima de
+cualquier organismo administrativo es la única garantía para que 
+prevalezca la política sobre el estatismo. Este grado perfecto de 
+supremacía tiene una importancia crucial dentro de una sociedad que 
+contiene expertos y especialistas para las operaciones de la 
+maquinaria social; mientras que el problema del mantenimiento de la 
+preponderancia de la asamblea popular sólo se presenta durante el 
+período de tránsito de una sociedad administrativamente centralizada 
+hacia una sociedad descentralizada. Tan sólo cuando las asambleas 
+populares tanto en los barrios de las ciudades, como en los pueblos 
+pequeños, mantengan la mayor y más estricta vigilancia sobre cualquier 
+tipo de organismo de coordinación confederal, se podrá elaborar una 
+auténtica democracia libertaria. Estructuralmente, dicha realización 
+no tiene que conllevar problema alguno. Las comunidades se han apoyado 
+en expertos y administradores desde hace tiempo, sin perder por ello 
+su libertad. La destrucción de estas comunidades ha sido más bien 
+debido a un acto estatista, no a uno administrativo. Las corporaciones 
+sacerdotales y las jefaturas se han apoyado desde siempre en la 
+ideología y en la tontería humana en forma aún más clara y no tuvieron 
+que apoyarse en la fuerza para atenuar el poder popular y finalmente 
+eliminarlo.
 
-El Estado no ha podido absorber nunca, en su totalidad, lo ocurrido en
-el pasado; este es un hecho descrito por Kropotkin, en «El apoyo
+El Estado no ha podido absorber nunca, en su totalidad lo ocurrido en
+el pasado, este es un hecho descripto por Kropotkin en «El apoyo
 mutuo», cuando describe el rico contexto existente en la vida civil
 hasta las comunas oligárquicas medievales. En efecto, la ciudad ha
-sido siempre el punto opuesto de la balanza frente a los Estados
-nacionales e imperiales, hasta los tiempos presentes.
+sido siempre el punto opuesto de la balanza frente a los estados
+nacionales e imperiales hasta los tiempos presentes.
 
 Augusto y sus herederos hicieron de la supresión de la autonomía
 municipal una pieza maestra de la administración imperial romana, e
-igual hicieron los monarcas absolutos de la época de la Reforma.  «Echar
+igual hicieron los monarcas absolutos de la época de la Reforma. «Echar
 abajo las murallas de las ciudades» fue la política central de Luis XIII
 y de Richelieu, una política que salió a la superficie años más tarde,
 cuando el Comité de Salud Pública de Robespierre hizo y deshizo a su
-antojo para restringir los poderes de la Comuna 1793-94.  La «Revolución
-Urbana» ha acompañado al Estado como un poder doble irreprimible, un
+antojo para restringir los poderes de la Comuna 1793-94. La «Revolución
+Urbana» ha acompañado al estado como un poder doble irreprimible, un
 desafío potencial al poder centralizado a través de la historia. Esta
-tensión prosigue hoy en día y como ejemplo, los conflictos entre el
-Estado centralizado y las municipalidades en toda Norteamérica e
-Inglaterra. Es aquí, en el entorno del individuo más inmediato la
-comunidad, el vecindario, el pueblo, la aldea donde la vida privada se
-va ligando lentamente con la vida pública, es el lugar auténtico para
-que exista un funcionamiento a nivel de base, siempre y cuando la
-urbanización no haya destruido totalmente las posibilidades para ello.
+tensión prosigue hoy en día y como por ejemplo, en los conflictos entre
+el estado centralizado y las municipalidades en todo EEUU e
+Inglaterra. En el entorno más inmediato del individuo, la comunidad, 
+el vecindario, el pueblo, la aldea donde la vida privada se va ligando 
+lentamente con la vida pública, es el lugar auténtico para que exista 
+un funcionamiento a nivel de base, siempre y cuando la urbanización no 
+haya destruido totalmente las posibilidades para ello.
 Cuando la urbanización haya enmascarado la ciudad de tal manera que ésta
-carezca por completo de identidad propia, le falte la cultura y los
+carezca por completo de identidad propia, le falten la cultura y los
 espacios para relacionarse socialmente, cuando le falten las bases para
-la democracia --no importa con que palabras la definamos entonces habrá
-desaparecido la identidad de la ciudad y la posibilidad de crear formas
-revolucionarias serán tan sólo sombras de un juego de abstracciones. Por
-la misma razón, ningún símil radical basado en fórmulas libertarlas ni
-sus posibilidades, tienen sentido cuando se carecen de la conciencia
-radical que darán a estas formas contenido y sentido. Démonos cuenta de
-que cualquier forma democrática o libertaria puede ser transformada en
-contra del ideal de libertad si se conciben de una forma esquemática,
-con fines abstractos carentes de esa sustancia ideológica y de esa
-organicidad a partir de la cual estas formas dibujan ese significado
-liberador. Además, sería bastante inocente pensar que formas tales como
-el barrio, el pueblo y las asambleas comunales populares podrían
-alcanzar el nivel de la vida pública libertaria, o llegar a crear un
-cuerpo político libertario, sin un movimiento político que fuera
-altamente consciente, que estuviera bien organizado y fuera
+la democracia --no importa con qué palabras la definamos--, entonces 
+habrá desaparecido la identidad de la ciudad y la posibilidad de crear 
+formas revolucionarias serán tan sólo sombras de un juego de 
+abstracciones. Por la misma razón, ningún símil radical basado en 
+fórmulas libertarias ni sus posibilidades, tienen sentido cuando se 
+carece de la conciencia radical que dará sentido y contenido a estas 
+formas. Démonos cuenta de que cualquier forma democrática o libertaria 
+puede ser transformada en contra del ideal de libertad si se concibe de 
+una forma esquemática con fines abstractos carentes de sustancia 
+ideológica y de esa organicidad a partir de la cual estas formas dibujan 
+ese significado liberador. Además, sería bastante inocente pensar que 
+formas tales como el barrio, el pueblo y las asambleas comunales 
+populares pueden alcanzar el nivel de la vida pública libertaria, o 
+llegar a crear un cuerpo político libertario sin un movimiento político
+que fuera altamente consciente, que esté organizado y sea 
 programáticamente coherente.
 
 Sería igualmente ingenuo pensar que tal movimiento libertario podría
@@ -395,12 +395,12 @@ otra época histórica.
 [^3]:  A pesar de las ventajas y fracasos, ha sido esta inteligencia
 radical la que ha servido de puntal para cada proyecto revolucionario en
 la historia y de hecho, fueron ellos quienes literalmente proyectaron
-las ideas para el cambio, a partir de las cuales la gente diseñó sus
-características sociales. Pericles es un ejemplo de esta inteligencia
-durante el mundo clásico; John Bail o Thomas Munzer durante las épocas
-del medioevo y la Reforma; y Denis Diderot durante la Ilustración; Emile
+las ideas a partir de las cuales la gente diseñó sus características 
+sociales para el cambio. Pericles es un ejemplo de esta inteligencia
+durante el mundo clásico, John Bail o Thomas Munzer durante las épocas
+del medioevo y la Reforma, y Denis Diderot durante la Ilustración; Emile
 Zola y Jean Paul Sartre en épocas más recientes. Los intelectuales de
-academia son un fenómeno bastante más reciente: criaturas
+la academia son un fenómeno bastante más reciente: criaturas
 embibliotecadas, enclaustradas, incestuosas y orientadas a su carrera,
 carentes de experiencias vividas y de práctica.
 
@@ -410,11 +410,11 @@ Tesis V
 Es indudable que uno puede ponerse a jugar --y perderse entre términos
 como «municipalidades» y «comunidad», «asambleas» y «democracia
 directa»--, perdiendo de vista las clases, etnias y diferentes géneros
-que convierten palabras tales como «el Pueblo» en algo sin sentido, en
+que convierten términos tales como «el pueblo» en algo sin sentido, en
 abstracciones casi oscurantistas. Las asambleas por sectores de 1793 no
 sólo se vieron forzadas a un conflicto con la Comuna Burguesa de París o
 con la Convención Nacional; sino que se convirtieron en un campo de
-batalla entre ellas mismas entre los estratos de propietarios y los no
+batalla entre ellas mismas, entre los estratos de propietarios y los no
 propietarios, entre realistas y demócratas, entre moderados y radicales.
 
 Si nos quedamos exclusivamente en este nivel económico, sería tan
@@ -432,37 +432,37 @@ para revelarnos el pánico burgués a cualquier tipo de revolución; su
 conservadurismo innato y la proclividad que tienen a comprometerse a
 favor del orden establecido. También sería de gran utilidad que la
 historia enseñara cómo los estratos revolucionarios de cada época
-empujaban a los revolucionarios «burgueses» mucho más allá de los
+empujaron a los revolucionarios «burgueses» mucho más allá de los
 confines conservadores que éstos establecían, llevándolos a interesantes
 situaciones de desarrollo de principios democráticos, en los que los
 burgueses nunca se han sentido demasiado cómodos. Los diferentes
 «derechos» formulados por estas revoluciones no se consiguieron gracias
 a los burgueses, sino a pesar de ellos; así los granjeros libres
-norteamericanos de la década de 1770 y los _sans culottes_[^ndt-sans
+norteamericanos de la década de 1770 y los _sans culottes_[^nde-sans
 culottes] (descamisados) de la década de 1790 --además su futuro es cada
 vez más cuestionable dentro de este mundo cibernético y corporativo que
 está en crecimiento.
 
-[^ndt-sans culottes]:  Eran los partisanos de izquierdas miembros de las
+[^nde-sans culottes]:  Eran los partisanos de izquierdas miembros de las
 clases sociales más bajas; típicamente eran quienes realizaban labores
 manuales. Constituyeron la mayor parte del ejército revolucionario
-durante el inicio de la Revolución francesa _(Nota de traducción.)_
+durante el inicio de la Revolución francesa _(Nota de la edición)._
 
 Sin embargo, estas tendencias actuales y futuras de carácter
-tecnológico, social y cultural, que se agitan y amenazan con descomponer
+tecnológico, social y cultural que se agitan y amenazan con descomponer
 la estructura de las clases tradicionales nacidas en la Revolución
 Industrial nos traen la posibilidad de que surja un interés general
 diferente a los intereses de clase, creados durante los dos últimos
 siglos. La palabra «pueblo» puede volver a incorporarse al vocabulario
 radical --no como una abstracción oscurantista, sino como una expresión
 cuyo significado venga asociado a una capa social de desraización
-progresiva, de fluidez y desplazamiento tecnológico; de forma que ya no
-sea integrable en una sociedad cibernética y altamente mecanizada.  A
+progresiva, de fluidez y desplazamiento tecnológico, de forma que ya no
+sea integrable en una sociedad cibernética y altamente mecanizada. A
 esta capa social de desplazamiento tecnológico podemos añadirle los
 jóvenes y los ancianos, que se encaran con un futuro bastante dudoso
 dentro de un mundo que ya no puede definir los roles que la gente juega
 dentro de la economía y la cultura. Estas capas sociales ya no cuadran
-adecuadamente dentro de una división simplista de conflictos de clase,
+adecuadamente dentro de una división simplista de conflictos de clase
 como la teoría radical estructuraba alrededor de los «trabajadores
 asalariados» y el «capital».
 
@@ -474,11 +474,11 @@ subestimar el papel primordial de estos intereses «ideológicos»
 aparentemente marginales. Como decía Franz Bokenau hace cerca de
 cincuenta años, la historia del siglo pasado nos muestra más que
 claramente cómo el proletariado puede enamorarse más intensamente del
-nacionalismo que del socialismo y ser guiado preferentemente por
+nacionalismo que del socialismo y ser guíado preferentemente por
 intereses «patrióticos» que por intereses de clase, tal y como se podría
 apreciar por cualquiera que visitara los Estados Unidos. Aparte de la
 influencia histórica que tienen movimientos ideológicos tales como el
-Cristianismo o el Islam, los cuales muestran todavía el poder que la
+cristianismo o el islam, los cuales muestran todavía el poder que la
 ideología tiene sobre intereses materiales, nos enfrentamos con el
 problema de enfocar el poder de la ideología en una dirección
 socialmente progresista --principalmente, las ideologías ecologistas,
@@ -499,24 +499,24 @@ Tesis VI
 ========
 
 Así mismo, cuando la imagen orwelliana de «1984» sea claramente
-asimilable en alguna «megalópolis» de un Estado altamente centralizado y
+asimilable en alguna «megalópolis» de un estado altamente centralizado y
 una sociedad altamente corporativizada, tendremos que ver las
 posibilidades que tenemos de contraponer a este desarrollo estatista y
-social un tercer supuesto de práctica humana: la situación política que
-supone la municipalidad; el desarrollo histórico de la Revolución
-Urbana, que no ha podido ser digerido por el Estado. La Revolución
+social, un tercer supuesto de práctica humana: la situación política que
+supone la municipalidad, el desarrollo histórico de la Revolución
+Urbana que no ha podido ser digerido por el estado. La Revolución
 siempre significa una dualidad de poderes: el sindicato de industria, el
 soviet o el consejo y la Comuna, todos ellos orientados contra el
-Estado.
+estado.
 
 Si examinamos cuidadosamente la historia, veremos cómo la fábrica,
 criatura de la racionalización burguesa, no ha sido nunca el lugar de la
-revolución; los trabajadores revolucionarios por excelencia (los
-españoles, los rusos, los franceses y los italianos) han sido
-principalmente clases de transición, aún más estratos sociales agrarios
-en descomposición que se vieron sujetos del último y discordante impacto
+revolución; las trabajadoras revolucionarias por excelencia (las
+españolas, las rusas, las francesas y las italianas) han sido
+principalmente clases de transición, estratos sociales agrarios
+en descomposición que se vieron sujetas del último y discordante impacto
 corrosivo de la cultura industrial, hoy día convertida en tradicional.
-Así es, en efecto; allá donde los trabajadores están aún en movimiento,
+Así es, en efecto; allá donde las trabajadoras están aún en movimiento,
 su batalla es totalmente defensiva (irónicamente se trata de una batalla
 por mantener el sistema industrial que se enfrenta con un desplazamiento
 del capital y un aumento de la tecnología cibernética) y que refleja los
@@ -528,12 +528,12 @@ su alrededor. El nacimiento de la fábrica fue combatido por los
 artesanos, por las comunidades agrarias y por todo el mundo a escala más
 humana y más comunal. Tan sólo la simpleza de Marx y Engels, que
 promovieron el mito de que la fábrica servía para «disciplinar», «unir»
-y «organizar» el proletariado pudo impulsar a los radicales,
+y «organizar» el proletariado, pudo impulsar a los radicales
 ensimismados por el ideal del «socialismo científico», a ignorar cuál
 era el papel autoritario y jerárquico de la fábrica. La abolición de la
 fábrica por el trabajo ecotécnico, creativo e incluso por componentes
 cibernéticos dirigidos a satisfacer las necesidades humanas, es el
-_desideratum_ del socialismo en su visión libertaria y utópica; aún nos
+_desideratum_ del socialismo en su visión libertaria y utópica, aún nos
 es una precondición moral para la libertad.
 
 Por el contrario la Revolución Urbana ha jugado un papel muy diferente.
@@ -545,9 +545,9 @@ del mundo pueblerino y los efectos sofocantes de la costumbre. La
 disolución de las municipalidades auténticas a manos de la urbanización,
 marcó un punto muy grave de regresión de la vida societal: supuso la
 destrucción de la única dimensión humana donde se daba la asociación
-superior y la desaparición de la vida civil, que justificaba el uso de
-la palabra civilización, así como del cuerpo político que daba identidad
-y significado a la palabra «política».
+superior y la desaparición de la vida civil que justificaba el uso de
+la palabra civilización, así como también del cuerpo político que daba 
+identidad y significado a la palabra «política».
 
 A partir de este momento, cuando la teoría y la realidad entran en
 conflicto, uno se justificaba invocando la famosa cita de Georg Lukacs:
@@ -559,12 +559,12 @@ administración civil, levantándose en contraposición del Estado,
 extendiéndose más allá de los aspectos básicos de interrelación humana
 que llamamos interrelación social.[^4]
 
-[^4]:  Antes de finalizar este punto, vale la pena observar que la
+[^4]:  Antes de finalizar este punto vale la pena observar que la
 distinción entre lo Social y lo Político mantiene una marca desde sus
 orígenes, remontándose a la época de Aristóteles y que se ha mantenido a
-lo largo de toda la historia de la teoría social, hasta épocas recientes
+lo largo de toda la historia de la teoría social hasta épocas recientes
 con las teorías de Hannah Arendt. Lo que se echa de menos en ambos
-pensadores es una teoría del Estado y por tanto la ausencia de una
+pensadores es una teoría del estado y por tanto la ausencia de una
 distinción tripartita dentro de sus escritos.
 
 Con un significado totalmente radical, tenemos que volver hacia las
@@ -575,33 +575,29 @@ asamblea populares de la era revolucionaria.
 
 El Anarquismo ha agitado siempre la bandera de la necesidad de una
 regeneración moral y la lucha por la contracultura (usando el término en
-el mejor de los sentidos) y en contra de la cultura establecida.  Con
+el mejor de los sentidos) y en contra de la cultura establecida. Con
 esto se explica el énfasis que el anarquismo hace sobre la ética y su
 interés por ser coherente en medios y fines, su defensa de los derechos
 humanos y de los derechos civiles, así como su interés en épocas
-recientes con las teorías de Hannah Arendt. Lo que se echa de menos en
-ambos pensadores es una teoría del Estado y por tanto la ausencia de una
-distinción tripartita dentro de sus escritos respecto a la opresión
-dentro de cada aspecto de la vida. Sin embargo, su imagen
-contrainstitucional ha presentado más problemas. Conviene recordar que
+recientes con las teorías de Hannah Arendt. Conviene recordar que
 en el anarquismo siempre ha existido una tendencia comunalista, no sólo
-sindicalista o individualista. Y que además esta tendencia comunalista
+sindicalista o individualista, y que además esta tendencia comunalista
 ha mantenido una fuerte orientación municipalista y que puede ser
 extraída principalmente de los escritos de Proudhon y Kropotkin.
 
-De lo que se ha carecido, sin embargo, es de un cuidadoso examen del
+De lo que se ha carecido sin embargo, es de un cuidadoso examen del
 meollo político de esta orientación: se trata de la distinción entre un
 momento del discurso, una forma de toma de decisiones y un desarrollo
 institucional que no tiene carácter social ni estatal.
 
-La política civil no es tan sólo política parlamentaria; de hecho, si
+La política civil no es tan sólo política parlamentaria, de hecho, si
 nos ceñimos al sentido histórico auténtico del término «política» dentro
 de su lugar preciso en un vocabulario radical, tiene todo el aroma de
-las asambleas de ciudadanos atenienses y su heredero igualitario, la
+las asambleas de ciudadanas atenienses y su heredero igualitario, la
 Comuna de París. Si conseguimos volver hacia estas instituciones
 históricas y enriquecerlas con nuestras tradiciones libertarias y
 nuestros análisis críticos, devolviéndolas a la vida en este mundo, tan
-ideológicamente confuso; estaremos trayendo el pasado al servicio del
+ideológicamente confuso, estaremos trayendo el pasado al servicio del
 presente en una forma creativa e innovadora. Todas las tendencias
 radicales están cargadas de una cierta medida de inercia intelectual,
 tanto las anarquistas como las socialistas. La seguridad que nos da la
@@ -610,12 +606,12 @@ aún entre los antiautoritarios.
 
 El anarquismo está caracterizado por su actitud ante el parlamentarismo
 y el estatismo. Esta actitud ha sido ampliamente justificada por el
-curso de la historia; pero también nos puede llevar a una paralización
+curso de la historia, pero también nos puede llevar a una paralización
 mental que en teoría no es menos dogmática que el radicalismo electoral
 corrompido en la práctica. Así si el municipalismo libertario se
 construye como política orgánica, esto es, una política que emerge de la
 base de la asociación superior humana, yendo hacia la creación de un
-cuerpo político auténtico y de formas de participación ciudadanas;
+cuerpo político auténtico y de formas de participación ciudadanas,
 posiblemente sea éste el último reducto de un socialismo orientado hacia
 instituciones populares descentralizadas. Un elemento importante dentro
 de la aproximación al municipalismo libertario es la posibilidad de
@@ -623,35 +619,34 @@ evocar tradiciones vivas para legitimar nuestras peticiones, tradiciones
 que aunque son fragmentarias e irregulares aún ofrecen potencialidad
 para una política de participación con una respuesta de dimensiones
 globales al Estado. La Comuna está enterrada todavía en los Consejos de
-la ciudad; las secciones están escondidas en
-los barrios; la asamblea de ciudad está en los ayuntamientos;
-encontramos formas confederales de asociación municipal escondidas en
-los vínculos regionales de pueblos y ciudades. Recuperar un pasado que
-puede vivir y funcionar con fines libertarios, no es, ni mucho menos,
-estar cautivo de la tradición; sino que se trata de hilar conjuntamente
-los objetivos humanos únicos de asociación que permanecen como
-cualidades inherentes al espíritu humano --la necesidad de la comunidad
-como tal y que han surgido repetidas veces en el pasado. Permanecen en el
-presente como esperanzas que acaban de nacer, pero que la gente tiene
-consigo en todas épocas, saliendo a la superficie en los momentos de
-acción y libertad.
+la ciudad; las secciones están escondidas en los barrios; la asamblea 
+de ciudad está en los ayuntamientos; encontramos formas confederales de 
+asociación municipal escondidas en los vínculos regionales de pueblos y 
+ciudades. Recuperar un pasado que puede vivir y funcionar con fines 
+libertarios, no es, ni mucho menos, estar cautivo de la tradición; sino 
+que se trata de hilar conjuntamente los objetivos humanos únicos de 
+asociación que permanecen como cualidades inherentes al espíritu humano 
+--la necesidad de la comunidad como tal y que han surgido repetidas 
+veces en el pasado. Permanecen en el presente como esperanzas que acaban 
+de nacer, pero que la gente tiene consigo en todas épocas, saliendo a la 
+superficie en los momentos de acción y libertad.
 
 Estas tesis nos anticipan la visión de la posibilidad de un
 municipalismo libertario y una nueva política definible como un doble
 poder, que puede ser contrapuesto mediante las asambleas y las formas
-confederales al Estado. Tal como están ahora las cosas en el mundo
+confederales al estado. Tal como están ahora las cosas en el mundo
 orwelliano de la década de los 80, esta perspectiva de un poder doble es
 sin duda una posibilidad de las más importantes, entre otras, que los
 libertarios pueden desarrollar sin comprometer sus principios
 antiautoritarios. Es más, estas tesis apuntan a la posibilidad de una
 política orgánica basada en formas participativas tan radicales de
-asociación civil, no excluyentes de la posibilidad de que los
+asociación civil, no excluyentes de la posibilidad de que las
 anarquistas cambien los cuadros de las ciudades y pueblos y convaliden
-la existencia de instituciones democráticas directas. Y si este tipo de
-actividad lleva a los anarquistas a los plenos de los ayuntamientos, no
+la existencia de instituciones democraticamente directas. Y si este tipo de
+actividad lleva a las anarquistas a los plenos de los ayuntamientos, no
 hay razón para que tal política tenga que ser parlamentaria, máxime
 cuando mantiene un nivel civil y está conscientemente opuesta al
-Estado.[^5] Es curioso que muchos anarquistas que celebran la existencia
+estado.[^5] Es curioso que muchos anarquistas que celebran la existencia
 de las empresas industriales «colectivizadas», tanto en un sitio como en
 otro y todo ello con gran entusiasmo a pesar de que se forma parte del
 entramado económico burgués y que tiene una visión de la política
@@ -662,7 +657,7 @@ contabilidad radicalmente democráticas y a los vínculos locales
 fuertemente enraizados.
 
 [^5]: Espero que no se invoque en contra de esta postura al fantasma de
-Paul Brousse. Brousse utilizó el municipalismo libertario de la Comuna,
+Paul Brousse. Brousse utilizó el municipalismo libertario de la Comuna
 tan ligado a los parisinos de su época en contra del tradicionalismo
 comunalista, esto es, para practicar una forma pura de parlamentarismo
 burgués, no para llevar a París y a los municipios franceses en
@@ -674,13 +669,13 @@ la «dictadura del proletariado» en un precedente histórico; Lenin para
 legitimar su jacobinismo «político» total; y los anarquistas en forma
 más crítica para difundir el comunalismo.
 
-La ciudad no es congruente con el Estado. Ambos tienen orígenes muy
-diferentes y han jugado papeles muy distintos en la historia. El Estado
+La ciudad no es congruente con el estado. Ambos tienen orígenes muy
+diferentes y han jugado papeles muy distintos en la historia. El estado
 penetra en todos los aspectos de la vida cotidiana, desde la familia a
-la fábrica, desde el Sindicato a la ciudad; lo cual no significa que los
+la fábrica, desde el Sindicato a la ciudad, lo cual no significa que los
 individuos conscientes deban retirarse de cualquier tipo de relaciones
 humanas organizadas, de la propia piel de uno, para esconderse en un
-estado de pureza y abstracción, de forma que se convalidaría la
+estado de pureza y abstracción, de forma de convalidar la
 descripción de Theodor Adorno sobre el anarquismo como un «fantasma». Si
 hay algún fantasma que nos dé caza, son los que toman forma de
 ritualismo y de rigidez tan sumamente inflexible que uno cae en un
