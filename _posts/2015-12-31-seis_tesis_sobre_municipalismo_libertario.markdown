@@ -2,8 +2,8 @@
 title: Seis tesis sobre municipalismo libertario
 author: Murray Bookchin
 layout: post
-cover: "assets/covers/single/seis_tesis_sobre_municipalismo_libertario.png"
-slider: "assets/covers/slider/seis_tesis_sobre_municipalismo_libertario.png"
+cover: "assets/covers/single_seis_tesis_sobre_municipalismo_libertario.png"
+slider: "assets/covers/slider_seis_tesis_sobre_municipalismo_libertario.png"
 toc: true
 ---
 
@@ -13,8 +13,8 @@ Tesis I
 =======
 
 Históricamente, la teoría y la práctica social radical se han centrado
-sobre las dos zonas de la actividad social humana: el lugar de trabajo
-y la comunidad. A partir de la creación de la nación-estado y de la
+sobre dos zonas de la actividad social humana: el lugar de trabajo
+y la comunidad. A partir de la creación del estado-nación y de la
 Revolución Industrial, la economía ha ido adquiriendo una posición
 predominante sobre la comunidad --no sólo en la ideología capitalista,
 sino también en los diferentes socialismos, libertarios o autoritarios,
@@ -22,7 +22,7 @@ que han ido apareciendo en el último siglo. Este cambio de posición del
 socialismo desde una postura ética a una económica es un problema de
 enormes proporciones que ha tenido amplia discusión. Lo que es más
 importante dentro de este punto son los socialismos en sí, con sus
-preocupantes atributos burgueses, extrañamente adquiridos, un desarrollo
+preocupantes atributos burgueses, extrañamente adquiridos; un desarrollo
 principalmente revelado por la visión marxista de llegar a la
 emancipación humana a través del dominio de la naturaleza, un proyecto
 histórico que presumiblemente establece la «dominación del hombre por el
@@ -32,16 +32,16 @@ sociedad de clase como «precondición» a la emancipación humana.
 Desafortunadamente el ala libertaria del socialismo --los anarquistas--
 no han avanzado consistentemente en la prevalencia de lo moralista sobre
 lo económico. Aunque quizás lo han desarrollado a partir del nacimiento
-del sistema fabril, _locus classicus_ de explotación capitalista, y de,
+del sistema fabril, _locus classicus_ de explotación capitalista, y del
 nacimiento del proletariado industrial como «portador» de la nueva
 sociedad. Con todo su fervor moral, la adaptación sindical a la sociedad
 industrial y la imagen del sindicalismo libertario como infraestructura
 del mundo liberado, supuso un cambio apreciable en el énfasis
-intencional desde el comunitarismo hacia el industrialismo; de valores
-comunales a valores fabriles.[^2] Algunos trabajos que han adquirido
-santidad doxográfica dentro del sindicalismo, han servido para enaltecer
-el significado de la fábrica y, de forma más general, el lugar de
-trabajo dentro de la teoría radical y eso por no hablar del papel
+intencional desde el comunitarismo hacia el industrialismo, de valores
+comunales a valores fabriles[^2]. Algunos trabajos que han adquirido
+santidad doxográfica dentro del sindicalismo han servido para enaltecer
+el significado de la fábrica y de forma más general, el lugar de
+trabajo dentro de la teoría radical y eso sin mencionar el papel
 mesiánico del «proletariado». Los límites de este análisis no necesitan
 ser igualmente analizados en este artículo. En forma superficial, me
 parece que están justificados con los hechos acaecidos en la época de la
@@ -56,9 +56,9 @@ con la sofisticación que nos da la perspectiva de décadas, no nos da
 derecho a patrocinar el descrédito del socialismo proletario por su
 falta de visión a futuro.
 
-Sin embargo debe hacerse la matización: la fábrica y, con la historia,
-el lugar de trabajo, han sido el lugar principal no sólo de explotación,
-sino también de jerarquías, a esto hay que añadir la familia patriarcal.
+Sin embargo debe hacerse la matización: la fábrica y, con el tiempo,
+el lugar de trabajo y la familia patriarcal, han sido los lugares 
+principales no sólo de explotación, sino también de jerarquías.
 La fábrica no ha servido precisamente para «disciplinar», «unir» y
 «organizar» al proletariado capacitándolo para el cambio revolucionario,
 sino para esclavizarle en los hábitos de la subordinación, la obediencia
@@ -71,72 +71,72 @@ naturaleza estricta de clase, que no es sino la contrapartida del status
 de burguesía y se revela su naturaleza humana. La idea anárquica de
 comunidades descentralizadas, colectivamente gestionadas, estatales y
 con una democracia directa y la idea de la confederación de
-municipalidades o «comunas», habla por sí sola, así como en una
-formulación más expresa a través de los trabajos de Proudhon y
-Kropotkin, expresando el papel transformador del municipalismo
-libertario como una columna vertebral de una sociedad liberadora,
-enraizada en el principio ético antijerárquico de unidad de la
-diversidad, autoformación y autogestión, complementariedad y apoyo
-mutuo.
+municipalidades o «comunas», habla por sí sola; así como en la
+formulación de los trabajos de Proudhon y Kropotkin se expresa el 
+papel transformador del municipalismo libertario como columna 
+vertebral de una sociedad liberadora, enraizada en el principio ético 
+antijerárquico de unidad de la diversidad, autoformación y autogestión, 
+complementariedad y apoyo mutuo.
 
 
 Tesis II
 ========
 
-La Comuna, como municipalidad o ciudad, debe evitar un papel puramente
-funcional de un estado económico, en el que los seres humanos no tienen
-oportunidad de realizar actividades agrícolas, sino pasar a ser un
+La Comuna como municipalidad o ciudad, debe evitar un papel puramente
+funcional de estado económico en el que los seres humanos no tienen
+oportunidad de realizar actividades agrícolas. Sino, pasar a ser un
 «centro de implosión» (usando la terminología de Lewis Munford) que
-realce las comunicaciones sociales internas y el acercamiento de los
-miembros de la misma, de forma que se demuestre su función histórica
-transformando, esa población casi tribal, unida por lazos de sangre y
-por costumbre, en un cuerpo político de ciudadanos unidos por valores
-éticos basados en la razón.
+realce las comunicaciones sociales internas y el acercamiento, 
+de forma que se manifieste su función histórica transformando 
+la población casi tribal, unida por los lazos de sangre y la costumbre, 
+en un cuerpo político de ciudadanas unidas por valores éticos basados
+en la razón.
 
-Esta función abiertamente transformadora, atraerá al «extraño» y al «no
+Esta función abiertamente transformadora atraerá al «extraño» y al «no
 miembro» al interior de un denominador común con el tradicional _genoi_,
 creando así una nueva esfera de interrelaciones: el reino del
-_polissonomos_, literalmente la gestión de la polis o ciudad. Es
+_polissonomos_, literalmente la gestión de la ciudad. Es
 precisamente a partir de esta conjunción de _nomos_ y de _polis_ que
 deriva la palabra «política», una palabra que ha sido desnaturalizada y
 convertida al estatismo. Igualmente, la palabra polis ha sido
 reconvertida como «estado». Estas distinciones no son meras discusiones
-etimológicas. Reflejan, por el contrario, una auténtica degradación de
-estos conceptos, siendo todos y cada uno de ellos de enorme importancia
+etimológicas, reflejan por el contrario, una auténtica degradación de
+estos conceptos, siendo cada uno de ellos de enorme importancia
 para legitimar fines ideológicos. A los antiautoritarios les choca y
 rechazan la degradación del término «sociedad» entendido como «Estado»,
 y tienen razón. El Estado, tal como lo conocemos es un aparato diferente
 que se utiliza para dirigir a las clases; es el monopolio
 profesionalizado de la violencia con la finalidad de asegurar la
 subyugación y la explotación del hombre por el hombre. Las teorías
-antropológicas y sociales nos enseñan cómo el Estado ha ido emergiendo
-lentamente a partir de relaciones jerárquicas más abiertas, también nos
-enseñan sus distintas formas y cuales son su grado de desarrollo y como
-se dibuja dentro del concepto de nación estado moderno, asimismo nos
-están enseñando, muy posiblemente, cuál vaya a ser el futuro, con el
-Estado en su forma absolutamente más totalitaria.
+antropológicas y sociales nos enseñan cómo el estado ha ido emergiendo
+lentamente a partir de relaciones jerárquicas más abiertas; también nos
+enseñan las distintas formas que adquirió el estado, cuales son sus
+etapas de desarrollo y como se dibuja dentro del concepto de 
+estado-nación moderno. Asimismo, dichas disciplinas nos están enseñando,
+muy  posiblemente, cuál vaya a ser el futuro de la forma más totalitaria 
+del estado.
 
 Así pues, los antiautoritarios saben también cómo las nociones de
-familia, lugar de trabajo y diversas formas culturales de asociación
---en el sentido más completo y antropológico de la palabra «cultura»--,
-las relaciones interpersonales y de forma general, la esfera de la vida
-privada, están, sin paralelismo alguno, totalmente diferenciados social
-e intrínsecamente del estatismo.
+familia, lugar de trabajo y otras diversas formas de la cultura de 
+asociación --en el sentido más completo y antropológico de la palabra 
+«cultura»--, las relaciones interpersonales y de forma general, 
+la esfera de la vida privada están totalmente diferenciados del estatismo 
+social e intrínsecamente.
 
 Lo «social» y el «estatismo» pueden infiltrarse el uno en el otro; así,
 en este sentido, los antiguos despotismos reflejaban la soberanía
 patriarcal del _oikos_[^ndt-oikos]. La absorción de lo social por el
 moderno y gigantesco estado totalitario refleja la ampliación del
 concepto de «burocracia» (tanto en sus esferas psicoterapéuticas y
-educacionales, como en la esfera administrativa tradicional)
+educacionales, como en la esfera administrativa tradicional),
 evidenciando las imperfecciones que existen en todas las clases de
 organismos sociales.
 
-[^ndt-oikos]: El equivalente al término "casa" en la Grecia Antigua, es
+[^nde-oikos]: El equivalente al término "casa" en la Grecia Antigua, es
 el conjunto de bienes y personas que constituía la unidad básica de la
 sociedad en la mayoría de las ciudades-estado (_polis_), e incluía a la
 cabeza del _oikos_ (el _telestai_, generalmente el varón de mayor edad).
-_(Nota de traducción.)_
+_(Nota de la edición)._
 
 
 El surgimiento de la ciudad nos ofrece diversos grados de desarrollo, no
@@ -145,7 +145,7 @@ diferenciada de la parroquia; nos abre la posibilidad del espacio libre
 de un nuevo civismo, diferenciado de los lazos tradicionales, es la
 _gemeinschaften_[^ndt-gemeinschaften] biocéntrica. Asimismo nos ofrece
 el reino del _polissonomos_, la gestión de la _polis_ por un cuerpo
-político de ciudadanos libres, en resumen, se nos da la posibilidad de
+político de ciudadanos libres. En resumen, se nos da la posibilidad de
 la política en una forma diferente a lo estrictamente social y al
 estatismo.
 
@@ -156,69 +156,72 @@ traducción.)_
 
 La Historia no nos muestra una esfera de lo político en estado «puro»,
 tampoco nos da una visión mayor de las relaciones sociales a nivel de
-aldeas y grupos no jerarquizados y tan sólo en una época más reciente,
+aldeas y grupos no jerarquizados, mientras que solo recientemente
 ha empezado a mostrarnos instituciones puramente estatistas. El término
-de «pureza» es un concepto que es introducible en teoría social, a
-expensas de perder cualquier contacto con la realidad según hemos podido
-comprobar por la historia. Sin embargo, existen aproximaciones a la
+de «pureza» es un concepto introducido por la teoría social, a expensas 
+de perder cualquier contacto con la realidad según hemos podido
+comprobar historicamente. Sin embargo, existen aproximaciones a la
 política, invariablemente de carácter cívico y que no son en principio
 de carácter social o estatista: la democracia ateniense, las asambleas
 municipales de Nueva Inglaterra, las asambleas de sección de la Comuna
 de París en 1793, por citar tan sólo los ejemplos más conocidos. De
-duración considerable en algunos casos y efímeras en otros; y hay que
-admitir totalmente que fueron marcadas por los numerosos elementos de
-opresión que existieron en aquellas épocas, no se pueden componer trazos
-aquí y allá para ofrecer la imagen de un status político no
+duración considerable en algunos casos y efímeras en otros, tendremos 
+que admitir que fueron totalmente marcadas por numerosos elementos de
+opresión que existieron en sus respectivas épocas. No se pueden componer 
+a trazos aquí y allá para ofrecer la imagen de un _status_ político no
 parlamentario ni burocratizado, centralizado o profesionalizado, social
 o estatal, sino que hay que recoger la imagen ciudadana, reconociendo el
 papel de la ciudad en la transformación de una población o de una
 aglomeración monádica[^ndt-monádico] de individuos en una ciudadanía
-basada en formas éticas y regionales de asociación.
+basada en formas regionales y éticas de asociación.
 
-[^ndt-monádico]: Aislado. _(Nota de traducción.)_
+[^nde-monádico]: Aislado. _(Nota de la edición.)_
 
 Tesis III
 =========
 
 Si definimos lo social, lo político y lo estatal con una concepción
 absoluta y estudiamos la evolución histórica de la ciudad como en el
-espacio en que nace lo político, en forma separada de las ideas de lo
-social y lo estatal, estamos entrando en la investigación de unas
-materias cuya importancia programática es enorme. La época moderna
+espacio en que nace lo político, de forma de efectuar una separación
+entre lo social y lo estatal, estamos entrando en la investigación de 
+unas materias cuya importancia programática es enorme. La época moderna
 define «lo civil» como urbanización, lo cual supone una auténtica
-corrupción de la acción ciudadana, amenazando con englobar los conceptos
-de ciudad y país, convirtiendo así la dialéctica histórica en algo
-ininteligible en la actualidad. La confusión entre urbanización y acción
-ciudadana sigue siendo tan oscura hoy día, como la confusión existente
-entre sociedad y Estado, colectivización y nacionalización o, en este
-sentido, política y parlamentarismo. La _urbe_ dentro de la tradición
-romana, se refería a los aspectos físicos de la ciudad, a sus edificios,
-plazas, calles... diferenciándose de la _civitas_, la unión de
-ciudadanos en un cuerpo político. Estos dos conceptos no fueron
-intercambiables hasta la época final del Imperio, cuando el concepto de
-«ciudadanía» ya había decaído y había sido reemplazado por términos que
-diferenciaban castas y que estaban condicionados por el Imperio Romano;
-esto nos muestra un hecho altamente relevante y sustancioso.
+corrupción de la acción ciudadana, amenazando por un lado con englobar 
+los conceptos de ciudad y país, y convirtiendo por el otro la dialéctica 
+histórica en algo ininteligible en la actualidad. La confusión entre 
+urbanización y acción ciudadana sigue siendo tan oscura hoy día como 
+la confusión existente entre sociedad y estado, colectivización y 
+nacionalización o, en este sentido, política y parlamentarismo. 
+
+Dentro de la tradición romana, la _urbe_ se refería a los aspectos 
+físicos de la  ciudad, a sus edificios, plazas, calles...diferenciándose 
+de la  _civitas_, la unión de ciudadanos en un cuerpo político. Estos 
+dos conceptos no fueron intercambiables hasta la época final del 
+imperio, cuando el concepto de «ciudadanía» ya había decaído y había 
+sido reemplazado por términos que diferenciaban castas y que estaban 
+condicionados; esto nos muestra un hecho altamente relevante 
+y sustancioso.
 
 Los griegos intentaron retornar a la _civitas_ dejando la _urbe_ recrear
-nuevamente la _ekklesia_ ateniense, a expensas del Senado de Roma. Pero
-fracasaron y la _urbe_ devoró a la _civitas_ bajo la forma de Imperio. Se
+nuevamente la _ekklesia_ ateniense, a expensas del senado de Roma. Pero
+fracasaron y la _urbe_ devoró a la _civitas_ bajo la forma de imperio. Se
 supone que los ciudadanos libres, que formaban la columna vertebral de
-la República y que pudieron haberla transformado en una democracia, una
-vez que «bajaron» de las Siete Colinas en las que Roma se «fundó» se
+la república y que pudieron haberla transformado en una democracia luego
+de haber «bajado» de las Siete Colinas en las que Roma se «fundó», se
 «empequeñecieron» usando la terminología de Heine. La «idea de Roma» en
 tanto que una herencia ética, se fue reduciendo en proporción directa al
 crecimiento de la ciudad. A partir de entonces, «cuanto más crecía Roma,
-más se dilató esta idea; el individuo se perdió por completo en la _urbe_,
-los grandes personajes que conservaban cierto poder, ya nacían con esta
-idea y se ahondaba aún más la diferencia con los individuos menores».
+más se dilataba esta idea; el individuo se perdió por completo en la 
+_urbe_, los grandes personajes que conservaban cierto poder, ya nacían 
+con esta idea y se ahondaba aún más la diferencia con los individuos 
+menores».
 
 Aquí podemos obtener una enseñanza y aprender de los peligros de la
-jerarquía y de la «grandeza»; además captar el sentido intuitivo que
-supone la distinción entre urbanización y acción ciudadana, el
+jerarquía y de la «grandeza», además de captar el sentido intuitivo que
+supone la distinción entre urbanización y acción ciudadana como el
 crecimiento de la _urbe_ a expensas de la _civitas_. Y además surge otra
-cuestión; ¿tiene la _civitas_ o el cuerpo político significado a menos que
-literal y protoplásmicamente tenga un contenido? Rousseau nos recuerda
+cuestión, ¿Tiene la _civitas_ (o el cuerpo político significado a menos 
+que literal y protoplásmicamente) un contenido? Rousseau nos recuerda
 que «las casas forman la _urbe_, pero (sólo) los ciudadanos forman la
 ciudad». Los habitantes de la _urbe_ se conceptúan como simple
 «electorado, o como «votantes», o ya usando el término más degradante
@@ -228,7 +231,7 @@ la _urbe_ se transforman en abstracciones y a partir de entonces, en
 simples «criaturas del Estado», utilizando la terminología jurídica
 norteamericana en relación al status legal de lo que es una entidad
 municipal hoy día. Un pueblo, cuya única función política es la de votar
-delegados, no es pueblo en absoluto; es una «masa», una aglomeración de
+delegados, no es pueblo en absoluto, es una «masa», una aglomeración de
 mónadas. La política diferenciada de lo social y lo estatal, supone la
 reestructuración de esas masas en asambleas totalmente articuladas,
 supone asimismo la formación de un cuerpo político dentro de la idea de
@@ -237,31 +240,31 @@ y a través de fórmulas democráticas radicales de toma de decisiones.
 
 Este proceso es interactivo y auto-formativo. Se puede elegir entre
 seguir a Marx en la idea de que los «hombres» se forman a sí mismos como
-productores de cosas materiales»; se puede seguir a Fichte diciendo que
-son individuos éticamente motivados; o según Aristóteles, decir que son
-habitantes de la _polis_; Bakunin decía que los hombres eran quienes
+productores de cosas materiales», se puede seguir a Fichte diciendo que
+son individuas éticamente motivadas, o según Aristóteles, decir que son
+habitantes de la _polis_. Bakunin decía que "los hombres" eran quienes
 buscan la libertad. Sin embargo, cuando no existe una presencia
 autogestionaria en todas las esferas de la vida --económica, ética,
-política y libertaria, la formación del carácter que transforma al
-«hombre» de objetos pasivos en sujetos activos es, lamentablemente,
-inexistente. La Personalidad, es tanto una función, dentro de la acción
-de «gestión», o mejor todavía de la comunización, como la gestión es una
-función de la Personalidad. Ambos conceptos, son parte del proceso
-formativo que los alemanes denominan _bildung_ y los griegos denominan
-_paideia_. El lugar donde se desarrolla lo civil, tanto si es la
-_polis_, la ciudad o el vecindario es la cuna de civilización humana,
+política y libertaria--, la formación del carácter que transforma al
+«hombre» de objetos pasivos en sujetas activas es lamentablemente
+inexistente. La personalidad es tanto una función dentro de la acción
+de «gestión» (o mejor todavía, de la comunización), como la gestión 
+es una función de la personalidad. Ambos conceptos, son parte del 
+proceso formativo que los alemanes denominan _bildung_ y los griegos 
+denominan _paideia_. El lugar donde se desarrolla lo civil, tanto si es 
+la _polis_, la ciudad o el vecindario, es la cuna de civilización humana
 tras el proceso de socialización que supone la familia. Para complicar
 aún más las cosas, la «civilización» civil, es simplemente otra forma de
 politización, convirtiendo una masa en un cuerpo político, deliberativo
 y racional. Para llegar a este concepto de _civitas_, se presupone que
-el ser humano es capaz de reunirse, superando a las mónadas aisladas,
+el ser humano es capaz de reunirse, superando a las mónadas aisladas
 puede debatir directamente mediante formas de expresión que «vayan más
-allá de las simples palabras» y que razonen en forma directa, cara a
+allá de las simples palabras» y que razonar en forma directa, cara a
 cara, llegando pacíficamente y en común a puntos de vista que permitan
-tomar decisiones factibles, llevándose realmente a cabo mediante
-principios democráticos. Para formar estas asambleas y que además
+tomar decisiones factibles que se lleven a cabo mediante principios
+realmente democráticos. Para formar estas asambleas y que además
 funcionen, es necesario que los propios ciudadanos se formen también, ya
-que la política es baladí si no, tiene un carácter educacional y si esa
+que la política es baladí si no tiene un carácter educacional y si esa
 idea de nueva apertura no está promoviendo un carácter formativo.
 
 Tesis IV
@@ -435,15 +438,15 @@ situaciones de desarrollo de principios democráticos, en los que los
 burgueses nunca se han sentido demasiado cómodos. Los diferentes
 «derechos» formulados por estas revoluciones no se consiguieron gracias
 a los burgueses, sino a pesar de ellos; así los granjeros libres
-norteamericanos de la década de 1770 y los _sans
-culottes_[^ndt-sans-culottes] (descamisados) de la década de 1790
---además su futuro es cada vez más cuestionable dentro de este mundo
-cibernético y corporativo que está en crecimiento.
+norteamericanos de la década de 1770 y los _sans culottes_[^ndt-sans
+culottes] (descamisados) de la década de 1790 --además su futuro es cada
+vez más cuestionable dentro de este mundo cibernético y corporativo que
+está en crecimiento.
 
-[^ndt-sans-culottes]:  Eran los partisanos de izquierdas miembros de las
-  clases sociales más bajas; típicamente eran quienes realizaban labores
-  manuales. Constituyeron la mayor parte del ejército revolucionario
-  durante el inicio de la Revolución francesa _(Nota de traducción.)_
+[^ndt-sans culottes]:  Eran los partisanos de izquierdas miembros de las
+clases sociales más bajas; típicamente eran quienes realizaban labores
+manuales. Constituyeron la mayor parte del ejército revolucionario
+durante el inicio de la Revolución francesa _(Nota de traducción.)_
 
 Sin embargo, estas tendencias actuales y futuras de carácter
 tecnológico, social y cultural, que se agitan y amenazan con descomponer
