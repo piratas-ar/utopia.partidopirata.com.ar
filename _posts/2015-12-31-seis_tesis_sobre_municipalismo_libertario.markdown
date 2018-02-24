@@ -12,7 +12,7 @@ toc: true
 Tesis I
 =======
 
-Históricamente, la teoría y la práctica social radical se han centrado
+Históricamente la teoría y la práctica social radical se han centrado
 sobre dos zonas de la actividad social humana: el lugar de trabajo
 y la comunidad. A partir de la creación del estado-nación y de la
 Revolución Industrial, la economía ha ido adquiriendo una posición
@@ -83,7 +83,7 @@ Tesis II
 ========
 
 La Comuna como municipalidad o ciudad, debe evitar un papel puramente
-funcional de estado económico en el que los seres humanos no tienen
+funcional de estado [^nde-estado] económico en el que los seres humanos no tienen
 oportunidad de realizar actividades agrícolas. Sino, pasar a ser un
 «centro de implosión» (usando la terminología de Lewis Munford) que
 realce las comunicaciones sociales internas y el acercamiento, 
@@ -91,6 +91,15 @@ de forma que se manifieste su función histórica transformando
 la población casi tribal, unida por los lazos de sangre y la costumbre, 
 en un cuerpo político de ciudadanas unidas por valores éticos basados
 en la razón.
+
+[^nde-estado]: como forma de posicionamiento frente al carácter ideológico
+que las burocracias estatistas han conferido a la palabra "estado", así como 
+frente a la capacidad que estas burocráticas han sabido atribuirse 
+(mediante el uso de la fuerza) para legislar los usos de la gramática; y por 
+otro lado, teniendo conciencia de la capacidad que tienen las formas de conferir 
+significado; para este texto hemos optado por el uso de la palabra  "estado" 
+(escrita con minúscula), en lugar de "Estado" (escrita con mayúscula).
+_(Nota de la edición)._
 
 Esta función abiertamente transformadora atraerá al «extraño» y al «no
 miembro» al interior de un denominador común con el tradicional _genoi_,
@@ -103,8 +112,8 @@ reconvertida como «estado». Estas distinciones no son meras discusiones
 etimológicas, reflejan por el contrario, una auténtica degradación de
 estos conceptos, siendo cada uno de ellos de enorme importancia
 para legitimar fines ideológicos. A los antiautoritarios les choca y
-rechazan la degradación del término «sociedad» entendido como «Estado»,
-y tienen razón. El Estado, tal como lo conocemos es un aparato diferente
+rechazan la degradación del término «sociedad» entendido como «estado»,
+y tienen razón. El estado, tal como lo conocemos es un aparato diferente
 que se utiliza para dirigir a las clases; es el monopolio
 profesionalizado de la violencia con la finalidad de asegurar la
 subyugación y la explotación del hombre por el hombre. Las teorías
@@ -225,10 +234,10 @@ que literal y protoplásmicamente) un contenido? Rousseau nos recuerda
 que «las casas forman la _urbe_, pero (sólo) los ciudadanos forman la
 ciudad». Los habitantes de la _urbe_ se conceptúan como simple
 «electorado, o como «votantes», o ya usando el término más degradante
-utilizado por el Estado, «impositores sujetos a gravamen» --un término
+utilizado por el estado, «impositores sujetos a gravamen» --un término
 que es realmente un eufemismo aplicado a un «sujeto». Los habitantes de
 la _urbe_ se transforman en abstracciones y a partir de entonces, en
-simples «criaturas del Estado», utilizando la terminología jurídica
+simples «criaturas del estado», utilizando la terminología jurídica
 norteamericana en relación al status legal de lo que es una entidad
 municipal hoy día. Un pueblo, cuya única función política es la de votar
 delegados, no es pueblo en absoluto, es una «masa», una aglomeración de
@@ -300,7 +309,7 @@ policía realizada por los propios administradores (cosa que Marx
 celebrara profusamente), supuso el mayor fracaso de esta revolución. 
 Rousseau, con bastante razón, planteaba que el poder popular no se puede 
 delegar sin que se destruya. O bien se tiene una asamblea popular que 
-ostenta todos los poderes, o bien esos poderes los ostentará el Estado. 
+ostenta todos los poderes, o bien esos poderes los ostentará el estado. 
 El problema del poder delegado infectó por completo el sistema de 
 consejos: los _soviets_ (Raten), la Comuna de 1871 y naturalmente los 
 sistemas republicanos en general, tanto de carácter nacional como 
@@ -335,7 +344,7 @@ ideología y en la tontería humana en forma aún más clara y no tuvieron
 que apoyarse en la fuerza para atenuar el poder popular y finalmente 
 eliminarlo.
 
-El Estado no ha podido absorber nunca, en su totalidad lo ocurrido en
+El estado no ha podido absorber nunca, en su totalidad lo ocurrido en
 el pasado, este es un hecho descripto por Kropotkin en «El apoyo
 mutuo», cuando describe el rico contexto existente en la vida civil
 hasta las comunas oligárquicas medievales. En efecto, la ciudad ha
@@ -555,7 +564,7 @@ conflicto, uno se justificaba invocando la famosa cita de Georg Lukacs:
 Política, tantas veces degradada por los «políticos» y convertida en
 estatismo, tiene que ser rehabilitada por el anarquismo y ser devuelta a
 su significado original, en el que suponía una participación y una
-administración civil, levantándose en contraposición del Estado,
+administración civil, levantándose en contraposición del estado,
 extendiéndose más allá de los aspectos básicos de interrelación humana
 que llamamos interrelación social.[^4]
 
@@ -618,7 +627,7 @@ de la aproximación al municipalismo libertario es la posibilidad de
 evocar tradiciones vivas para legitimar nuestras peticiones, tradiciones
 que aunque son fragmentarias e irregulares aún ofrecen potencialidad
 para una política de participación con una respuesta de dimensiones
-globales al Estado. La Comuna está enterrada todavía en los Consejos de
+globales al estado. La Comuna está enterrada todavía en los Consejos de
 la ciudad; las secciones están escondidas en los barrios; la asamblea 
 de ciudad está en los ayuntamientos; encontramos formas confederales de 
 asociación municipal escondidas en los vínculos regionales de pueblos y 
@@ -661,7 +670,7 @@ Paul Brousse. Brousse utilizó el municipalismo libertario de la Comuna
 tan ligado a los parisinos de su época en contra del tradicionalismo
 comunalista, esto es, para practicar una forma pura de parlamentarismo
 burgués, no para llevar a París y a los municipios franceses en
-oposición al Estado centralizado, tal y como la Comuna pretendía hacer.
+oposición al estado centralizado, tal y como la Comuna pretendía hacer.
 No había nada orgánico en su postura sobre municipalismo y nada
 revolucionario en sus intenciones. Todo el mundo está usando la imagen
 de la Comuna para sus propios propósitos: Marx para anclar su teoría de
