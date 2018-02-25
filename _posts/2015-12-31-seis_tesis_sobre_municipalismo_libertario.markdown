@@ -83,7 +83,7 @@ Tesis II
 ========
 
 La Comuna como municipalidad o ciudad, debe evitar un papel puramente
-funcional de estado [^nde-estado] económico en el que los seres humanos no tienen
+funcional de estado[^nde-estado] económico en el que los seres humanos no tienen
 oportunidad de realizar actividades agrícolas. Sino, pasar a ser un
 «centro de implosión» (usando la terminología de Lewis Munford) que
 realce las comunicaciones sociales internas y el acercamiento, 
