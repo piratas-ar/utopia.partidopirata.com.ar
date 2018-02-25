@@ -38,7 +38,7 @@ sociedad. Con todo su fervor moral, la adaptación sindical a la sociedad
 industrial y la imagen del sindicalismo libertario como infraestructura
 del mundo liberado, supuso un cambio apreciable en el énfasis
 intencional desde el comunitarismo hacia el industrialismo, de valores
-comunales a valores fabriles[^1]. Algunos trabajos que han adquirido
+comunales a valores fabriles [^1]. Algunos trabajos que han adquirido
 santidad doxográfica dentro del sindicalismo han servido para enaltecer
 el significado de la fábrica y de forma más general, el lugar de
 trabajo dentro de la teoría radical y eso sin mencionar el papel
@@ -83,7 +83,7 @@ Tesis II
 ========
 
 La Comuna como municipalidad o ciudad, debe evitar un papel puramente
-funcional de estado[^2] económico en el que los seres humanos no tienen
+funcional de estado [^2] económico en el que los seres humanos no tienen
 oportunidad de realizar actividades agrícolas. Sino, pasar a ser un
 «centro de implosión» (usando la terminología de Lewis Munford) que
 realce las comunicaciones sociales internas y el acercamiento, 
@@ -92,14 +92,13 @@ la población casi tribal, unida por los lazos de sangre y la costumbre,
 en un cuerpo político de ciudadanas unidas por valores éticos basados
 en la razón.
 
-[^2] Como forma de posicionamiento frente al carácter ideológico
-que las burocracias estatistas han conferido a la palabra "estado", así como 
-frente a la capacidad que estas burocráticas han sabido atribuirse 
-(mediante el uso de la fuerza) para legislar los usos de la gramática; y por 
-otro lado, teniendo conciencia de la capacidad que tienen las formas de conferir 
-significado; para este texto hemos optado por el uso de la palabra  "estado" 
-(escrita con minúscula), en lugar de "Estado" (escrita con mayúscula).
-_(Nota de la edición)._
+[^2]: Como forma de posicionamiento frente al carácter ideológico que las 
+burocracias estatistas han conferido a la palabra "estado", así como frente a la 
+capacidad que estas han sabido atribuirse  (mediante el uso de la fuerza) para 
+legislar los usos de la gramática; y por otro lado, teniendo conciencia de la 
+capacidad que tienen las formas de conferir  significado; para este texto hemos 
+optado por el uso de la palabra  "estado" (escrita con minúscula), en lugar de 
+"Estado" (escrita con mayúscula). _(Nota de la edición)._
 
 Esta función abiertamente transformadora atraerá al «extraño» y al «no
 miembro» al interior de un denominador común con el tradicional _genoi_,
@@ -134,14 +133,14 @@ social e intrínsecamente.
 
 Lo «social» y el «estatismo» pueden infiltrarse el uno en el otro; así,
 en este sentido, los antiguos despotismos reflejaban la soberanía
-patriarcal del _oikos_[^3]. La absorción de lo social por el
+patriarcal del _oikos_ [^3]. La absorción de lo social por el
 moderno y gigantesco estado totalitario refleja la ampliación del
 concepto de «burocracia» (tanto en sus esferas psicoterapéuticas y
 educacionales, como en la esfera administrativa tradicional),
 evidenciando las imperfecciones que existen en todas las clases de
 organismos sociales.
 
-[^3] El equivalente al término "casa" en la Grecia Antigua, es
+[^3]: El equivalente al término "casa" en la Grecia Antigua, es
 el conjunto de bienes y personas que constituía la unidad básica de la
 sociedad en la mayoría de las ciudades-estado (_polis_), e incluía a la
 cabeza del _oikos_ (el _telestai_, generalmente el varón de mayor edad).
@@ -152,13 +151,13 @@ El surgimiento de la ciudad nos ofrece diversos grados de desarrollo, no
 solo con respecto a una nueva dominación de la _humanitas_ universal,
 diferenciada de la parroquia; nos abre la posibilidad del espacio libre
 de un nuevo civismo, diferenciado de los lazos tradicionales, es la
-_gemeinschaften_[^4] biocéntrica. Asimismo nos ofrece
+_gemeinschaften_ [^4] biocéntrica. Asimismo nos ofrece
 el reino del _polissonomos_, la gestión de la _polis_ por un cuerpo
 político de ciudadanos libres. En resumen, se nos da la posibilidad de
 la política en una forma diferente a lo estrictamente social y al
 estatismo.
 
-[^4] _Gemeinschaft_ (frecuentemente traducido como comunidad), es una 
+[^4]: _Gemeinschaft_ (frecuentemente traducido como comunidad), es una 
 asociación en la cual los individuos se orientan hacia la comunidad 
 tanto o más que hacia su propio interés.  _(Nota de traducción.)_
 
@@ -180,10 +179,10 @@ a trazos aquí y allá para ofrecer la imagen de un _status_ político no
 parlamentario ni burocratizado, centralizado o profesionalizado, social
 o estatal, sino que hay que recoger la imagen ciudadana, reconociendo el
 papel de la ciudad en la transformación de una población o de una
-aglomeración monádica[^5] de individuos en una ciudadanía
+aglomeración monádica [^5] de individuos en una ciudadanía
 basada en formas regionales y éticas de asociación.
 
-[^5] Aislado. _(Nota de la edición.)_
+[^5]: Aislado. _(Nota de la edición.)_
 
 Tesis III
 =========
@@ -392,7 +391,7 @@ esa vida comunal intensamente vibrante. Hay que rememorar a este
 respecto a la _intelligentsia_ francesa de la Ilustración y la tradición
 que creó en los _quartiers_ (barrios) y cafés de París. No me refiero al
 conglomerado de intelectuales anémicos que copan las academias e
-institutos de la sociedad occidental.[^6] A menos que los anarquistas se
+institutos de la sociedad occidental [^6]. A menos que los anarquistas se
 decidan a desarrollar este estrato de pensadores de menor esplendor,
 cuya vida pública se transforme en una búsqueda de comunicación con su
 entorno social, en el caso contrario se encontrarán con el peligro real
@@ -400,7 +399,7 @@ de transformar las ideas en dogmas y de convertirse en herederos por
 derecho propio de movimientos y gentes ancestrales, que pertenecen a
 otra época histórica.
 
-[^6] A pesar de las ventajas y fracasos, ha sido esta inteligencia
+[^6]: A pesar de las ventajas y fracasos, ha sido esta inteligencia
 radical la que ha servido de puntal para cada proyecto revolucionario en
 la historia y de hecho, fueron ellos quienes literalmente proyectaron
 las ideas a partir de las cuales la gente diseñó sus características 
@@ -446,12 +445,12 @@ situaciones de desarrollo de principios democráticos, en los que los
 burgueses nunca se han sentido demasiado cómodos. Los diferentes
 «derechos» formulados por estas revoluciones no se consiguieron gracias
 a los burgueses, sino a pesar de ellos; así los granjeros libres
-norteamericanos de la década de 1770 y los _sans culottes_[^7] 
+norteamericanos de la década de 1770 y los _sans culottes_ [^7] 
 (descamisados) de la década de 1790 --además su futuro es cada vez más 
 cuestionable dentro de este mundo cibernético y corporativo que está en 
 crecimiento.
 
-[^7] Los _sans culottes_  eran los partisanos de izquierdas miembros de las
+[^7]: Los _sans culottes_  eran los partisanos de izquierdas miembros de las
 clases sociales más bajas; típicamente eran quienes realizaban labores
 manuales. Constituyeron la mayor parte del ejército revolucionario
 durante el inicio de la Revolución francesa _(Nota de la edición)._
@@ -565,9 +564,9 @@ estatismo, tiene que ser rehabilitada por el anarquismo y ser devuelta a
 su significado original, en el que suponía una participación y una
 administración civil, levantándose en contraposición del estado,
 extendiéndose más allá de los aspectos básicos de interrelación humana
-que llamamos interrelación social[^8].
+que llamamos interrelación social [^8].
 
-[^8] Antes de finalizar este punto vale la pena observar que la
+[^8]: Antes de finalizar este punto vale la pena observar que la
 distinción entre lo Social y lo Político mantiene una marca desde sus
 orígenes, remontándose a la época de Aristóteles y que se ha mantenido a
 lo largo de toda la historia de la teoría social hasta épocas recientes
@@ -654,7 +653,7 @@ la existencia de instituciones democraticamente directas. Y si este tipo de
 actividad lleva a las anarquistas a los plenos de los ayuntamientos, no
 hay razón para que tal política tenga que ser parlamentaria, máxime
 cuando mantiene un nivel civil y está conscientemente opuesta al
-estado[^9] . Es curioso que muchos anarquistas que celebran la existencia
+estado [^9] . Es curioso que muchos anarquistas que celebran la existencia
 de las empresas industriales «colectivizadas», tanto en un sitio como en
 otro y todo ello con gran entusiasmo a pesar de que se forma parte del
 entramado económico burgués y que tiene una visión de la política
@@ -664,7 +663,7 @@ asambleas de barrio, a los delegados revocables, a las formas de
 contabilidad radicalmente democráticas y a los vínculos locales
 fuertemente enraizados.
 
-[^9] Espero que no se invoque en contra de esta postura al fantasma de
+[^9]: Espero que no se invoque en contra de esta postura al fantasma de
 Paul Brousse. Brousse utilizó el municipalismo libertario de la Comuna
 tan ligado a los parisinos de su época en contra del tradicionalismo
 comunalista, esto es, para practicar una forma pura de parlamentarismo
