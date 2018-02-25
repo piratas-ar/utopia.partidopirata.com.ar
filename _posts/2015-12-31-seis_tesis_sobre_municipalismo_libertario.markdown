@@ -83,7 +83,7 @@ Tesis II
 ========
 
 La Comuna como municipalidad o ciudad, debe evitar un papel puramente
-funcional de estado[^nde-estado] económico en el que los seres humanos no tienen
+funcional de estado[estado] económico en el que los seres humanos no tienen
 oportunidad de realizar actividades agrícolas. Sino, pasar a ser un
 «centro de implosión» (usando la terminología de Lewis Munford) que
 realce las comunicaciones sociales internas y el acercamiento, 
@@ -92,7 +92,7 @@ la población casi tribal, unida por los lazos de sangre y la costumbre,
 en un cuerpo político de ciudadanas unidas por valores éticos basados
 en la razón.
 
-[^nde-estado]: como forma de posicionamiento frente al carácter ideológico
+[nde-estado]: como forma de posicionamiento frente al carácter ideológico
 que las burocracias estatistas han conferido a la palabra "estado", así como 
 frente a la capacidad que estas burocráticas han sabido atribuirse 
 (mediante el uso de la fuerza) para legislar los usos de la gramática; y por 
@@ -134,14 +134,14 @@ social e intrínsecamente.
 
 Lo «social» y el «estatismo» pueden infiltrarse el uno en el otro; así,
 en este sentido, los antiguos despotismos reflejaban la soberanía
-patriarcal del _oikos_[^ndt-oikos]. La absorción de lo social por el
+patriarcal del _oikos_[oikos]. La absorción de lo social por el
 moderno y gigantesco estado totalitario refleja la ampliación del
 concepto de «burocracia» (tanto en sus esferas psicoterapéuticas y
 educacionales, como en la esfera administrativa tradicional),
 evidenciando las imperfecciones que existen en todas las clases de
 organismos sociales.
 
-[^nde-oikos]: El equivalente al término "casa" en la Grecia Antigua, es
+[nde-oikos]: El equivalente al término "casa" en la Grecia Antigua, es
 el conjunto de bienes y personas que constituía la unidad básica de la
 sociedad en la mayoría de las ciudades-estado (_polis_), e incluía a la
 cabeza del _oikos_ (el _telestai_, generalmente el varón de mayor edad).
@@ -152,13 +152,13 @@ El surgimiento de la ciudad nos ofrece diversos grados de desarrollo, no
 solo con respecto a una nueva dominación de la _humanitas_ universal,
 diferenciada de la parroquia; nos abre la posibilidad del espacio libre
 de un nuevo civismo, diferenciado de los lazos tradicionales, es la
-_gemeinschaften_[^ndt-gemeinschaften] biocéntrica. Asimismo nos ofrece
+_gemeinschaften_[gemeinschaften] biocéntrica. Asimismo nos ofrece
 el reino del _polissonomos_, la gestión de la _polis_ por un cuerpo
 político de ciudadanos libres. En resumen, se nos da la posibilidad de
 la política en una forma diferente a lo estrictamente social y al
 estatismo.
 
-[^ndt-gemeinschaften]:  _Gemeinschaft_ (frecuentemente traducido como
+[ndt-gemeinschaften]:  _Gemeinschaft_ (frecuentemente traducido como
 comunidad), es una asociación en la cual los individuos se orientan
 hacia la comunidad tanto o más que hacia su propio interés.  _(Nota de
 traducción.)_
@@ -181,10 +181,10 @@ a trazos aquí y allá para ofrecer la imagen de un _status_ político no
 parlamentario ni burocratizado, centralizado o profesionalizado, social
 o estatal, sino que hay que recoger la imagen ciudadana, reconociendo el
 papel de la ciudad en la transformación de una población o de una
-aglomeración monádica[^ndt-monádico] de individuos en una ciudadanía
+aglomeración monádica[monádico] de individuos en una ciudadanía
 basada en formas regionales y éticas de asociación.
 
-[^nde-monádico]: Aislado. _(Nota de la edición.)_
+[nde-monádico]: Aislado. _(Nota de la edición.)_
 
 Tesis III
 =========
@@ -401,7 +401,7 @@ de transformar las ideas en dogmas y de convertirse en herederos por
 derecho propio de movimientos y gentes ancestrales, que pertenecen a
 otra época histórica.
 
-[^3]:  A pesar de las ventajas y fracasos, ha sido esta inteligencia
+[3]:  A pesar de las ventajas y fracasos, ha sido esta inteligencia
 radical la que ha servido de puntal para cada proyecto revolucionario en
 la historia y de hecho, fueron ellos quienes literalmente proyectaron
 las ideas a partir de las cuales la gente diseñó sus características 
@@ -447,12 +447,12 @@ situaciones de desarrollo de principios democráticos, en los que los
 burgueses nunca se han sentido demasiado cómodos. Los diferentes
 «derechos» formulados por estas revoluciones no se consiguieron gracias
 a los burgueses, sino a pesar de ellos; así los granjeros libres
-norteamericanos de la década de 1770 y los _sans culottes_[^nde-sans
+norteamericanos de la década de 1770 y los _sans culottes_[sans
 culottes] (descamisados) de la década de 1790 --además su futuro es cada
 vez más cuestionable dentro de este mundo cibernético y corporativo que
 está en crecimiento.
 
-[^nde-sans culottes]:  Eran los partisanos de izquierdas miembros de las
+[nde-sans culottes]:  Eran los partisanos de izquierdas miembros de las
 clases sociales más bajas; típicamente eran quienes realizaban labores
 manuales. Constituyeron la mayor parte del ejército revolucionario
 durante el inicio de la Revolución francesa _(Nota de la edición)._
@@ -566,7 +566,7 @@ estatismo, tiene que ser rehabilitada por el anarquismo y ser devuelta a
 su significado original, en el que suponía una participación y una
 administración civil, levantándose en contraposición del estado,
 extendiéndose más allá de los aspectos básicos de interrelación humana
-que llamamos interrelación social.[^4]
+que llamamos interrelación social[^4].
 
 [^4]:  Antes de finalizar este punto vale la pena observar que la
 distinción entre lo Social y lo Político mantiene una marca desde sus
