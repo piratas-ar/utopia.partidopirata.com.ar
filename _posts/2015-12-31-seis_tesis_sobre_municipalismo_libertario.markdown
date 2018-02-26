@@ -115,7 +115,7 @@ rechazan la degradación del término «sociedad» entendido como «estado»,
 y tienen razón. El estado, tal como lo conocemos es un aparato diferente
 que se utiliza para dirigir a las clases; es el monopolio
 profesionalizado de la violencia con la finalidad de asegurar la
-subyugación y la explotación del hombre por el hombre. Las teorías
+subyugación y la explotación del hombre por el hombre [^*]. Las teorías
 antropológicas y sociales nos enseñan cómo el estado ha ido emergiendo
 lentamente a partir de relaciones jerárquicas más abiertas; también nos
 enseñan las distintas formas que adquirió el estado, cuales son sus
@@ -123,6 +123,10 @@ etapas de desarrollo y como se dibuja dentro del concepto de
 estado-nación moderno. Asimismo, dichas disciplinas nos están enseñando,
 muy  posiblemente, cuál vaya a ser el futuro de la forma más totalitaria 
 del estado.
+
+[^*]: ...o más bien, del varón _cis_ patriarcal sobre toda las demás 
+subjetivaciones que ha definido como su otredad. 
+_(Disclaimer de las editoras)._
 
 Así pues, los antiautoritarios saben también cómo las nociones de
 familia, lugar de trabajo y otras diversas formas de la cultura de 
