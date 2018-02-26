@@ -12,7 +12,7 @@ toc: true
 Tesis I
 =======
 
-Históricamente, la teoría y la práctica social radical se han centrado
+Históricamente la teoría y la práctica social radical se han centrado
 sobre dos zonas de la actividad social humana: el lugar de trabajo
 y la comunidad. A partir de la creación del estado-nación y de la
 Revolución Industrial, la economía ha ido adquiriendo una posición
@@ -38,7 +38,7 @@ sociedad. Con todo su fervor moral, la adaptación sindical a la sociedad
 industrial y la imagen del sindicalismo libertario como infraestructura
 del mundo liberado, supuso un cambio apreciable en el énfasis
 intencional desde el comunitarismo hacia el industrialismo, de valores
-comunales a valores fabriles[^2]. Algunos trabajos que han adquirido
+comunales a valores fabriles [^1]. Algunos trabajos que han adquirido
 santidad doxográfica dentro del sindicalismo han servido para enaltecer
 el significado de la fábrica y de forma más general, el lugar de
 trabajo dentro de la teoría radical y eso sin mencionar el papel
@@ -47,7 +47,7 @@ ser igualmente analizados en este artículo. En forma superficial, me
 parece que están justificados con los hechos acaecidos en la época de la
 Primera Guerra Mundial y los años 30.
 
-[^2]: Como ejemplo particularmente deprimente, sólo hay que leer El
+[^1]: Como ejemplo particularmente deprimente, sólo hay que leer El
 organismo económico de la Revolución (Barcelona, 1936), de Diego Abad de
 Santillán, dicho trabajo influencia enormemente a la CNT-FAI.
 
@@ -83,7 +83,7 @@ Tesis II
 ========
 
 La Comuna como municipalidad o ciudad, debe evitar un papel puramente
-funcional de estado económico en el que los seres humanos no tienen
+funcional de estado [^2] económico en el que los seres humanos no tienen
 oportunidad de realizar actividades agrícolas. Sino, pasar a ser un
 «centro de implosión» (usando la terminología de Lewis Munford) que
 realce las comunicaciones sociales internas y el acercamiento, 
@@ -91,6 +91,14 @@ de forma que se manifieste su función histórica transformando
 la población casi tribal, unida por los lazos de sangre y la costumbre, 
 en un cuerpo político de ciudadanas unidas por valores éticos basados
 en la razón.
+
+[^2]: Como forma de posicionamiento frente al carácter ideológico que las 
+burocracias estatistas han conferido a la palabra "estado", así como frente a la 
+capacidad que estas han sabido atribuirse  (mediante el uso de la fuerza) para 
+legislar los usos de la gramática; y por otro lado, teniendo conciencia de la 
+capacidad que tienen las formas de conferir  significado; para este texto hemos 
+optado por el uso de la palabra  "estado" (escrita con minúscula), en lugar de 
+"Estado" (escrita con mayúscula). _(Nota de la edición)._
 
 Esta función abiertamente transformadora atraerá al «extraño» y al «no
 miembro» al interior de un denominador común con el tradicional _genoi_,
@@ -103,11 +111,11 @@ reconvertida como «estado». Estas distinciones no son meras discusiones
 etimológicas, reflejan por el contrario, una auténtica degradación de
 estos conceptos, siendo cada uno de ellos de enorme importancia
 para legitimar fines ideológicos. A los antiautoritarios les choca y
-rechazan la degradación del término «sociedad» entendido como «Estado»,
-y tienen razón. El Estado, tal como lo conocemos es un aparato diferente
+rechazan la degradación del término «sociedad» entendido como «estado»,
+y tienen razón. El estado, tal como lo conocemos es un aparato diferente
 que se utiliza para dirigir a las clases; es el monopolio
 profesionalizado de la violencia con la finalidad de asegurar la
-subyugación y la explotación del hombre por el hombre. Las teorías
+subyugación y la explotación del hombre por el hombre [^*]. Las teorías
 antropológicas y sociales nos enseñan cómo el estado ha ido emergiendo
 lentamente a partir de relaciones jerárquicas más abiertas; también nos
 enseñan las distintas formas que adquirió el estado, cuales son sus
@@ -115,6 +123,10 @@ etapas de desarrollo y como se dibuja dentro del concepto de
 estado-nación moderno. Asimismo, dichas disciplinas nos están enseñando,
 muy  posiblemente, cuál vaya a ser el futuro de la forma más totalitaria 
 del estado.
+
+[^*]: ...o más bien, del varón _cis_ patriarcal sobre toda las demás 
+subjetivaciones que ha definido como su otredad. 
+_(Disclaimer de las editoras)._
 
 Así pues, los antiautoritarios saben también cómo las nociones de
 familia, lugar de trabajo y otras diversas formas de la cultura de 
@@ -125,14 +137,14 @@ social e intrínsecamente.
 
 Lo «social» y el «estatismo» pueden infiltrarse el uno en el otro; así,
 en este sentido, los antiguos despotismos reflejaban la soberanía
-patriarcal del _oikos_[^ndt-oikos]. La absorción de lo social por el
+patriarcal del _oikos_ [^3]. La absorción de lo social por el
 moderno y gigantesco estado totalitario refleja la ampliación del
 concepto de «burocracia» (tanto en sus esferas psicoterapéuticas y
 educacionales, como en la esfera administrativa tradicional),
 evidenciando las imperfecciones que existen en todas las clases de
 organismos sociales.
 
-[^nde-oikos]: El equivalente al término "casa" en la Grecia Antigua, es
+[^3]: El equivalente al término "casa" en la Grecia Antigua, es
 el conjunto de bienes y personas que constituía la unidad básica de la
 sociedad en la mayoría de las ciudades-estado (_polis_), e incluía a la
 cabeza del _oikos_ (el _telestai_, generalmente el varón de mayor edad).
@@ -143,16 +155,15 @@ El surgimiento de la ciudad nos ofrece diversos grados de desarrollo, no
 solo con respecto a una nueva dominación de la _humanitas_ universal,
 diferenciada de la parroquia; nos abre la posibilidad del espacio libre
 de un nuevo civismo, diferenciado de los lazos tradicionales, es la
-_gemeinschaften_[^ndt-gemeinschaften] biocéntrica. Asimismo nos ofrece
+_gemeinschaften_ [^4] biocéntrica. Asimismo nos ofrece
 el reino del _polissonomos_, la gestión de la _polis_ por un cuerpo
 político de ciudadanos libres. En resumen, se nos da la posibilidad de
 la política en una forma diferente a lo estrictamente social y al
 estatismo.
 
-[^ndt-gemeinschaften]:  _Gemeinschaft_ (frecuentemente traducido como
-comunidad), es una asociación en la cual los individuos se orientan
-hacia la comunidad tanto o más que hacia su propio interés.  _(Nota de
-traducción.)_
+[^4]: _Gemeinschaft_ (frecuentemente traducido como comunidad), es una 
+asociación en la cual los individuos se orientan hacia la comunidad 
+tanto o más que hacia su propio interés.  _(Nota de traducción.)_
 
 La Historia no nos muestra una esfera de lo político en estado «puro»,
 tampoco nos da una visión mayor de las relaciones sociales a nivel de
@@ -172,10 +183,10 @@ a trazos aquí y allá para ofrecer la imagen de un _status_ político no
 parlamentario ni burocratizado, centralizado o profesionalizado, social
 o estatal, sino que hay que recoger la imagen ciudadana, reconociendo el
 papel de la ciudad en la transformación de una población o de una
-aglomeración monádica[^ndt-monádico] de individuos en una ciudadanía
+aglomeración monádica [^5] de individuos en una ciudadanía
 basada en formas regionales y éticas de asociación.
 
-[^nde-monádico]: Aislado. _(Nota de la edición.)_
+[^5]: Aislado. _(Nota de la edición.)_
 
 Tesis III
 =========
@@ -225,10 +236,10 @@ que literal y protoplásmicamente) un contenido? Rousseau nos recuerda
 que «las casas forman la _urbe_, pero (sólo) los ciudadanos forman la
 ciudad». Los habitantes de la _urbe_ se conceptúan como simple
 «electorado, o como «votantes», o ya usando el término más degradante
-utilizado por el Estado, «impositores sujetos a gravamen» --un término
+utilizado por el estado, «impositores sujetos a gravamen» --un término
 que es realmente un eufemismo aplicado a un «sujeto». Los habitantes de
 la _urbe_ se transforman en abstracciones y a partir de entonces, en
-simples «criaturas del Estado», utilizando la terminología jurídica
+simples «criaturas del estado», utilizando la terminología jurídica
 norteamericana en relación al status legal de lo que es una entidad
 municipal hoy día. Un pueblo, cuya única función política es la de votar
 delegados, no es pueblo en absoluto, es una «masa», una aglomeración de
@@ -300,7 +311,7 @@ policía realizada por los propios administradores (cosa que Marx
 celebrara profusamente), supuso el mayor fracaso de esta revolución. 
 Rousseau, con bastante razón, planteaba que el poder popular no se puede 
 delegar sin que se destruya. O bien se tiene una asamblea popular que 
-ostenta todos los poderes, o bien esos poderes los ostentará el Estado. 
+ostenta todos los poderes, o bien esos poderes los ostentará el estado. 
 El problema del poder delegado infectó por completo el sistema de 
 consejos: los _soviets_ (Raten), la Comuna de 1871 y naturalmente los 
 sistemas republicanos en general, tanto de carácter nacional como 
@@ -335,7 +346,7 @@ ideología y en la tontería humana en forma aún más clara y no tuvieron
 que apoyarse en la fuerza para atenuar el poder popular y finalmente 
 eliminarlo.
 
-El Estado no ha podido absorber nunca, en su totalidad lo ocurrido en
+El estado no ha podido absorber nunca, en su totalidad lo ocurrido en
 el pasado, este es un hecho descripto por Kropotkin en «El apoyo
 mutuo», cuando describe el rico contexto existente en la vida civil
 hasta las comunas oligárquicas medievales. En efecto, la ciudad ha
@@ -384,7 +395,7 @@ esa vida comunal intensamente vibrante. Hay que rememorar a este
 respecto a la _intelligentsia_ francesa de la Ilustración y la tradición
 que creó en los _quartiers_ (barrios) y cafés de París. No me refiero al
 conglomerado de intelectuales anémicos que copan las academias e
-institutos de la sociedad occidental.[^3] A menos que los anarquistas se
+institutos de la sociedad occidental [^6]. A menos que los anarquistas se
 decidan a desarrollar este estrato de pensadores de menor esplendor,
 cuya vida pública se transforme en una búsqueda de comunicación con su
 entorno social, en el caso contrario se encontrarán con el peligro real
@@ -392,7 +403,7 @@ de transformar las ideas en dogmas y de convertirse en herederos por
 derecho propio de movimientos y gentes ancestrales, que pertenecen a
 otra época histórica.
 
-[^3]:  A pesar de las ventajas y fracasos, ha sido esta inteligencia
+[^6]: A pesar de las ventajas y fracasos, ha sido esta inteligencia
 radical la que ha servido de puntal para cada proyecto revolucionario en
 la historia y de hecho, fueron ellos quienes literalmente proyectaron
 las ideas a partir de las cuales la gente diseñó sus características 
@@ -438,12 +449,12 @@ situaciones de desarrollo de principios democráticos, en los que los
 burgueses nunca se han sentido demasiado cómodos. Los diferentes
 «derechos» formulados por estas revoluciones no se consiguieron gracias
 a los burgueses, sino a pesar de ellos; así los granjeros libres
-norteamericanos de la década de 1770 y los _sans culottes_[^nde-sans
-culottes] (descamisados) de la década de 1790 --además su futuro es cada
-vez más cuestionable dentro de este mundo cibernético y corporativo que
-está en crecimiento.
+norteamericanos de la década de 1770 y los _sans culottes_ [^7] 
+(descamisados) de la década de 1790 --además su futuro es cada vez más 
+cuestionable dentro de este mundo cibernético y corporativo que está en 
+crecimiento.
 
-[^nde-sans culottes]:  Eran los partisanos de izquierdas miembros de las
+[^7]: Los _sans culottes_  eran los partisanos de izquierdas miembros de las
 clases sociales más bajas; típicamente eran quienes realizaban labores
 manuales. Constituyeron la mayor parte del ejército revolucionario
 durante el inicio de la Revolución francesa _(Nota de la edición)._
@@ -555,11 +566,11 @@ conflicto, uno se justificaba invocando la famosa cita de Georg Lukacs:
 Política, tantas veces degradada por los «políticos» y convertida en
 estatismo, tiene que ser rehabilitada por el anarquismo y ser devuelta a
 su significado original, en el que suponía una participación y una
-administración civil, levantándose en contraposición del Estado,
+administración civil, levantándose en contraposición del estado,
 extendiéndose más allá de los aspectos básicos de interrelación humana
-que llamamos interrelación social.[^4]
+que llamamos interrelación social [^8].
 
-[^4]:  Antes de finalizar este punto vale la pena observar que la
+[^8]: Antes de finalizar este punto vale la pena observar que la
 distinción entre lo Social y lo Político mantiene una marca desde sus
 orígenes, remontándose a la época de Aristóteles y que se ha mantenido a
 lo largo de toda la historia de la teoría social hasta épocas recientes
@@ -618,7 +629,7 @@ de la aproximación al municipalismo libertario es la posibilidad de
 evocar tradiciones vivas para legitimar nuestras peticiones, tradiciones
 que aunque son fragmentarias e irregulares aún ofrecen potencialidad
 para una política de participación con una respuesta de dimensiones
-globales al Estado. La Comuna está enterrada todavía en los Consejos de
+globales al estado. La Comuna está enterrada todavía en los Consejos de
 la ciudad; las secciones están escondidas en los barrios; la asamblea 
 de ciudad está en los ayuntamientos; encontramos formas confederales de 
 asociación municipal escondidas en los vínculos regionales de pueblos y 
@@ -646,7 +657,7 @@ la existencia de instituciones democraticamente directas. Y si este tipo de
 actividad lleva a las anarquistas a los plenos de los ayuntamientos, no
 hay razón para que tal política tenga que ser parlamentaria, máxime
 cuando mantiene un nivel civil y está conscientemente opuesta al
-estado.[^5] Es curioso que muchos anarquistas que celebran la existencia
+estado [^9] . Es curioso que muchos anarquistas que celebran la existencia
 de las empresas industriales «colectivizadas», tanto en un sitio como en
 otro y todo ello con gran entusiasmo a pesar de que se forma parte del
 entramado económico burgués y que tiene una visión de la política
@@ -656,12 +667,12 @@ asambleas de barrio, a los delegados revocables, a las formas de
 contabilidad radicalmente democráticas y a los vínculos locales
 fuertemente enraizados.
 
-[^5]: Espero que no se invoque en contra de esta postura al fantasma de
+[^9]: Espero que no se invoque en contra de esta postura al fantasma de
 Paul Brousse. Brousse utilizó el municipalismo libertario de la Comuna
 tan ligado a los parisinos de su época en contra del tradicionalismo
 comunalista, esto es, para practicar una forma pura de parlamentarismo
 burgués, no para llevar a París y a los municipios franceses en
-oposición al Estado centralizado, tal y como la Comuna pretendía hacer.
+oposición al estado centralizado, tal y como la Comuna pretendía hacer.
 No había nada orgánico en su postura sobre municipalismo y nada
 revolucionario en sus intenciones. Todo el mundo está usando la imagen
 de la Comuna para sus propios propósitos: Marx para anclar su teoría de
