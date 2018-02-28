@@ -64,9 +64,8 @@ y ansiosa por modificarlo a fondo.
 Fósiles versus Totalitarios es la alternativa maniquea con que se nos
 sugestiona. Es irreal porque ninguna de ambas puede tener ya vigencia
 práctica en gran escala, aunque la tuvieron en ejemplos históricos muy
-publicitados, y se ven aún algunas imitaciones.
-
-La oposición real es entre Reformistas y Rebeldes.
+publicitados, y se ven aún algunas imitaciones. La oposición real es entre
+Reformistas y Rebeldes.
 
 Los Reformistas se atribuyen como mérito combatir a los Fósiles y a los
 Totalitarios, lo cual muchas veces es cierto. Capitalizan ese mérito en
@@ -238,9 +237,11 @@ presentaban:
 4.  No había convicción política: la posibilidad de que el simple
     desarrollo científico y tecnológico a la manera del hemisferio Norte
     facilitara el cambio a la larga, era muy atractiva frente a las
-    escasas perspectivas de una acción directa. Trataremos ahora de
-    analizar estas dificultades -de iniciar su análisis, sería más
-    correcto decir- y ver qué salidas han tenido o pueden tener.
+    escasas perspectivas de una acción directa.
+    
+    Trataremos ahora de analizar estas dificultades -de iniciar su
+    análisis, sería más correcto decir- y ver qué salidas han tenido o
+    pueden tener.
 
 El Cientificismo
 ================
@@ -330,39 +331,34 @@ naturaleza: pudimos haber tenido una Ciencia de otro tipo.
 
 Pero hemos llenado de elogios a la Ciencia que tenemos. Su prestigio es
 tan grande que seguramente está bien como está. ¿Qué necesidad hay de
-otro tipo de Ciencia cuando esta ha tenido tantos éxitos?  Y sin embargo
--observación trivial que ha perdido fuerza por demasiado repetida- entre
-sus éxitos no figura la supresión de la injusticia, la irracionalidad y
-demás lacras del sistema social. En particular no ha suprimido sino
-aumentado el peligro de suicidio de la especie por guerra total,
-explosión demográfica o, en el mejor de los casos, cristalización en un
-"mundo feliz' estilo Huxley.
+otro tipo de Ciencia cuando esta ha tenido tantos éxitos?.
+
+Sin embargo -observación trivial que ha perdido fuerza por demasiado
+repetida- entre sus éxitos no figura la supresión de la injusticia, la
+irracionalidad y demás lacras del sistema social. En particular no ha
+suprimido sino aumentado el peligro de suicidio de la especie por guerra
+total, explosión demográfica o, en el mejor de los casos, cristalización
+en un "mundo feliz' estilo Huxley.
 
 Esta observación autoriza a cualquiera a intentar la crítica global de
-nuestra Ciencia.
+nuestra Ciencia. Algo debe andar mal en ella.
 
-Algo debe andar mal en ella.
-
-La clásica respuesta es que esos no son problemas científicos: la
-ciencia da instrumentos neutros, y son la fuerzas políticas quienes
-deben usarlos justicieramente.
-
-Si no lo hacen, no es culpa de la ciencia. Esta respuesta es falsa: la
-ciencia actual no crea toda clase de instrumentos, sino sólo aquellos
-que el sistema le estimula a crear.
-
-Para bienestar individual de algunos o muchos, heladeras y corazones
-artificiales, y para asegurar el orden, o sea la permanencia del
-sistema, propaganda, la readaptación del individuo alienado o del grupo
-disconforme. No se ha ocupado tanto, en cambio, de crear instrumentos
-para eliminar esos problemas de fondo del sistema: métodos de educación,
-de participación, de distribución, que sean tan eficientes, prácticos y
-atrayentes como un automóvil. Aun los instrumentos de uso más flexible,
-como las computadoras, están hechos pensando más en otros fines que en
-otros. Aunque el poder político pasara de pronto a manos bien
-inspiradas, ellas carecerían de la tecnología adecuada para transformar
-socialmente, culturalmente -no sólo industrialmente- al pueblo, sin
-sacrificios incalculables e inútiles.
+La clásica respuesta es que esos no son problemas científicos: la ciencia
+da instrumentos neutros, y son la fuerzas políticas quienes deben usarlos
+justicieramente. Si no lo hacen, no es culpa de la ciencia. Esta respuesta
+es falsa: la ciencia actual no crea toda clase de instrumentos, sino sólo
+aquellos que el sistema le estimula a crear. Para bienestar individual de
+algunos o muchos, heladeras y corazones artificiales, y para asegurar el
+orden, o sea la permanencia del sistema, propaganda, la readaptación del
+individuo alienado o del grupo disconforme. No se ha ocupado tanto, en
+cambio, de crear instrumentos para eliminar esos problemas de fondo del
+sistema: métodos de educación, de participación, de distribución, que sean
+tan eficientes, prácticos y atrayentes como un automóvil. Aun los
+instrumentos de uso más flexible, como las computadoras, están hechos
+pensando más en otros fines que en otros. Aunque el poder político pasara
+de pronto a manos bien inspiradas, ellas carecerían de la tecnología
+adecuada para transformar socialmente, culturalmente -no sólo
+industrialmente- al pueblo, sin sacrificios incalculables e inútiles.
 
 ¿Cómo se hace una reforma agraria eficientemente? No es suficiente con
 crear las condiciones políticas para ella. Aun sin grupos de poder que
@@ -409,15 +405,16 @@ material de la gente es su aspecto positivo, que tantos defensores le
 proporciona entre los que no sufren sus injusticias. Al mismo tiempo
 está obligada a imponer gustos, costumbres y valores homogéneos a toda
 su clientela potencial: la humanidad; cosa no tan bien vista ni siquiera
-por sus defensores. Dijo De Gaulle: “A partir del momento en que todos
-los hombres leen lo mismo en los mismos diarios; ven desde un rincón a
-otro las mismas películas; oyen simultáneamente las mismas
-informaciones, las mismas sugestiones e idéntica música a través de la
-radio, la personalidad última de cada uno, el propio ser, la libre
-elección, dejan de contar absolutamente. Se produce una especie de
-mecanización general en la que, sin un notable esfuerzo de salvaguardia,
-el individuo no puede impedir su destrucción” (Discurso en la
-Universidad de Oxford).
+por sus defensores. Dijo De Gaulle:
+
+> “A partir del momento en que todos los hombres leen lo mismo en los
+> mismos diarios; ven desde un rincón a otro las mismas películas; oyen
+> simultáneamente las mismas informaciones, las mismas sugestiones e
+> idéntica música a través de la radio, la personalidad última de cada
+> uno, el propio ser, la libre elección, dejan de contar absolutamente. Se
+> produce una especie de mecanización general en la que, sin un notable
+> esfuerzo de salvaguardia, el individuo no puede impedir su destrucción”
+> (Discurso en la Universidad de Oxford).
 
 Para hacer esto posible es necesaria una altísima productividad
 industrial, con rápida obsolencia de equipos por la continua aparición
@@ -450,8 +447,8 @@ que satisface las normas del sistema, y su éxito dependerá, tanto o más,
 de la propaganda o de las relaciones públicas que de su valor
 intrínseco. Y como consumidor está sujeto a las mismas presiones.
 
-Basta examinar los anuncios de un número cualquiera del Scientific
-American para darse cuenta del tamaño del mercado científico para
+Basta examinar los anuncios de un número cualquiera del _Scientific
+American_ para darse cuenta del tamaño del mercado científico para
 instrumental y libros.  Estos equipos son tan variados y cambiantes como
 los modelos de automóviles, y no hay dinero que alcance para estar al
 día. Ocurre entonces que, como en cualquier empresa, los problemas
@@ -480,9 +477,11 @@ universal, absoluto, independiente del sistema. ¿Por qué la teoría
 Cuántica, o la de la Evolución, deberían estar más ligadas a la sociedad
 de consumo que a cualquier otra? ¿Y quién se atreve a proponer otro
 "tipo de ciencia", donde tal vez no se habría desarrollado la teoría de
-la medida o la de los reflejos condicionados?  Para responder a esto
-dejamos por el momento de lado el caso de estas Grandes Ideas -con
-mayúscula- y examinemos la actividad científica corriente.
+la medida o la de los reflejos condicionados?
+
+Para responder a esto dejamos por el momento de lado el caso de estas
+Grandes Ideas -con mayúscula- y examinemos la actividad científica
+corriente.
 
 No es novedad que el sistema influye sobre la "ciencia pura" de diversas
 maneras. Un nuevo sistema social formado en oposición a éste, tendrá
@@ -537,932 +536,969 @@ El sistema no fuerza; presiona. Tenemos ya todos los elementos para
 comprender cómo lo hace: la élite del grupo, la necesidad de fondos, la
 motivación de los trabajos, el prestigio de la ciencia universal.
 
-La necesidad de dinero es general en todas las ramas de la ciencia. Sin contar
-las enormes sumas que requiere la investigación espacial o la subatómica, todas
-las ciencias naturales emplean costosos equipos de laboratorio. Pero también
-las ciencias sociales tienen presupuestos de apreciable magnitud, para sus
-encuestas y demás trabajos de campo. Hay además tres ítems comunes a todas las
-ciencias, tan importantes y caros como los anteriores: el procesamiento de
-datos, mediante computadoras y otras máquinas, los libros y revistas, y los
-sueldos de los científicos y sus numerosos asistentes de todas las categorías.
+La necesidad de dinero es general en todas las ramas de la ciencia. Sin
+contar las enormes sumas que requiere la investigación espacial o la
+subatómica, todas las ciencias naturales emplean costosos equipos de
+laboratorio. Pero también las ciencias sociales tienen presupuestos de
+apreciable magnitud, para sus encuestas y demás trabajos de campo. Hay
+además tres ítems comunes a todas las ciencias, tan importantes y caros
+como los anteriores: el procesamiento de datos, mediante computadoras y
+otras máquinas, los libros y revistas, y los sueldos de los científicos y
+sus numerosos asistentes de todas las categorías.
 
-Antes, para el que no quería trabajar en empresas o en las fuerzas armadas, el
-único Mecenas disponible era la Universidad, pero en los últimos años ha tomado
-preponderancia otro factor de poder: la Fundación, pública o privada, dedicada
-específicamente a promover y financiar la investigación "pura" o básica.
+Antes, para el que no quería trabajar en empresas o en las fuerzas
+armadas, el único Mecenas disponible era la Universidad, pero en los
+últimos años ha tomado preponderancia otro factor de poder: la Fundación,
+pública o privada, dedicada específicamente a promover y financiar la
+investigación "pura" o básica.
 
-Entre estas Fundaciones incluimos a los consejos Nacionales de Investigaciones,
-donde los hay, pero las más típicas e influyentes son las grandes fundaciones
-de alcance internacional, ligadas a las corporaciones industriales que
-caracterizan esta etapa del sistema o directamente al gobierno norteamericano.
+Entre estas Fundaciones incluimos a los consejos Nacionales de
+Investigaciones, donde los hay, pero las más típicas e influyentes son las
+grandes fundaciones de alcance internacional, ligadas a las corporaciones
+industriales que caracterizan esta etapa del sistema o directamente al
+gobierno norteamericano.
 
-Ford, Rockefeller, Carnegie, National Science Foundation, National Institute
-for Health, BID, AID y varias otras instituciones más ricas que muchos países,
-subsidian directamente a investigadores, o indirectamente a través de
-universidades y otros centros de trabajo.
-
-Sin entrar a juzgar sus intenciones ni detenernos en episodios de espionaje
-como el proyecto Camelot y otros, que son frecuentes pero atípicos, queremos
-destacar el carácter empresarial de estas instituciones. Ellas manejan y
-distribuyen enormes cantidades de dinero, de las cuales tienen que dar cuenta a
-los donantes privados o al gobierno. Tienen que mostrar resultados, para probar
-que están administrando bien los fondos. Tienen que presentar un Informe Anual.
-Esto crea una burocracia de la cual no vamos a ocuparnos, aunque bien lo
-merecería.
+Ford, Rockefeller, Carnegie, National Science Foundation, National
+Institute for Health, BID, AID y varias otras instituciones más ricas que
+muchos países, subsidian directamente a investigadores, o indirectamente a
+través de universidades y otros centros de trabajo. Sin entrar a juzgar
+sus intenciones ni detenernos en episodios de espionaje como el proyecto
+Camelot y otros, que son frecuentes pero atípicos, queremos destacar el
+carácter empresarial de estas instituciones. Ellas manejan y distribuyen
+enormes cantidades de dinero, de las cuales tienen que dar cuenta a los
+donantes privados o al gobierno.  Tienen que mostrar resultados, para
+probar que están administrando bien los fondos. Tienen que presentar un
+Informe Anual.  Esto crea una burocracia de la cual no vamos a ocuparnos,
+aunque bien lo merecería.
 
 Este espíritu empresarial se ha contagiado también a las universidades, en
-parte porque deben pedir ayuda a fundaciones y empresas por insuficiencia de
-fondos propios, en parte por querer demostrar también su "eficiencia", y sobre
-todo porque están dirigidas por el mismo grupo de personas: la élite
-científica.
+parte porque deben pedir ayuda a fundaciones y empresas por insuficiencia
+de fondos propios, en parte por querer demostrar también su "eficiencia",
+y sobre todo porque están dirigidas por el mismo grupo de personas: la
+élite científica.
 
 Es lógico entonces que se hayan impuesto los criterios empresariales para
-evaluar esas inversiones. Las élites y la burocracia asignan importancia -y
-fondos- a los temas de investigación según los resultados que de ellos esperan.
+evaluar esas inversiones. Las élites y la burocracia asignan importancia
+-y fondos- a los temas de investigación según los resultados que de ellos
+esperan.
 
-Los temas y equipos ya sancionados como eficientes -los de la élite, muchos
-de los cuales provienen de la época "pre-financiera"- reciben alta prioridad, y
-se toman como puntos de referencia para juzgar a otros candidatos, dándose
-entonces preferencia a ramificaciones de estos temas, avalados como
-interesantes por los equipos, y en general iniciados por colaboradores que se
-van independizando parcialmente. De tanto en tanto se apoya algún tema nuevo,
-casi siempre cuando está motivado por alguna aplicación industrial, médica o
-militar.
+Los temas y equipos ya sancionados como eficientes -los de la élite,
+muchos de los cuales provienen de la época "pre-financiera"- reciben alta
+prioridad, y se toman como puntos de referencia para juzgar a otros
+candidatos, dándose entonces preferencia a ramificaciones de estos temas,
+avalados como interesantes por los equipos, y en general iniciados por
+colaboradores que se van independizando parcialmente. De tanto en tanto se
+apoya algún tema nuevo, casi siempre cuando está motivado por alguna
+aplicación industrial, médica o militar.
 
-Invertir en proyectos nuevos es un riesgo, y eso lleva a desequilibrios, sobre
-todo en países pequeños, donde las "novedades" pueden ser temas de importancia
-práctica ya reconocida en otras partes pero no bien percibidas por la élite
-científica local. En la Argentina el CNICT (Consejo Nacional de
-Investigaciones) siguió casi siempre esa política: el dinero va a los equipos
-que ya son fuertes y por lo tanto dan seguridad a los resultados, y es
-insignificante lo que se dedica a desarrollar ramas donde todavía no hay
-investigadores que hayan demostrado su calidad. Pesa menos la necesidad que
-puede tener un país que la falta de "garantías" para la inversión.
+Invertir en proyectos nuevos es un riesgo, y eso lleva a desequilibrios,
+sobre todo en países pequeños, donde las "novedades" pueden ser temas de
+importancia práctica ya reconocida en otras partes pero no bien percibidas
+por la élite científica local. En la Argentina el CNICT (Consejo Nacional
+de Investigaciones) siguió casi siempre esa política: el dinero va a los
+equipos que ya son fuertes y por lo tanto dan seguridad a los resultados,
+y es insignificante lo que se dedica a desarrollar ramas donde todavía no
+hay investigadores que hayan demostrado su calidad. Pesa menos la
+necesidad que puede tener un país que la falta de "garantías" para la
+inversión.
 
 Pronto ocurre un fenómeno muy usual en nuestra sociedad: los equipos que
-reciben fondos y gastan mucho dinero van cobrando por ese solo motivo mayor
-importancia - con tal de mantener un nivel normal de producción- y eso atrae
-fondos.
+reciben fondos y gastan mucho dinero van cobrando por ese solo motivo
+mayor importancia - con tal de mantener un nivel normal de producción- y
+eso atrae fondos.
 
 Los administradores, por su parte, se sienten inclinados a defender sus
 decisiones, y "promueven" la importancia de los temas que apoyaron.
 
-Esta realimentación positiva produce una especie de selección natural de temas,
-en la que las nuevas "especies" están desfavorecidas con respecto a los temas
-ya establecidos como una nueva empresa frente a corporaciones gigantes; sólo
-los que responden a una nueva necesidad imperiosa del sistema podrán competir.
-Y esas necesidades son poco visibles en el campo de la ciencia básica, pues se
-refieren al futuro. Para plantearlas se requiere un criterio general,
-ideológico o filosófico como el que motiva estas páginas, y eso es pecado
-totalitario.
+Esta realimentación positiva produce una especie de selección natural de
+temas, en la que las nuevas "especies" están desfavorecidas con respecto a
+los temas ya establecidos como una nueva empresa frente a corporaciones
+gigantes; sólo los que responden a una nueva necesidad imperiosa del
+sistema podrán competir.  Y esas necesidades son poco visibles en el campo
+de la ciencia básica, pues se refieren al futuro. Para plantearlas se
+requiere un criterio general, ideológico o filosófico como el que motiva
+estas páginas, y eso es pecado totalitario.
 
-Las fuerzas que determinan el tipo de ciencia no son, pues, puramente internas
-y basadas en el genio creador y la libertad de pensamiento. También en eta
-"ciencia pura" es esencial la asignación de recursos financieros, que se
-efectúa según los resultados esperados. Es muy desagradable que el dinero sea
-un facto tan decisivo, pero podría aducirse que no es tan grave mientras los
-mayores fondos sean entregados realmente a quienes producen los mejores
-resultados, y debemos ver entonces cómo influye en ello esta sociedad de
-consumo, que requiere contabilizar de alguna manera sus beneficios y costos.
+Las fuerzas que determinan el tipo de ciencia no son, pues, puramente
+internas y basadas en el genio creador y la libertad de pensamiento.
+También en eta "ciencia pura" es esencial la asignación de recursos
+financieros, que se efectúa según los resultados esperados. Es muy
+desagradable que el dinero sea un facto tan decisivo, pero podría aducirse
+que no es tan grave mientras los mayores fondos sean entregados realmente
+a quienes producen los mejores resultados, y debemos ver entonces cómo
+influye en ello esta sociedad de consumo, que requiere contabilizar de
+alguna manera sus beneficios y costos.
 
-Basta el usuario para evaluar el resultado de una investigación aplicada, pero
-sólo los mismos científicos pueden opinar con cierta seriedad acerca de las
-investigaciones básicas, pues eso requiere conocer el pasado y estimar el
-futuro del problema.
+Basta el usuario para evaluar el resultado de una investigación aplicada,
+pero sólo los mismos científicos pueden opinar con cierta seriedad acerca
+de las investigaciones básicas, pues eso requiere conocer el pasado y
+estimar el futuro del problema.
 
-Como hemos dicho, los temas de investigación rara vez surgen "del aire"; tienen
-casi siempre una historia que los vincula con muchos otros trabajos, teóricos y
-aplicados. No es difícil para un científico apreciar si un trabajo nuevo
-significa algo, si está suficientemente motivado. La dificultad está en
-comparar importancias, una vez satisfechos esos requisitos mínimos y
-descartados los que contienen defectos técnicos o metodológicos. El problema no
-es decidir cuáles temas merecen subsidios -la respuesta es todos o casi todos-
-sino cuáles merecen más subsidios que otros, y cuales deben sacrificarse
-primero cuando no alcanza para todos.
+Como hemos dicho, los temas de investigación rara vez surgen "del aire";
+tienen casi siempre una historia que los vincula con muchos otros
+trabajos, teóricos y aplicados. No es difícil para un científico apreciar
+si un trabajo nuevo significa algo, si está suficientemente motivado. La
+dificultad está en comparar importancias, una vez satisfechos esos
+requisitos mínimos y descartados los que contienen defectos técnicos o
+metodológicos. El problema no es decidir cuáles temas merecen subsidios
+-la respuesta es todos o casi todos- sino cuáles merecen más subsidios que
+otros, y cuales deben sacrificarse primero cuando no alcanza para todos.
 
 En la práctica, un resultado o un tema nuevo en ciencia básica es más
 importante que otro cuando así lo estima el consenso de los científicos
-importantes. A largo plazo la realidad mostrará si esa opinión era acertada o
-no, pero mientras tanto hay que guiarse por ella.
+importantes. A largo plazo la realidad mostrará si esa opinión era
+acertada o no, pero mientras tanto hay que guiarse por ella.
 
 La evaluación de resultados recientes de ciencia básica es, pues, en gran
-parte, evaluación de hombres. Debemos comprender cómo se asigna su importancia
-a cada científico, desde que comienza su carrera hasta que ingresa a una élite
-que es un tribunal de última instancia..., hasta que el tiempo da su propia
-opinión, y en la que incluimos no sólo a los sabios de más fama, sino a todos
-loa asesores de fundaciones, referees y comentaristas de revistas
-especializadas cuyos nombres generalmente no son conocidos fuera de su propio
-campo.
+parte, evaluación de hombres. Debemos comprender cómo se asigna su
+importancia a cada científico, desde que comienza su carrera hasta que
+ingresa a una élite que es un tribunal de última instancia..., hasta que
+el tiempo da su propia opinión, y en la que incluimos no sólo a los sabios
+de más fama, sino a todos loa asesores de fundaciones, referees y
+comentaristas de revistas especializadas cuyos nombres generalmente no son
+conocidos fuera de su propio campo.
 
-Indudablemente, para ser aceptado como científico no se requiere haber hecho un
-descubrimiento histórico. Incluso los premios Nobel se adjudican hoy en su
-mayor parte por trabajos que sólo especialistas recuerdan. ¿Quién sabe por qué
-es premio Nobel Bernardo Houssay, aún en Argentina?.
+Indudablemente, para ser aceptado como científico no se requiere haber
+hecho un descubrimiento histórico. Incluso los premios Nobel se adjudican
+hoy en su mayor parte por trabajos que sólo especialistas recuerdan.
+¿Quién sabe por qué es premio Nobel Bernardo Houssay, aún en Argentina?.
 
 El valor de un científico debería medirse por la calidad de su trabajo, la
-originalidad de sus ideas y la influencia que ellas tienen sobre sus colegas,
-por su capacidad de formar y estimular a otros más jóvenes, de crear escuela,
-por la intensidad y continuidad de su esfuerzo.
+originalidad de sus ideas y la influencia que ellas tienen sobre sus
+colegas, por su capacidad de formar y estimular a otros más jóvenes, de
+crear escuela, por la intensidad y continuidad de su esfuerzo.
 
-Todo esto es muy difícil de medir, de contabilizar, y hay que hacerlo no para
-centenares de casos, sino para millones de jóvenes aspirantes a ingresar en
-este grupo y para los centenares de miles que ya han ingresado pero cuidan
-celosamente que no se les postergue el reconocimiento de sus méritos.
+Todo esto es muy difícil de medir, de contabilizar, y hay que hacerlo no
+para centenares de casos, sino para millones de jóvenes aspirantes a
+ingresar en este grupo y para los centenares de miles que ya han ingresado
+pero cuidan celosamente que no se les postergue el reconocimiento de sus
+méritos.
 
-El sistema ha resuelto este problema de una manera muy acorde con su ideología,
-usando como instrumento principal el _paper_, artículo publicado en una revista
-científica.
+El sistema ha resuelto este problema de una manera muy acorde con su
+ideología, usando como instrumento principal el _paper_, artículo
+publicado en una revista científica.
 
-El _paper_ tiene una cantidad de ventajas, aparte de exponer los resultados del
-trabajo en forma concreta e intelegible. Se puede contar cuántos publica cada
-científico por año, de qué tamaño son y en qué categoría de revistas ha
-aparecido. El número de veces que un _paper_ es citado por otros mide su
-influencia; la lista de coautores ya da un principio de jerarquización; permite
-mencionar la institución que proveyó los fondos para el trabajo, etcétera.
+El _paper_ tiene una cantidad de ventajas, aparte de exponer los
+resultados del trabajo en forma concreta e intelegible. Se puede contar
+cuántos publica cada científico por año, de qué tamaño son y en qué
+categoría de revistas ha aparecido. El número de veces que un _paper_ es
+citado por otros mide su influencia; la lista de coautores ya da un
+principio de jerarquización; permite mencionar la institución que proveyó
+los fondos para el trabajo, etcétera.
 
-La lista de _papers_ publicados es el argumento más directo y palpable para
-demostrar el éxito de un subsidio o la importancia de un currículum vitae.
-Gracias a ellos la investigación científica puede contabilizarse.
+La lista de _papers_ publicados es el argumento más directo y palpable
+para demostrar el éxito de un subsidio o la importancia de un currículum
+vitae.  Gracias a ellos la investigación científica puede contabilizarse.
 
-Sin exagerar demasiado, podemos decir que lo que el investigador produce para
-el mercado científico es el _paper_. Importantes, pero no tanto, son la
-asistencia y comunicaciones a reuniones y congresos, las invitaciones a dar
-cursos en instituciones prestigiosas, y sobre todo el reconocimiento personal
-de los que ya pertenecen a la élite.
+Sin exagerar demasiado, podemos decir que lo que el investigador produce
+para el mercado científico es el _paper_. Importantes, pero no tanto, son
+la asistencia y comunicaciones a reuniones y congresos, las invitaciones a
+dar cursos en instituciones prestigiosas, y sobre todo el reconocimiento
+personal de los que ya pertenecen a la élite.
 
 Pero lo fundamental es el _paper_.
 
 De ahí la ansiedad por publicar, sobre todo al comienzo de la carrera
 científica. El número de artículos publicados es tan importante como su
-contenido, y a veces más, pues dado los miles de especialidades existentes es
-imposible hacer una evaluación seria de todo lo que se publica. Se admite que
-la aceptación por una revista especializada es garantía suficiente de calidad,
-y así aumenta el poder de los editores y de los referees de esas revistas.
+contenido, y a veces más, pues dado los miles de especialidades existentes
+es imposible hacer una evaluación seria de todo lo que se publica. Se
+admite que la aceptación por una revista especializada es garantía
+suficiente de calidad, y así aumenta el poder de los editores y de los
+referees de esas revistas.
 
-En base a eso se ha creado un mecanismo (criterio universalista, objetivo) de
-ingreso y movilidad interna en este grupo social de científicos, controlado por
-una élite cuya autoridad le deriva en parte de sus antecedentes científicos y
-en parte cada vez mayor de su influencia sobre fundaciones y otros proveedores
-de fondos. En Argentina y otros países hay una "carrera de investigador", con
-múltiples categorías en su escalafón. El _paper_ es esencial para ascender, para
-justificar los subsidios obtenidos, para renovar los contratos con las
-universidades "serias". El contenido del _paper_ es más difícil de evaluar; sólo
-hay un consenso sobre los muy buenos y muy malos. Para los normales, las
-opiniones sobre su importancia relativa están frecuentemente divididas, y eso
-da más preponderancia a los criterios "contables".
+En base a eso se ha creado un mecanismo (criterio universalista, objetivo)
+de ingreso y movilidad interna en este grupo social de científicos,
+controlado por una élite cuya autoridad le deriva en parte de sus
+antecedentes científicos y en parte cada vez mayor de su influencia sobre
+fundaciones y otros proveedores de fondos. En Argentina y otros países hay
+una "carrera de investigador", con múltiples categorías en su escalafón.
+El _paper_ es esencial para ascender, para justificar los subsidios
+obtenidos, para renovar los contratos con las universidades "serias". El
+contenido del _paper_ es más difícil de evaluar; sólo hay un consenso
+sobre los muy buenos y muy malos. Para los normales, las opiniones sobre
+su importancia relativa están frecuentemente divididas, y eso da más
+preponderancia a los criterios "contables".
 
 Este tipo de mecanismo revela la influencia de las filosofías de tipo
-neopositivista, surgidas del éxito de las ciencias físicas y del triunfo del
-estilo consumista. Aun los científicos que se proclaman antipositivistas
-aplican esta filosofía al actuar en su profesión. El "método científico"
--criterios de verdad, validación empírica, observables, definiciones
-operacionales, medición- coincide en la práctica con el método de las ciencias
-físicas, por la importancia de éstas en nuestro estilo de vida, y el deseo de
-cuantificar se convierte en necesidad extrema.
+neopositivista, surgidas del éxito de las ciencias físicas y del triunfo
+del estilo consumista. Aun los científicos que se proclaman
+antipositivistas aplican esta filosofía al actuar en su profesión. El
+"método científico" -criterios de verdad, validación empírica,
+observables, definiciones operacionales, medición- coincide en la práctica
+con el método de las ciencias físicas, por la importancia de éstas en
+nuestro estilo de vida, y el deseo de cuantificar se convierte en
+necesidad extrema.
 
-Esta tendencia a usar sólo índices cuantificables -como el número de _papers_- es
-ya mala en Economía, peor en Sociología y suicida en Metaciencia, pero se usa
-porque es "práctica". Así un informe de UNESCO (1968) afirma que los países
-subdesarrollados necesitan un científico cada mil habitantes como mínimo,
-observación tan vacía como decir que un hombre necesita respirar x moléculas
-por hora, sin especificar de qué moléculas se trata. Si nuestros científicos
-llegasen a importar científicos norteamericanos medios hasta completar esa
-cuota, estaríamos perdidos por varias generaciones.
+Esta tendencia a usar sólo índices cuantificables -como el número de
+_papers_- es ya mala en Economía, peor en Sociología y suicida en
+Metaciencia, pero se usa porque es "práctica". Así un informe de UNESCO
+(1968) afirma que los países subdesarrollados necesitan un científico cada
+mil habitantes como mínimo, observación tan vacía como decir que un hombre
+necesita respirar x moléculas por hora, sin especificar de qué moléculas
+se trata. Si nuestros científicos llegasen a importar científicos
+norteamericanos medios hasta completar esa cuota, estaríamos perdidos por
+varias generaciones.
 
-El hecho concreto es, pues, que los logros científicos tienden cada vez más a
-medirse por criterios cuantificables, lo cual supone ser sinónimo de "objetivo"
-y "científico". Un resultado natural es la masificación de la ciencia:
-cualquiera que se las haya arreglado para cumplir formalmente con esos
-criterios, debe ser admitido en el grupo. Pero es bien sabido que el
-cumplimiento de requisitos fijos requiere una habilidad poco relacionada con la
-inteligencia y la sabiduría. Estas no molestan, al contrario, pero no son
-indispensables, pues se trata sólo de realizar ciertos actos o rituales
-específicos que, como veremos, no son muy difíciles.
+El hecho concreto es, pues, que los logros científicos tienden cada vez
+más a medirse por criterios cuantificables, lo cual supone ser sinónimo de
+"objetivo" y "científico". Un resultado natural es la masificación de la
+ciencia: cualquiera que se las haya arreglado para cumplir formalmente con
+esos criterios, debe ser admitido en el grupo. Pero es bien sabido que el
+cumplimiento de requisitos fijos requiere una habilidad poco relacionada
+con la inteligencia y la sabiduría. Estas no molestan, al contrario, pero
+no son indispensables, pues se trata sólo de realizar ciertos actos o
+rituales específicos que, como veremos, no son muy difíciles.
 
-De paso, esa falacia de simplificación que consiste en describir un fenómeno
-complejo mediante unos pocos índices -cuantificables o no-, es un ejemplo más
-de la "ciencia universal" para tratar de problemas fuera de las ciencias
-físicas, debido a su insistencia en copiar los métodos de ésta. Es evidente que
-los criterios universalistas como el I.Q., las notas de los exámenes, o el
-número de _papers_ publicados, son más o menos satisfactorios para el grueso de
-los casos. Pero cuando se trata de valorar el talento, es mucho más importante
-no equivocarse en la pequeña minoría por encima de los "3 sigma" de desviación
-con respecto al promedio. Lo que ocurre es que este sistema social no está
-realmente interesado en ese problema; prefiere definir el médico como
-interesado en poseedor de un diploma otorgado por una Universidad reconocida,
-dejando en segundo término si realmente sabe curar.
+De paso, esa falacia de simplificación que consiste en describir un
+fenómeno complejo mediante unos pocos índices -cuantificables o no-, es un
+ejemplo más de la "ciencia universal" para tratar de problemas fuera de
+las ciencias físicas, debido a su insistencia en copiar los métodos de
+ésta. Es evidente que los criterios universalistas como el I.Q., las notas
+de los exámenes, o el número de _papers_ publicados, son más o menos
+satisfactorios para el grueso de los casos. Pero cuando se trata de
+valorar el talento, es mucho más importante no equivocarse en la pequeña
+minoría por encima de los "3 sigma" de desviación con respecto al
+promedio. Lo que ocurre es que este sistema social no está realmente
+interesado en ese problema; prefiere definir el médico como interesado en
+poseedor de un diploma otorgado por una Universidad reconocida, dejando en
+segundo término si realmente sabe curar.
 
-Muchos creen aún que la capacidad de hacer un _paper_ publicable es capacidad
-suficiente de "sabiduría", aunque aceptan que tener un diploma de médico no es
-garantía de saber curar. He tenido que leer demasiados _papers_ en mi vida para
-compartir esa opinión. Creo que es garantía de algunas importantes virtudes
-positivas: laboriosidad, tenacidad, need of achievement, amor propio,
-aderezadas con una cierta dosis de inteligencia específica y gusto por la
-ciencia. No es garantía de tener espíritu crítico ni ideas originales, grandes
-o pequeñas.
+Muchos creen aún que la capacidad de hacer un _paper_ publicable es
+capacidad suficiente de "sabiduría", aunque aceptan que tener un diploma
+de médico no es garantía de saber curar. He tenido que leer demasiados
+_papers_ en mi vida para compartir esa opinión. Creo que es garantía de
+algunas importantes virtudes positivas: laboriosidad, tenacidad, need of
+achievement, amor propio, aderezadas con una cierta dosis de inteligencia
+específica y gusto por la ciencia. No es garantía de tener espíritu
+crítico ni ideas originales, grandes o pequeñas.
 
-Piénsese en lo trillado y nítido del camino que tiene que seguir un joven para
-llegar a publicar. Apenas graduado se lo envía a hacer una tesis a
+Piénsese en lo trillado y nítido del camino que tiene que seguir un joven
+para llegar a publicar. Apenas graduado se lo envía a hacer una tesis a
 perfeccionarse al hemisferio Norte, donde entra en algún equipo de
 investigación conocido. Tiene que ser rematadamente malo para no encontrar
-alguno que lo acepte. Para los graduados de los países subdesarrollados hay
-consideraciones especiales, becas, paciencia.
+alguno que lo acepte. Para los graduados de los países subdesarrollados
+hay consideraciones especiales, becas, paciencia.
 
-Allí le enseñan ciertas técnicas de trabajo -inclusive a redactar _papers_-, lo
-familiarizan con el instrumental más moderno y le dan un tema concreto
-vinculado con el tema general del equipo, de modo que empieza a trabajar con un
-marco de referencia claro y concreto. Es difícil para los no investigadores
-darse cuenta de la ventaja que esto último significa. Se le especifica incluso
-qué tipos de resultados se esperan, o qué hipótesis debe probar o refutar.
-Puede consultar con sus compañeros -a veces también con el jefe del equipo,
-pero es más raro que sea accesible, porque está de viaje, o con problemas
-administrativos, o porque es demasiado excelso para que se lo moleste-, dispone
-de la bibliografía y tecnología necesarias, escucha los comentarios de los
-visitantes, y puede dedicarse a su trabajo tiempo completo. Cuando consigue
-algún resultado, la recomendación de su jefe basta para que su trabajo sea
-publicado en una revista conocida, y ya ha ingresado al club de los
-científicos.
+Allí le enseñan ciertas técnicas de trabajo -inclusive a redactar
+_papers_-, lo familiarizan con el instrumental más moderno y le dan un
+tema concreto vinculado con el tema general del equipo, de modo que
+empieza a trabajar con un marco de referencia claro y concreto. Es difícil
+para los no investigadores darse cuenta de la ventaja que esto último
+significa. Se le especifica incluso qué tipos de resultados se esperan, o
+qué hipótesis debe probar o refutar.  Puede consultar con sus compañeros
+-a veces también con el jefe del equipo, pero es más raro que sea
+accesible, porque está de viaje, o con problemas administrativos, o porque
+es demasiado excelso para que se lo moleste-, dispone de la bibliografía y
+tecnología necesarias, escucha los comentarios de los visitantes, y puede
+dedicarse a su trabajo tiempo completo. Cuando consigue algún resultado,
+la recomendación de su jefe basta para que su trabajo sea publicado en una
+revista conocida, y ya ha ingresado al club de los científicos.
 
 Nótese que en todos estos pasos la inteligencia que se requiere es más
-receptiva que creativa, y receptiva en el tema de que se trata, nada más (en
-cuanto se tiene un poco más que eso, ya empieza uno a destacarse). El joven
-recibe sus instrucciones de trabajo especificadas y la investigación procede
-según reglas de juego establecidas de antemano (sé que esto provocará protestas
-de todos los que se sintieron abandonados y perdidos durante los primeros
-meses, al llegar a un laboratorio extranjero, pero traten de comparar esa
-sensación con la de estar trabajando solos, en un lugar aislado, teniendo
-incluso que elegir solos el tema de tesis y que juzgar solos la importancia
-del resultado).
+receptiva que creativa, y receptiva en el tema de que se trata, nada más
+(en cuanto se tiene un poco más que eso, ya empieza uno a destacarse). El
+joven recibe sus instrucciones de trabajo especificadas y la investigación
+procede según reglas de juego establecidas de antemano (sé que esto
+provocará protestas de todos los que se sintieron abandonados y perdidos
+durante los primeros meses, al llegar a un laboratorio extranjero, pero
+traten de comparar esa sensación con la de estar trabajando solos, en un
+lugar aislado, teniendo incluso que elegir solos el tema de tesis y que
+juzgar solos la importancia del resultado). Poca diferencia hay entre esto
+y sus estudios universitarios, salvo la dedicación. Aquello de “90% de
+transpiración...” sigue valiendo, pero con 99,9.
 
-Poca diferencia hay entre esto y sus estudios universitarios, salvo la
-dedicación. Aquello de “90% de transpiración...” sigue valiendo, pero con 99,9.
-
-Si en el curso de algunos años ha conseguido publicar media docena de _papers_
-sobre la concentración del ión potasio en el axón del calamar gigante excitado,
-o sobre la correlación del número de diputados socialistas y el número de leyes
-aprobadas, o sobre la representación de los cuantificadores lógicos mediante
-operadores de saturación abiertos, ya puede ser profesor en cualquier
-universidad, y las revistas empiezan a pedirle que sirva de referee o
-comentarista. Pronto algún joven se acerca a pedirle tema de tesis (o porque es
-bueno o porque los buenos no tienen más lugar) y a partir de entonces empieza a
-adquirir gran importancia su talento para las relaciones públicas.
-
-Pero aunque hubiera no uno, sino cien de estos científicos por cada mil
-habitantes, los problemas del desarrollo y el cambio no estarían más cerca de
-su solución. Ni tampoco los grandes problemas de la ciencia "universal".
+Si en el curso de algunos años ha conseguido publicar media docena de
+_papers_ sobre la concentración del ión potasio en el axón del calamar
+gigante excitado, o sobre la correlación del número de diputados
+socialistas y el número de leyes aprobadas, o sobre la representación de
+los cuantificadores lógicos mediante operadores de saturación abiertos, ya
+puede ser profesor en cualquier universidad, y las revistas empiezan a
+pedirle que sirva de referee o comentarista. Pronto algún joven se acerca
+a pedirle tema de tesis (o porque es bueno o porque los buenos no tienen
+más lugar) y a partir de entonces empieza a adquirir gran importancia su
+talento para las relaciones públicas. Pero aunque hubiera no uno, sino
+cien de estos científicos por cada mil habitantes, los problemas del
+desarrollo y el cambio no estarían más cerca de su solución. Ni tampoco
+los grandes problemas de la ciencia "universal".
 
 Los más capaces, los más creativos, sufren también la influencia de este
 mecanismo, y sometidos a la competencia de la mayoría se ven presionados a
 dedicar sus esfuerzos a cumplir esos requisitos formales, para los cuales,
-justamente muchas veces no tienen habilidad. Y aunque el sistema deja todavía
-muchos resquicios y oportunidades para los más inteligentes, podemos decir por
-lo menos que no estimular la creatividad y las grandes ideas, sino el trabajo
-metódico (útil pero no suficiente para el progreso de la ciencia y la
-adaptación a normas establecidas).
+justamente muchas veces no tienen habilidad. Y aunque el sistema deja
+todavía muchos resquicios y oportunidades para los más inteligentes,
+podemos decir por lo menos que no estimular la creatividad y las grandes
+ideas, sino el trabajo metódico (útil pero no suficiente para el progreso
+de la ciencia y la adaptación a normas establecidas).
 
-No es de extrañar que la masa cada vez mayor de científicos esté absorbida por
-la preocupación de esa competencia de tipo empresarial que al menor
-desfallecimiento puede hacerle perder subsidios, contratos y prestigio, y se
-deje dominar por la necesidad de vender sus productos en un mercado cuyas
-normas es peligroso cuestionar. Y eso ocurre aunque políticamente está a veces
-en contra del sistema social del cual el mercado científico es un reflejo.
+No es de extrañar que la masa cada vez mayor de científicos esté absorbida
+por la preocupación de esa competencia de tipo empresarial que al menor
+desfallecimiento puede hacerle perder subsidios, contratos y prestigio, y
+se deje dominar por la necesidad de vender sus productos en un mercado
+cuyas normas es peligroso cuestionar. Y eso ocurre aunque políticamente
+está a veces en contra del sistema social del cual el mercado científico
+es un reflejo.
 
-Y no es de extrañar tampoco que estos últimos 35 años -una generación- no hayan
-visto la aparición de ninguna idea del calibre que nos dieron Darwin, Einstein,
-Pasteur, Marx, Weber, Mendel, Pavlov, Lebesgue, Gödel, Freud o la pléyade de la
-mecánica cuántica.
+Tampoco es de extrañar que estos últimos 35 años -una generación- no hayan
+visto la aparición de ninguna idea del calibre que nos dieron Darwin,
+Einstein, Pasteur, Marx, Weber, Mendel, Pavlov, Lebesgue, Gödel, Freud o
+la pléyade de la mecánica cuántica.
 
-La ciencia de la sociedad de consumo ha producido innumerables aplicaciones de
-gran importancia, desde computadoras hasta órganos artificiales, pero ninguna
-de esas ideas emocionantes, verdaderos momentos estelares de la humanidad, a
-que nos referimos más arriba.
-
-Esta es una afirmación que necesita muchas más pruebas que las que puedo dar
-aquí, pero me parece indispensable hacerla, porque en la medida en que sea
-cierta, la ciencia actual esta usufructuando indebidamente el prestigio de obra
-humana universal que conquistó merecidamente la ciencia del siglo XIX y el
-primer tercio del siglo XX, y eso deforma la visibilidad política de los
-científicos.
+La ciencia de la sociedad de consumo ha producido innumerables
+aplicaciones de gran importancia, desde computadoras hasta órganos
+artificiales, pero ninguna de esas ideas emocionantes, verdaderos momentos
+estelares de la humanidad, a que nos referimos más arriba. Esta es una
+afirmación que necesita muchas más pruebas que las que puedo dar aquí,
+pero me parece indispensable hacerla, porque en la medida en que sea
+cierta, la ciencia actual esta usufructuando indebidamente el prestigio de
+obra humana universal que conquistó merecidamente la ciencia del siglo XIX
+y el primer tercio del siglo XX, y eso deforma la visibilidad política de
+los científicos.
 
 Cualquier especialista angustiado por publicar antes que sus competidores,
-cualquier lector de revistas científicas generales o de divulgación, quedará
-indignado ante la afirmación de la ciencia hoy no avanza como la de ayer
-cuando su sensación es que le resulta imposible mantenerse informado siquiera
-superficialmente de todo cuanto se hace.
+cualquier lector de revistas científicas generales o de divulgación,
+quedará indignado ante la afirmación de la ciencia hoy no avanza como la
+de ayer cuando su sensación es que le resulta imposible mantenerse
+informado siquiera superficialmente de todo cuanto se hace.
 
-Y es verdad que la ciencia actual avanza mucho en extensión. Lo que yo afirmo
-es que avanza menos que antes en profundidad (creo que la metáfora es clara, ya
-que no científica). Faltan grandes ideas -o al menos hay escasez de ellas-,
-sobre la diversidad y detalle. La calidad se ha transformado en cantidad.
+Es verdad que la ciencia actual avanza mucho en extensión. Lo que yo
+afirmo es que avanza menos que antes en profundidad (creo que la metáfora
+es clara, ya que no científica). Faltan grandes ideas -o al menos hay
+escasez de ellas-, sobre la diversidad y detalle. La calidad se ha
+transformado en cantidad.
 
-Dado el tamaño de este volumen estoy obligado a pintar la situación en blanco y
-negro, admito que la realidad no es tan extremista y presenta posibles
-excepciones. Hay casos discutibles que pueden ser propuestos como
+Dado el tamaño de este volumen estoy obligado a pintar la situación en
+blanco y negro, admito que la realidad no es tan extremista y presenta
+posibles excepciones. Hay casos discutibles que pueden ser propuestos como
 contraejemplos. La biología molecular ha logrado hermosos resultados; la
-economía debe mucho a Leontiev y a la investigación operativa; se habla mucho
-de Cibernética y teoría de la información como armas revolucionarias para todas
-las ciencias.
+economía debe mucho a Leontiev y a la investigación operativa; se habla
+mucho de Cibernética y teoría de la información como armas revolucionarias
+para todas las ciencias.
 
-Sin entrar en la discusión seria de estos casos, repetimos sin embrago que son
-discutibles. La biología molecular, en el terreno de las grandes ideas, ha
-hecho poco más que confirmar y completar viejas afirmaciones de la Bioquímica
-clásica, llegando al análisis completo de muchos procesos y sustancias
-complicadas y dando los mecanismos de biosíntesis de algunas de ellas. Ha
-producido ideas importantes como la doble hélice y el mecanismo genético para
-la síntesis de proteínas, pero que no están en las categorías mencionadas más
-arriba. Tal vez cuando se proponga una teoría de la memoria o de las mutaciones
-grandes se podrá hablar de contraejemplos, pero por ahora se ve más ingenio que
-genio y, por supuesto, mucha laboriosidad.
+Sin entrar en la discusión seria de estos casos, repetimos sin embrago que
+son discutibles. La biología molecular, en el terreno de las grandes
+ideas, ha hecho poco más que confirmar y completar viejas afirmaciones de
+la Bioquímica clásica, llegando al análisis completo de muchos procesos y
+sustancias complicadas y dando los mecanismos de biosíntesis de algunas de
+ellas. Ha producido ideas importantes como la doble hélice y el mecanismo
+genético para la síntesis de proteínas, pero que no están en las
+categorías mencionadas más arriba. Tal vez cuando se proponga una teoría
+de la memoria o de las mutaciones grandes se podrá hablar de
+contraejemplos, pero por ahora se ve más ingenio que genio y, por
+supuesto, mucha laboriosidad.
 
-La Cibernética, inventada por los norteamericanos y adoptada por los rusos con
-fervor -después de haberla rechazado al principio por motivos ideológicos- es
-un concepto muy amplio y que da poco "jugo". No hay allí ninguna idea sino la
-sola observación de que el control se consigue efecientemente por
-realimentación; muy poco más que eso -a nivel general-, aunque, por supuesto,
-es una observación que se aplica a casi todos los mecanismos (físicos o
-fisiológicos) que andan por ahí. Más útil que saber que uno habla en prosa, no
-llega a compararse en importancia siquiera con ideas como la de usar principios
-variacionales, en el mismo orden de generalidad.
+La Cibernética, inventada por los norteamericanos y adoptada por los rusos
+con fervor -después de haberla rechazado al principio por motivos
+ideológicos- es un concepto muy amplio y que da poco "jugo". No hay allí
+ninguna idea sino la sola observación de que el control se consigue
+efecientemente por realimentación; muy poco más que eso -a nivel general-,
+aunque, por supuesto, es una observación que se aplica a casi todos los
+mecanismos (físicos o fisiológicos) que andan por ahí. Más útil que saber
+que uno habla en prosa, no llega a compararse en importancia siquiera con
+ideas como la de usar principios variacionales, en el mismo orden de
+generalidad.
 
 La teoría de la información es un caso análogo: salvo en la ingeniería de
-comunicaciones -campo para el cual fue inventada-, lo único que se usa de ella
-es su definición cuantitativa de información como entropía negativa, lo cual
-"viste" mucho, pero es un concepto muy limitado para tan pretencioso nombre.
-Tanto ésta, como la Cibernética (y la teoría de los juegos) son síntomas claros
-en la ciencia actual. Nacidas legítimamente para resolver problemas concretos,
-han sido prácticamente comercializadas por los que quieren disimular la falta
-de ideas afectando sofisticación matemática o física, como el médico cubría su
-ignorancia con latinajos.
+comunicaciones -campo para el cual fue inventada-, lo único que se usa de
+ella es su definición cuantitativa de información como entropía negativa,
+lo cual "viste" mucho, pero es un concepto muy limitado para tan
+pretencioso nombre.  Tanto ésta, como la Cibernética (y la teoría de los
+juegos) son síntomas claros en la ciencia actual. Nacidas legítimamente
+para resolver problemas concretos, han sido prácticamente comercializadas
+por los que quieren disimular la falta de ideas afectando sofisticación
+matemática o física, como el médico cubría su ignorancia con latinajos.
 
-La investigación operativa por lo menos promete dar grandes ideas. Es una rama
-de la Matemática, nueva por su enfoque, y con abundantes muestras de ingenio y
-métodos propios, que cuando desemboque en una teoría general de la decisión es
-posible que alcance esa categoría máxima. Pero nótese otra vez la influencia
-del sistema: esta nueva ciencia nació para satisfacer muy concretas
-necesidades empresariales y militares; es natural, pues, que sea la que muestra
-más vitalidad. La Matemática "pura", en cambio, está dedicada a un juego
-esotérico que no parece llevar a ninguna parte.
+La investigación operativa por lo menos promete dar grandes ideas. Es una
+rama de la Matemática, nueva por su enfoque, y con abundantes muestras de
+ingenio y métodos propios, que cuando desemboque en una teoría general de
+la decisión es posible que alcance esa categoría máxima. Pero nótese otra
+vez la influencia del sistema: esta nueva ciencia nació para satisfacer
+muy concretas necesidades empresariales y militares; es natural, pues, que
+sea la que muestra más vitalidad. La Matemática "pura", en cambio, está
+dedicada a un juego esotérico que no parece llevar a ninguna parte.
 
-Los físicos y químicos no pueden enorgullecerse de ideas y teorías al nivel de
-la investigación operativa o de la biología molecular, aunque sí de muchos
-descubrimientos importantes hechos con los nuevos aparatos de los que disponen.
-La mayoría de sus resultados están en la categoría de lo que los franceses
-llaman "burro que trota": si se persevera se llega, sin necesidad de mucha
-inteligencia, porque el camino está claro gracias a las grandes ideas en la
-actividad teórica de los físicos.
+Los físicos y químicos no pueden enorgullecerse de ideas y teorías al
+nivel de la investigación operativa o de la biología molecular, aunque sí
+de muchos descubrimientos importantes hechos con los nuevos aparatos de
+los que disponen.  La mayoría de sus resultados están en la categoría de
+lo que los franceses llaman "burro que trota": si se persevera se llega,
+sin necesidad de mucha inteligencia, porque el camino está claro gracias a
+las grandes ideas en la actividad teórica de los físicos.
 
 En las ciencias humanas el panorama es más desolador todavía. El uso
-indiscriminado de la estadística y la imitación acrítica de los métodos de las
-ciencias físicas no permiten tener grandes esperanzas para el futuro próximo.
-(Toynbee hace mucho tiempo hizo observaciones muy similares con respecto a los
-historiadores).
+indiscriminado de la estadística y la imitación acrítica de los métodos de
+las ciencias físicas no permiten tener grandes esperanzas para el futuro
+próximo.  (Toynbee hace mucho tiempo hizo observaciones muy similares con
+respecto a los historiadores).
 
-Intentos ambiciosos como la teoría de la acción de Parsons, no parecen haber
-justificado las esperanzas que despertaron. No hay ideas nuevas en psicología
-(la escuela de Piaget se inició en el primer tercio de nuestro siglo), y sólo
-la introducción de modelos matemáticos de aprendizaje da algo de frescura a
-este campo. La mayor vitalidad y originalidad se encuentra en los críticos de
-la sociedad actual en su forma más moderna, el nuevo estado industrial.
-Galbraith, Wright Mills, Marcuse y varios otros son precursores del estudio
-científico del cambio de la sociedad, que debería ser, así lo espero, el
-semillero de las nuevas grandes ideas.
+Intentos ambiciosos como la teoría de la acción de Parsons, no parecen
+haber justificado las esperanzas que despertaron. No hay ideas nuevas en
+psicología (la escuela de Piaget se inició en el primer tercio de nuestro
+siglo), y sólo la introducción de modelos matemáticos de aprendizaje da
+algo de frescura a este campo. La mayor vitalidad y originalidad se
+encuentra en los críticos de la sociedad actual en su forma más moderna,
+el nuevo estado industrial.  Galbraith, Wright Mills, Marcuse y varios
+otros son precursores del estudio científico del cambio de la sociedad,
+que debería ser, así lo espero, el semillero de las nuevas grandes ideas.
 
 Esta escasez de genio -ideas que son cualitativamente distintas- asume su
 verdadera proporción cuando se la compara con la superabundancia de medios
 disponibles.
 
-Hoy hay más científicos vivos que en toda la historia previa de la humanidad, y
-disponen de recursos en cantidad más que proporcional a su número. Con esos
-recursos adquieren aparatos y materiales maravillosos, asistentes bien
-entrenados, bibliografía completa y rápida. Disfrutan de gran prestigio y de
-sueldos nada despreciables. ¿Qué han producido con todas esas ventajas?
-Toneladas de _papers_ y muchos objetos, pero menos ideas que antes.
+Hoy hay más científicos vivos que en toda la historia previa de la
+humanidad, y disponen de recursos en cantidad más que proporcional a su
+número. Con esos recursos adquieren aparatos y materiales maravillosos,
+asistentes bien entrenados, bibliografía completa y rápida. Disfrutan de
+gran prestigio y de sueldos nada despreciables. ¿Qué han producido con
+todas esas ventajas?  Toneladas de _papers_ y muchos objetos, pero menos
+ideas que antes.
 
-Así, pues, insisto: a pesar de la frenética actividad, el superejército de los
-científicos de esta generación ha producido en el estilo consumista, gran
-cantidad de bienes para su mercado, de calidad buena pero nada extraordinaria.
-Son los tecnólogos los que han brillado, creando extraordinarios bienes
-materiales para consumo de las masas, los ejércitos, las empresas y los
-científicos: computadoras, televisión, esapcionaves, bevatrones, y cada año,
-modelos de automóviles. Ramas de la ciencia vegetan sin desarrollarse, y entre
-éstas la que más nos interesa: la ciencia del cambio de la estructura social.
+Así, pues, insisto: a pesar de la frenética actividad, el superejército de
+los científicos de esta generación ha producido en el estilo consumista,
+gran cantidad de bienes para su mercado, de calidad buena pero nada
+extraordinaria.  Son los tecnólogos los que han brillado, creando
+extraordinarios bienes materiales para consumo de las masas, los
+ejércitos, las empresas y los científicos: computadoras, televisión,
+esapcionaves, bevatrones, y cada año, modelos de automóviles. Ramas de la
+ciencia vegetan sin desarrollarse, y entre éstas la que más nos interesa:
+la ciencia del cambio de la estructura social.
 
-Y es muy importante notar que este fenómeno no está ligado a la propiedad de
+Es muy importante notar que este fenómeno no está ligado a la propiedad de
 los medios de producción (otra falacia de simplicidad en el estudio de
-sociedades). Los científicos soviéticos no han producido ideas comparables a
-las del mundo occidental y ni siquiera comparables a las que concibieron
-Mendeliev, Pavlov, Chevichev, Lomonosov, en la época feudal zarista. Su ciencia
-natural actual es indistinguible de la norteamericana, y su ciencia social
--campo en la cual se suponía que el método y la teoría marxista les darían
-amplias ventajas- es un desierto silencioso.
+sociedades). Los científicos soviéticos no han producido ideas comparables
+a las del mundo occidental y ni siquiera comparables a las que concibieron
+Mendeliev, Pavlov, Chevichev, Lomonosov, en la época feudal zarista. Su
+ciencia natural actual es indistinguible de la norteamericana, y su
+ciencia social -campo en la cual se suponía que el método y la teoría
+marxista les darían amplias ventajas- es un desierto silencioso.
 
 Por supuesto los otros países socialistas son demasiado nuevos para poder
-juzgar su producción científica. No puede descartarse que cuando se sepa bien
-en qué consiste la "revolución cultural" china, resulte contener algún concepto
-importante para la sociología y la ciencia política.
+juzgar su producción científica. No puede descartarse que cuando se sepa
+bien en qué consiste la "revolución cultural" china, resulte contener
+algún concepto importante para la sociología y la ciencia política.
 
-Huelga aclarar que estas opiniones no son populares entre los científicos, y
-que serán rechazadas enfáticamente por superficiales, subjetivas, parciales y
-no científicas en general. Las discusiones serán largas y engorrosas, entre
-otras cosas, porque una de las tantas lagunas de la ciencia actual es no haber
-desarrollado una teoría de la importancia, ni siquiera de la importancia, ni
-siquiera a la altura de la enclenque teoría de la verdad de los epistemólogos.
+Huelga aclarar que estas opiniones no son populares entre los científicos,
+y que serán rechazadas enfáticamente por superficiales, subjetivas,
+parciales y no científicas en general. Las discusiones serán largas y
+engorrosas, entre otras cosas, porque una de las tantas lagunas de la
+ciencia actual es no haber desarrollado una teoría de la importancia, ni
+siquiera de la importancia, ni siquiera a la altura de la enclenque teoría
+de la verdad de los epistemólogos.
 
-Admito que si alguien prefiere creer que esta escasez de grandes ideas es un
-fenómeno inevitable producido por el propio desarrollo en profundidad de la
-etapa anterior -así como un profundo avance militar requiere un largo tiempo de
-operaciones menos espectaculares de consolidación- está en su derecho. Pero esa
-será una creencia basada en analogías mucho menos científicas que la
-esquemática explicación causal aquí intentada.
+Admito que si alguien prefiere creer que esta escasez de grandes ideas es
+un fenómeno inevitable producido por el propio desarrollo en profundidad
+de la etapa anterior -así como un profundo avance militar requiere un
+largo tiempo de operaciones menos espectaculares de consolidación- está en
+su derecho. Pero esa será una creencia basada en analogías mucho menos
+científicas que la esquemática explicación causal aquí intentada.
 
-De todos modos me parece que queda demostrado que una distinta asignación de
-los escasos recursos humanos de alta calidad intelectual que existen habría
-dado otro tipo de ciencia. Nuestra ciencia está moldeada por nuestro sistema
-social. Sus normas, sus valoraciones, sus élites, pueden ser cuestionadas;
-existen no por derecho divino ni ley de la naturaleza sino por adaptación de la
-sociedad actual, y pueden estar completamente inadaptados a una sociedad
-futura.
+De todos modos me parece que queda demostrado que una distinta asignación
+de los escasos recursos humanos de alta calidad intelectual que existen
+habría dado otro tipo de ciencia. Nuestra ciencia está moldeada por
+nuestro sistema social. Sus normas, sus valoraciones, sus élites, pueden
+ser cuestionadas; existen no por derecho divino ni ley de la naturaleza
+sino por adaptación de la sociedad actual, y pueden estar completamente
+inadaptados a una sociedad futura.
 
 Hay bastantes motivos para confiar en que una nueva sociedad favorecerá el
-florecimiento de grandes ideas, y no sólo por su interés en nuevas ramas de la
-ciencia sino porque permitirá nuevos modos de trabajo.
+florecimiento de grandes ideas, y no sólo por su interés en nuevas ramas
+de la ciencia sino porque permitirá nuevos modos de trabajo.
 
-Si los grandes pensadores se pusieran a pensar en cómo recuperar a los muchos
-grandes pensadores en potencia que hoy se pierden por ser como es este sistema
-social, el efecto multiplicador sería inimaginable.
+Si los grandes pensadores se pusieran a pensar en cómo recuperar a los
+muchos grandes pensadores en potencia que hoy se pierden por ser como es
+este sistema social, el efecto multiplicador sería inimaginable. Si
+pudieran dedicar un esfuerzo equivalente al costo de la propaganda
+comercial a organizar un sistema inteligente de recuperación de la
+información científica producida en todo el planeta -tarea que llevaría
+muchos años y conceptos originales- habríamos ascendido a otro nivel de
+eficiencia.
 
-Si pudieran dedicar un esfuerzo equivalente al costo de la propaganda comercial
-a organizar un sistema inteligente de recuperación de la información científica
-producida en todo el planeta -tarea que llevaría muchos años y conceptos
-originales- habríamos ascendido a otro nivel de eficiencia.
+Pero este sistema social, si bien no excluye explícitamente ninguna de
+estas actividades, las hace prácticamente imposibles, porque violan sus
+métodos habituales de funcionamientos y amenazan poner en descubiertos sus
+defectos más profundos. Lo que actúas más eficazmente es el mecanismo de
+autocensura: el sistema tiene todavía muchos resquicios que podrían
+aprovecharse (cada vez menos), pero el temor en caer en desgracia, a hacer
+el ridículo, es suficiente para alejar a la mayoría de los investigadores
+de los temas que los mismos consideran que puedan ser considerados de
+peligrosos por el sistema o de poco serios por sus colegas.
 
-Pero este sistema social, si bien no excluye explícitamente ninguna de estas
-actividades, las hace prácticamente imposibles, porque violan sus métodos
-habituales de funcionamientos y amenazan poner en descubiertos sus defectos más
-profundos. Lo que actúas más eficazmente es el mecanismo de autocensura: el
-sistema tiene todavía muchos resquicios que podrían aprovecharse (cada vez
-menos), pero el temor en caer en desgracia, a hacer el ridículo, es suficiente
-para alejar a la mayoría de los investigadores de los temas que los mismos
-consideran que puedan ser considerados de peligrosos por el sistema o de poco
-serios por sus colegas.
+La tarea de investigar al sistema en su totalidad es, por ahora, dominio
+casi exclusivo de los ideólogos de partido, rápidamente detectados y
+etiquetados por los científicos, que con ese sólo juicio descartan todos
+sus argumentos, entre los cuales siempre hay algunos muy válidos.
 
-La tarea de investigar al sistema en su totalidad es, por ahora, dominio casi
-exclusivo de los ideólogos de partido, rápidamente detectados y etiquetados por
-los científicos, que con ese sólo juicio descartan todos sus argumentos, entre
-los cuales siempre hay algunos muy válidos.
+La mayoría de las veces encuentran justificación en el carácter dogmático
+y poco realista de estos ideólogos. Estos a su vez achacan
+justificadamente a los científicos indiferencia ante los problemas
+sociales, y el resultado es una separación muy neta entre ambos, que no
+estimula por cierto el estudio serio del cambio.
 
-La mayoría de las veces encuentran justificación en el carácter dogmático y
-poco realista de estos ideólogos. Estos a su vez achacan justificadamente a los
-científicos indiferencia ante los problemas sociales, y el resultado es una
-separación muy neta entre ambos, que no estimula por cierto el estudio serio
-del cambio.
+Todo este conjunto de características de la investigación científica
+actual es lo que podríamos llamar "cientificismo". Resumiendo,
+cientificista es el investigador que se ha adaptado a este mercado
+científico, que renuncia a preocuparse por el significado social de su
+actividad, desvinculándola de los problemas políticos, y se entrega de
+lleno a su "carrera", aceptando para ella las normas y los valores de los
+grandes centros internacionales, concentrados en un escalafón.
 
-Todo este conjunto de características de la investigación científica actual es
-lo que podríamos llamar "cientificismo". Resumiendo, cientificista es el
-investigador que se ha adaptado a este mercado científico, que renuncia a
-preocuparse por el significado social de su actividad, desvinculándola de los
-problemas políticos, y se entrega de lleno a su "carrera", aceptando para ella
-las normas y los valores de los grandes centros internacionales, concentrados
-en un escalafón.
+El cientificismo es un factor importante en el proceso de
+desnacionalización que estamos sufriendo; refuerza nuestra dependencia
+cultural y económica, y nos hace satélites de ciertos polos mundiales de
+desarrollo.
 
-El cientificismo es un factor importante en el proceso de desnacionalización
-que estamos sufriendo; refuerza nuestra dependencia cultural y económica, y nos
-hace satélites de ciertos polos mundiales de desarrollo.
+El cientificista en un país subdesarrollado es un frustrado perpetuo. Para
+ser aceptado en los altos círculos de la ciencia debe dedicarse a temas
+más o menos de moda, pero como las modas se implantan en el Norte, siempre
+comienza con desventaja de tiempo. Si a esto se agrega el menor apoyo
+logístico (dinero, laboratorios, ayudantes, organización) es fácil ver que
+se ha metido en una carrera que no puede ganar.
 
-El cientificista en un país subdesarrollado es un frustrado perpetuo. Para ser
-aceptado en los altos círculos de la ciencia debe dedicarse a temas más o menos
-de moda, pero como las modas se implantan en el Norte, siempre comienza con
-desventaja de tiempo.
-
-Si a esto se agrega el menor apoyo logístico (dinero, laboratorios, ayudantes,
-organización) es fácil ver que se ha metido en una carrera que no puede ganar.
-Su única esperanza es mantener lazos estrechos con su Alma Mater -el equipo
-científico con quien hizo su tesis o aprendizaje-, hacer viajes frecuentes,
-conformarse con trabajos complementarios o de relleno de los que allí se hacen,
-y en general llegar a una dependencia cultural total.
+Su única esperanza es mantener lazos estrechos con su Alma Mater -el
+equipo científico con quien hizo su tesis o aprendizaje-, hacer viajes
+frecuentes, conformarse con trabajos complementarios o de relleno de los
+que allí se hacen, y en general llegar a una dependencia cultural total.
 
 Algo más felices son aquellos cuyo campo tiene un aspecto local esencial.
 Geólogos, biólogos, antropólogos, cuando se conforman en describir
 características locales, renuncian para siempre a la primera categoría
 científica, pero en cambio realizan una tarea de recolección de datos muy
-apreciadas por aquellos que los utilizarán como materia prima en el Norte, y
-sin riesgos de competencia por parte de esos centros más avanzados.
+apreciadas por aquellos que los utilizarán como materia prima en el Norte,
+y sin riesgos de competencia por parte de esos centros más avanzados.
 
-Este tipo de investigador no es un cientificista puro, aunque comparte muchas
-de sus características. Más le corresponde el nombre de "subdesarrollado",
-porque aunque utilice las técnicas más modernas, su labor se reduce a
-suministrar materia prima -datos empíricos- para ser elaborada en los centros
-internacionales.
+Este tipo de investigador no es un cientificista puro, aunque comparte
+muchas de sus características. Más le corresponde el nombre de
+"subdesarrollado", porque aunque utilice las técnicas más modernas, su
+labor se reduce a suministrar materia prima -datos empíricos- para ser
+elaborada en los centros internacionales.
 
-Ellos también usan el _paper_ como medida de su trabajo, y aquí eso tiene algún
-sentido, pues son pocas las ideas, y el trabajo rutinario -aunque sea de
-calidad- se mide bastante bien por la cantidad producida.
+Ellos también usan el _paper_ como medida de su trabajo, y aquí eso tiene
+algún sentido, pues son pocas las ideas, y el trabajo rutinario -aunque
+sea de calidad- se mide bastante bien por la cantidad producida.
 
-Innumerables _papers_ se han publicado en este país sobre mediciones de isótopos
-radiactivos, estructura molecular por resonancia paramagnética, descripciones
-de especies biológicas, análisis de aceites esenciales, cartas geológicas,
-composición de las importaciones, origen social de los militares o número de
-científicos exiliados. A esa categoría pertenece también el famoso proyecto
-Camelot, lo cual muestra otros peligros de investigación dependiente.
+Innumerables _papers_ se han publicado en este país sobre mediciones de
+isótopos radiactivos, estructura molecular por resonancia paramagnética,
+descripciones de especies biológicas, análisis de aceites esenciales,
+cartas geológicas, composición de las importaciones, origen social de los
+militares o número de científicos exiliados. A esa categoría pertenece
+también el famoso proyecto Camelot, lo cual muestra otros peligros de
+investigación dependiente.
 
-Y ya que estamos clasificando, completamos el panorama con los "fósiles" o
+Ya que estamos clasificando, completamos el panorama con los "fósiles" o
 seudocientíficos, que todavía constituyen una parte apreciable de nuestro
-profesorado universitario. Estos son simplemente ignorantes: interpretarían a
-esta crítica a la ciencia actual como un llamamiento a no estudiarla y una
-justificación a su incapacidad. Es un grupo en retroceso, acosado por los
-cientificistas, en vías de extinción, pero todavía fuerte, especialmente en las
-ciencias biológicas y sociales. No tienen otro objeto que aferrarse a sus
-cargos y durar.
+profesorado universitario. Estos son simplemente ignorantes:
+interpretarían a esta crítica a la ciencia actual como un llamamiento a no
+estudiarla y una justificación a su incapacidad. Es un grupo en retroceso,
+acosado por los cientificistas, en vías de extinción, pero todavía fuerte,
+especialmente en las ciencias biológicas y sociales. No tienen otro objeto
+que aferrarse a sus cargos y durar.
 
 Autonomía Científica
 ====================
 
-La ciencia actual, en resumen, está adaptada a las necesidades de un sistema
-social cuyo factor dinámico es la producción industrial masificada,
-diversificada, de rápida obsolescencia; cuyo principal problema es vender
--crear consumidores, ampliar mercados, crear nuevas necesidades o como quiera
-decirse- y cuya institución típica es el gran consorcio, modelo de organización
-y filosofía para las fuerzas armadas, el gobierno y las universidades.
+La ciencia actual, en resumen, está adaptada a las necesidades de un
+sistema social cuyo factor dinámico es la producción industrial
+masificada, diversificada, de rápida obsolescencia; cuyo principal
+problema es vender -crear consumidores, ampliar mercados, crear nuevas
+necesidades o como quiera decirse- y cuya institución típica es el gran
+consorcio, modelo de organización y filosofía para las fuerzas armadas, el
+gobierno y las universidades.
 
-Es lógico que este sistema estimule la especialización, la productividad, la
-competitividad individual, la invensión ingeniosa, el uso de aparatos, y adopte
-criterios cuantitativos, de rentabilidad de inversiones para evaluar de todo
-tipo de actividad.
+Es lógico que este sistema estimule la especialización, la productividad,
+la competitividad individual, la invensión ingeniosa, el uso de aparatos,
+y adopte criterios cuantitativos, de rentabilidad de inversiones para
+evaluar de todo tipo de actividad.
 
-Esto se refleja, hemos visto, en la ciencia actual de todo el mundo: en los
-países desarrollados por adaptación, y en los demás por seguidismo, por
-colonialismo científico.
+Esto se refleja, hemos visto, en la ciencia actual de todo el mundo: en
+los países desarrollados por adaptación, y en los demás por seguidismo,
+por colonialismo científico.
 
-El que aspire a una sociedad diferente no tendrá inconvenientes en imaginar una
-manera de hacer ciencia muy distinta de la actual. Más aún, no tendrá más
-remedio que desarrollar una ciencia diferente. En efecto, la que hay no le
-alcanza como instrumento para el cambio y la construcción de un nuevo sistema.
-Puede aprovechar muchos resultados aislados, pero no existe una teoría de la
-revolución ni una técnica de implementación de las utopías. Lo que dijo Marx
-hace más de cien años y para otro continente no fue desarrollado ni adaptado a
-nuestras necesidades -ni corregido- de manera convincente, y hoy veinte grupos
-pueden decirse marxista y sostener posiciones tácticas y estratégicas
-totalmente contradictorias. Si no se quiere proceder a puro empirismo e
-intuición, no hay otro camino que hacer ciencia por cuenta propia, para
-alcanzar los objetivos propios.
+El que aspire a una sociedad diferente no tendrá inconvenientes en
+imaginar una manera de hacer ciencia muy distinta de la actual. Más aún,
+no tendrá más remedio que desarrollar una ciencia diferente. En efecto, la
+que hay no le alcanza como instrumento para el cambio y la construcción de
+un nuevo sistema.  Puede aprovechar muchos resultados aislados, pero no
+existe una teoría de la revolución ni una técnica de implementación de las
+utopías. Lo que dijo Marx hace más de cien años y para otro continente no
+fue desarrollado ni adaptado a nuestras necesidades -ni corregido- de
+manera convincente, y hoy veinte grupos pueden decirse marxista y sostener
+posiciones tácticas y estratégicas totalmente contradictorias. Si no se
+quiere proceder a puro empirismo e intuición, no hay otro camino que hacer
+ciencia por cuenta propia, para alcanzar los objetivos propios.
 
-Esto significa inscribirse en el movimiento pro autonomía cultural, que es la
-etapa más decisiva y difícil de la lucha contra el colonialismo.
+Esto significa inscribirse en el movimiento pro autonomía cultural, que es
+la etapa más decisiva y difícil de la lucha contra el colonialismo.
 
-Lo que significa la autonomía cultural está en general claro, salvo justamente
-en lo que respecta a la ciencia, y eso por las razones que hemos dado. No es
-mucha la autonomía científica que podamos conseguir sin cambiar el sistema
-social o sin que ese sea nuestro objetivo. Y no cambiaremos gran cosa el
-sistema si logramos independizarnos científicamente aunque sea en parte.
+Lo que significa la autonomía cultural está en general claro, salvo
+justamente en lo que respecta a la ciencia, y eso por las razones que
+hemos dado. No es mucha la autonomía científica que podamos conseguir sin
+cambiar el sistema social o sin que ese sea nuestro objetivo. Y no
+cambiaremos gran cosa el sistema si logramos independizarnos
+científicamente aunque sea en parte.
 
-Esto no es tan fácil de conseguir, no sólo por sus dificultades intrínsecas,
-sino porque debemos enfrentarnos a toda una campaña organizada para la
-“integración científica” de América Latina, que se opone a la autonomía.
+Esto no es tan fácil de conseguir, no sólo por sus dificultades
+intrínsecas, sino porque debemos enfrentarnos a toda una campaña
+organizada para la “integración científica” de América Latina, que se
+opone a la autonomía.
 
 Iniciada formalmente en Punta del Este en la reunión de los presidentes en
-enero del 67 para "estimular el desarrollo" de nuestra ciencia, prosigue con
-las actividades del Consejo Interamericano Cultural, que organiza el "Centro de
-Excelencia" para educar de manera homogénea a los investigadores y profesores
-latinoamericanos según las indiscutidas normas de la "ciencia universal".
-Simultáneamente, nuestros gobiernos, preocupados por el atraso económico,
-claman ante la CEPAL (Lima, abril de 1969) para que el hemisferio Norte nos
-transmita a mayor velocidad su ciencia y su tecnología. Y la National Academy
-of Science promueve reuniones de cooperación científica, como la de Mar del
-Plata, julio de 1969.
+enero del 67 para "estimular el desarrollo" de nuestra ciencia, prosigue
+con las actividades del Consejo Interamericano Cultural, que organiza el
+"Centro de Excelencia" para educar de manera homogénea a los
+investigadores y profesores latinoamericanos según las indiscutidas normas
+de la "ciencia universal".  Simultáneamente, nuestros gobiernos,
+preocupados por el atraso económico, claman ante la CEPAL (Lima, abril de
+1969) para que el hemisferio Norte nos transmita a mayor velocidad su
+ciencia y su tecnología. Y la National Academy of Science promueve
+reuniones de cooperación científica, como la de Mar del Plata, julio de
+1969.
 
-Con eso nos atan más fuertemente, aún a la sociedad de consumo, que es aceptada
-sin discusión como único estilo concebible del desarrollo. Y lo más ridículo es
-que todas estas actitudes son aplaudidas o vistas con buenos ojos hasta por
-aquellos que luchan sinceramente contra la dependencia económica. Aceptar la
-tecnología del Norte significa producir lo mismo que ellos, competir con ellos
-en el terreno que ellos conocen mejor, y por lo tanto, en definitiva perder la
-batalla contra sus grandes corporaciones, suponiendo que se desee darla. Y digo
-esto último porque si aceptamos su tecnología a sea si aceptamos que nos
-enseñan a penar, haremos lo mismo que ellos, seremos como ellos, y entonces
-pierde sentido toda lucha por la independencia económica o incluso política. La
-solución lógica en tal caso es la que eligió Puerto Rico.
+Con eso nos atan más fuertemente, aún a la sociedad de consumo, que es
+aceptada sin discusión como único estilo concebible del desarrollo. Y lo
+más ridículo es que todas estas actitudes son aplaudidas o vistas con
+buenos ojos hasta por aquellos que luchan sinceramente contra la
+dependencia económica. Aceptar la tecnología del Norte significa producir
+lo mismo que ellos, competir con ellos en el terreno que ellos conocen
+mejor, y por lo tanto, en definitiva perder la batalla contra sus grandes
+corporaciones, suponiendo que se desee darla. Y digo esto último porque si
+aceptamos su tecnología a sea si aceptamos que nos enseñan a penar,
+haremos lo mismo que ellos, seremos como ellos, y entonces pierde sentido
+toda lucha por la independencia económica o incluso política. La solución
+lógica en tal caso es la que eligió Puerto Rico.
 
-Esta nueva política norteamericana de fomentar nuestra ciencia ha desorientado
-a nuestros científicos politizados. No existiendo -un ejemplo más- una ciencia
-de las relaciones coloniales, se siguen aplicando análisis hechos esencialmente
-a principios de siglo con escasas modificaciones. Así, la imagen de un país
-dependiente es la de exportador de materias primas e importador de bienes
-manufacturados en la metrópoli.
-
+Esta nueva política norteamericana de fomentar nuestra ciencia ha
+desorientado a nuestros científicos politizados. No existiendo -un ejemplo
+más- una ciencia de las relaciones coloniales, se siguen aplicando
+análisis hechos esencialmente a principios de siglo con escasas
+modificaciones. Así, la imagen de un país dependiente es la de exportador
+de materias primas e importador de bienes manufacturados en la metrópoli.
 Esto ya tuvo que modificarse para el caso cada vez más general de los
-consorcios metropolitanos que instalaban fábricas filiales en la periferia,
-pero de todos modos se aceptaba hasta hace muy poco sin discusión que el
-imperialismo era enemigo de que progresaran nuestra ciencia y nuestra
-tecnología. No parecía incluso que aprovechar un subsidio extranjero para
-investigación científica era casi como arrebatar las armas al invasor.
+consorcios metropolitanos que instalaban fábricas filiales en la
+periferia, pero de todos modos se aceptaba hasta hace muy poco sin
+discusión que el imperialismo era enemigo de que progresaran nuestra
+ciencia y nuestra tecnología. No parecía incluso que aprovechar un
+subsidio extranjero para investigación científica era casi como arrebatar
+las armas al invasor.
 
-¿Por qué entonces tanto interés norteamericano, reflejado por los gobiernos
-títeres de nuestros países, en elevar nuestro nivel científico? No se trata de
-una "contradicción del capitalismo"; por el contrario, es una estrategia
-correcta para ellos, y si alguna contradicción hay es que la guerra de Vietnam
-y sus demás problemas no permiten a los Estados Unidos llevar adelante esta
-política con la intensidad deseada.
+¿Por qué entonces tanto interés norteamericano, reflejado por los
+gobiernos títeres de nuestros países, en elevar nuestro nivel científico?
+No se trata de una "contradicción del capitalismo"; por el contrario, es
+una estrategia correcta para ellos, y si alguna contradicción hay es que
+la guerra de Vietnam y sus demás problemas no permiten a los Estados
+Unidos llevar adelante esta política con la intensidad deseada.
 
-El hecho crucial es que el gran consorcio -el personaje más importante de la
-nueva "sociedad industrial"- necesita expandirse sea como sea; implantar
-fábricas en todas partes del mundo, crear allí consumidores como los de la
-metrópoli (para que demanden los mismos bienes) y reclutar personal ejecutivo,
-administrativo y técnico-científico para seguir creciendo. Como ya no es
-propiedad de una o dos familias, se ha despersonalizado y racionalizado al
-extremo, perdiendo el prejuicio de emplear sólo compatriotas en puestos de
-responsabilidad. No les molesta ya poner en cargos de importancia a "nativos",
-con tal que sean más fieles a la empresa que al país. Pero eso es fácil si el
-ideal de vida aceptado por el país es el consumista, y más aún so se agita la
-simpática bandera de la integración de los países hermanos contra el poco
-nacionalismo que aún queda.
+El hecho crucial es que el gran consorcio -el personaje más importante de
+la nueva "sociedad industrial"- necesita expandirse sea como sea;
+implantar fábricas en todas partes del mundo, crear allí consumidores como
+los de la metrópoli (para que demanden los mismos bienes) y reclutar
+personal ejecutivo, administrativo y técnico-científico para seguir
+creciendo. Como ya no es propiedad de una o dos familias, se ha
+despersonalizado y racionalizado al extremo, perdiendo el prejuicio de
+emplear sólo compatriotas en puestos de responsabilidad. No les molesta ya
+poner en cargos de importancia a "nativos", con tal que sean más fieles a
+la empresa que al país. Pero eso es fácil si el ideal de vida aceptado por
+el país es el consumista, y más aún so se agita la simpática bandera de la
+integración de los países hermanos contra el poco nacionalismo que aún
+queda.
 
-Esta política ya dio buenos dividendos en Europa y está a punto de triunfar en
-América. Su objetivo final es homogeneizar culturalmente al mundo: todos
-seguiremos las mismas modas en el vestido, la comida, la lectura, los
-entretenimientos, la investigación científica. La libertad consistirá en
-poder elegir entre diferentes marcas de cigarrillos, automóviles, colas,
-espectrofotómetros, estaciones de televisión o cadenas de hoteles de turismo.
-Todos podemos servir como engranajes del mismo sistema, a nivel de
-consumidores, obreros o técnicos.
+Esta política ya dio buenos dividendos en Europa y está a punto de
+triunfar en América. Su objetivo final es homogeneizar culturalmente al
+mundo: todos seguiremos las mismas modas en el vestido, la comida, la
+lectura, los entretenimientos, la investigación científica. La libertad
+consistirá en poder elegir entre diferentes marcas de cigarrillos,
+automóviles, colas, espectrofotómetros, estaciones de televisión o cadenas
+de hoteles de turismo.  Todos podemos servir como engranajes del mismo
+sistema, a nivel de consumidores, obreros o técnicos.
 
-Contra lo que nos decían los ingenuos análisis izquierdistas, el imperialismo
-trata de unirnos con nuestros vecinos, porque ya estamos en una etapa que esta
-unión no nos refuerza contra él, sino que nos quita la libertad de acción y
-permite dominar a los díscolos a través de la mayoría sumisa. Es la unidad del
-rebaño, no la del ejército. Así, en el caso de la integración científica, todo
-intento de autonomía quedará sofocado, pues el común denominador de todos los
-países latinoamericanos es la ciencia standard del hemisferio Norte que hemos
-descrito, y al aceptar unirnos tenemos que acatar el criterio de la mayoría.
+Contra lo que nos decían los ingenuos análisis izquierdistas, el
+imperialismo trata de unirnos con nuestros vecinos, porque ya estamos en
+una etapa que esta unión no nos refuerza contra él, sino que nos quita la
+libertad de acción y permite dominar a los díscolos a través de la mayoría
+sumisa. Es la unidad del rebaño, no la del ejército. Así, en el caso de la
+integración científica, todo intento de autonomía quedará sofocado, pues
+el común denominador de todos los países latinoamericanos es la ciencia
+standard del hemisferio Norte que hemos descrito, y al aceptar unirnos
+tenemos que acatar el criterio de la mayoría.
 
-Todo intento de homogeneizarnos es peligroso mientras provenga de afuera. La TV
-educativa, la enseñanza por medio de computadoras, los textos uniformes, son
-formas dulces pero eficaces del lavado de cerebro porque transmiten
-conocimiento enlatado en el exterior. Corolario: la autonomía científica debe
-defenderse a toda costa, así como también las demás formas de independencia
-cultural. La integración científica no debe aceptarse.
+Todo intento de homogeneizarnos es peligroso mientras provenga de afuera.
+La TV educativa, la enseñanza por medio de computadoras, los textos
+uniformes, son formas dulces pero eficaces del lavado de cerebro porque
+transmiten conocimiento enlatado en el exterior. Corolario: la autonomía
+científica debe defenderse a toda costa, así como también las demás formas
+de independencia cultural. La integración científica no debe aceptarse.
 
-Nótese que el éxito de este programa de integración sería un golpe mortal para
-los fósiles de nuestras universidades, incapaces de alcanzar el nivel de
-capacidad que se propone. Nadie lo lamentará, pero no olvidemos que de todos
-modos están en proceso de extinción. Los cientificistas hacen de esta derrota
-de los fósiles una bandera que confunde a muchos (otra vez la falacia
-triangular). En este contexto colonialista, creer que los fósiles son el
-enemigo principal de la ciencia argentina es tan ingenuo como creer que el
-latifundista criollo es el enemigo principal de nuestra independencia
-económica. El peligro principal es perder nuestra identidad nacional, la poca
-que nos queda. Una vez asimilados totalmente al bloque de la cultura consumista
-habremos perdido toda oportunidad de elegir nuestros objetivos propios y el
-sistema social más adecuado para conseguirlos.
+Nótese que el éxito de este programa de integración sería un golpe mortal
+para los fósiles de nuestras universidades, incapaces de alcanzar el nivel
+de capacidad que se propone. Nadie lo lamentará, pero no olvidemos que de
+todos modos están en proceso de extinción. Los cientificistas hacen de
+esta derrota de los fósiles una bandera que confunde a muchos (otra vez la
+falacia triangular). En este contexto colonialista, creer que los fósiles
+son el enemigo principal de la ciencia argentina es tan ingenuo como creer
+que el latifundista criollo es el enemigo principal de nuestra
+independencia económica. El peligro principal es perder nuestra identidad
+nacional, la poca que nos queda. Una vez asimilados totalmente al bloque
+de la cultura consumista habremos perdido toda oportunidad de elegir
+nuestros objetivos propios y el sistema social más adecuado para
+conseguirlos.
 
 Debemos pues aclarar en qué consiste esta autonomía científica, y cómo se
 relaciona con nuestro problema central: el cambio de sistema.
 
-En primer lugar sostengo que aun desde el limitado punto de vista desarrollista
-es necesaria la autonomía científica. Y además, que ella es al mismo tiempo más
-beneficiosa para el adelanto de la Ciencia -con mayúscula- que el seguidismo
-cientificista.
+En primer lugar sostengo que aun desde el limitado punto de vista
+desarrollista es necesaria la autonomía científica. Y además, que ella es
+al mismo tiempo más beneficiosa para el adelanto de la Ciencia -con
+mayúscula- que el seguidismo cientificista.
 
-Pero debemos insistir, a riesgo de repetirnos, sobre el significado de esta
-autonomía, pues es fácil atacar por medio del ridículo la idea de una ciencia
-argentina. ¿Qué es una Física argentina, o una Sociología argentina, aparte de
-aplicaciones locales de verdades universales descubiertas por estas ciencias?
-La ley de la gravitación no es inglesa aunque haya sido descubierta allí. Lo
-que es verdad en Nueva York también lo es en Buenos Aires.
+Pero debemos insistir, a riesgo de repetirnos, sobre el significado de
+esta autonomía, pues es fácil atacar por medio del ridículo la idea de una
+ciencia argentina. ¿Qué es una Física argentina, o una Sociología
+argentina, aparte de aplicaciones locales de verdades universales
+descubiertas por estas ciencias?  La ley de la gravitación no es inglesa
+aunque haya sido descubierta allí. Lo que es verdad en Nueva York también
+lo es en Buenos Aires.
 
 Lo que ocurre es que la verdad no es la única dimensión que cuenta: hay
-verdades que son triviales, hay verdades que son tontas, hay verdades que sólo
-interesan a ciertos individuos. “Una proposición significa algo si y sólo si
-puede ser declarada verdadera o falsa”, afirma una escuela filosófica muy en
-boga entre los científicos norteamericanos.
+verdades que son triviales, hay verdades que son tontas, hay verdades que
+sólo interesan a ciertos individuos. “Una proposición significa algo si y
+sólo si puede ser declarada verdadera o falsa”, afirma una escuela
+filosófica muy en boga entre los científicos norteamericanos.
 
-Yo no lo creo: hay otra dimensión del significado que no puede ignorarse: la
-importancia.
+Yo no lo creo: hay otra dimensión del significado que no puede ignorarse:
+la importancia.
 
-Es cierto que un teorema demostrado en cualquier parte del mundo es válido en
-todas las demás, pero a lo mejor a nadie le importa (lo sé muy bien, como autor
-y lector de numerosos teoremas que no interesan prácticamente a nadie).
+Es cierto que un teorema demostrado en cualquier parte del mundo es válido
+en todas las demás, pero a lo mejor a nadie le importa (lo sé muy bien,
+como autor y lector de numerosos teoremas que no interesan prácticamente a
+nadie).
 
-La respuesta habitual a eso es: “no se sabe nunca; tal vez dentro de diez años
-este teorema va a ser la piedra fundamental de una teoría importantísima”, y se
-dan algunos ejemplos históricos (pocos, y casi todos dudosos). Sí, como
-posibilidad lógica no se puede descartar, pero ¿cuál es su probabilidad? Porque
-si es muy cercana a cero no vale la pena para molestarse. Además seamos
-realistas: si un teorema que yo descubro hoy resulta importante dentro de diez
-años, es seguro que el científico que lo necesite para su teoría lo va a
-redescubrir por su cuenta, y recién mucho después algún historiador de la
-ciencia diga: “ya diez años antes ese teorema había sido demostrado en
-Argentina”.
+La respuesta habitual a eso es: “no se sabe nunca; tal vez dentro de diez
+años este teorema va a ser la piedra fundamental de una teoría
+importantísima”, y se dan algunos ejemplos históricos (pocos, y casi todos
+dudosos). Sí, como posibilidad lógica no se puede descartar, pero ¿cuál es
+su probabilidad? Porque si es muy cercana a cero no vale la pena para
+molestarse. Además seamos realistas: si un teorema que yo descubro hoy
+resulta importante dentro de diez años, es seguro que el científico que lo
+necesite para su teoría lo va a redescubrir por su cuenta, y recién mucho
+después algún historiador de la ciencia diga: “ya diez años antes ese
+teorema había sido demostrado en Argentina”.
 
-No interesa. Ese valor potencial de cualquier descubrimiento científico es el
-que tendría un ladrillo arrojado al azar en cualquier sitio, si a alguien se le
-ocurriera construir allí una casa. Es posible, pero no se puede organizar una
-sociedad, ni la ciencia de un país, con este tipo de criterio. No todas las
-investigaciones tienen la misma importancia, y por lo tanto la misma prioridad;
-ellas no pueden elegirse al azar.
+No interesa. Ese valor potencial de cualquier descubrimiento científico es
+el que tendría un ladrillo arrojado al azar en cualquier sitio, si a
+alguien se le ocurriera construir allí una casa. Es posible, pero no se
+puede organizar una sociedad, ni la ciencia de un país, con este tipo de
+criterio. No todas las investigaciones tienen la misma importancia, y por
+lo tanto la misma prioridad; ellas no pueden elegirse al azar.
 
-Y la importancia es algo esencialmente local; una teoría sobre el petróleo no
-tiene el mismo interés en Suiza que en Venezuela. Nosotros no debemos usar los
-criterios de importancia en el hemisferio Norte. Y si usamos nuestros propios
-criterios ya habremos comenzado a hacer ciencia argentina.
+La importancia es algo esencialmente local; una teoría sobre el petróleo
+no tiene el mismo interés en Suiza que en Venezuela. Nosotros no debemos
+usar los criterios de importancia en el hemisferio Norte. Y si usamos
+nuestros propios criterios ya habremos comenzado a hacer ciencia
+argentina.
 
-La otra característica local, nacional, de la ciencia es la gran complejidad
-propia y de interacción con el medio, que presentan todos los sistemas y
-fenómenos en escala humana.
+La otra característica local, nacional, de la ciencia es la gran
+complejidad propia y de interacción con el medio, que presentan todos los
+sistemas y fenómenos en escala humana.
 
-En efecto, si bien un átomo es el mismo en todas partes -se lo describe con las
-mismas variables y está sujeto a las mismas acciones externas- ya no ocurre lo
-mismo con un río, para citar otro ejemplo físico. Lo que se puede afirmar
-válidamente para todos los ríos -la teoría general de los ríos- no nos ayuda
-gran cosa para hacer predicciones interesantes en nuestra escala de tamaño y
-tiempo, sobre su comportamiento: inundaciones en cada uno de sus puntos,
-cambios de forma del lecho, características de sus puertos, etcétera. Son
-tantas las variables que intervienen - características propias del río y
-condiciones de contorno como el terreno y el clima- y de importancia relativa
-tan diferente según el río, que es absurdo construir un modelo general que
-sirva para cualquier río con sólo cambiar los valores numéricos de los
-parámetros.
+En efecto, si bien un átomo es el mismo en todas partes -se lo describe
+con las mismas variables y está sujeto a las mismas acciones externas- ya
+no ocurre lo mismo con un río, para citar otro ejemplo físico. Lo que se
+puede afirmar válidamente para todos los ríos -la teoría general de los
+ríos- no nos ayuda gran cosa para hacer predicciones interesantes en
+nuestra escala de tamaño y tiempo, sobre su comportamiento: inundaciones
+en cada uno de sus puntos, cambios de forma del lecho, características de
+sus puertos, etcétera. Son tantas las variables que intervienen -
+características propias del río y condiciones de contorno como el terreno
+y el clima- y de importancia relativa tan diferente según el río, que es
+absurdo construir un modelo general que sirva para cualquier río con sólo
+cambiar los valores numéricos de los parámetros.
 
-Cada río necesita su propia "teoría", que consiste en primer lugar en discernir
-cuáles son los factores importantes para su comportamiento en función de los
-objetivos del estudio, y luego combinarlos según leyes específicas porque son
-casos particulares especiales de leyes generales desconocidas.
+Cada río necesita su propia "teoría", que consiste en primer lugar en
+discernir cuáles son los factores importantes para su comportamiento en
+función de los objetivos del estudio, y luego combinarlos según leyes
+específicas porque son casos particulares especiales de leyes generales
+desconocidas.
 
-Y si esto pasa con un sistema natural como un río, es claro que sucede en mayor
-grado con los sistemas sociales o biológicos.
+Si esto pasa con un sistema natural como un río, es claro que sucede en
+mayor grado con los sistemas sociales o biológicos.
 
 Han fracasado hasta ahora los esfuerzos de la Economía y la Sociología por
-establecer leyes generales que sirvan para algo interesante a nuestra escala.
-Las pocas leyes válidas son tan amplias que resultan triviales, o se refieren a
-escalas de tiempo inútiles para la acción (como la teoría de las civilizaciones
-de Toynbee, si fuera cierta).
-
-Y las que sirven para guiar la política económica de un país europeo no tienen
-casi nunca validez aquí. La insistencia en querer aplicarnos leyes empíricas,
-criterios o instrumentos que han probado alguna eficiencia en el Norte, es un
-concepto erróneo de la ciencia por parte de los que desde allí lo proponen, y
-es mero seguidismo por parte de los que los aceptamos. Los ejemplos que pueden
-darse al respecto son infinitos.
+establecer leyes generales que sirvan para algo interesante a nuestra
+escala.  Las pocas leyes válidas son tan amplias que resultan triviales, o
+se refieren a escalas de tiempo inútiles para la acción (como la teoría de
+las civilizaciones de Toynbee, si fuera cierta). Las que sirven para guiar
+la política económica de un país europeo no tienen casi nunca validez
+aquí. La insistencia en querer aplicarnos leyes empíricas, criterios o
+instrumentos que han probado alguna eficiencia en el Norte, es un concepto
+erróneo de la ciencia por parte de los que desde allí lo proponen, y es
+mero seguidismo por parte de los que los aceptamos. Los ejemplos que
+pueden darse al respecto son infinitos.
 
 Si alguna afirmación científica nos permite hacer la experiencia, es que
 conviene plantear el estudio de cada problema social y de otros de análoga
-complejidad en su marco de referencia local, buscando factores importantes y
-las leyes adecuadas al caso particular, sin despreciar la experiencia
-universal, pero sin aceptarla a priori. Hacer eso en Argentina es hacer ciencia
-argentina. Y sus adelantos contribuirán a construir esa ciencia social
-universal, hoy tan endeble, más que el seguidismo a las ideas del hemisferio
-Norte. Para evitar confusiones, insistiré en que la autonomía científica es
-independencia de criterio, actitud crítica, pero de ninguna manera rechazo
-indiscriminado de todo lo que provenga de otro país: ideas, aparatos,
-información. Basta recordar que la ciencia del Norte ha producido una fuerza
-física irrebatible, las armas, a las cuales sería suicida renunciar por mucho
-afán de independencia cultural que se tenga.
+complejidad en su marco de referencia local, buscando factores importantes
+y las leyes adecuadas al caso particular, sin despreciar la experiencia
+universal, pero sin aceptarla a priori. Hacer eso en Argentina es hacer
+ciencia argentina. Y sus adelantos contribuirán a construir esa ciencia
+social universal, hoy tan endeble, más que el seguidismo a las ideas del
+hemisferio Norte. Para evitar confusiones, insistiré en que la autonomía
+científica es independencia de criterio, actitud crítica, pero de ninguna
+manera rechazo indiscriminado de todo lo que provenga de otro país: ideas,
+aparatos, información. Basta recordar que la ciencia del Norte ha
+producido una fuerza física irrebatible, las armas, a las cuales sería
+suicida renunciar por mucho afán de independencia cultural que se tenga.
 
-Hay desgraciadamente pocos ejemplos en el mundo que nos sirvan de guía para no
-caer en extremismos infantiles, pues hoy el país que no copia a los Estados
-Unidos copia a la URSS (en rigor, de China no se sabe nada). Una posición más
-razonable me parece ver en algunos aspectos del movimiento pro black studies de
-los negros norteamericanos. Algunos estudiantes negros se rehusan a
-caracterizar a los grupos sociales con las variables usadas por los sociólogos
-blancos, porque ellas no siempre son las más útiles para comprender lo que
-ocurre, por ejemplo, con las familias negras.
+Hay desgraciadamente pocos ejemplos en el mundo que nos sirvan de guía
+para no caer en extremismos infantiles, pues hoy el país que no copia a
+los Estados Unidos copia a la URSS (en rigor, de China no se sabe nada).
+Una posición más razonable me parece ver en algunos aspectos del
+movimiento pro black studies de los negros norteamericanos. Algunos
+estudiantes negros se rehusan a caracterizar a los grupos sociales con las
+variables usadas por los sociólogos blancos, porque ellas no siempre son
+las más útiles para comprender lo que ocurre, por ejemplo, con las
+familias negras.
 
-Las variables que describen a la familia negra deben ser elegidas teniendo en
-cuenta sus problemas especiales, los objetivos que persiguen los negros y los
-instrumentos de acción que ellos pueden manejar.
+Las variables que describen a la familia negra deben ser elegidas teniendo
+en cuenta sus problemas especiales, los objetivos que persiguen los negros
+y los instrumentos de acción que ellos pueden manejar.
 
-Por mi parte creo que hay un método de trabajo que prácticamente obliga a hacer
-ciencia autónoma razonable. Es el estudio interdisciplinario de problemas
-grandes del país, incluyendo una adaptación a éste de la enseñanza superior.
+Por mi parte creo que hay un método de trabajo que prácticamente obliga a
+hacer ciencia autónoma razonable. Es el estudio interdisciplinario de
+problemas grandes del país, incluyendo una adaptación a éste de la
+enseñanza superior.
 
 Por "estudio interdisciplinario" no quiero decir un equipo dirigido por un
-biólogo, por ejemplo, en el que actúan como colaboradores secundarios químicos,
-estadísticos o economistas, ni tampoco un estudio múltiple de los distintos
-aspectos del problema hecho por varios especialistas que trabajan cada uno por
-su cuenta. El primer tipo de estudio es en realidad monodisciplinario y el
-segundo multidisciplinario. El "inter" indica un grado de organización y
-amplitud mayor: los distintos aspectos discutidos en común por especialistas de
-igual nivel en las disciplinas, para descubrir las interconexiones e
-influencias mutuas de esos aspectos, y para que cada especialista aproveche no
-sólo los conocimientos, sino la manera de pensar y encarar los problemas
-habituales en los demás. Esta interacción de disciplinas, que exige discusión,
-crítica y estímulo constante entre los investigadores, y permite que ideas y
-enfoques típicos de una rama de la ciencia se propaguen de manera natural a las
-demás, me parece una garantía de éxito.
+biólogo, por ejemplo, en el que actúan como colaboradores secundarios
+químicos, estadísticos o economistas, ni tampoco un estudio múltiple de
+los distintos aspectos del problema hecho por varios especialistas que
+trabajan cada uno por su cuenta. El primer tipo de estudio es en realidad
+monodisciplinario y el segundo multidisciplinario. El "inter" indica un
+grado de organización y amplitud mayor: los distintos aspectos discutidos
+en común por especialistas de igual nivel en las disciplinas, para
+descubrir las interconexiones e influencias mutuas de esos aspectos, y
+para que cada especialista aproveche no sólo los conocimientos, sino la
+manera de pensar y encarar los problemas habituales en los demás. Esta
+interacción de disciplinas, que exige discusión, crítica y estímulo
+constante entre los investigadores, y permite que ideas y enfoques típicos
+de una rama de la ciencia se propaguen de manera natural a las demás, me
+parece una garantía de éxito.
 
-Tomemos como ejemplo el estudio de una región como el Chaco o la Patagonia. Es
-costumbre en estos casos hacer investigaciones separadas de los aspectos
-geográficos, ecológicos (cuando no simplemente descripción de especies),
-económicos y sociales, aunque cada uno de esos equipos incluye colaboradores de
-diversas disciplinas "auxiliares". Al no ser integrados esos equipos, no pueden
-poner de acuerdo sus evaluaciones de la importancia relativa local de los
-diferentes subproblemas de que se compone la investigación, y entonces cada
-equipo hace un estudio "neutro", siguiendo criterios universalistas y se recoge
-una cantidad de información que dice un poco de cada cosa y no es suficiente
-para ninguna. Así, el ecólogo puede estudiar infinitas cosas interesantes, pero
-en un equipo interdisciplinario elegirá aquellas que sean más útiles según los
-criterios comunes a todos (que en el caso ideal estarán guiados por un plan,
-estrategia política u objetivos nacionales). Lo mismo puede decirse del
-antropólogo, del economista y hasta del cartógrafo. Si trabajan cada uno por su
-cuenta, caen indefectiblemente en los criterios ortodoxos de sus ciencias, por
-falta de otra orientación. Si se integran, no pueden perder de vista que el
-estudio se hace en este país, con estos objetivos y estos recursos, que deben
-asignarse eficientemente. Es muy distinto estudiar la fauna general que
-estudiarlo en función de ciertos usos específicos posibles. Es muy distinto
-estudiar la fauna general de una región que buscar enemigos naturales de
-ciertas especies que se quieren implantar. Es muy distinto estudiar la cultura
-entera de una tribu que preocuparse especialmente por sus probables actitudes
-si se la tiene que desplazar de su territorio usual porque allí se hará un
-embalse.
+Tomemos como ejemplo el estudio de una región como el Chaco o la
+Patagonia. Es costumbre en estos casos hacer investigaciones separadas de
+los aspectos geográficos, ecológicos (cuando no simplemente descripción de
+especies), económicos y sociales, aunque cada uno de esos equipos incluye
+colaboradores de diversas disciplinas "auxiliares". Al no ser integrados
+esos equipos, no pueden poner de acuerdo sus evaluaciones de la
+importancia relativa local de los diferentes subproblemas de que se
+compone la investigación, y entonces cada equipo hace un estudio "neutro",
+siguiendo criterios universalistas y se recoge una cantidad de información
+que dice un poco de cada cosa y no es suficiente para ninguna. Así, el
+ecólogo puede estudiar infinitas cosas interesantes, pero en un equipo
+interdisciplinario elegirá aquellas que sean más útiles según los
+criterios comunes a todos (que en el caso ideal estarán guiados por un
+plan, estrategia política u objetivos nacionales). Lo mismo puede decirse
+del antropólogo, del economista y hasta del cartógrafo. Si trabajan cada
+uno por su cuenta, caen indefectiblemente en los criterios ortodoxos de
+sus ciencias, por falta de otra orientación. Si se integran, no pueden
+perder de vista que el estudio se hace en este país, con estos objetivos y
+estos recursos, que deben asignarse eficientemente. Es muy distinto
+estudiar la fauna general que estudiarlo en función de ciertos usos
+específicos posibles. Es muy distinto estudiar la fauna general de una
+región que buscar enemigos naturales de ciertas especies que se quieren
+implantar. Es muy distinto estudiar la cultura entera de una tribu que
+preocuparse especialmente por sus probables actitudes si se la tiene que
+desplazar de su territorio usual porque allí se hará un embalse.
 
 Es de notarse que estas cuestiones parecen superficialmente ser de ciencia
-aplicada pero, como siempre, en cuanto se quieren tratar en serio conducen a la
-investigación teórica original. Huelga decir que la solución de cualquier
-problema social requiere un planteo teórico, casi siempre con alguna dosis de
-originalidad, antes y después de la recolección de datos. Que la observación
-activa de la naturaleza conduce a cuestiones teóricas tampoco es novedad: no es
-por simple aplicación de lo que ya se sabe que se resuelven problemas como la
-desulfuración de un petróleo o la contaminación de ciertas aguas o suelos. Pero
-aún en el campo de la Matemática abstracta pueden surgir problemas teóricos
-nuevos en cuanto uno se propone utilizarla sin preconceptos, como me ha tocado
-verificar.
+aplicada pero, como siempre, en cuanto se quieren tratar en serio conducen
+a la investigación teórica original. Huelga decir que la solución de
+cualquier problema social requiere un planteo teórico, casi siempre con
+alguna dosis de originalidad, antes y después de la recolección de datos.
+Que la observación activa de la naturaleza conduce a cuestiones teóricas
+tampoco es novedad: no es por simple aplicación de lo que ya se sabe que
+se resuelven problemas como la desulfuración de un petróleo o la
+contaminación de ciertas aguas o suelos. Pero aún en el campo de la
+Matemática abstracta pueden surgir problemas teóricos nuevos en cuanto uno
+se propone utilizarla sin preconceptos, como me ha tocado verificar.
 
 En efecto, por el solo hecho de intentar la sistematización global y
-razonablemente detallada de sistemas económicosociales, pero buscando hacerlo
-de modo que resulte útil para tomar decisiones y comparar distintas
-estrategias -no sólo para publicar _papers_- se ve uno llevado poco a poco a
-descartar las herramientas clásicas del Análisis y el Álgebra. Eso no debería
-sorprender a nadie, a posteriori, pues casi todas las motivaciones externas
-para el desarrollo de esas herramientas provinieron de la Física, cuyos
-problemas son de otro tipo.
+razonablemente detallada de sistemas económicosociales, pero buscando
+hacerlo de modo que resulte útil para tomar decisiones y comparar
+distintas estrategias -no sólo para publicar _papers_- se ve uno llevado
+poco a poco a descartar las herramientas clásicas del Análisis y el
+Álgebra. Eso no debería sorprender a nadie, a posteriori, pues casi todas
+las motivaciones externas para el desarrollo de esas herramientas
+provinieron de la Física, cuyos problemas son de otro tipo.
 
 Ese intento, hecho ya sin prejuicios, lleva a modelos matemáticos de tal
 complejidad que resulta imposible extraer de ellos conclusiones generales,
-mediante el examen ortodoxo de cada una de sus fórmulas o ecuaciones. Ya he
-desarrollado este tema en otras publicaciones, de modo que me limito aquí a
-decir que el manejo de estos modelos grandes requiere puntos de vista no
-complementados en las ramas de moda en la Matemática actual. El método que se
-está empezando a desarrollar ya tiene nombre - Experimentación Numérica- pero
-no justificación teórica; es parecido al de la simulación (también carente de
-teoría general) pero incluye no sólo nuevas necesidades a estudiar por la
-Estadística, sino ramas apenas tratadas "empíricamente", como la taxonomía
-numérica, cuya teoría está en pañales.
+mediante el examen ortodoxo de cada una de sus fórmulas o ecuaciones. Ya
+he desarrollado este tema en otras publicaciones, de modo que me limito
+aquí a decir que el manejo de estos modelos grandes requiere puntos de
+vista no complementados en las ramas de moda en la Matemática actual. El
+método que se está empezando a desarrollar ya tiene nombre -
+Experimentación Numérica- pero no justificación teórica; es parecido al de
+la simulación (también carente de teoría general) pero incluye no sólo
+nuevas necesidades a estudiar por la Estadística, sino ramas apenas
+tratadas "empíricamente", como la taxonomía numérica, cuya teoría está en
+pañales.
 
-Tal vez los matemáticos jóvenes hallarían un campo para satisfacer su vocación
-teórica tratando, pues, de resolver este gran problema práctico de representar
-un sistema complejo y manejar luego esa representación o modelo de manera que
-se pueda extraer algún tipo de conclusiones útiles.
+Tal vez los matemáticos jóvenes hallarían un campo para satisfacer su
+vocación teórica tratando, pues, de resolver este gran problema práctico
+de representar un sistema complejo y manejar luego esa representación o
+modelo de manera que se pueda extraer algún tipo de conclusiones útiles.
 
 No se trata pues de hacer ciencia aplicada, sino de no romper la cadena
 completa de la actividad científica: descripción, explicación, predicción,
 decisión.
 
-El académico desprecia el último eslabón; el empírico se queda sólo con él.
-Aquí se propone empezar por él, pues decidir implica haber definido los
-objetivos y por lo tanto da el verdadero planteo del problema. Y luego ir hacia
-atrás funcionalmente: Predecir, no para tener la satisfacción de acertar, sino
-para poder decidir, o sea elegir entre varias posibilidades la que mejor
-logrará los objetivos. Explicar no por el placer de construir teorías, sino
-para poder predecir. Describir no para llenar enciclopedias, sino en función de
-la teoría, usando las categorías necesarias para explicar.
+El académico desprecia el último eslabón; el empírico se queda sólo con
+él.  Aquí se propone empezar por él, pues decidir implica haber definido
+los objetivos y por lo tanto da el verdadero planteo del problema. Y luego
+ir hacia atrás funcionalmente: Predecir, no para tener la satisfacción de
+acertar, sino para poder decidir, o sea elegir entre varias posibilidades
+la que mejor logrará los objetivos. Explicar no por el placer de construir
+teorías, sino para poder predecir. Describir no para llenar enciclopedias,
+sino en función de la teoría, usando las categorías necesarias para
+explicar.
 
-Observamos por último, que esta forma integrada de trabajo en equipo se ve rara
-vez en el hemisferio Norte. Es una modalidad poco compatible con la descripción
-que hemos hecho de la ciencia actual, y se recurre a ella sólo en caso de
-guerra o de compromisos similares -como la carrera hacia la luna- y con grandes
-dificultades. La competitividad se opone a la participación en un equipo de
-iguales, donde será luego difícil discernir la paternidad de las ideas, y donde
-hay que renunciar a la comodidad de ignorar todo salvo una especialidad
-limitada.
+Observamos por último, que esta forma integrada de trabajo en equipo se ve
+rara vez en el hemisferio Norte. Es una modalidad poco compatible con la
+descripción que hemos hecho de la ciencia actual, y se recurre a ella sólo
+en caso de guerra o de compromisos similares -como la carrera hacia la
+luna- y con grandes dificultades. La competitividad se opone a la
+participación en un equipo de iguales, donde será luego difícil discernir
+la paternidad de las ideas, y donde hay que renunciar a la comodidad de
+ignorar todo salvo una especialidad limitada.
 
 Tiene pues sentido hablar de autonomía científica. A muchos les parece
 conveniente de prevenir posibles deformaciones de la ciencia debida a un
-monopolio que tiende a hacerse cada vez mayor. Y como hemos dicho, ser meros
-satélites científicos es serlo también en tecnología y por lo tanto en
-economía. Si en algo apreciamos nuestra nacionalidad debemos cuidar nuestra
-independencia también en el campo científico.
+monopolio que tiende a hacerse cada vez mayor. Y como hemos dicho, ser
+meros satélites científicos es serlo también en tecnología y por lo tanto
+en economía. Si en algo apreciamos nuestra nacionalidad debemos cuidar
+nuestra independencia también en el campo científico.
 
 Ciencia y Cambio Social
 =======================
 
-Los ejemplos mencionados parecen mostrar que puede hacerse ciencia autónoma
-dentro de este sistema social y usarla en sentido desarrollista. Pero eso es
-ilusorio: un proyecto como el estudio regional lleva rápidamente a plantear
-preguntas decisivas para las cuales el sistema actual tiene sólo respuestas
-artificiales. ¿Cuáles son los objetivos nacionales? ¿Cuáles son los "intereses"
-que no se pueden tocar? Incluso para armar el equipo de investigadores y lograr
-que funcione sin tropiezos durante el tiempo necesario para llegar a algún
-resultado, es necesario cambiar profundamente el sistema. Un estudio así
-afectaría demasiados intereses poderosos y hasta perjudicaría la carrera
-científica individual de los miembros del equipo, por no adaptarse al
-cientificismo.
+Los ejemplos mencionados parecen mostrar que puede hacerse ciencia
+autónoma dentro de este sistema social y usarla en sentido desarrollista.
+Pero eso es ilusorio: un proyecto como el estudio regional lleva
+rápidamente a plantear preguntas decisivas para las cuales el sistema
+actual tiene sólo respuestas artificiales. ¿Cuáles son los objetivos
+nacionales? ¿Cuáles son los "intereses" que no se pueden tocar? Incluso
+para armar el equipo de investigadores y lograr que funcione sin tropiezos
+durante el tiempo necesario para llegar a algún resultado, es necesario
+cambiar profundamente el sistema. Un estudio así afectaría demasiados
+intereses poderosos y hasta perjudicaría la carrera científica individual
+de los miembros del equipo, por no adaptarse al cientificismo.
 
-Estos inconvenientes se presentan en mayor grado aún si pasamos a considerar el
-gran proyecto: la investigación del proceso de toma del poder y construcción de
-un nuevo sistema social. Pero es claro que al ser estos los objetivos del
-estudio, sólo participarán en él científicos politizados, rebeldes, a quienes
-poco importa sacrificar su carrera científica dentro de este sistema, y que
-saben de antemano que sus métodos de trabajo deben tener muy en cuenta esas
-condiciones ambientales: intereses hostiles y falta de fondos.
+Estos inconvenientes se presentan en mayor grado aún si pasamos a
+considerar el gran proyecto: la investigación del proceso de toma del
+poder y construcción de un nuevo sistema social. Pero es claro que al ser
+estos los objetivos del estudio, sólo participarán en él científicos
+politizados, rebeldes, a quienes poco importa sacrificar su carrera
+científica dentro de este sistema, y que saben de antemano que sus métodos
+de trabajo deben tener muy en cuenta esas condiciones ambientales:
+intereses hostiles y falta de fondos.
 
 Veamos algunas características de este proyecto.
 
@@ -2026,243 +2062,251 @@ H.  Es evidente que ningún país tiene cuadros científicos en cantidad y
 Evolución de este problema en la Facultad de Ciencias Exactas y Naturales
 =========================================================================
 
-En el segundo capítulo mencionamos varias dificultades que explican por qué
-estas consideraciones no se hicieron hace ya varios años. Para ilustrarlas,
-veamos brevemente el caso de la Facultad de Ciencias Exactas de Buenos Aires,
-odiada por los militares y otros reaccionarios que la creían foco
-revolucionario, y escarnecida por varios grupos de izquierda por cientificista.
-(usaremos el término cientificista y fósil en el sentido que le dimos en el
-capítulo III).
+En el segundo capítulo mencionamos varias dificultades que explican por
+qué estas consideraciones no se hicieron hace ya varios años. Para
+ilustrarlas, veamos brevemente el caso de la Facultad de Ciencias Exactas
+de Buenos Aires, odiada por los militares y otros reaccionarios que la
+creían foco revolucionario, y escarnecida por varios grupos de izquierda
+por cientificista.  (usaremos el término cientificista y fósil en el
+sentido que le dimos en el capítulo III).
 
-Esta Facultad estuvo dirigida -desde octubre de 1955 hasta junio de 1966- por
-un grupo de profesores y graduados con apoyo de la mayoría estudiantil; grupo
-que podemos llamar Reformista para dar idea de su ubicación en las luchas
-universitarias y de su heterogeneidad política. Sus integrantes tenían buen
-entrenamiento científico, gran deseo de sacar al país de su estancamiento pero
-escaso conocimiento de sus realidades, alto grado de racionalidad, mucho
-empuje, un antiimperialismo difuso que fue agudizándose a partir de la
-revolución cubana y una eficiencia apreciable en docencia e investigación. En
-resumen, liberales de izquierda, inteligentes pero sin experiencia ni talento
-políticos.
+Esta Facultad estuvo dirigida -desde octubre de 1955 hasta junio de 1966-
+por un grupo de profesores y graduados con apoyo de la mayoría
+estudiantil; grupo que podemos llamar Reformista para dar idea de su
+ubicación en las luchas universitarias y de su heterogeneidad política.
+Sus integrantes tenían buen entrenamiento científico, gran deseo de sacar
+al país de su estancamiento pero escaso conocimiento de sus realidades,
+alto grado de racionalidad, mucho empuje, un antiimperialismo difuso que
+fue agudizándose a partir de la revolución cubana y una eficiencia
+apreciable en docencia e investigación. En resumen, liberales de
+izquierda, inteligentes pero sin experiencia ni talento políticos.
 
-En él había un subgrupo más politizado, formado por gente que había participado
-en movimientos antifascistas desde la guerra de España y militado -con las
-consecuencias habituales- en algún partido de izquierda y casi siempre en los
-movimientos antiperonistas. Este subgrupo no había quedado menos desorientado
-que el resto de los intelectuales argentinos ante el fenómeno peronista, aunque
-convencido del carácter esencialmente demagógico, entreguista y reaccionario de
-sus líderes. Durante el peronismo, la Facultad se había convertido en un
-refugio de fósiles. La polarización resumida en "alpargatas sí, libros no" hizo
-que casi todos los profesores de algún valor fueran eliminados poco a poco.
-Muchos partieron al extranjero, otros continuaron trabajando en los resquicios
-que el sistema peronista dejaba por inoperancia. Tampoco quedaron todos los
-fósiles. Muchos de ellos, ligados a la oligarquía tradicional, fueron
+En él había un subgrupo más politizado, formado por gente que había
+participado en movimientos antifascistas desde la guerra de España y
+militado -con las consecuencias habituales- en algún partido de izquierda
+y casi siempre en los movimientos antiperonistas. Este subgrupo no había
+quedado menos desorientado que el resto de los intelectuales argentinos
+ante el fenómeno peronista, aunque convencido del carácter esencialmente
+demagógico, entreguista y reaccionario de sus líderes. Durante el
+peronismo, la Facultad se había convertido en un refugio de fósiles. La
+polarización resumida en "alpargatas sí, libros no" hizo que casi todos
+los profesores de algún valor fueran eliminados poco a poco.  Muchos
+partieron al extranjero, otros continuaron trabajando en los resquicios
+que el sistema peronista dejaba por inoperancia. Tampoco quedaron todos
+los fósiles. Muchos de ellos, ligados a la oligarquía tradicional, fueron
 despedidos.
 
-Los que quedaron eran un enemigo ideal: incapaces, reaccionarios, serviles al
-régimen por interés y por cobardía. Ninguna voz se alzó para defenderlos a la
-caída del peronismo.
+Los que quedaron eran un enemigo ideal: incapaces, reaccionarios, serviles
+al régimen por interés y por cobardía. Ninguna voz se alzó para
+defenderlos a la caída del peronismo.
 
-Cuando el grupo Reformista tomó el control de la Facultad -simplemente por el
-vacío político y por su mayor prestigio intelectual- le fue fácil barrer con la
-mayoría de los fósiles peronistas.
+Cuando el grupo Reformista tomó el control de la Facultad -simplemente por
+el vacío político y por su mayor prestigio intelectual- le fue fácil
+barrer con la mayoría de los fósiles peronistas.
 
 Pero los fósiles antiperonistas se sentían con pleno derecho a ocupar las
-cátedras desocupadas por sus congéneres en desgracia, y así lo hicieron en la
-mayoría de las demás facultades y universidades del país. Nuestra Facultad
-estaba también amenazada por esta "restauración" anacrónica.
+cátedras desocupadas por sus congéneres en desgracia, y así lo hicieron en
+la mayoría de las demás facultades y universidades del país. Nuestra
+Facultad estaba también amenazada por esta "restauración" anacrónica.
 
-Este peligro definió la actitud del grupo Reformista durante los primeros años.
-Las causas fueron múltiples. El nivel calamitoso de la enseñanza era un hecho
-real, que nos obligaba a dedicar grandes esfuerzos para mejorarla y para evitar
-que cayera en manos ineptas.
+Este peligro definió la actitud del grupo Reformista durante los primeros
+años.  Las causas fueron múltiples. El nivel calamitoso de la enseñanza
+era un hecho real, que nos obligaba a dedicar grandes esfuerzos para
+mejorarla y para evitar que cayera en manos ineptas.
 
-La tarea de mejorar la enseñanza y organizar la investigación nos gustaba "de
-alma" (varios de los líderes del grupo eran maestros). Nos sentíamos capaces de
-hacerlo bien y deseábamos mostrar al mundo que los argentinos no éramos
-subdesarrollados.
+La tarea de mejorar la enseñanza y organizar la investigación nos gustaba
+"de alma" (varios de los líderes del grupo eran maestros). Nos sentíamos
+capaces de hacerlo bien y deseábamos mostrar al mundo que los argentinos
+no éramos subdesarrollados.
 
-Algunos intentos del subgrupo politizado por participar en la vida política
-nacional - objetivo no olvidado del todo- fracasaron sin pena ni gloria
-(Movimiento para el Estudio de los Problemas Argentino, coqueteos con Frondizi,
-Illia, etcétera). Y ante la evidencia de que las masas no abandonarían la
-ilusión peronista por mucho tiempo, nos resignamos -con gusto- a la idea de que
-nuestro papel era de crear la base científica que permitiera alcanzar un
-desarrollo tecnológico-económico apto para transformar la sociedad.
+Algunos intentos del subgrupo politizado por participar en la vida
+política nacional - objetivo no olvidado del todo- fracasaron sin pena ni
+gloria (Movimiento para el Estudio de los Problemas Argentino, coqueteos
+con Frondizi, Illia, etcétera). Y ante la evidencia de que las masas no
+abandonarían la ilusión peronista por mucho tiempo, nos resignamos -con
+gusto- a la idea de que nuestro papel era de crear la base científica que
+permitiera alcanzar un desarrollo tecnológico-económico apto para
+transformar la sociedad.
 
 Aún sospechando el desarrollismo, lo adoptamos implícitamente y limitamos
-nuestra actividad política a enérgicas declaraciones contra el gobierno, los
-Estados Unidos, y todo eso que estuviera en la picota de las izquierdas.
+nuestra actividad política a enérgicas declaraciones contra el gobierno,
+los Estados Unidos, y todo eso que estuviera en la picota de las
+izquierdas.
 
 Estas declaraciones nos ganaron fama de ultraizquierdistas en las esferas
-oficiales y militares, pero nunca representaron un esfuerzo organizado para
-enfrentar ni al sistema ni al imperialismo; ni siquiera al gobierno de turno.
+oficiales y militares, pero nunca representaron un esfuerzo organizado
+para enfrentar ni al sistema ni al imperialismo; ni siquiera al gobierno
+de turno.
 
 Despolitizándonos en la práctica, nos dedicamos pues a "desarrollar" la
-Facultad. Y para eso, como dije, el inconveniente más grave era la prevista
-invasión de fósiles antiperonistas. Pero nuestra posición era delicada, pues se
-asemejaba sospechosamente a la de tantas "trenzas" clásicas de nuestra
-Universidad, que cerraban el paso en los concursos a sus opositores por
-intereses políticos o venales. Sumada a nuestra fama de izquierdistas, la
-acusación de "trenceros" nos hubiera liquidado.
+Facultad. Y para eso, como dije, el inconveniente más grave era la
+prevista invasión de fósiles antiperonistas. Pero nuestra posición era
+delicada, pues se asemejaba sospechosamente a la de tantas "trenzas"
+clásicas de nuestra Universidad, que cerraban el paso en los concursos a
+sus opositores por intereses políticos o venales. Sumada a nuestra fama de
+izquierdistas, la acusación de "trenceros" nos hubiera liquidado.
 
-Fue natural entonces que recurriéramos a métodos "objetivos" para demostrar la
-incapacidad de los fósiles: número de artículos publicados en revistas de
-prestigio internacional, jurados extranjeros de renombre, poco peso a la
-antigüedad en la docencia, etcétera.
+Fue natural entonces que recurriéramos a métodos "objetivos" para
+demostrar la incapacidad de los fósiles: número de artículos publicados en
+revistas de prestigio internacional, jurados extranjeros de renombre, poco
+peso a la antigüedad en la docencia, etcétera.
 
 Estos controles del nivel científico no pudieron ser objetados por los
 candidatos fósiles y tuvimos pleno éxito en alejarlos (con las inevitables
-excepciones). Pero -es evidente ahora, a posteriori,- fueron reemplazados no
-por el tipo de científico politizado que deseábamos, sino cientificistas.
+excepciones). Pero -es evidente ahora, a posteriori,- fueron reemplazados
+no por el tipo de científico politizado que deseábamos, sino
+cientificistas.
 
-Las veintenas de jóvenes que habíamos ido enviando al extranjero, competían en
-los concursos, y los que ganaban eran -por supuesto- los que mayor
-adaptabilidad habían mostrado a la ciencia del Norte.
+Las veintenas de jóvenes que habíamos ido enviando al extranjero,
+competían en los concursos, y los que ganaban eran -por supuesto- los que
+mayor adaptabilidad habían mostrado a la ciencia del Norte.
 
-El Consejo Nacional de Investigaciones, CNICT, que promovimos y apoyamos sin
-tener fuerzas para orientarlo y que se convirtió en la punta de lanza del
-cientificismo, nos estimulaba económicamente en la política de enviar jóvenes
-inmaduros al extranjero, seleccionándolos por sus méritos cuantificables: notas
-y trabajos. Se les garantizaba a su regreso medios de trabajo similares a los
-que tenían en el Norte.
+El Consejo Nacional de Investigaciones, CNICT, que promovimos y apoyamos
+sin tener fuerzas para orientarlo y que se convirtió en la punta de lanza
+del cientificismo, nos estimulaba económicamente en la política de enviar
+jóvenes inmaduros al extranjero, seleccionándolos por sus méritos
+cuantificables: notas y trabajos. Se les garantizaba a su regreso medios
+de trabajo similares a los que tenían en el Norte.
 
 Muchas fundaciones extranjeras contribuyeron a costear los laboratorios
 necesarios para acomodar a tantos nuevos científicos.
 
 No éramos ciegos al fenómeno, pero ya no podíamos liquidar el eficiente
 instrumento que habíamos creado ni estábamos convencidos de que fuera
-necesario. Así tuvimos que aceptar a muchos profesores cuya indiferencia por
-el país y la sociedad era evidente (incluso pretendían no dar clases para
-dedicar todo su precioso tiempo a la investigación) o de la ideología netamente
-reaccionaria.
+necesario. Así tuvimos que aceptar a muchos profesores cuya indiferencia
+por el país y la sociedad era evidente (incluso pretendían no dar clases
+para dedicar todo su precioso tiempo a la investigación) o de la ideología
+netamente reaccionaria.
 
 No hicimos prácticamente nada por detener este fenómeno y eso por varios
 motivos: no lo creíamos tan extendido; no valorábamos bien su importancia;
 estábamos orgullosos del nivel alcanzado por la Facultad, ya reconocido
-internacionalmente; la mayoría de los alumnos estaba satisfecha con este estado
-de cosas. Además, plantear el problema de fondo hubiera significado dividir al
-grupo Reformista y ceder el control de nuestra Facultad a los profesores de la
-derecha tradicional, que constituía una minoría fuerte. El grupo Reformista iba
-perdiendo homogeneidad a medida que transcurrían los años y se mantenía unido
-sólo porque nadie veía con toda claridad esos problemas de fondo y porque su
-dirección formal quedó en manos de una persona de gran talento como "ejecutivo"
-y de mucha influencia personal sobre la mayoría de sus miembros, pero demasiado
-seguro de que el camino que llevábamos era el correcto.
+internacionalmente; la mayoría de los alumnos estaba satisfecha con este
+estado de cosas. Además, plantear el problema de fondo hubiera significado
+dividir al grupo Reformista y ceder el control de nuestra Facultad a los
+profesores de la derecha tradicional, que constituía una minoría fuerte.
+El grupo Reformista iba perdiendo homogeneidad a medida que transcurrían
+los años y se mantenía unido sólo porque nadie veía con toda claridad esos
+problemas de fondo y porque su dirección formal quedó en manos de una
+persona de gran talento como "ejecutivo" y de mucha influencia personal
+sobre la mayoría de sus miembros, pero demasiado seguro de que el camino
+que llevábamos era el correcto.
 
 Nos limitamos a insistir -sin mucho éxito ni convicción- en la vinculación
 práctica de la Facultad con los "problemas nacionales" a que ya hice
-referencia. Se logró que esto se declarase política de la Facultad, e incluso
-hicimos concurrir uno por uno a todos los Jefes de Departamentos ante el
-Consejo Directivo para que explicaran cómo iban a aplicar esa política.
+referencia. Se logró que esto se declarase política de la Facultad, e
+incluso hicimos concurrir uno por uno a todos los Jefes de Departamentos
+ante el Consejo Directivo para que explicaran cómo iban a aplicar esa
+política.
 
-Esto ya despertó oposición entre los profesores más cientificistas, que veían
-amenazada la "libertad de investigación", y entre los más reaccionarios, que la
-creían una "maniobra comunista". Las contradicciones del grupo Reformista
-comenzaron a notarse más claramente (tal vez la más importante fue hacer
-declaraciones antiimperialistas y al mismo tiempo aceptar subsidios de toda
-clase de instituciones norteamericanas). Así pues, cuando algunos grupos
-minoritarios de estudiantes comenzaron a acusarnos de cientificismo, nuestra
-sorpresa fue grande, y nuestra reacción, negativa.
+Esto ya despertó oposición entre los profesores más cientificistas, que
+veían amenazada la "libertad de investigación", y entre los más
+reaccionarios, que la creían una "maniobra comunista". Las contradicciones
+del grupo Reformista comenzaron a notarse más claramente (tal vez la más
+importante fue hacer declaraciones antiimperialistas y al mismo tiempo
+aceptar subsidios de toda clase de instituciones norteamericanas). Así
+pues, cuando algunos grupos minoritarios de estudiantes comenzaron a
+acusarnos de cientificismo, nuestra sorpresa fue grande, y nuestra
+reacción, negativa.
 
 En primer lugar, el significado de ese nuevo término -"cientificismo"- no
 estaba nada claro para los mismos que lo esgrimían. Parecería una reacción
-general contra los profesores que exigían demasiado o se desinteresaban por los
-alumnos; contra la aceptación de subsidios y sobre todo contra el liderazgo
-paternalista ejercido por el grupo Reformista, intolerable para los grupos de
-izquierda.
+general contra los profesores que exigían demasiado o se desinteresaban
+por los alumnos; contra la aceptación de subsidios y sobre todo contra el
+liderazgo paternalista ejercido por el grupo Reformista, intolerable para
+los grupos de izquierda.
 
 En segundo lugar, el ataque fue llevado contra todo el grupo Reformista y
-contra toda su obra, lo cual impidió a los profesores más politizados pudieran
-participar, o siquiera comprender el movimiento.
+contra toda su obra, lo cual impidió a los profesores más politizados
+pudieran participar, o siquiera comprender el movimiento.
 
-Era difícil explicarse por qué, habiendo tantos problemas políticos en el país
-y en la Universidad, y habiendo tantas Facultades totalmente dominadas por
-grupos reaccionarios -tanto fósiles como cientificistas- se planteaba una lucha
-interna justamente en la nuestra, modelo de izquierdismo y combatividad a los
-ojos del público (cosa no despreciable). Los pocos cientificistas del país - el
-CNICT para las ciencias naturales y el Instituto Di Tella para las sociales- no
-eran atacados ni mencionados.
+Era difícil explicarse por qué, habiendo tantos problemas políticos en el
+país y en la Universidad, y habiendo tantas Facultades totalmente
+dominadas por grupos reaccionarios -tanto fósiles como cientificistas- se
+planteaba una lucha interna justamente en la nuestra, modelo de
+izquierdismo y combatividad a los ojos del público (cosa no despreciable).
+Los pocos cientificistas del país - el CNICT para las ciencias naturales y
+el Instituto Di Tella para las sociales- no eran atacados ni mencionados.
 
-Todas estas circunstancias retrasaron tanto el análisis a fondo del problema,
-que junio del 66 sorprendió ala Facultad sin comprender todavía qué era el
-cientificismo.
+Todas estas circunstancias retrasaron tanto el análisis a fondo del
+problema, que junio del 66 sorprendió ala Facultad sin comprender todavía
+qué era el cientificismo.
 
-Esta descripción somera y superficial de lo ocurrido, explica sin embargo por
-qué no hubo fuerza ni convicción política para proponer una ciencia rebelde. La
-incluyo porque además de su limitado interés local y anecdótico, refleja un
-conflicto que he visto reproducirse en otras universidades latinoamericanas.
+Esta descripción somera y superficial de lo ocurrido, explica sin embargo
+por qué no hubo fuerza ni convicción política para proponer una ciencia
+rebelde. La incluyo porque además de su limitado interés local y
+anecdótico, refleja un conflicto que he visto reproducirse en otras
+universidades latinoamericanas.
 
-La pérdida de la ilusión desarrollista-cientificista permite ahora que los más
-politizados se planteen el problema general de la misión de la ciencia en esta
-sociedad y lleguen a la conclusión de que ella consiste en participar
-directamente en el proceso de reemplazarla por otra mejor y en la definición e
-implementación de ésta.
+La pérdida de la ilusión desarrollista-cientificista permite ahora que los
+más politizados se planteen el problema general de la misión de la ciencia
+en esta sociedad y lleguen a la conclusión de que ella consiste en
+participar directamente en el proceso de reemplazarla por otra mejor y en
+la definición e implementación de ésta.
 
-Está, pues, empezando a resolverse el problema de la falta de convicción. En
-cuanto a la falta de fuerza política, el problema se ha fundido con la cuestión
-general de si se va a triunfar o no en el intento de cambiar la sociedad. Es
-evidente que al declararse en contra del sistema social vigente se aceptan
-todos los "inconvenientes" de los grupos rebeldes, en todos los países y todas
-las épocas.
+Está, pues, empezando a resolverse el problema de la falta de convicción.
+En cuanto a la falta de fuerza política, el problema se ha fundido con la
+cuestión general de si se va a triunfar o no en el intento de cambiar la
+sociedad. Es evidente que al declararse en contra del sistema social
+vigente se aceptan todos los "inconvenientes" de los grupos rebeldes, en
+todos los países y todas las épocas.
 
-Que esto sea o no en vano depende sin duda en primer lugar de que ese cambio
-tenga una base material que lo haga posible. Pero pasar de la posibilidad al
-hecho requiere varias condiciones de coyuntura. Tal vez el planteo de una
-ciencia rebelde contribuya a crearla.
+Que esto sea o no en vano depende sin duda en primer lugar de que ese
+cambio tenga una base material que lo haga posible. Pero pasar de la
+posibilidad al hecho requiere varias condiciones de coyuntura. Tal vez el
+planteo de una ciencia rebelde contribuya a crearla.
 
 Oscar A. Varsavsky (1920-1976)
 ==============================
 
 Oscar Varsavsky nació en Buenos Aires el 18 de enero de 1920. Cursó sus
-estudios universitarios en la Universidad de Buenos Aires donde obtuvo
-el grado de doctor en Química de la Facultad de Ciencias Exactas y
-Naturales. Su vida científica se inició en 1943, en el Laboratorio de
-Investigaciones Radiotécnicas que Philips organizó en Buenos Aires
-cuando su sede holandesa fue ocupada por los alemanes y el que
-desorganizó desmantelándolo cuando terminó la guerra. De la ciencia
-aplicada pasó a actividades teóricas -primero en física cuántica, luego
-trabajó en diversas ramas de la matemática pura, como topología, lógica
-algebraica y análisis funcional hasta 1961-. En la mencionada facultad
-se desempeñó en forma sucesiva como auxiliar de laboratorio de
-fisicoquímica, jefe de trabajos prácticos de Análisis Matemático,
-profesor adjunto de Algebra y Topología y profesor con dedicación
-exclusiva del Departamento de Matemática. Además dio clases de
-matemáticas, con interrupciones, en las Universidades del Sur, de Cuyo y
-de Caracas.
+estudios universitarios en la Universidad de Buenos Aires donde obtuvo el
+grado de doctor en Química de la Facultad de Ciencias Exactas y Naturales.
+Su vida científica se inició en 1943, en el Laboratorio de Investigaciones
+Radiotécnicas que Philips organizó en Buenos Aires cuando su sede
+holandesa fue ocupada por los alemanes y el que desorganizó
+desmantelándolo cuando terminó la guerra. De la ciencia aplicada pasó a
+actividades teóricas -primero en física cuántica, luego trabajó en
+diversas ramas de la matemática pura, como topología, lógica algebraica y
+análisis funcional hasta 1961-. En la mencionada facultad se desempeñó en
+forma sucesiva como auxiliar de laboratorio de fisicoquímica, jefe de
+trabajos prácticos de Análisis Matemático, profesor adjunto de Algebra y
+Topología y profesor con dedicación exclusiva del Departamento de
+Matemática. Además dio clases de matemáticas, con interrupciones, en las
+Universidades del Sur, de Cuyo y de Caracas.
 
 En 1961 comenzó a usar su base científica en matemática para tratar
 problemas de la realidad social, dando nacimiento al grupo de Economía
 Matemática del Instituto de Cálculo de la Facultad de Ciencias Exactas y
-Naturales de la Universidad de Buenos Aires. Fue uno de los primeros y
-más destacados especialistas mundiales en la elaboración de modelos
-matemáticos aplicados a las ciencias sociales. Muy pronto advirtió que
-los métodos de moda no eran “eficientes” para tratar las cuestiones más
+Naturales de la Universidad de Buenos Aires. Fue uno de los primeros y más
+destacados especialistas mundiales en la elaboración de modelos
+matemáticos aplicados a las ciencias sociales. Muy pronto advirtió que los
+métodos de moda no eran “eficientes” para tratar las cuestiones más
 importantes, y comenzó a estudiar y desarrollar con sus colaboradores un
 instrumento computacional relativamente novedoso denominado
 **Experimentación Numérica**.
 
 Entre otras cosas, fue miembro -desde 1958 hasta su muerte- del CONICET.
-A partir de sus tratados (y de los primeros en lengua castellana) sobre
-la enseñanza de la Matemática Elemental mostró sus preocupaciones por la
+A partir de sus tratados (y de los primeros en lengua castellana) sobre la
+enseñanza de la Matemática Elemental mostró sus preocupaciones por la
 enseñanza de las ciencias a niveles no estrictamente académicos.
 
-En los últimos tiempos de su fructífera vida, la epistemología tanto
-como la sociopolítica científica fueron objeto de sus estudios. Entre
-los considerandos epistémicos más relevantes por él abordados se
-encuentra el hecho de sostener que los aspectos esenciales del
-conocimiento -de toda época- no son lo suficientemente difíciles como
-para escapar a la comprensión de las grandes mayorías. Creía en la
-necesidad de pensar las actividades humanas en función de su aporte a la
-construcción efectiva de una sociedad cuyas características se hubieren
-definido previamente (plano de la política).
+En los últimos tiempos de su fructífera vida, la epistemología tanto como
+la sociopolítica científica fueron objeto de sus estudios. Entre los
+considerandos epistémicos más relevantes por él abordados se encuentra el
+hecho de sostener que los aspectos esenciales del conocimiento -de toda
+época- no son lo suficientemente difíciles como para escapar a la
+comprensión de las grandes mayorías. Creía en la necesidad de pensar las
+actividades humanas en función de su aporte a la construcción efectiva de
+una sociedad cuyas características se hubieren definido previamente (plano
+de la política).
 
 Ello exigiría un intenso trabajo previo destinado a plantear un sistema
 sociopolítico que reemplace al actual. Frente a la falsa conciencia
 técnico-económica de que tales alternativas no existían, destacaba
 Varsavsky la importancia que para los grupos sociales tiene la visión
-previa de sus posibilidades. Sus obras, fruto de un trabajo
-impresionante, demuestran su coherencia entre palabra y acción.
+previa de sus posibilidades. Sus obras, fruto de un trabajo impresionante,
+demuestran su coherencia entre palabra y acción.
 
 Realizó una fuerte crítica a las normas que rigen el desarrollo de las
 ciencias.
@@ -2270,12 +2314,12 @@ ciencias.
 Opinaba que la obsesión por los métodos cuantitativos encubre, en la
 ilusión de la libertad de investigación, un mecanismo que garantiza la
 sujeción del científico a las estrategias de expansión del capital y las
-leyes del mercado.  Estas ideas fueron su punto de partida para aspirar
-a una ciencia realmente más libre de los condicionamientos económicos.
-Publicaciones como **Ciencia, Política y Cientificismo; Hacia una
-Política Científica Nacional y Marco Histórico Constructivo para Estilos
-Sociales, Proyectos Nacionales y sus Estrategias** reflejan la
-vigorosidad de sus ideas.
+leyes del mercado.  Estas ideas fueron su punto de partida para aspirar a
+una ciencia realmente más libre de los condicionamientos económicos.
+Publicaciones como **Ciencia, Política y Cientificismo; Hacia una Política
+Científica Nacional y Marco Histórico Constructivo para Estilos Sociales,
+Proyectos Nacionales y sus Estrategias** reflejan la vigorosidad de sus
+ideas.
 
 Ha dejado un legado que es arma de lucha para aquel que aspire a la
 libertad de su pueblo.
