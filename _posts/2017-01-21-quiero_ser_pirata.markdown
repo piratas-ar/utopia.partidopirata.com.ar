@@ -97,9 +97,9 @@ tu idea de forma más amplia en [Loomio](#loomio).
 
 Acordate de esta canción:
 
-> Si tu tienes muchas ganas de ...  
-> Si tu tienes la razón  
-> y no hay oposición  
+> Si tu tienes muchas ganas de ...
+> Si tu tienes la razón
+> y no hay oposición
 > no te quedas con las ganas de ...
 
 ### Propuesta significa acción
@@ -170,7 +170,7 @@ por voto y mayoría, sino por **consenso**.
 La sala de chat se accede vía IRC o Telegram.
 
 * Si no tenés un cliente de IRC, podés usar este link:
-* <https://webchat.pirateirc.net/?channels=ppar>
+* <https://webchat.pirateirc.net/#ppar>
 
 * Si tenés un cliente IRC, los datos son estos:
 
