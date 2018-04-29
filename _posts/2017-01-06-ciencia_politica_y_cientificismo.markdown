@@ -148,7 +148,7 @@ requiere un esfuerzo de adaptación muy grande por parte de los
 científicos; tal vez mayor que abandonar la ciencia por completo: es más
 difícil soportar la etiqueta de pseudo científico que de excientífico.
 
-Pero creo que además que la llamada "ciencia universal" de hoy está tan
+Pero creo además que la llamada "ciencia universal" de hoy está tan
 adaptada a este sistema social como cualquier otra de sus
 características culturales, y por tanto el esfuerzo por desarrollar la
 investigación seria del cambio total puede producir, a plazo no muy
@@ -174,7 +174,7 @@ de los problemas pesqueros, con variantes de igual "trascendencia" para
 el cambio. Indudablemente eso era preferible a dedicar todos los
 esfuerzos a estudiar partículas elementales, topología algebraica o
 metabolismos de carbohidratos; pero cuando apoyábamos al Departamento de
-Industrias, al Instituto de 6Cálculo o al de Biología Marina, nos
+Industrias, al Instituto de Cálculo o al de Biología Marina, nos
 quedaba la amarga y tácita sospecha de que tal vez a eso lo aprovechaba
 más el sistema que el país.
 
@@ -299,7 +299,7 @@ y en condiciones controladas, "in vitro". Su historia se nos presenta
 como un desarrollo unilineal, sin alternativas deseables ni posibles,
 con etapas que se dieron en un orden natural y espontáneo y desembocaron
 forzosamente en la ciencia actual, heredera indiscutible de todo lo
-hecho, cuya evolución futura es impredecible pero 9seguramente
+hecho, cuya evolución futura es impredecible pero seguramente
 grandiosa, con tal que nadie interfiera con su motor fundamental: la
 libertad de investigación (esto último dicho en tono muy solemne).
 
@@ -316,7 +316,7 @@ prensa.
 que la mayoría acepta con orgullo, creyendo incluso que así está por
 encima de "mezquinos nacionalismos" y que además a la larga eso
 beneficia al país. Ni siquiera tiene sentido, se dice, plantear la
-independencia con respecto a lago que tiene validez universal; más fácil
+independencia con respecto a lo que tiene validez universal; más fácil
 es que los católicos renieguen de Roma.
 
 ¿Puede haber diferentes tipos de Ciencia? Es indudable que sí. Basta una
@@ -623,7 +623,7 @@ Las fuerzas que determinan el tipo de ciencia no son, pues, puramente
 internas y basadas en el genio creador y la libertad de pensamiento.
 También en eta "ciencia pura" es esencial la asignación de recursos
 financieros, que se efectúa según los resultados esperados. Es muy
-desagradable que el dinero sea un facto tan decisivo, pero podría aducirse
+desagradable que el dinero sea un factor tan decisivo, pero podría aducirse
 que no es tan grave mientras los mayores fondos sean entregados realmente
 a quienes producen los mejores resultados, y debemos ver entonces cómo
 influye en ello esta sociedad de consumo, que requiere contabilizar de
@@ -1152,7 +1152,7 @@ ciencia y su tecnología. Y la National Academy of Science promueve
 reuniones de cooperación científica, como la de Mar del Plata, julio de
 1969.
 
-Con eso nos atan más fuertemente, aún a la sociedad de consumo, que es
+Con eso nos atan más fuertemente aun a la sociedad de consumo, que es
 aceptada sin discusión como único estilo concebible del desarrollo. Y lo
 más ridículo es que todas estas actitudes son aplaudidas o vistas con
 buenos ojos hasta por aquellos que luchan sinceramente contra la
@@ -1160,7 +1160,7 @@ dependencia económica. Aceptar la tecnología del Norte significa producir
 lo mismo que ellos, competir con ellos en el terreno que ellos conocen
 mejor, y por lo tanto, en definitiva perder la batalla contra sus grandes
 corporaciones, suponiendo que se desee darla. Y digo esto último porque si
-aceptamos su tecnología a sea si aceptamos que nos enseñan a penar,
+aceptamos su tecnología, o sea, si aceptamos que nos enseñen a pensar,
 haremos lo mismo que ellos, seremos como ellos, y entonces pierde sentido
 toda lucha por la independencia económica o incluso política. La solución
 lógica en tal caso es la que eligió Puerto Rico.
@@ -1848,7 +1848,7 @@ F.  Problemas de largo plazo. Estos resultan de la definición de los
         horas-hombre de cada tipo de servicio, etcétera. (la sociedad
         consumista se niega a este tipo de planteo porque interferiría
         con su estilo de producir lo más posible, no importa qué, y
-        hacerlo consumir con laguna ganancia). Una vez fijada así la
+        hacerlo consumir con alguna ganancia). Una vez fijada así la
         demanda final -o por lo menos el mínimo compatible con los
         objetivos sociales- el papel de los planificadores es decir cómo
         hacer para satisfacerla o demostrar que estos objetivos son
