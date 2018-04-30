@@ -123,6 +123,8 @@ los libros digitales.
 Conocimientos básicos de Git y Markdown, hay [una guía
 acá](https://github.com/infopublica/git-md).
 
+También están los tutoriales interactivos de [git](https://trygit.com) y [github](https://lab.github.com) (recientemente nos hemos ido a gitlab, pero los conceptos son los mismos...) %TODO% citar diferencias entre github y gitlab, habia algo en la documentacion de gitlab... eran sutilezas en rededor a sentido comun (ponele)
+
 Notas al pie van como `[^nombre]` en el texto y después `[^nombre:]
 descripción` abajo.
 
