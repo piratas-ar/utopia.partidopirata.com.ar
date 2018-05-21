@@ -17,13 +17,13 @@ proyecto. Estoy también en deuda con Jenny Fornell y Mark Elam por su
 amplio y constructivo compromiso con el manuscrito. Otras contribuciones
 importantes han sido realizadas por Stefan Merten, Alan Toner, Roul
 Victor, Graham Seaman, Olle Lindell, Tove Karlsson, Mathias Klang y Bo
-Göransson, y muchas personas más, a las que les debo mucho por varias
+Göransson, y muchas personas más a las que les debo mucho por varias
 razones. El libro está dedicado a todos ustedes por hacer algo nuevo e
 interesante de él.
 
 # Introducción
 
-El auge de la informática, como tantas otras cosas en el mundo moderno,
+El auge de la informática como tantas otras cosas en el mundo moderno,
 podría decirse que surge después de la Revolución Francesa. El embrión
 de los programas de software fue un sistema de tarjetas perforadas
 utilizadas en el telar de Jacquard aparecido por primera vez en 1801. El
@@ -40,98 +40,97 @@ la tarjeta, en cambio, la varilla rebotaba y el hilo quedaba abajo. Se
 podría decir que la presencia o ausencia de un agujero representa los
 números binarios "uno" y "cero" de la computadora moderna. De esta
 manera, los patrones textiles complejos se almacenaban en pilas de
-tarjetas perforadas.[^nota1] Hasta entonces se había requerido una gran
-habilidad del tejedor para producir tela de lujo. No sólo los tejedores
+tarjetas perforadas [^nota1]. Hasta entonces se había requerido una gran
+habilidad de la tejedora para producir tela de lujo. No sólo las tejedoras
 perdieron su primacía en el arte, el telar de Jacquard podía ser operado
 por un solo tejedor sin la ayuda de una hilvanadora. La perspectiva de
 la eliminación del puesto de trabajo de la hilvanadora era un fuerte
 incentivo para que los maestros tejedores apoyaran las innovaciones en
-este campo.[^nota2] Casi todas las familias en la ciudad de Lyon se
+este campo [^nota2]. Casi todas las familias en la ciudad de Lyon se
 vieron afectadas por la invención. Los tejedores respondieron
-rápidamente destrozando la maquinaria. Ellos descubrieron que lanzando
+rápidamente destrozando la maquinaria. Ellas descubrieron que lanzando
 sus zapatos de madera en el telar podían bloquear los mecanismos.
 Podríamos llamarlo el primer ataque de denegación de servicio de la
-historia.[^nota3] Por lo tanto, el nacimiento del sabotaje coincidió la
-primera informatización de un lugar de trabajo.
+historia [^nota3] . Por lo tanto, el nacimiento del sabotaje coincidió con
+la primera informatización de un lugar de trabajo.
 
-A lo largo del siglo XIX, la industria textil fue uno de los principales
+A lo largo del siglo XIX la industria textil fue uno de los principales
 escenarios de conflictos laborales en el desarrollo tecnológico. El más
 famoso de estos enfrentamientos, el levantamiento ludita, estaba
-integrado por peinadoras, tejedores y artesanos de los distritos laneros
+integrado por peinadoras, tejedoras y artesanas de los distritos laneros
 y algodoneros del centro de Inglaterra. En el momento de su rebelión,
 que culminó entre 1811-1813, el telar de Jacquard aún no se había
-diseminado por Gran Bretaña.[^nota4] Sus ataques se dirigieron
+diseminado por Gran Bretaña [^nota4] . Sus ataques se dirigieron
 principalmente contra el telar mecánico y se relacionaban con los
-cambios en la organización del comercio. Los luditas llevaron a cabo
+cambios en la organización del comercio. Las luditas llevaron a cabo
 ataques nocturnos para destruir las fábricas textiles y las máquinas
 tejedoras; sus operaciones estaban al mando de una persona ficticia, el
 "general Ludd". La corona inglesa tuvo que desplegar 14.400 soldados en
 la región para aplastar las insurgencias nocturnas. Lo más notable es
-que se movilizaron más soldados ingleses contra los luditas que los que
+que se movilizaron más soldados ingleses contra las luditas que los que
 habían sido enviados a Portugal cuatro años antes para enfrentar al
-ejército de Napoleón.[^nota5] De todos modos, teniendo en cuenta la
-logística y los recursos manejados por el Estado y los capitalistas, los
-trabajadores no tuvieron prácticamente ninguna oportunidad de detener al
-sistema capitalista emergente. Una debilidad fundamental de los luditas
+ejército de Napoleón [^nota5] . De todos modos, teniendo en cuenta la
+logística y los recursos manejados por el estado y los capitalistas, las
+trabajadoras no tuvieron prácticamente ninguna oportunidad de detener al
+sistema capitalista emergente. Una debilidad fundamental de las luditas
 era que carecían de los medios para desarrollar una tecnología
 alternativa propia. Sólo podían confiar en su dominio de las tecnologías
 antiguas contra las innovaciones y la economía de mayor escala impuesta
 por el capital. Así, su lucha contra la reestructuración capitalista
 adquiere un sabor quijotesco que se ha convertido hoy en día en el
-significado de la palabra "ludita".[^nota6]
+significado de la palabra "ludita" [^nota6] .
 
 Dada la tecnofobia comúnmente asociada con el "ludismo", no está claro
-que los luditas puedan ser considerados los antepasados de los hackers
-expertos en tecnología. Sin embargo, lo que tienen en común es que ambos
-están atrapados en la telaraña de la mismas fuerzas sociales y están
+que las luditas puedan ser consideradas las antepasadas de las _hackers_
+expertas en tecnología. Sin embargo, lo que tienen en común es que ambas
+están atrapadas en la telaraña de la mismas fuerzas sociales y están
 luchando por el mismo terreno en disputa, el terreno del desarrollo
-tecnológico. La principal diferencia entre los luditas y los hackers es
-que estos últimos tienen una tecnología propia alternativa a la cual
-recurrir. La computadora, universalmente aplicable, que ejecuta software
-libre y se conecta a una red abierta, todos logros obtenidos a través de
-la continua lucha del movimiento hacker, ha nivelado en ciertos aspectos
-el campo de juego. A través de la red de comunicación global, los
-hackers están combatiendo la coordinación y las capacidades logísticas
-del Estado y del capital. La convivencia de herramientas de software
-libre realizadas por los hackers no es accidental. Todo se reduce a su
+tecnológico. La principal diferencia entre las luditas y las _hackers_ es
+que estas últimas tienen una tecnología propia alternativa a la cual
+recurrir. La computadora, universalmente aplicable, que ejecuta _software
+libre_ y se conecta a una red abierta -todos logros obtenidos a través de
+la continua lucha del movimiento _hacker_ - ha nivelado en ciertos aspectos
+el campo de juego. A través de la red de comunicación global, las
+_hackers_ están combatiendo la coordinación y las capacidades logísticas
+del estado y del capital. La convivencia de herramientas de software
+libre realizadas por las _hackers_ no es accidental. Todo se reduce a su
 modelo alternativo de organización de las relaciones laborales. El nuevo
 enfoque para la organización de la fuerza de trabajo es el principal
-logro del movimiento de software libre y de código abierto (FOSS). En el
-hacking, una nueva subjetividad está tomando forma en torno a una
+logro del movimiento de _software libre_ y de código abierto (FOSS). En el
+_hacking_ una nueva subjetividad está tomando forma en torno a una
 actividad de trabajo colectiva, totalmente voluntaria. Cuando se les
-pregunta a los hackers cuáles son sus motivos para escribir código libre
-o crackear sistemas de computadoras sus respuestas son muchas y
-diversas. Un tema recurrente, sin embargo, es la emoción que obtienen al
-hacerlo.[^nota7]
+pregunta a las _hackers_ cuáles son sus motivos para escribir código libre
+o _crackear_ sistemas de computadoras, sus respuestas son muchas y
+diversas. Un tema recurrente sin embargo, es la emoción que obtienen al
+hacerlo [^nota7] .
 
-La noción de hackers que se vuelven revolucionarios solamente por
+La noción de _hackers_ que se vuelven revolucionarias solamente por
 diversión aparece en el siglo XVIII, con el poeta Friedrich Schiller.
 Decepcionado por la Revolución Francesa, él se sentó a meditar sobre
 cómo hacer que funcionara mejor la próxima vez. Friedrich Schiller
 reconoció el "carácter estético y lúdico" como la fuerza primaria que
-puede impulsar a un ser humano a ser íntegro, cuya maduración también
+puede impulsar a una ser humana a ser íntegra, cuya maduración también
 sería capaz de crear y sostener un estado estético pos revolucionario.
-Afirmaba que la educación estética del hombre era necesaria para sanar
-las heridas causadas por la especialización: "[...] Si el hombre nunca
-resuelve el problema de la política en la práctica tendrá que acercarse
-a ella a través del problema de la estética, porque es sólo a través de
-la belleza que el hombre construye su camino hacia la libertad."[^nota8]
-Tanto los adherentes como los críticos de Schiller lo han encasillado en
-la tradición del romanticismo. Los estudiosos marxistas han seguido el
-ejemplo de Marx y han pasado por alto la obra de Schiller, la filosofía
-idealista, como si fuera una acotación en alemán, con la notable
-excepción de Herbert Marcuse. Este último declaró su deuda con Schiller
-por su propia investigación de toda la vida acerca del potencial
-liberador de la estética y el juego. Marcuse insistió en el juego como
-una práctica constitutiva de una paridad con el trabajo. La idea de que
-el juego puede ser yuxtapuesto al trabajo nos invita a reevaluar el
-legado de Friedrich Schiller como un teórico político. Su filosofía debe
-ser recuperada de la escena del arte y de la poesía intelectual. Se
-haría más justicia con Schiller si sus palabras fueran aplicadas a la
-política que fluye de "la belleza del baudio" y el juego con el código
-fuente en la computación "underground". Los hackers están recogiendo el
+Afirmaba que la educación estética era necesaria para sanar las heridas 
+causadas por la especialización: "[...] Si el hombre nunca resuelve el 
+problema de la política en la práctica tendrá que acercarse a ella a través 
+del problema de la estética, porque es sólo a través de la belleza que el se 
+construye el camino hacia la libertad" [^nota8] . Tanto las adherentes como 
+las críticas de Schiller lo han encasillado en la tradición del romanticismo. 
+Las estudiosas marxistas han seguido el ejemplo de Marx y han pasado por alto 
+la obra de Schiller, la filosofía idealista, como si fuera una acotación en 
+alemán, con la notable excepción de Herbert Marcuse. Este último declaró su 
+deuda con Schiller por su propia investigación de toda la vida acerca del 
+potencial liberador de la estética y el juego. Marcuse insistió en el juego 
+como una práctica constitutiva de una paridad con el trabajo. La idea de que
+el juego puede ser yuxtapuesto al trabajo nos invita a reevaluar el legado 
+de Friedrich Schiller como un teórico político. Su filosofía debe ser 
+recuperada de la escena del arte y de la poesía intelectual. Se haría más 
+justicia con Schiller si sus palabras fueran aplicadas a la política que 
+fluye de "la belleza del baudio" y el juego con el código fuente en la 
+computación "_underground_". Las _hackers_ están recogiendo el
 grito de guerra del movimiento rave: "cometemos alegremente un delito
-contra el Estado". Esta estrategia se discutirá bajo la etiqueta del
+contra el estado". Esta estrategia se discutirá bajo la etiqueta del
 "juego como lucha" y es el tema principal del libro. La expresión "juego
 como lucha" tiene la intención de destacar su cercanía con la lucha
 obrera. Al igual que en el trabajo, ya que es un compromiso productivo
@@ -146,8 +145,8 @@ Es algo más que irónico, o quizás, muy acorde con la dramaturgia
 dialéctica de nuestra historia, que este potencial aparezca por primera
 vez en el campo de las computadoras -hablando históricamente, la
 antítesis misma de la autonomía laboral. Un hilo común une las tarjetas
-perforadas ideados por Joseph-Marie Jacquard para privar a los tejedores
-de sus habilidades artesanales, con los escritos de Charles Babbage, el
+perforadas ideadas por Joseph-Marie Jacquard para privar a las tejedoras
+de sus habilidades artesanales con los escritos de Charles Babbage, el
 distinguido precursor de la informática moderna. Este último tuvo la
 visión de la primera computadora del mundo, la máquina diferencial, e
 incorporó el sistema de tarjetas perforadas de Jacquard en su segundo
@@ -156,178 +155,178 @@ máquinas pensadas para sustituir al personal, conocidas desde ese
 momento como "computadoras", se emplearon para calcular tablas
 matemáticas. Además de descubrir los principios de la computación,
 Charles Babbage fue también un escritor pionero en la literatura de
-administración de empresas. En su obra *Sobre la economía de la
-maquinaria y los productos manufacturados*, publicada en 1832, aconsejó
+administración de empresas. En su obra _Sobre la economía de la
+maquinaria y los productos manufacturados_, publicada en 1832, aconsejó
 a los dueños de las fábricas acerca de cómo separar el proceso de
-trabajo en tareas simples que pudieran ser realizadas por obreros con la
+trabajo en tareas simples que pudieran ser realizadas por obreras con la
 mínima habilidad posible. Su profundo conocimiento de la tecnología le
-ayudó a diagnosticar la conveniencia de usar maquinaria en los plantas
+ayudó a diagnosticar la conveniencia de usar maquinaria en las plantas
 fabriles: "Una gran ventaja que podemos obtener del uso de la maquinaria
 es el control que limita las fallas que se producen por la falta de
 atención, la pereza o la falta de honradez de los agentes
-humanos."[^nota9] Las palabras de Charles Babbage indican sin querer la
+humanos"[^nota9] . Las palabras de Charles Babbage indican sin querer la
 relación antagónica entre el trabajo y el capital que la informática ha
 superado. La computadora hace la "comprobación mecánica" en lugar de la
-precisión quirúrgica de los agentes humanos. Además, las comprobaciones
-mecánicas por medio de software están siendo exportados desde la fábrica
+precisión quirúrgica de las agentes humanas. Además, las comprobaciones
+mecánicas por medio de _software_ están siendo exportadas desde la fábrica
 hasta el conjunto de la sociedad. A través de la tecnología llamada
 gestión digital de derechos (DRM, Digital Rights Management), el
-comportamiento de los trabajadores, los consumidores y los ciudadanos
-cada vez están más reguladas por el código. Y, sin embargo, los agentes
-humanos persisten en frecuentar la red informatizada del espectro del
-hacking. Karl Marx hizo una alegoría muy conocida entre la lucha de
+comportamiento de las trabajadoras, las consumidoras y las ciudadanas
+cada vez están más reguladas por el código. Y sin embargo, las agentes
+humanas persisten en frecuentar la red informatizada del espectro del
+_hacking_. Karl Marx hizo una alegoría muy conocida entre la lucha de
 clases y un topo. Éste desaparece bajo la tierra durante largos períodos
 de tiempo para reaparecer de nuevo en un momento y en un lugar
 inesperado. La estrategia del capital para someter al trabajo en sus
 conflictos con la ayuda de las computadoras ha dado lugar simplemente a
 la reaparición del topo en Internet. El respaldo de Charles Babbage a la
 maquinaria como instrumento de control es diametralmente opuesto a la
-forma en que un hacker del grupo Hacksec evalúa la gran ventaja que
+forma en que una _hacker_ del grupo _Hacksec_ evalúa la gran ventaja que
 podemos obtener de la tecnología: "De modo que este es el espíritu, ser
 capaces de tomar estos componentes, reunir la tecnología que está
 dominada por los gobiernos y dejar que la persona promedio averigüe cómo
-usarla. Esa es la promesa de la tecnología."[^nota10]
+usarla. Esa es la promesa de la tecnología" [^nota10] .
 
-La promesa del hacking es que, al hacer la tecnología informática
-accesible a los neófitos, se socava la división social del trabajo como
-el principio de regulación para el desarrollo tecnológico. En lenguaje
-sencillo, las empresas y las instituciones de gobierno han perdido su
+La promesa del _hacking_ es que al hacer la tecnología informática
+accesible se socava la división social del trabajo como el principio 
+de regulación para el desarrollo tecnológico. En lenguaje sencillo, 
+las empresas y las instituciones de gobierno han perdido su
 monopolio sobre la investigación y el desarrollo. Al extender las
 decisiones sobre la tecnología a la multitud, se obtienen resultados
 políticos concretos. La deserción masiva del régimen de propiedad
 intelectual en las redes de intercambio de archivos, el desafío
-planteado por el sistema operativo libre GNU/Linux al dominio de
-Microsoft sobre las computadoras de escritorio, y la evasión de la
+planteado por el sistema operativo libre _GNU/Linux_ al dominio de
+_Microsoft_ sobre las computadoras de escritorio, la evasión de la
 censura estatal y la vigilancia en Internet, todo depende de que las
-herramientas y las habilidades para la escritura de código se hagan
-públicas por los hackers. Esta promesa de emancipación contradice la
-asociación hecha regularmente entre los ciber-políticos y los
-libertarios high tech. En ocasiones, el potencial del hacking para el
+herramientas y las habilidades para la escritura de código que se hagan
+públicas por las _hackers_. Esta promesa de emancipación contradice la
+asociación hecha regularmente entre los ciber-políticos y las
+libertarias _high-tech_. En ocasiones, el potencial del _hacking_ para el
 progreso y el cambio radical ha sido reconocido por los comentaristas
-públicos. Los lectores del *New York Times* en el año 2000 se
+públicos. Las lectoras del *New York Times* en el año 2000 se
 enfrentaron con el anuncio de que la república comunista ya existía en
-Internet. El periodista Andrew Sullivan señaló el hecho que el comunismo
+Internet. El periodista Andrew Sullivan señaló el hecho de que el comunismo
 punto com había surgido en el corazón del más avanzado país capitalista
 de nuestro tiempo, los Estados Unidos, tal como que Karl Marx había
-previsto.[^nota11] Ideas similares han sido expresadas por el filósofo
+previsto [^nota11] . Ideas similares han sido expresadas por el filósofo
 esloveno Slavoj Zizek. En una paráfrasis del famoso aval a la
 electricidad de Vladimir Lenin, Zizek exclamó irónicamente que:
-"socialismo = libre acceso a Internet + poder a los soviets."[^nota12]
-Dentro del underground informático, son frecuentes las alusiones
+"socialismo = libre acceso a Internet + poder a los soviets [^nota12] ".
+Dentro del _underground_ informático, son frecuentes las alusiones
 esporádicas al Manifiesto Comunista. El más renombrado conocedor del
-movimiento hacker que establece los paralelismos entre dicho movimiento
-y Marx es Eben Moglen. Como asesor general *ad-honorem* de la *Free
-Software Foundation*, una influyente organización de hackers, Eben
-Moglen conoce muy bien la práctica del hacking. Está convencido de que
-el capitalismo será arrasado por una marea de la cual el hacking es sólo
-la primera ola.[^nota13]
+movimiento _hacker_ que establece los paralelismos entre dicho movimiento
+y Marx es Eben Moglen. Como asesor general *ad-honorem* de la *_Free
+Software Foundation_*, una influyente organización de _hackers_, Eben
+Moglen conoce muy bien la práctica del _hacking_. Está convencido de que
+el capitalismo será arrasado por una marea de la cual el _hacking_ es sólo
+la primera ola [^nota13] .
 
-Al mismo tiempo, una serie de opositores al movimiento FOSS han acusado
-a GNU/Linux y sus sistemas de licencias alternativas de antiamericanos,
-subversivos y cancerosos. Bill Gates, causó un gran revuelo cuando
-declaró que las personas que están detrás de las licencias Creative
-Commons y el FOSS son parte de un "nuevo tipo contemporáneo de
-comunistas".[^nota14] A pesar de que las empresas multinacionales se
-abalanzan sobre los proyectos de los hackers para invertir en ellos, lo
-hacen mientras mantienen su glosa rebelde. Por ejemplo, cuando IBM se
-comprometió a invertir mil millones de dólares en el desarrollo de FOSS
+Al mismo tiempo, una serie de opositores al movimiento _FOSS_ han acusado
+a _GNU/Linux_ y sus sistemas de licencias alternativas de antiamericanos,
+subversivos y cancerosos. Bill Gates causó un gran revuelo cuando
+declaró que las personas que están detrás de las licencias _Creative
+Commons_ y el _FOSS_ son parte de un "nuevo tipo contemporáneo de
+comunistas" [^nota14] . A pesar de que las empresas multinacionales se
+abalanzan sobre los proyectos de las _hackers_ para invertir en ellos, lo
+hacen mientras mantienen su glosa rebelde. Por ejemplo, cuando _IBM_ se
+comprometió a invertir mil millones de dólares en el desarrollo de _FOSS_
 publicitó su participación con una campaña pública bajo el lema: "Paz,
-Amor y Linux".[^nota15] En este caso, como en muchos otros, el
+Amor y Linux" [^nota15] . En este caso, como en muchos otros, el
 vocabulario revolucionario no es más que un truco llamativo. Los
-opositores al movimiento FOSS aplican la misma retórica para catalogarlo
+opositores al movimiento _FOSS_ aplican la misma retórica para catalogarlo
 como estalinista. No se puede esperar una comprensión más profunda si no
 se hace algún esfuerzo. Pero también existen intentos serios de análisis
-de la aparición del software libre basados en la teoría crítica. El
-proyecto *Oekonux* surgido en Alemania, el grupo holandés detrás de la
-lista de discusión *Nettime*, la iniciativa predominantemente
-hispanohablante con el nombre *Hipatía*, y los hacklabs en Italia y
+de la aparición del _software libre_ basados en la teoría crítica. El
+proyecto _*Oekonux*_ surgido en Alemania, el grupo holandés detrás de la
+lista de discusión _*Nettime*_, la iniciativa predominantemente
+hispanohablante con el nombre _*Hipatía*_, y los _hacklabs_ en Italia y
 Sudamérica, son ejemplos de tales puestos de avanzada en la reflexión
-que tiene lugar dentro del movimiento hacker. En la izquierda
-tradicional y en el mundo académico, sin embargo, la indiferencia y la
+que tiene lugar dentro del movimiento _hacker_. En la izquierda
+tradicional y en el mundo académico sin embargo, la indiferencia y la
 desconfianza ha sido la actitud predominante hacia este tema desde hace
-mucho tiempo.[^nota16] A lo largo de los años '80 y '90, los estudiosos
-marxistas estaban preocupados por desmitificar el exagerado despliegue
+mucho tiempo [^nota16] . A lo largo de los años '80s y '90s, las estudiosas
+marxistas estaban preocupadas por desmitificar el exagerado despliegue
 publicitario y las vulgaridades de la ideología post-industrial, junto
 con la exagerada e injustificada esperanza puesta en la información
-tecnológica e Internet. Los académicos progresistas están preocupados
-por la vigilancia electrónica, la intensificada descualificación de los
-trabajadores debido a los microprocesadores, los lobbies de las grandes
+tecnológica e Internet. Las académicas progresistas están preocupadas
+por la vigilancia electrónica, la intensificada descualificación de las
+trabajadoras debido a los microprocesadores, los lobbies de las grandes
 empresas para la aplicación mundial de los monopolios de propiedad
 intelectual, y las adquisiciones a escala de Goliath por parte de las
 empresas de comunicación, todas tendencias que parecen ser coherentes
 con las raíces de Internet en las estrategias de guerra nuclear del
-Pentágono.[^nota17]
+Pentágono [^nota17] .
 
 A pesar de que estos peligros son muy reales, este libro investigará la
 oferta del capital para la información mercantilizada desde un ángulo
 diferente. El régimen de propiedad intelectual debe ser visto como una
-"forma negativa" en la lucha de los hackers. El hacking es el prisma a
+"forma negativa" en la lucha de las _hackers_. El _hacking_ es el prisma a
 través del cual el libro escapa más allá de la visión de la ley de
 propiedad intelectual, la informática, Internet, y el capitalismo en red
 en general. Lo que está en el centro de nuestra discusión es la
 reestructuración del capitalismo y las posibilidades de resistencia. La
 crítica está hecha desde un punto de vista teórico marxista en general.
-El marxismo, sin embargo, es tan polifacético como muchos de los temas
-tratados en el libro. Con el fin de desentrañar el hacking, tenemos que
+El marxismo sin embargo, es tan polifacético como muchos de los temas
+tratados en el libro. Con el fin de desentrañar el _hacking_, tenemos que
 atravesar innumerables controversias, posiciones e hipótesis,
-discrepando con algunos sectores del movimiento hacker, los críticos
+discrepando con algunos sectores del movimiento _hacker_, los críticos
 reformistas de la propiedad intelectual, la teoría económica dominante,
 así como diferentes escuelas dentro del marxismo. Esto se refleja en el
 estilo de la escritura. La argumentación en el libro avanza por el
-método de triangulación, acercándose al sujeto desde varios ángulos
-diferentes a la vez. Algunos pocos de los autodenominados hackers se
+método de triangulación, acercándose a la sujeta desde varios ángulos
+diferentes a la vez. Algunos pocos de las autodenominadas _hackers_ se
 reconocerán en los resultados. Si tuviéramos que juzgar la política del
-hacking por un sondeo de opinión entre los miembros del movimiento
-hacker, podríamos llegar a la conclusión de que el hacking es
+_hacking_ por un sondeo de opinión entre las miembras del movimiento
+_hacker_, podríamos llegar a la conclusión de que el _hacking_ es
 fundamentalmente apolítico, y con una posible inclinación hacia una
 ideología liberal, voluntarista. Aunque parezca lo contrario, sin
 embargo, este libro no es ni una narración histórica ni antropológica de
-la comunidad FOSS. Lo que nos preocupa no son los "hackers", sino el
-"hacking". El hacking es emancipador en la medida en que extiende la
+la comunidad _FOSS_. Lo que nos preocupa no son las _"hackers"_, sino el
+_"hacking"_. El _hacking_ es emancipador en la medida en que extiende la
 posibilidad de acceso a la tecnología informática a una innumerable
 cantidad de personas. En otras palabras, su política consiste en decidir
 qué desarrollos tecnológicos trascenderán sus profesiones y/o
-subculturas. Este potencial del hacking está siendo obstaculizado no
+subculturas. Este potencial del _hacking_ está siendo obstaculizado no
 sólo por la ley de propiedad intelectual, los monopolios del
 conocimiento y los diseños de caja negra, sino también por la exclusión
-de las personas marginales. El movimiento hacker es de interés en la
-medida en que nos ayuda a entender la práctica del hacking. Nuestra
-ambición no es, sin embargo, explicar el movimiento FOSS con la teoría
-marxista, sino tomar el hacking como punto de partida en la revisión de
+de las personas marginales. El movimiento _hacker_ es de interés en la
+medida en que nos ayuda a entender la práctica del _hacking_. Nuestra
+ambición no es sin embargo, explicar el movimiento _FOSS_ con la teoría
+marxista, sino tomar el _hacking_ como punto de partida en la revisión de
 la teoría marxista en relación con el capitalismo en *red.*
 
-La controversia que ha cautivado a los eruditos marxistas en los últimos
-años es el enfrentamiento entre los seguidores de *Empire*, el
+La controversia que ha cautivado a las eruditas marxistas en los últimos
+años es el enfrentamiento entre las seguidoras de *Empire*, el
 best-seller posmoderno y anticapitalista de Michael Hardt y Antonio
-Negri, y los marxistas de orientación tradicional.[^nota18] Está en
+Negri, y las marxistas de orientación tradicional [^nota18] . Está en
 juego la cuestión de cómo revisar el marxismo y llevarlo de vuelta al
 centro del debate público y la reflexión académica. Es un tema que se
-desarrollará en paralelo en todo el libro. La lucha de los hackers
+desarrollará en paralelo en todo el libro. La lucha de las _hackers_
 constituye un buen punto de referencia para enfocar con una nueva luz
 las posiciones teóricas acerca del trabajo, la lucha y la tecnología.
-Algunas de las características del movimiento hacker están en desacuerdo
-con las suposiciones del marxismo clásico. El no poder categorizar a los
-hackers según las clasificaciones establecidas ha contribuido sin duda a
+Algunas de las características del movimiento _hacker_ están en desacuerdo
+con las suposiciones del marxismo clásico. El no poder categorizar a las
+_hackers_ según las clasificaciones establecidas ha contribuido sin duda a
 su invisibilidad en la teoría del trabajo hasta ahora. Las ideas
-propuestas por Hardt y Negri, y, en general, por la tradición marxista
+propuestas por Hardt y Negri, y en general, por la tradición marxista
 autónoma a la cual pertenecen, resultan frecuentemente más adecuadas
-para explicar los conflictos en el underground informático. En
-particular, los desarrolladores de FOSS desafían nuestro concepto de la
+para explicar los conflictos en el _underground_ informático. En
+particular, las desarrolladoras de _FOSS_ desafían nuestro concepto de la
 naturaleza del trabajo y la composición de la clase obrera. La nota
-dominante en este libro, recurrente en los escritos de muchos marxistas
-autónomos, es que el proceso de producción ha abandonado el sitio
+dominante en este libro, recurrente en los escritos de muchas marxistas
+autónomas, es que el proceso de producción ha abandonado el sitio
 directo de la producción. No existen límites claros entre el tiempo de
 trabajo y el tiempo de ocio, entre el interior y el exterior de la
 fábrica ni entre el trabajo asalariado y el trabajo voluntario. El
-modelo de desarrollo de FOSS es un desfile de ejemplos de cómo el
+modelo de desarrollo de _FOSS_ es un desfile de ejemplos de cómo el
 proceso del trabajo ha sido extendido a toda la sociedad. Una
 consecuencia es que la experiencia subjetiva de la relación antagónica
 es confusa. Los acontecimientos del día a día no se traducen
-inmediatamente en una fuerte oposición bipolar entre el empleador y el
-empleado. Un programador freelance puede trabajar para una empresa
-multinacional tres días a la semana, hacerlo otros dos como un
-emprendedor en una empresa de FOSS en desarrollo, y, mientras tanto, ser
-un usuario de aplicaciones de software, todos actividades que impulsan
+inmediatamente en una fuerte oposición bipolar entre el empleador y la
+empleada. Una programadora _freelance_ puede trabajar para una empresa
+multinacional tres días a la semana, hacerlo otros dos como una
+emprendedora en una empresa de _FOSS_ en desarrollo y mientras tanto, ser
+una usuaria de aplicaciones de _software_, todas actividades que impulsan
 al aparato productivo capitalista. Dada esta diversidad del trabajo, la
 ambición de larga data de Antonio Negri para ampliar la categoría de la
 clase obrera es un proyecto válido. En el mejor de los casos, tal vez
@@ -335,76 +334,76 @@ nos impida de excluir sitios desconocidos de explotación y lucha. El
 último intento de Antonio Negri y Michael Hardt de redefinición del
 proletariado es la noción de multitud. Priorizan a la multitud como un
 agente del cambio, posición atribuida a la clase obrera en la teoría
-marxista. Una queja sobre *Empire* planteada por sus muchos críticos es
+marxista. Una queja sobre _*Empire*_ planteada por sus muchos críticos es
 la falta de explicación acerca de qué es la "multitud" en realidad. Los
 autores no han dado una respuesta satisfactoria. Para nuestro propósito
-de analizar el movimiento hacker, lo que haremos será tomar prestada una
+de analizar el movimiento _hacker_, lo que haremos será tomar prestada una
 idea de Negri elaborada durante sus años en prisión. En aquel entonces
-sugirió que un "obrero social" había surgido en relación con un proceso
-laboral disperso por toda la sociedad. El obrero social sustituyó al
-"obrero de masas" de la fábrica fordista como la composición dominante
-de la clase obrera.[^nota19] El concepto de trabajador social es
-preferible al término multitud, ya que enfatiza la continuidad con las
+sugirió que una "obrera social" había surgido en relación con un proceso
+laboral disperso por toda la sociedad. La obrera social sustituyó a la
+"obrera de masas" de la fábrica fordista como la composición dominante
+de la clase obrera [^nota19] . El concepto de trabajadora social es
+preferible al término "multitud", ya que enfatiza la continuidad con las
 anteriores formas de la lucha de clases y conflictos industriales.
 
-Otra premisa que el lector puede reconocer como una influencia del
+Otra premisa que la lectora puede reconocer como una influencia del
 marxismo autónomo es la tensión puesta en la lucha de clases. Esto está
 muy relacionado con respecto a un importante escollo en un libro sobre
-hacking y los sistemas de información, a saber, la forma de entender el
+_hacking_ y los sistemas de información, a saber, la forma de entender el
 papel del desarrollo tecnológico. Antonio Negri representa esta
 tradición cuando declara que la innovación es el recurso que utiliza el
 capital para hacer frente a la resistencia de la clase obrera. Es una
 manera de pensar que desafía la intuición y demanda de algún tiempo para
 acostumbrarse a ella. Aun así, la dirección de la causalidad propuesta
-por Negri puede justificarse razonablemente en el caso del underground
+por Negri puede justificarse razonablemente en el caso del _underground_
 informático. Por ejemplo, la arquitectura de la computadora personal fue
-prácticamente impuesta a IBM por los aficionados entusiastas de la
+prácticamente impuesta a _IBM_ por las aficionadas entusiastas de la
 informática. Poner énfasis en la lucha de clases es un correctivo
 importante para la alicaída imagen del capitalismo como un gigante
 dominante. No deberíamos desplazarnos al otro extremo, sin embargo,
 donde el "pesimismo de la voluntad" se contrasta con el "optimismo de la
-inteligencia". Negri cae a veces en la ilusión y esto se acentúa aún más
+inteligencia", Negri cae a veces en la ilusión y esto se acentúa aún más
 en el caso de John Holloway y la rama del marxismo abierto a la que
 pertenece. Aunque la influencia de Holloway en este estudio se puede
 reconocer fácilmente, el libro discrepa con su negativa a conceder algún
 fundamento a las explicaciones estructurales. De este modo se pierde la
 especificidad histórica del capitalismo, junto con cualquier estrategia
-de resistencia.[^nota20] Tanto Holloway como Negri se esfuerzan por
+de resistencia [^nota20] . Tanto Holloway como Negri se esfuerzan por
 devolver la esperanza en la lucha anticapitalista, pero lo hacen sólo
 por limitarse a un nivel muy alto de abstracción. Cuando consideramos un
 movimiento concreto como la piedra angular de nuestras especulaciones ya
 no podemos hacer caso omiso de las limitaciones que intervienen y
-coproducen su lucha. Volviendo al ejemplo anterior, el sueño de los
-entusiastas aficionados de la informática para democratizar las
+coproducen su lucha. Volviendo al ejemplo anterior, el sueño de las
+entusiastas aficionadas de la informática para democratizar las
 computadoras se pudo realizar pagando el precio de un mercado ampliado
-en electrónica de consumo. Al final, IBM se benefició en gran medida por
-la venta de computadoras personales. Es difícil pensar que los hackers
-del hardware pudieran haber concretado su sueño de cualquier otra
+en electrónica de consumo. Al final, _IBM_ se benefició en gran medida por
+la venta de computadoras personales. Es difícil pensar que las _hackers_
+del _hardware_ pudieran haber concretado su sueño de cualquier otra
 manera. Karl Marx estableció un equilibrio entre la agencia y la
 estructura en un pasaje insuperable cuando declaró que los hombres hacen
 su propia historia, pero no bajo condiciones que ellos puedan elegir.
 
 El primer capítulo comienza presentando un dossier de antecedentes sobre
-la lucha de los hackers. Esto es necesario ya que el público
-generalmente tiene una idea sesgada de los hackers adquirida a través de
+la lucha de las _hackers_. Esto es necesario ya que el público
+generalmente tiene una idea sesgada de las _hackers_ adquirida a través de
 los medios de comunicación convencionales. Pero sería absurdo tratar de
 resumir en un texto impreso un campo que cambia tan rápidamente. El
 objetivo no es, por lo tanto, "poner los puntos" sino "dibujar las
 líneas". Esas líneas corren junto a doscientos años de lucha obrera.
-Desde esta perspectiva, la historia del movimiento hacker es muy
+Desde esta perspectiva, la historia del movimiento _hacker_ es muy
 diferente de cómo la presentan algunas voces dentro de la comunidad
-FOSS. En particular, tenemos que ser más precavidos al evaluar los
-resultados de sus esfuerzos. Las licencias FOSS podrían fortalecer la
+_FOSS_. En particular, tenemos que ser más precavidas al evaluar los
+resultados de sus esfuerzos. Las licencias _FOSS_ podrían fortalecer la
 posición del trabajo mediante el fomento de los estándares abiertos y el
-libre acceso a las herramientas de software. La estrategia del capital
+libre acceso a las herramientas de _software_. La estrategia del capital
 del taylorismo está basada en dicha arquitectura de computadoras.
-También es posible, sin embargo, que los modelos de desarrollo
-alternativos que involucran el trabajo de los voluntarios se alineen con
+También es posible sin embargo, que los modelos de desarrollo
+alternativos que involucran el trabajo de las voluntarias se alineen con
 un proceso de producción posfordista reestructurado. Un desafortunado
 efecto secundario de licencias libres y de código abierto podría ser
 entonces la intensificación de la explotación del trabajo asalariado y
 voluntario. Algunas pistas se pueden encontrar mediante el análisis de
-los modelos de negocio de software libre con la teoría marxista.
+los modelos de negocio de _software libre_ con la teoría marxista.
 
 En el siguiente capítulo, el enfoque en el movimiento hacker será
 ampliado, tanto teórica como históricamente. Las nociones sobre la era
@@ -431,31 +430,31 @@ un patrón más general en el capitalismo posfordista, donde el público y
 los usuarios están "obligados a trabajar".
 
 El tercer capítulo se refiere a la mercantilización de la información
-y,más concretamente, a la mercantilización de los trabajadores que
+y más concretamente, a la mercantilización de las trabajadoras que
 producen la información. En el análisis final, nuestra preocupación es
 la libertad del trabajo vivo, no la libertad de información. La
 mercantilización del trabajo se produce cuando una subjetiva autoría
-individual se fija sobre el proceso de trabajo. En su función como autor
+individual se fija sobre el proceso de trabajo. En su función como autora
 la persona pone sus esfuerzos en la producción de materias primas para
 un mercado. Sin embargo, la fijación de la autoría individual se ve
 amenazada constantemente. En los medios de comunicación dominantes las
 violaciones contra la propiedad intelectual en Internet se enmarcan por
-lo general como una revuelta de los consumidores. Con esta
+lo general como una revuelta de las consumidoras. Con esta
 interpretación, la principal cuestión se convierte en el precio del
 contenido de información. Vamos a mostrar que el surgimiento de redes de
 intercambio es parte de un levantamiento más radical. La resistencia en
-contra de las leyes de copyright, la promoción de una plataforma
+contra de las leyes de _copyright_, la promoción de una plataforma
 tecnológica abierta, y la afirmación del derecho a compartir libremente
-la información, son rechazos a la mercancía como tal. El autor
+la información, son rechazos a la mercancía como tal. La autora
 individual está en peligro de disolverse dentro de una autoría de
-usuarios colectiva, anónima, ambulante y divertida.
+usuarias colectiva, anónima, ambulante y divertida.
 
-El capítulo cuatro se enfoca en el hacking desde la perspectiva del
-consumo y la satisfacción de las necesidades. El movimiento hacker, al
+El capítulo cuatro se enfoca en el _hacking_ desde la perspectiva del
+consumo y la satisfacción de las necesidades. El movimiento _hacker_, al
 igual que otras subculturas, está estrechamente relacionado con el
-surgimiento de un capitalismo impulsado por los consumidores. Se muestra
-que, por un lado, la satisfacción de las necesidades materiales le ha
-permitido a la gente participar en el hacking, y, por otro lado, las
+surgimiento de un capitalismo impulsado por las consumidoras. Se muestra
+que por un lado, la satisfacción de las necesidades materiales le ha
+permitido a la gente participar en el _hacking_ y por otro lado, las
 personas están motivadas para hacerlo debido a la carencia de
 necesidades inmateriales en la sociedad de consumo. El aburrimiento con
 las relaciones mercantiles, tanto en el trabajo como en el consumo, es
@@ -463,17 +462,17 @@ la fuerza motriz. Este aburrimiento va más allá del juego interminable
 de consumo conspicuo y semiótico. Sin embargo, no se renuncia
 categóricamente a la sociedad de consumo, ya que la resistencia basa sus
 recursos en la misma sociedad. Sin un mercado en el sector de la
-electrónica de consumo no hay movimiento hacker. Se pueden trazar
-algunos paralelismos entre el hacking y la subversión de los mensajes
-comerciales y los productos por parte de los consumidores. Los estudios
-de la resistencia de los consumidores a menudo se asocian con la
+electrónica de consumo no hay movimiento _hacker_. Se pueden trazar
+algunos paralelismos entre el _hacking_ y la subversión de los mensajes
+comerciales y los productos por parte de las consumidoras. Los estudios
+de la resistencia de las consumidoras a menudo se asocian con la
 tradición de los estudios culturales. Algunos trabajos teóricos han
 culpado a la disciplina de los estudios culturales por restarle
-importancia a la rebelión por parte de los consumidores. Ellos insisten,
+importancia a la rebelión por parte de las consumidoras. Ellas insisten,
 con razón, en que un serio desafío contra el capitalismo se puede montar
 solamente desde la producción interior. Nuestro argumento aquí es que
 algunas cosas interesantes comienzan a suceder cuando los bienes de
-consumo son tomadas por los usuarios como el punto de partida de un
+consumo son tomadas por las usuarias como el punto de partida de un
 nuevo ciclo de producción. Fundamentalmente, este ciclo de
 consumo-producción está desconectado de la difusión capitalista. Los
 modelos de producción centrados en el usuario tienen buenas
@@ -482,30 +481,30 @@ necesidades sociales. La razón es simple; fue la incapacidad de los
 mercados para la satisfacción de esas necesidades lo que motivó los
 usuarios a esquivar en primer lugar a las relaciones de mercado.
 
-De este modo, llegamos al tema del quinto capítulo, la producción. El
-caso es que el éxito del modelo de desarrollo de FOSS sobre el
-desarrollo de software propietario es una señal importante. Nos habla
+De este modo llegamos al tema del quinto capítulo, la producción. El
+caso es que el éxito del modelo de desarrollo de _FOSS_ sobre el
+desarrollo de _software_ propietario es una señal importante. Nos habla
 sobre la insuficiencia de las relaciones capitalistas en la organización
 laboral en el sector de la información. Las justificaciones para las
 investigaciones basadas en la propiedad encuentran escaso apoyo en la
 historia de la economía, esto se contradice con los datos empíricos, y
 ni siquiera se argumenta teóricamente de forma convincente. Los defectos
 del modelo de desarrollo propietario se traducen en ventajas para los
-modelos de innovación centrados en el usuario basados en esquemas de
+modelos de innovación centrados en la usuaria basados en esquemas de
 licencias menos estrictas. Una serie paradójica de acontecimientos ha
-causado el fortalecimiento del usuario. El inicio de esta serie se
+causado el fortalecimiento de la usuaria. El inicio de esta serie se
 remonta a la exclusión de las habilidades artesanales del proceso de
-producción capitalista. La descualificación inicial de los trabajadores
+producción capitalista. La descualificación inicial de las trabajadoras
 ha cerrado el círculo con su readaptación profesional. Las herramientas
-y las habilidades se han abaratados y extendido desde el sitio de
-producción capitalista hacia toda la sociedad. Posiblemente, el
+y las habilidades se han abaratado y extendido desde el sitio de
+producción capitalista hacia toda la sociedad. Posiblemente el
 significado de la producción está siendo reapropiado por el proletariado
-de este modo. Hay que tener en cuenta, sin embargo, que los modelos de
-innovación centrados en el usuario están inmersos en el proceso de
+de este modo. Hay que tener en cuenta sin embargo, que los modelos de
+innovación centrados en la usuaria están inmersos en el proceso de
 valorización del capital. El capital podría perder su monopolio sobre
-los medios de producción de software, pero no tiene otros métodos para
-castigar a la "fuerza del usuario". Puede contar con el control de la
-difusión y, en el peor de los casos, refugiarse en el estado.
+los medios de producción de _software_, pero no tiene otros métodos para
+castigar a la "fuerza de la usuaria". Puede contar con el control de la
+difusión y en el peor de los casos, refugiarse en el estado.
 
 El sexto capítulo se aproxima al hacking desde la perspectiva de la
 difusión. Nuestra discusión se relaciona nuevamente con la centenaria
@@ -528,22 +527,22 @@ de los dones. Por ello es que podemos imaginar un tercer método para la
 asignación de recursos que se encuentre más allá de los mercados y la
 planificación.
 
-El capítulo final regresa al argumento central del libro, que el hacking
+El capítulo final regresa al argumento central del libro, que el _hacking_
 es un escenario del juego como lucha. Esta lucha es en esencia una
-reacción contra la alienación. Sin embargo, la resistencia de los
-hackers no se parece en nada a la clase de lucha que conocemos de los
+reacción contra la alienación. Sin embargo, la resistencia de las
+_hackers_ no se parece en nada a la clase de lucha que conocemos de los
 conflictos laborales. En lugar de enfrentarse directamente en la
 relación salarial, en las huelgas, sabotajes, etc, ataca al trabajo
-alienado eludiéndolo. Los desarrolladores de FOSS establecieron una
+alienado eludiéndolo. Las desarrolladoras de _FOSS_ establecieron una
 relación laboral diferente. Las esperanzas utópicas de Friedrich
 Schiller y Herbert Marcuse se acentuaron con el desarrollo actual del
-underground informático. El capítulo revisa las definiciones académicas
+_underground_ informático. El capítulo revisa las definiciones académicas
 del juego, y enfoca su atención sobre los aspectos lúdicos de la
 resistencia en contra de la disciplina de la fábrica a lo largo de la
 historia. La trivialidad comúnmente asociada con el juego se debe al
 hecho de que la actividad es no instrumental. En contraste, el
 desarrollo de la tecnología es un arquetipo del Instrumentalismo. El
-movimiento hacker ha presentado el desarrollo de tecnología informática
+movimiento _hacker_ ha presentado el desarrollo de tecnología informática
 bajo un modelo determinado por el juego intenso. Difícilmente se pueda
 decir que esto sea algo trivial.
 
