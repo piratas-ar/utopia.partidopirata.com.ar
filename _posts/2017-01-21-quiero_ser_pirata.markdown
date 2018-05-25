@@ -100,9 +100,9 @@ tu idea de forma más amplia en [Loomio](#loomio).
 
 Acordate de esta canción:
 
-> Si tu tienes muchas ganas de ...
-> Si tu tienes la razón
-> y no hay oposición
+> Si tu tienes muchas ganas de ...  
+> Si tu tienes la razón  
+> y no hay oposición  
 > no te quedas con las ganas de ...
 
 ### Propuesta significa acción
