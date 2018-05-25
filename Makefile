@@ -36,6 +36,10 @@ bring:
 # Todas las tapas juntas
 tapas: $(png)
 
+# Uso: make corregir archivo=_posts/archivo.md
+corregir: manual-de-estilo.sed
+	sed -rf $< $(archivo)
+
 # Los sliders son de 730px de ancho
 assets/covers/slider/%.png: assets/covers/slider/%.svg
 	convert -resize 730 $< $@
