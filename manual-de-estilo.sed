@@ -23,7 +23,7 @@ s/-+([ ,])/--\1/g
 # línea y sea indentación
 s/([^ ])  */\1 /g
 # Agregar dos espacios después de un punto seguido
-s/([\.\?!]) +([¡¿(]?[A-Z])/\1  \2/g
+s/([\.\?!]) +(([^a-z0-9]+)?[A-Z0-9])/\1  \2/g
 # A menos que sea una lista numerada
 s/^([0-9]+\.) +/\1 /
 # No hay espacios antes de los signos de puntuación

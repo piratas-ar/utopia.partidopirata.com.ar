@@ -14,7 +14,7 @@ Sobre los autos voladores y la tasa decreciente de ganancia
 Una pregunta secreta flota sobre nosotras, una sensación de decepción,
 una promesa rota que nos fue hecha de niñas sobre cómo sería el mundo al
 convertirnos en adultas.  No me refiero a las falsas promesas estándar
-que son hechas siempre a las niñas (sobre cómo el mundo es justo, o cómo
+que son hechas siempre a las niñas (sobre cómo el mundo es justo o cómo
 aquellas que se esfuercen más serán las mejor recompensadas), sino a la
 promesa generacional particular --hecha a las que fuimos niñas en los
 cincuenta, sesenta, setenta y ochenta-- que nunca fue articulada como
@@ -43,7 +43,7 @@ Estamos bien informadas de las maravillas de la informática, como si se
 tratara de una compensación no anticipada.  Pero de hecho la informática
 tampoco ha superado el estado de progreso que las personas de los '50
 esperaban que tuviera para el día de hoy.  No tenemos computadoras con
-las que mantener conversaciones interesantes, o robots que paseen a
+las que mantener conversaciones interesantes o robots que paseen a
 nuestros perros ni lleven la ropa a la lavandería.
 
 En tanto alguien que tenía ocho años cuando el _Apollo_ aterrizó en la
@@ -96,7 +96,7 @@ una predicción o una broma.
 
 La estrategia usual en ciencia ficción es mantener cierta vaguedad en
 las fechas, de forma de convertir "el futuro" en una zona de fantasía
-pura, no muy diferente a la Tierra Media o Narnia, o como en _Star
+pura, no muy diferente a la Tierra Media o Narnia o como en _Star
 Wars_, "en una época muy lejana, en una galaxia muy, muy lejana".  Como
 resultado, nuestro futuro en la ciencia ficción es muy a menudo nada
 parecido a un futuro, sino más bien una dimensión alternativa, un tiempo
@@ -114,7 +114,7 @@ era horrible, pero no pude dejar de impresionarme por la calidad de los
 efectos especiales.  Recordando los torpes efectos especiales de las
 películas de ciencia ficción de los años cincuenta, me quedé pensando en
 lo impresionante que hubiera sido para una audiencia de aquella época
-presenciar lo que podemos hacer ahora --sólo para darme cuenta que "En
+presenciar lo que podemos hacer ahora --solo para darme cuenta que "En
 realidad, no.  No estarían impresionadas en absoluto ¿no?.  Aquellas
 personas pensaban que realmente estaríamos *haciendo* esas cosas en el
 presente, no encontrando formas cada vez más sofisticadas para
@@ -133,7 +133,7 @@ progreso eran falsas; que ahora todo es simulación, repetición,
 fragmentación y pastiche --todo esto cobra sentido en un ambiente
 tecnológico donde los únicos grandes progresos fueron aquellos que
 hicieron más fácil la creación, transferencia y reagrupación de
-proyecciones virtuales de cosas que, o ya existían, o que descubrimos
+proyecciones virtuales de cosas que o ya existían o que descubrimos
 que nunca existirán.  Seguramente si vacacionáramos en domos geodésicos
 en Marte o tuviéramos plantas de fusión nuclear de bolsillo, o
 dispositivos telequinéticos de lectura mental; nadie tendría la
@@ -143,7 +143,7 @@ convertirlo en algo de época, excitante y nuevo.
 
 En sus formulaciones tempranas, que en su mayoría provenían de la
 tradición marxista, mucho de este trasfondo tecnológico era reconocido.
-"El posmodernismo, o la lógica cultural del capitalismo tardío" de
+"El posmodernismo o la lógica cultural del capitalismo tardío" de
 Fredric Jameson proponía el término "posmodernismo" como referencia a la
 lógica cultural apropiada para esta nueva fase tecnológica del
 capitalismo que ya venía siendo anunciada por el economista marxista
@@ -190,7 +190,7 @@ superficies.
 
 ¿Por qué falló la explosión de crecimiento tecnológico --las bases
 lunares, las fábricas de robots-- que proyectábamos?  Hay dos
-posibilidades, o bien nuestras expectativas sobre el paso del cambio
+posibilidades o bien nuestras expectativas sobre el paso del cambio
 tecnológico no eran realistas (y de ser así, tenemos que saber por qué
 tantas personas inteligentes no lo creían así) o que nuestras
 expectativas eran realistas (y de ser así, tenemos que saber qué fue lo
@@ -242,7 +242,7 @@ El _best-seller_ de Alvin Toffler _El shock del futuro_ (_Future Shock_,
 podían trazarse al creciente paso del cambio tecnológico.  La efusión
 infinita de descubrimientos científicos transformó las bases de la
 existencia diaria y dejó a las estadounidenses sin una idea clara de lo
-que era la vida normal.  Sólo considerando a la familia, donde no sólo
+que era la vida normal.  Solo considerando a la familia, donde no solo
 la pastilla sino también la perspectiva de la fertilización _in vitro_,
 las bebés de probeta y la donación de esperma y óvulos estaban a punto
 de volver obsoleta la idea de maternidad.
@@ -423,7 +423,7 @@ no haber sido por las ambiciones cósmicas del politburó soviético.
 Estamos acostumbradas a pensar el politburó como un grupo de buroócratas
 grises sin imaginación, pero en realidad fueron burócratas que se
 animaron a soñar sueños asombrosos.  El sueño de la revolución mundial
-sólo fue el primero.  Es verdad que muchos de ellos --cosas como cambiar
+solo fue el primero.  Es verdad que muchos de ellos --cosas como cambiar
 el curso de poderosos ríos-- terminaron siendo ecológica y socialmente
 desastrosos o, como el Palacio de los Soviets de 100 pisos de Iósif
 Stalin o la estatua de Vladimir Lenin de 20 pisos, nunca se levantaron
@@ -441,7 +441,7 @@ al contrario del proyecto de la _Guerra de las Galaxias_, que había sido
 diseñado para hundir a la Unión Soviética, muchos de esos proyectos no
 perseguían una finalidad militar.  Como por ejemplo, el intento de
 solucionar el hambre mundial sembrando lagos y oceános con una bacteria
-comestible llamada _spirulina_, o solucionar el problema energético
+comestible llamada _spirulina_ o solucionar el problema energético
 global lanzando cientos de plataformas solares al espacio y enviando la
 electricidad de vuelta hacia la Tierra.
 
@@ -541,7 +541,7 @@ los efectos disruptivos que tenía el progreso tecnológico para la
 sociedad y los empleadores empezaban a preocuparse por el impacto
 económico de la mecanización.  La desvaneciente amenaza soviética
 permitió reacomodar los recursos en direcciones vistas como menos
-desafiantes para los arreglos económicos y sociales, o direcciones que
+desafiantes para los arreglos económicos y sociales o direcciones que
 de hecho apoyaban una campaña que revirtiera los logros de los
 movimientos sociales progresivos, con el fin de alcanzar una victoria
 decisiva en lo que las elites estadounidenses veían como una guerra de
@@ -736,7 +736,7 @@ convierte en algo mucho más parecido a la clásica competencia de
 mercado.
 
 Existen muchas formas de privatización, incluyendo la compra y supresión
-de descubrimientos potencialmente, o de hecho, desfavorables para los
+de descubrimientos potencialmente o de hecho, desfavorables para los
 intereses de las grandes corporaciones, siempre temerosas de posibles
 efectos económicos indeseables.  No podemos saber cuántas fórmulas de
 combustibles sintéticos han terminado en las bóvedas de las compañías
@@ -752,7 +752,7 @@ decía Neal Stephenson:
 > discusión emerge un nuevo concepto que parece prometedor.  Entonces
 > alguien con una computadora portátil realiza una búsqueda en _Google_
 > y anuncia que esta "nueva" idea en realidad es vieja.  Ya ha sido
-> probada, o al menos algo vagamente similar.  Ha fallado o ha sido
+> probada o al menos algo vagamente similar.  Ha fallado o ha sido
 > exitosa.  Si ha fallado, ninguna administradora con ganas de mantener
 > su trabajo aprobaría el uso de dinero tratando de revivirla.  Si ha
 > sido exitosa, entonces ha sido patentada y el ingreso al mercado se
@@ -809,7 +809,7 @@ implicancias revolucionarias de cualquier tipo.
 
 Si nosotras no nos damos cuenta que vivimos en una sociedad burocrática,
 eso es porque las normas y prácticas burocráticas se han vuelto tan
-completamente ubícuas que no las podemos ver, o peor, no podemos hacer
+completamente ubícuas que no las podemos ver o peor, no podemos hacer
 las cosas de otro modo.
 
 Las computadoras han jugado un rol crucial en este estrechamiento de
@@ -842,7 +842,7 @@ poéticas me refiero al uso racional y técnico para traer fantasías
 salvajes a la realidad.  Las tecnologías poéticas, así entendidas, son
 tan viejas como la civilización.  Lewis Mumford notó que las primeras
 máquinas complejas eran hechas de personas.  Los faraones egipcios
-fueron capaces de construir las pirámides sólo por su maestría de los
+fueron capaces de construir las pirámides solo por su maestría de los
 procedimientos administrativos, los cuales permitieron desarrollar
 técnicas de línea de montaje, dividiendo tareas complejas en docenas de
 simples operaciones y asignando cada una a un equipo de trabajadoras
@@ -912,10 +912,10 @@ podría alguien saber?
 
 Concedo que hay gente que toma esa posición en ambas puntas del espectro
 político.  Como antropólogo y anarquista, encuentro activistas
-anticivilizacionales que insisten no sólo que la actual tecnología
+anticivilizacionales que insisten no solo que la actual tecnología
 industrial conduce únicamente a opresiones del estilo capitalista, sino
 que además esto debe ser necesariamente verdad de cualquier tecnología
-futura y por lo tanto que la liberación humana puede ser alcanzada sólo
+futura y por lo tanto que la liberación humana puede ser alcanzada solo
 volviendo a la Edad de Piedra.  La mayoría de nosotras no somos
 deterministas tecnológicas.
 
@@ -923,7 +923,7 @@ Pero las pretensiones acerca de la inevitabilidad del capitalismo deben
 estar basadas en algún tipo de determinismo tecnológico.  Y por esa
 misma razón, si el objetivo del capitalismo neoliberal es crear un mundo
 donde nadie crea que ningún otro sistema económico podría funcionar,
-entonces necesita suprimir no sólo cualquiera idea sobre un inevitable
+entonces necesita suprimir no solo cualquiera idea sobre un inevitable
 futuro redentor, sino cualquier futuro tecnológico radicalmente
 diferente.  Sin embargo, hay una contradicción.  Los defensores del
 capitalismo no pueden convencernos de que el cambio tecnológico ha
@@ -962,13 +962,13 @@ ninguna forma de capitalismo.  Para empezar a poner domos en Marte, ni
 hablar de desarrollar los medios para delucidar si hay civilizaciones
 alienígenas para contactar, vamos a tener que dar cuenta de un sistema
 económico distinto.  ¿Debe el nuevo sistema tomar la forma de una nueva
-burocracia masiva?  ¿Por qué creemos que sí?  Sólo podemos empezar por
+burocracia masiva?  ¿Por qué creemos que sí?  Solo podemos empezar por
 romper las estructuras burocráticas existentes.  Y si vamos a inventar
 robots que van a hacer los lavados de ropa y ordenar la cocina, entonces
 tendremos que asegurarnos que lo que sea que reemplace al capitalismo
 esté basado en una distribución mucho más equitativa de la riqueza y el
 poder --una que ya no contenga a los super-ricos o desesperadamente
-pobres voluntariosas de hacer su trabajo.  Sólo entonces la tecnología
+pobres voluntariosas de hacer su trabajo.  Solo entonces la tecnología
 comenzará a ser conducida hacia las necesidades humanas.  Y esta es la
 mejor razón para liberarse de la mano muerta de los gestores de fondos y
 los CEOs --para liberar nuestras fantasías de las pantallas en las que
