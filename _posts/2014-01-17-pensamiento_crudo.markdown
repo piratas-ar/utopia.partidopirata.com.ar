@@ -17,7 +17,7 @@ Democracia Exponencial[^1]
   Hackaton en memoria de Aaron Swartz, 2013-11-08.
   Original: <http://www.aaronsw.com/weblog/parpolity>
 
-> Por el poder de los exponentes, sólo cinco niveles de consejos, cada
+> Por el poder de los exponentes, solo cinco niveles de consejos, cada
 > uno de cincuenta personas, son suficientes para gobernar más de
 > trescientos millones de personas.
 
@@ -46,11 +46,11 @@ salud pública y universal.
 
 En cambio, las elecciones nacionales han sido reducidas a opciones
 binarias donde los publicistas y las firmas de relaciones públicas
-reducen la experiencia a emociones puras: Temor. (Un oso ruge en el
-bosque).  Esperanza. (El sol se levanta sobre una colina). Vote a Smith.
+reducen la experiencia a emociones puras: Temor.  (Un oso ruge en el
+bosque).  Esperanza.  (El sol se levanta sobre una colina).  Vote a Smith.
 O tal vez a Jones.
 
-Y los grandes medios no elevan el nivel de debate. En vez de discusiones
+Y los grandes medios no elevan el nivel de debate.  En vez de discusiones
 profundas sobre las propuestas politicas y sus efectos, usan su tiempo
 en coberturas dignas de carreras de caballos (¿quién está recolectando
 más dinero? ¿a quién le está yendo bien en Ohio?) y escándalos
@@ -59,7 +59,7 @@ ofendió a alguien?)
 
 ¿El resultado de toda esta estupidización?  En el 2004, las votantes que
 dijeron que eligieron al candidato presidencial en base a su agenda,
-ideas, plataformas u objetivos fueron sólo el 10% del electorado.
+ideas, plataformas u objetivos fueron solo el 10% del electorado.
 Entonces no es sorprendente cuando los politólogos descubren que las
 decisiones de las votantes pueden explicarse por factores tan azarosos
 como si les gusta el rojo o el azul, si la economía va bien o mal o si
@@ -137,8 +137,8 @@ a su área.  Y por supuesto, su representante reporta al grupo, toma sus
 recomendaciones sobre problemas difíciles y recibe sugerencias de
 problemas que aparecen en la reunión del consejo de área vecino.
 
-Por el poder de los exponentes, con sólo cinco niveles de consejos, cada
-uno consistiendo de sólo 50 personas, son suficientes para cubrir más de
+Por el poder de los exponentes, con solo cinco niveles de consejos, cada
+uno consistiendo de solo 50 personas, son suficientes para cubrir más de
 300 millones de personas.  Pero --y este es el punto más inteligente--
 en el consejo de área el proceso entero se repite.  Así, como cada
 consejo de manzana nomina a una representante para el consejo de área,
@@ -148,7 +148,7 @@ estatal al consejo nacional y así sucesivamente.
 
 Shalom discute una cantidad de detalles posteriores --precauciones para
 el voto, recuento y delegación-- pero la clave está en la anidación.  En
-tal sistema, hay sólo cuatro representantes entre vos y la gente
+tal sistema, hay solo cuatro representantes entre vos y la gente
 definiendo políticas nacionales, cada una forzada a responder a sus
 constituyentes en pequeñas reuniones regulares cara a cara.  Las
 políticas en tal sistema no podrían ser elegidas por apelaciones vacías
@@ -166,7 +166,7 @@ televisivo, la política participativa permite que todas sean políticas.
 La Internet nos ha mostrado que el conjunto de la gente con talento
 excede por mucho a los pocos con el trasfondo, las conexiones y la
 riqueza para lograr un lugar en la sociedad donde pueden practicar sus
-talentos profesionalmente. (También nos muestra que muchas de estas
+talentos profesionalmente.  (También nos muestra que muchas de estas
 personas con conexiones no son particularmente talentosas.)
 
 El poder democrático de la red significa que no necesitás conexiones
@@ -207,33 +207,33 @@ Manifiesto por la Guerrilla del Acceso Abierto[^2]
 [^2]: Publicado en En Defensa del Software Libre
   <https://endefensadelsl.org/guerrilla_del_acceso_abierto.html>
 
-La información es poder. Pero como con todo poder, hay quienes lo
+La información es poder.  Pero como con todo poder, hay quienes lo
 quieren mantener para sí mismos.  La herencia científica y cultural del
 mundo completa, publicada durante siglos en libros y _journals_, está
 siendo digitalizada y apresada en forma creciente por un manojo de
-corporaciones privadas. ¿Querés leer los _papers_ que presentan los más
-famosos resultados de las ciencias? Vas a tener que mandarle un montón
+corporaciones privadas.  ¿Querés leer los _papers_ que presentan los más
+famosos resultados de las ciencias?  Vas a tener que mandarle un montón
 de plata a editoriales como Reed Elsevier.
 
 Están aquellas que luchan por cambiar esto.  El Movimiento por el Acceso
 Abierto ha luchado valientemente para asegurarse que los científicos no
 cedan su derecho de copia, sino que se aseguren que su trabajo sea
 publicado en Internet bajo términos que permitan el acceso
-a cualquiera.  Pero incluso en los mejores escenarios, su trabajo sólo
+a cualquiera.  Pero incluso en los mejores escenarios, su trabajo solo
 será aplicado a las cosas que se publiquen en el futuro.  Todo lo que
 existe hasta este momento se ha perdido.
 
-Ese es un precio muy alto por el que pagar. ¿Forzar a los académicos
-a pagar dinero para poder leer el trabajo de sus colegas? ¿Escanear
-bibliotecas enteras para sólo permitir leerlas a la gente de Google?
+Ese es un precio muy alto por el que pagar.  ¿Forzar a los académicos
+a pagar dinero para poder leer el trabajo de sus colegas?  ¿Escanear
+bibliotecas enteras para solo permitir leerlas a la gente de Google?
 ¿Proveer artículos científicos a aquellos en las universidades de élite
-del Primer Mundo, pero no a las niñas del Sur Global? Es indignante
+del Primer Mundo, pero no a las niñas del Sur Global?  Es indignante
 e inaceptable.
 
-"Estoy de acuerdo", dicen muchos, "¿pero qué podemos hacer? Las
+"Estoy de acuerdo", dicen muchos, "¿pero qué podemos hacer?  Las
 compañías detentan los derechos de copia, hacen enormes cantidades de
 dinero cobrando por el acceso y es perfectamente legal --no hay nada que
-podamos hacer para detenerlos". Pero sí hay algo que podemos hacer, algo
+podamos hacer para detenerlos".  Pero sí hay algo que podemos hacer, algo
 que ya está siendo hecho: podemos contraatacar.
 
 A ustedes, con acceso a estos recursos --estudiantes, bibliotecarias,
@@ -241,7 +241,7 @@ científicas-- se les ha otorgado un privilegio.  Ustedes pueden
 alimentarse en este banquete del conocimiento mientras el resto del
 mundo queda fuera.  Pero no es necesario --de hecho moralmente, no es
 posible-- que se queden este privilegio para ustedes.  Tienen el deber de
-compartirlo con el mundo. Y lo han hecho: intercambiando contraseñas con
+compartirlo con el mundo.  Y lo han hecho: intercambiando contraseñas con
 colegas, haciendo solicitudes de descarga para amigas.
 
 Mientras tanto, aquellas de ustedes que se han quedado fuera no están
@@ -253,7 +253,7 @@ Pero todas estas acciones suceden en la oscuridad, escondidas en la
 clandestinidad.  Se les llama robo o piratería, como si compartir la
 riqueza del conocimiento fuera el equivalente moral de saquear un barco
 y asesinar a su tripulación.  Pero compartir no es inmoral --es un
-imperativo moral.  Sólo aquellas que están cegados por la codicia se
+imperativo moral.  Solo aquellos que están cegados por la codicia se
 negarían a hacerle una copia a un amiga.
 
 Las grandes corporaciones, por supuesto, están cegadas por la codicia.
@@ -274,7 +274,7 @@ Necesitamos descargar _journals_ científicos y subirlos a redes de
 compartición de archivos.  Necesitamos pelear una Guerrilla por el Acceso
 Abierto.
 
-Si somos las suficientes alrededor del mundo, no sólo enviaremos un
+Si somos las suficientes alrededor del mundo, no solo enviaremos un
 fuerte mensaje en oposición a la privatización del conocimiento --la
 haremos una cosa del pasado ¿Vas a unírtenos?
 
