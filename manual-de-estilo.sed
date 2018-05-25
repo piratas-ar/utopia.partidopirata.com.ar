@@ -1,5 +1,5 @@
 # No va coma antes de una enumeración
-s/, ([yo]) / \1 /g
+s/, ([you]) / \1 /g
 # Las notas al pie y las citas van pegadas a la palabra
 s/([ ,\.]+)(\[[\^@][0-9a-z\-]+\])/\2\1/g
 # Las definiciones de los links llevan :
@@ -19,9 +19,10 @@ s/sólo/solo/g
 # Los guiones para comentarios son dobles
 s/ +-+/ --/g
 s/-+([ ,])/--\1/g
-# Quitar todo el espaciado extra
-s/  */ /g
+# Quitar todo el espaciado extra a menos que esté al principio de la
+# línea y sea indentación
+s/([^.])  */\1 /g
 # Agregar dos espacios después de un punto seguido
-s/([\.\?!]) +/\1  /g
+s/([\.\?!]) +([¡¿(]?[A-Z])/\1  \2/g
 # No hay espacios antes de los signos de puntuación
 s/ +([\.;:\),?!])/\1/g
