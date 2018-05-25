@@ -21,8 +21,10 @@ s/ +-+/ --/g
 s/-+([ ,])/--\1/g
 # Quitar todo el espaciado extra a menos que esté al principio de la
 # línea y sea indentación
-s/([^.])  */\1 /g
+s/([^ ])  */\1 /g
 # Agregar dos espacios después de un punto seguido
 s/([\.\?!]) +([¡¿(]?[A-Z])/\1  \2/g
+# A menos que sea una lista numerada
+s/^([0-9]+\.) +/\1 /
 # No hay espacios antes de los signos de puntuación
 s/ +([\.;:\),?!])/\1/g
