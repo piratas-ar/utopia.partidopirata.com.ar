@@ -13,6 +13,74 @@ toc: true
 Quiero ser pirata
 =================
 
+## Manifiesto Poético
+
+Contra todo intento de estigmatizacion de nuestro nombre, reivindicamos a la
+Piratería y sus luchas.
+
+Si en aquel mundo dominado por monopolios depredadores, por la esclavitud, la
+autocracia y el racismo, las Piratas se dieron a sí mismas igualdad, libertad,
+autodeterminación y auténtica convivencia multicultural, ignorando toda
+corrección política de su tiempo, entonces es que reivindicamos su bandera, su
+legado y su nombre.
+
+Porque nosotras crecimos en la periferia de lo que algunos llaman ilegalidad,
+navegando caóticos mares culturales, habitando unas pocas y remotas islas
+liberadas, y no conocemos otra forma de organizarnos que no sea bajo un
+principio de convivencia igualitaria: las Redes de Pares "P2P".
+
+Resistimos entonces los monopolios, del conocimiento, la cultura, y el
+patentamiento de la vida, así como nos resistimos a las metrópolis del presente
+que depredan los "recursos naturales" en sus colonias: el planeta entero.
+
+Y como buenas Piratas y Filibusteras nos parecemos en algo más a nuestras
+predecesoras: asaltamos naves, las del egoísmo y el saqueo, para quebrar la
+opresión de las falsas leyes de la escasez, del copyright y sus artificiales
+feudos inmateriales, fraudulentos espejismos propagandísticos que nos
+restringen el acceso a este nuevo mundo de la abundancia, donde
+todas podemos crear, copiar, multiplicar y compartir.
+
+Como Piratas que somos creemos en la libertad, en la diversidad, en la
+auto-organización, en la horizontalidad, en sentirnos pares e iguales, en
+democratizar la creación, en la libertad de expresión y pensamiento; y como
+nacimos compartiendo, creemos en compartir la mayor riqueza que atesoramos como
+humanidad: la cultura, las ideas y el conocimiento, que liberadas del lastre
+analógico y anacrónico de la escasez, sólo queda liberarles del pesado lastre
+de la codicia.
+
+Como Piratas que somos, no somos ingenuas, y sabemos que las mismas armas
+digitales que por una parte nos liberan, por la otra encarcelan, cercenan y
+mutilan. Por eso defendemos la privacidad, el anonimato, las redes libres y la
+neutralidad de Internet, como herramientas de liberación que nos permitan
+seguir sosteniendo nuestra autonomía, capacidad de organizarnos y resistirnos a
+las leyes del Estado.
+
+Como Piratas que somos aprendemos sobre la marcha, construímos sobre la marcha,
+aprendemos de las históricas luchas por la democratización del conocimiento y
+la libertad de expresión, y aprendemos de las luchas por proteger nuestros
+bienes comunes, los recursos naturales: mares, vientos, llanuras y montañas.
+Aprendemos que la libertad, la solidaridad y el compromiso colectivo son el
+único camino sustentable para seguir existiendo como seres humanas en este
+planeta.
+
+Defendemos los "derechos humanos" por sobre cualquier interés o lobby,
+considerando a la igualdad, de derechos y de oportunidades, para y entre todas
+las personas, como un punto necesario para el desarrollo de una sociedad justa
+y libre. Por esto mismo creemos en el reconocimiento y autodeterminación de las
+diferentes identidades culturales, de género y de cualquier otro tipo.
+
+En un mundo donde la educación muchas veces es apenas formación para la
+inserción en el mercado laboral, impulsamos la formación integral de las
+personas a lo largo de toda su vida, la autoformación, el Libre Acceso a y
+ejercicio de la Información, Conocimiento, Cultura y Educación.
+
+Velamos por la participación social desde abajo, y no a través de
+representantes, intermediarios o Líderes Políticos. En un desarrollo económico
+responsable y sustentable, entendiendo que el paradigma extractivista destruye
+los bienes comunes, condenando a las generaciones futuras. En la organización
+horizontal y el consenso. En la resolución pacifica de los conflictos y en la
+acción no violenta.
+
 ## Cómo acercarse
 
 > ¡Mi nombre es Guybrush Threepwood y quiero ser pirata!
@@ -170,9 +238,14 @@ por voto y mayoría, sino por **consenso**.
 
 ### Chat
 
-La sala de chat se accede vía IRC o Telegram.
+La sala de chat se accede vía IRC o Telegram (son la misma).
+Por favor recordá y tené presente nuestro **[Código de camaradería](https://wiki.partidopirata.com.ar/ConvivenciaPpar)**.
 
-* Si no tenés un cliente de IRC, podés usar este link:
+* Si querés entrar por Telegram, este link funciona actualmente:
+* <https://t.me/joinchat/DQyUbELegzRnuHSETO0U2Q>
+* Podría ser que revoquemos ese enlace por algún motivo y no lo actualicemos aquí, avisanos!
+
+* Si no tenés Telegram ni un cliente de IRC, podés usar este link:
 * <https://webchat.pirateirc.net/#ppar>
 
 * Si tenés un cliente IRC, los datos son estos:
@@ -181,17 +254,20 @@ La sala de chat se accede vía IRC o Telegram.
 > Puerto: 6697
 > SSL/TLS: Habilitado
 
-* Si querés configurar Pidgin:
+* Si querés configurar el IRC en Pidgin:
 * <https://wiki.partidopirata.com.ar/Pidgin_con_IRC>
-
-Por favor recordá y tené presente nuestro **Código de camaradería**.
 
 ### Redes sociales
 
 No nos gustan las plataformas de redes sociales privativas.  Tenemos
 serias discusiones con el uso de Facebook, Twitter y demás, aunque
 mantengamos perfiles en algunas de esas plataformas, las tomamos como
-herramientas de difusión, no como herramientas de organización.
+herramientas de difusión, no como herramientas de organización. Seguinos en:
+
+* Diáspora\*: 
+* [partidopirataargentina@diaspora.com.ar](https://diaspora.com.ar/u/partidopirataargentina)
+* Mastodon: 
+* [@pip@todon.nl](https://todon.nl/@pip)
 
 ### Listas de correo
 
@@ -208,15 +284,6 @@ Cada participante tiene un color y mientras más colores haya quiere
 decir que un texto es más rico.  No borres los colores!
 
 * <https://pad.partidopirata.com.ar/>
-
-### RocketGatitOS GNU/Linux
-
-RocketGatitOS, es una distribucion de GNU/Linux basada en Fedora, cuyo
-objetivo es proveer herramientas de comunicaciones seguras por defecto.
-Posee complementos para el navegador que evitan la publicidad y el
-rastreo además de configuraciones seguras, y algunas otras mejoras.
-
-* <https://github.com/piratas-ar/RocketGatitos>
 
 ## Auto-formación
 
@@ -247,8 +314,6 @@ nuestra forma real de organizarnos (frente a, por ejemplo, aceptar un
 estatuto modelo pero verticalista y trabajar de "otra forma" en una red
 de confianza).
 
-* <https://utopia.partidopirata.com.ar/carta_organica_pirata.html>
-
 ### Wiki
 
 En la wiki pirata documentamos algunos procesos, guías y etc.
@@ -266,8 +331,25 @@ liberación.
 
 ### Grog&Tor
 
-Si tenés ganas de conocernos y/o aprender sobre herramientas de
-seguridad y privacidad, adoptar GNU en tu corazón y computadora,
-acercate a la próxima.  Sucede los segundos sábados de cada mes en el
-rango de 15 a 20hs.  El lugar es rotativo, estate atenta o preguntá en
-el [chat](#chat)!
+Si tenés ganas de conocernos y/o aprender sobre herramientas de seguridad y
+privacidad, adoptar GNU en tu corazón y computadora, acercate a la próxima.
+Sucede los segundos sábados de cada mes en el rango de 15 a 20hs. El lugar es
+rotativo, estate atenta en las [redes sociales](#redes-sociales), subscribite a
+los [correos de difusión](mailto:difusion-subscribe@asambleas.partidopirata.com.ar)
+o preguntá en el [chat](#chat)!
+
+---
+
+> "En la transmisión antigua el límite era la cantidad de espacio de las ondas
+> radiofónicas. Solo se podían transmitir 10 canales de televisión, e inclusive
+> con el cable, tenías 500 canales. En Internet todos pueden tener un canal.
+> (...) Todos tienen una forma de expresarse. La cuestión no es quién tiene
+> acceso a las ondas radiofónicas, sino **quién controla la forma de encontrar
+> personas.** Empiezas a ver que el poder se centra en sitios como Google [o
+> Facebook], estos guardianes que te dicen adónde debes ir en
+> Internet. La gente que te brinda las fuentes de noticias e información. No es
+> que cierta gente tiene licencia para hablar, ahora todos pueden hablar. La
+> cuestión es quién se hace escuchar" ([Aaron
+> Swartz](https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz),
+> 8/Noviembre/1986 – 11/Enero/2013).
+
