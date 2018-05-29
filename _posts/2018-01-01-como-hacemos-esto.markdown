@@ -38,7 +38,6 @@ Por ejemplo, en GNU+Linux Debian/Ubuntu/Mint:
 
 Para poder usar una version de ruby específica, en cualqier distro:
 
-
 ```
 git clone https://github.com/rbenv/rbenv.git ~/.rbenv
 cd ~/.rbenv && src/configure && make -C src
@@ -48,6 +47,7 @@ echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
 mkdir -p "$(rbenv root)"/plugins
 git clone https://github.com/rbenv/ruby-build.git "$(rbenv root)"/plugins/ruby-build
 rbenv install 2.3.6 # ver cual corresponde según ./Gemfile
+echo 'export RBENV_VERSION=2.3.6' >> ~/.bashrc # ó cd <repo>; rbenv local 2.3.6
 ```
 
 Bundler es un "administrador de paquetes" de/por/para Ruby.
