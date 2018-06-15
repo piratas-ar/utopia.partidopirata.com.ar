@@ -63,3 +63,6 @@ lsi: false
 
 torrent:
   file: utopiapirata.torrent
+
+collections:
+  - zines
