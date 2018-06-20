@@ -4,6 +4,7 @@ author: Las Plomeras de las Plataformas
 layout: post
 cover: "assets/covers/single/manifiesto_por_la_prevencion_de_datos.png"
 slider: "assets/covers/slider/manifiesto_por_la_prevencion_de_datos.png"
+signature: 0
 ---
 
 ![](assets/images/2016-12-20-manifiesto_por_la_prevencion_de_datos.png)
