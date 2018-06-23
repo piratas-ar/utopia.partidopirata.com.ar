@@ -55,8 +55,6 @@ pandoc:
         --include-in-header=_layouts/header.tex
         --include-before-body=_layouts/license.tex'
 
-destination: /srv/http/utopia.partidopirata.com.ar
-
 permalink: ":title.html"
 
 lsi: false

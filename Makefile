@@ -6,9 +6,9 @@ single := $(wildcard assets/covers/single/*.svg)
 slider := $(wildcard assets/covers/slider/*.svg)
 png    := $(patsubst %.svg,%.png,$(tapas) $(single) $(slider))
 
-destination := $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "puts c['destination']")
-srv          = $(dir $(destination))
-site        := utopia.partidopirata.com.ar
+destination := /srv/http/utopia.partidopirata.com.ar
+srv         := $(PWD)/_site
+site        := $(notdir $(destination))
 torrent     := $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "puts c['torrent']['file']")
 
 # All es el primero para que sea la opción por defecto
@@ -25,7 +25,8 @@ seed:
 
 release:
 	rsync -av --progress \
-	      $(destination)/ \
+				--delete-after \
+	      _site/ \
 	      $(site):$(destination)/
 
 bring:
@@ -49,3 +50,6 @@ assets/covers/single/%.png: assets/covers/single/%.svg
 
 assets/covers/%.png: assets/covers/%.svg
 	convert $< $@
+
+install:
+	$(MAKE) -C .targets/install install
