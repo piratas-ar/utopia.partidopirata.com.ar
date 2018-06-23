@@ -17,7 +17,7 @@ registrada en 0xacab.org](https://0xacab.org/profile/keys).
 Requisitos para trabajar en este repositorio
 --------------------------------------------
 
-* Ruby, Ruby-dev y Bundler
+* rbenv, ruby y bundler
 
 * TeXLive
 
@@ -25,45 +25,25 @@ Requisitos para trabajar en este repositorio
 
 * mktorrent
 
+* imagemagick
+
 * Fuentes de las tapas:
-	- Bitstream Vera
-	- League Gothic
+        - [Bitstream Vera] (https://www.dafont.com/es/search.php?q=Bitstream+Vera)
+        - [League Gothic](http://theleagueofmoveabletype.com/)
 
 Instalación
 -----------
 
-Por ejemplo, en GNU+Linux Debian/Ubuntu/Mint:
-
-`$ sudo apt install ruby ruby-dev texlive-full pandoc mktorrent`
-
-Para poder usar una version de ruby específica, en cualqier distro:
+Como los pasos de instalación son un poco complejos, los pusimos todos en un `Makefile`.  Si te interesa saber lo que hace, está todo en `.targets/install/Makefile`.
 
 ```
-git clone https://github.com/rbenv/rbenv.git ~/.rbenv
-cd ~/.rbenv && src/configure && make -C src
-echo 'export PATH="$HOME/.rbenv/bin:$HOME/.gem/ruby/2.3.6/bin:$PATH"' >> ~/.bash_profile
-echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
-. .bash_profile
-mkdir -p "$(rbenv root)"/plugins
-git clone https://github.com/rbenv/ruby-build.git "$(rbenv root)"/plugins/ruby-build
-rbenv install 2.3.6 # ver cual corresponde según ./Gemfile
-echo 'export RBENV_VERSION=2.3.6' >> ~/.bashrc # ó cd <repo>; rbenv local 2.3.6
+make install
 ```
-
-Bundler es un "administrador de paquetes" de/por/para Ruby.
-
-`$ gem install bundler`
-
-<!-- faltan pasos de instalar las tipografías -->
-
-Tras clonar este repositorio, correr `$ bundle install --path=~/.gems` dentro
-de la carpeta para instalar todo lo especificado en el `Gemfile` del
-repositorio, en la carpeta especificada en el parámetro `--path`.
 
 Compilar el sitio
 -----------------
 
-  `make test`
+  `make build`
 
 
 Tapas
@@ -79,6 +59,7 @@ superior. Hay templates o se usa alguna pasada.
 
 <!-- Como se hacen las tapas, poner plantillas en mejor lugar y/o q se copien
 dps de feature start. -->
+
 
 Cómo funciona
 -------------
@@ -302,5 +283,3 @@ Es sólo un editor de texto que puede usarse. Algunos pasos útiles son:
 Lo usamos para diseñar las tapas en el formato vectorial (SVG). Configurar
 Inkscape para que el tamaño por defecto sea en mm, en la ventana de propiedades
 del archivo.
-
-
