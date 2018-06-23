@@ -41,14 +41,18 @@ requisites: ## Instala las dependencias
 ~/.rbenv/versions/$(ruby_version)/bin/bundle:
 	source ~/.bash_profile ; gem install bundler
 
-rbenv_deps := ~/.rbenv ~/.rbenv/plugins \
+.bundle/config:
+	source ~/.bash_profile ; bundle install --path=~/.gems
+
+rbenv_deps   := ~/.rbenv ~/.rbenv/plugins \
 	~/.rbenv/plugins/ruby-build ~/.bash_profile \
 	~/.rbenv/versions/$(ruby_version) \
 	~/.rbenv/versions/$(ruby_version)/bin/bundle
-
-install_deps := requisites rbenv
+bundle_deps  := .bundle/config
+install_deps := requisites rbenv bundle
 
 rbenv: $(rbenv_deps)     ## Instala rbenv
+bundle: $(bundle_deps)   ## Instala bundle y las gemas
 install: $(install_deps) ## Instala todo el entorno de trabajo
 
 # Esta regla corre siempre aunque el archivo destino exista
