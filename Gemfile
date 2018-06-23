@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 
-ruby '2.3.6'
+ruby '2.5.1'
 
-gem 'libv8' #, '3.16.14.3'
+gem 'libv8'
 gem 'json'
 gem 'therubyracer'
 gem 'jekyll'
