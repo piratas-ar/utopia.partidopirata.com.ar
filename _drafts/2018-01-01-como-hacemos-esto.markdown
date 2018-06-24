@@ -28,22 +28,27 @@ Requisitos para trabajar en este repositorio
 * imagemagick
 
 * Fuentes de las tapas:
-        - [Bitstream Vera] (https://www.dafont.com/es/search.php?q=Bitstream+Vera)
-        - [League Gothic](http://theleagueofmoveabletype.com/)
+
+  * [Bitstream Vera] (https://www.dafont.com/es/search.php?q=Bitstream+Vera)
+  * [League Gothic](http://theleagueofmoveabletype.com/)
 
 Instalación
 -----------
 
-Como los pasos de instalación son un poco complejos, los pusimos todos en un `Makefile`.  Si te interesa saber lo que hace, está todo en `.targets/install/Makefile`.
+Como los pasos de instalación son un poco complejos, los pusimos todos
+en un `Makefile`.  Si te interesa saber lo que hace, está todo en
+`.targets/install/Makefile`.
 
-```
+```bash
 make install
 ```
 
 Compilar el sitio
 -----------------
 
-  `make build`
+```bash
+make build
+```
 
 
 Tapas
@@ -55,7 +60,9 @@ lleva el prefijo "cover\_" y la simple "single\_" para que jekyll los tome
 después.  El slider es una A7 apaisada, con la barra blanca a 20 mm. del margen
 superior. Hay templates o se usa alguna pasada.
 
-  `make tapas`
+```
+make tapas
+```
 
 <!-- Como se hacen las tapas, poner plantillas en mejor lugar y/o q se copien
 dps de feature start. -->
@@ -118,7 +125,14 @@ los libros digitales.
 Conocimientos básicos de Git y Markdown, hay [una guía
 acá](https://github.com/infopublica/git-md).
 
-También están los tutoriales interactivos de [git](https://trygit.com) y [github](https://lab.github.com) (recientemente nos hemos ido a gitlab, pero los conceptos son los mismos...) %TODO% citar diferencias entre github y gitlab, habia algo en la documentacion de gitlab... eran sutilezas en rededor a sentido comun (ponele)
+También están los tutoriales interactivos de [git](https://trygit.com) y
+[github](https://lab.github.com) (recientemente nos hemos ido a gitlab,
+pero los conceptos son los mismos...)
+
+TODO: citar diferencias entre github y gitlab, habia algo en la
+documentacion de gitlab... eran sutilezas en rededor a sentido comun
+(ponele)
+
 
 Notas al pie van como `[^nombre]` en el texto y después `[^nombre:]
 descripción` abajo.
@@ -132,10 +146,10 @@ descripción` abajo.
 
 ##### Ejemplo: post.html
 
-Jekyll usa liquid, permite escribir HTML puro con código en Ruby intercalado, y
-sus variables (por ejemplo "site-*". Ejemplo linea 11, un "for loop" (concepto
-de programación!) genera para cada post el encabezado con los links de descarga
-en otro formatos.
+Jekyll usa liquid, permite escribir HTML puro con código en Ruby
+intercalado, y sus variables (por ejemplo "site-\*". Ejemplo linea 11,
+un "for loop" (concepto de programación!) genera para cada post el
+encabezado con los links de descarga en otro formatos.
 
 * TODO: Ver repo "EDSL as platform".
 
@@ -224,11 +238,11 @@ Las bibliografías van tipo '[-@toffler-1970]' y a mano en el archivo 'ref.bib'.
 
 #### Makefile
 
-Tiene todos los comandos para compilar el sitio. Por ejemplo "bundle exec
-jekyll build".
+Tiene todos los comandos para compilar el sitio. Por ejemplo "bundle
+exec jekyll build".
 
-Para compilar sólo por la corrección de un artículo, es conveniente mover todos
-los posts a '_drafts/'.
+Para compilar sólo por la corrección de un artículo, es conveniente
+mover todos los posts a `_drafts/`.
 
 #### Fin?
 
@@ -243,15 +257,15 @@ Herramientas
 
 Para realizar traducciones colaborativas:
 
-* Abrimos un [pad nuevo](https://pad.partidopirata.com.ar/) con un nombre
-  claro.
+* Abrimos un [pad nuevo](https://pad.partidopirata.com.ar/) con un
+  nombre claro.
 * Pegamos el texto original.
-* Si no están separados, separamos cada parrafo con una linea vacía (es la
-  separación visual de los párrafos).
-* Borramos los colores (botón con ojo tachado o ctrl+shift+c) para empezar con
-  un pad limpio.
-* Empezamos a traducir cada párrafo debajo del párrafo original, para que
-  queden a la vista a la hora de corregir.
+* Si no están separados, separamos cada parrafo con una linea vacía (es
+  la separación visual de los párrafos).
+* Borramos los colores (botón con ojo tachado o ctrl+shift+c) para
+  empezar con un pad limpio.
+* Empezamos a traducir cada párrafo debajo del párrafo original, para
+  que queden a la vista a la hora de corregir.
 * Corregimos directamente sobre el texto, no tachamos!
 * Cuando terminamos, avisamos por el chat.
 * Cuando todas terminan, se pasa al repositorio git.
