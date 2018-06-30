@@ -40,6 +40,9 @@ en un `Makefile`.  Si te interesa saber lo que hace, está todo en
 `.targets/install/Makefile`.
 
 ```bash
+# instalar git y make con tu manejador de paquetes favorito
+git clone https://0xacab.org/utopias-piratas/utopia.partidopirata.com.ar
+cd utopia.partidopirata.com.ar
 make install
 ```
 
