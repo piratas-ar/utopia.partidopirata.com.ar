@@ -11,6 +11,6 @@ gem 'pdf_info'
 gem 'rtex'
 
 group :plugins do
-  gem 'jekyll-torrent'
+  gem 'jekyll-torrent', github: 'edsl/jekyll-torrent'
   gem 'jekyll-pandoc-multiple-formats', github: 'edsl/jekyll-pandoc-multiple-formats', branch: 'develop'
 end

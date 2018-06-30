@@ -8,6 +8,13 @@ GIT
       pdf_info (~> 0.5.0)
       rtex (~> 2.1.0)
 
+GIT
+  remote: git://github.com/edsl/jekyll-torrent.git
+  revision: 3bfcbaba1f0060449eba38c2495cb36eae601e35
+  specs:
+    jekyll-torrent (0.0.3)
+      jekyll
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -39,8 +46,6 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
-    jekyll-torrent (0.0.2)
-      jekyll
     jekyll-watch (2.0.0)
       listen (~> 3.0)
     json (2.0.2)
@@ -79,7 +84,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-pandoc-multiple-formats!
-  jekyll-torrent
+  jekyll-torrent!
   json
   libv8
   pdf_info
