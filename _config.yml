@@ -60,6 +60,7 @@ permalink: ":title.html"
 lsi: false
 
 torrent:
+  announce: random
   file: utopiapirata.torrent
 
 collections:
