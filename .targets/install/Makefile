@@ -10,7 +10,7 @@ install  := sudo pacman -Sy --noconfirm
 endif
 
 ifdef is_apt
-packages := build-essential texlive-full pandoc pandoc-citeproc openssl-dev readline-dev
+packages := build-essential texlive-full pandoc pandoc-citeproc libssl-dev libreadline-dev
 install  := sudo DEBIAN_FRONTEND=noninteractive apt install --assume-yes
 endif
 
