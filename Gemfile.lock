@@ -10,9 +10,9 @@ GIT
 
 GIT
   remote: git://github.com/edsl/jekyll-torrent.git
-  revision: b8c4597427d2376fc58b4b9d9fb1ada1d64513d9
+  revision: 81c9da4a740804109d0409b14aac8d522d7d46dd
   specs:
-    jekyll-torrent (0.0.5)
+    jekyll-torrent (0.0.5.1)
       jekyll
 
 GEM
