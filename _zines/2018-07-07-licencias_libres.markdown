@@ -255,7 +255,7 @@ Software:
 
 * [markdown](https://es.wikipedia.org/wiki/Markdown) con nuestro editor
   de texto preferido!
-* [pandoc](http://pandoc.org/], para convertir archivos markdown a
+* [pandoc](http://pandoc.org/), para convertir archivos markdown a
   diversos formatos (pdf, epub, etc.), usando plantillas
 * [inkscape](https://inkscape.org/es/), para diseñar y editar tapas en
   svg
