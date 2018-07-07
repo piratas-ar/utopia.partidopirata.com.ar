@@ -274,3 +274,16 @@ License_.
 
 * [The League of Movable Type [La liga de los tipos móviles]](https://www.theleagueofmoveabletype.com/)
 * [Font Library [Biblioteca de tipografías]](https://fontlibrary.org/)
+
+¡La copia comparte cultura!
+---------------------------
+
+Desde el PIP, sostenemos que _copiar no es robar_.  Cuando se hace una
+copia, nadie pierde y todas ganan.  Promovemos la copia como forma de
+compartir cultura y conocimiento.  Por eso, frente a esos horribles
+logos que arruinan los libros diciendo y amenazando que "la fotocopia
+mata el libro y es un delito", nosotras decimos que _la copia comparte
+cultura_.  Invitamos a todas las personas que comparten sus obras
+preferidas a cambiar ese tipo de logos por este otro, más adecuado:
+
+![](/assets/images/la_copia_comparte_cultura.png)
