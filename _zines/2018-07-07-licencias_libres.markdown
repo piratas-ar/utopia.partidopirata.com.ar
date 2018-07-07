@@ -174,10 +174,10 @@ sustentabilidad económica de colectivos y espacios de los que queremos
 ver más en el mundo.
 
 Si bien puede argumentarse que en estos casos lo mejor es usar una
-licencia copyleft como la CompartirIgual, Dmitry Kleiner, el autor del
+licencia copyleft como la CompartirIgual, Dmytri Kleiner, el autor del
 Manifiesto Telecomunista, nos dice que necesitamos ir más allá e
 implementar una licencia copyfarleft (ultra izquierda de copia, frente a
-la izquierda de copia, el _copylefT_) que cumpla las dos funciones,
+la izquierda de copia, el _copyleft_) que cumpla las dos funciones,
 impedir la mercantilización capitalista de la cultura a la vez que
 permite a colectivos y espacios donde no existe la explotación
 sustentarse económicamente.
@@ -189,7 +189,7 @@ explotación capitalista no existe, es decir que los colectivos
 autogestionados, las cooperativas y las empresas bajo control obrero
 tenemos una ventaja económica sobre el mercado capitalista a la hora de
 mantener vivos nuestros proyectos.  Esto también es parte de lo que
-desarrolla Dmitry Kleiner en el Manifiesto Telecomunista.
+desarrolla Dmytri Kleiner en el Manifiesto Telecomunista.
 
 ## El código fuente de las obras
 
