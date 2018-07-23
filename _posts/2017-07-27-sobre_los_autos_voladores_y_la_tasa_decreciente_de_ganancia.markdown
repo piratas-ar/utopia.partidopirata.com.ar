@@ -14,16 +14,15 @@ Sobre los autos voladores y la tasa decreciente de ganancia
 Una pregunta secreta flota sobre nosotras, una sensación de decepción,
 una promesa rota que nos fue hecha de niñas sobre cómo sería el mundo al
 convertirnos en adultas.  No me refiero a las falsas promesas estándar
-que son hechas siempre a las niñas (sobre cómo el mundo es justo o cómo
-aquellas que se esfuercen más serán las mejor recompensadas), sino a la
+que siempre nos hacen a las niñas sobre cómo el mundo es justo o cómo
+aquellas que se esfuercen más serán las mejor recompensadas, sino a la
 promesa generacional particular --hecha a las que fuimos niñas en los
 cincuenta, sesenta, setenta y ochenta-- que nunca fue articulada como
-tal, más bien fueron dadas como un conjunto de suposiciones respecto a
-cómo sería nuestro mundo adulto.  Y como nunca fue realmente prometida,
-ahora que no se ha convertido en realidad, nos hemos quedado
-confundidas: indignadas, pero al mismo tiempo, avergonzadas de nuestra
-propia indignación; avergonzadas, en primer lugar, de haber sido tan
-tontas en creer a nuestros mayores.
+tal, más bien dada como un conjunto de suposiciones respecto a cómo sería 
+nuestro mundo adulto.  Y como nunca fue realmente prometida, ahora que 
+no se ha convertido en realidad, nos hemos quedado confundidas: indignadas, 
+pero al mismo tiempo avergonzadas de nuestra propia indignación; avergonzadas, 
+en primer lugar, de haber sido tan tontas de creerle a nuestros mayores.
 
 En concreto, ¿dónde están los autos voladores?  ¿Dónde están los campos
 de fuerza, los rayos atractores, los podios de teletransportación, los
@@ -37,20 +36,20 @@ clonación o la criogenia-- terminaron traicionando sus amplias promesas.
 
 [^tricorder]: Los _tricorders_ son dispositivos portátiles de análisis y
   registro de datos en el universo de _Star Trek_.  (Nota de la
-  edición.)
+  edición).
 
 Estamos bien informadas de las maravillas de la informática, como si se
 tratara de una compensación no anticipada.  Pero de hecho la informática
 tampoco ha superado el estado de progreso que las personas de los '50
 esperaban que tuviera para el día de hoy.  No tenemos computadoras con
 las que mantener conversaciones interesantes o robots que paseen a
-nuestros perros ni lleven la ropa a la lavandería.
+nuestros perros y lleven la ropa a la lavandería.
 
 En tanto alguien que tenía ocho años cuando el _Apollo_ aterrizó en la
 luna, me recuerdo calculando que tendría treinta y nueve años en los
 mágicos 2000; y preguntándome cómo sería el mundo.  ¿Esperaba vivir en
 un mundo lleno de maravillas?  Por supuesto.  Todas lo esperaban.  ¿Me
-siento engañado ahora?  Parecía improbable que viviera para ver _todas_
+siento engañada ahora?  Parecía improbable que viviera para ver _todas_
 las cosas que leía en la ciencia ficción, pero nunca se me hubiera
 ocurrido que no llegaría a ver _ninguna_.
 
@@ -76,18 +75,18 @@ de las películas de ciencia ficción incluían fechas concretas, a menudo
 a no más de una generación en el futuro, para colocar sus fantasías
 futuristas.  En 1968, Stanley Kubrick sintió que las audiencias
 cinematográficas encontrarían perfectamente natural que 31 años después,
-en el 2001, tuviéramos vuelos comerciales a la luna, estaciones
-espaciales similares a ciudades y computadoras con personalidades
-humanas que mantuvieran a las astronautas en animación suspendida
-mientras viajan a Júpiter.  La vídeollamada es casi la única nueva
-tecnología de esa película que ha aparecido --y ya era técnicamente
-posible cuando se estrenó.  _2001_ puede ser vista como una curiosidad,
-¿pero qué pasa con _Star Trek_?  La mitología de _Star Trek_ se situaba
-en los sesenta también, pero el show siguió siendo revivido hasta dejar
-a las audiencias de _Star Trek Voyager_ en 2005, intentando dilucidar el
-hecho que de acuerdo con la lógica del programa, el mundo estaría
-recuperándose de la dictadura de los super hombres genéticamente creados
-en las Guerras Eugenésicas de los noventa.
+en el 2001, tuviéramos vuelos comerciales a la luna, ciudades en 
+estaciones espaciales y computadoras con personalidades humanas que 
+mantuvieran a las astronautas en animación suspendida durante un viaje 
+a Júpiter.  La vídeollamada es casi la única nueva tecnología de esa 
+película que ha aparecido --y ya era técnicamente posible cuando se 
+estrenó.  _2001_ puede ser vista como una curiosidad, ¿pero qué pasa 
+con _Star Trek_?  La mitología de _Star Trek_ se situaba en los sesenta 
+también, pero el show siguió siendo revivido hasta dejar a las audiencias 
+de _Star Trek Voyager_ en 2005, intentando dilucidar el hecho que de 
+acuerdo con la lógica del programa, el mundo estaría recuperándose de la 
+dictadura de los super hombres genéticamente creados en las Guerras 
+Eugenésicas de los noventa.
 
 Para 1989, cuando las creadoras de _Volver al Futuro II_ colocaban
 diligentemente autos voladores y patinetas anti-gravedad en las manos de
@@ -278,13 +277,13 @@ en 1969, un año antes de que publicara su libro.  A esta tasa, parecía
 razonable pensar que dentro de pocas décadas la humanidad estaría
 explorando otros sistemas solares.
 
-Pero desde 1970 no ha habido tal incremento.  El récord de velocidad
-máxima lo mantiene la tripulación de _Apollo 10_.  Es verdad que la
-aerolínea comercial _Concord_ que voló por primera vez en 1969, alcanzó
+Pero desde 1970 no ha habido tal incremento, wl récord de velocidad
+máxima lo mantiene la tripulación del _Apollo 10_.  Es verdad que la
+aerolínea comercial _Concord_, que voló por primera vez en 1969, alcanzó
 una velocidad de 2.200 km/h y el _Tupolev Tu-144_ soviético, que voló
 antes, alcanzó una velocidad aún más alta de 2.500 km/h.  Pero esas
-velocidades no han aumentado; solo han disminuido desde que el _Tupolev
-Tu-144_ fue cancelado y el _Concord_ fue abandonado.
+velocidades no han aumentado, solo han disminuido desde que el _Tupolev
+Tu-144_ fue cancelado y el _Concord_ abandonado.
 
 Nada de esto detuvo la carrera de Toffler que se mantuvo readaptando su
 análisis para hacer anuncios cada vez más espectaculares.  En 1980
@@ -360,7 +359,7 @@ tecnologías médicas e informáticas.
 Pero si hubo una tendencia conciente o semi-conciente hacia el
 desfinanciamiento de la investigación que podría haber llevado a mejores
 cohetes y robots y a su vez, a la correspondiente investigación que
-conduciría a las impresoras láser y la tomografía computada; seguramente
+condujo a las impresoras láser y la tomografía computada; seguramente
 había comenzado mucho antes que _El shock del futuro_ de Toffler (1970)
 y la _Riqueza y pobreza_ de Gilder (1981).  Lo que su éxito demuestra es
 que los problemas que nombraban --que los patrones existentes de
@@ -370,8 +369,8 @@ las estructuras de autoridad existentes-- hicieron eco en los pasillos
 del poder.  Los políticos y los capitanes de la industria habían estado
 pensando sobre estos problemas por un tiempo.
 
-El capitalismo industrial había criado una tasa de avances científicos e
-innovación tecnológica extremadamente rápida, sin paralelo previo en la
+El capitalismo industrial había críado una tasa de avances científicos e
+innovación tecnológica extremadamente rápida y sin paralelo previo en la
 historia de la humanidad.  Aun los mayores detractores del capitalismo,
 Karl Marx y Friedrich Engels, celebraban la liberación de las "fuerzas
 productivas".  Marx y Engels también creían que la necesidad continua
@@ -442,7 +441,7 @@ diseñado para hundir a la Unión Soviética, muchos de esos proyectos no
 perseguían una finalidad militar.  Como por ejemplo, el intento de
 solucionar el hambre mundial sembrando lagos y oceános con una bacteria
 comestible llamada _spirulina_ o solucionar el problema energético
-global lanzando cientos de plataformas solares al espacio y enviando la
+global lanzando cientos de plataformas solares al espacio y enviar la
 electricidad de vuelta hacia la Tierra.
 
 [^star-wars]: Fue un programa estadounidense que pretendía generar un
@@ -574,13 +573,13 @@ individuos específicos (Saddam, Osama, Qaddafi) aún cuando se lanzan
 cientos.  Y las armas de rayos no se han materializado, seguramente no
 por falta de intentos.  Podemos asumir que el Pentágono ha gastado miles
 de millones en investigación de rayos mortales, pero lo más cerca que
-han llegado hasta ahora es a lásers que podrían, apuntados
-correctamente, cegar a un enemigo que lo mirase directamente.  Aparte de
-ser antideportivos son patéticos: el láser es tecnología de los '50.
-Los _phasers_[^phasers] paralizadores no parecen estar en las pizarras
-de diseño.  Cuando se trata de combate de infantería, el arma preferida
-en casi todos lados sigue siendo la AK-47, un diseño soviético nombrado
-por el año de introducción: 1947.
+han llegado hasta ahora es a lásers que apuntados
+correctamente, podrían cegar a un enemigo que los mirase directo.  
+Aparte de ser antideportivos son patéticos: el láser es tecnología de 
+los '50.  Los _phasers_[^phasers] paralizadores no parecen estar en las 
+pizarras de diseño.  Cuando se trata de combate de infantería, el arma 
+preferida en casi todos lados sigue siendo la AK-47, un diseño soviético 
+nombrado por el año de introducción: 1947.
 
 [^phasers]: En el universo de _Star Trek_ se denomina _phaser_ a una
   tecnología de aplicación principalmente bélica.  Las armas de rayos
@@ -588,7 +587,7 @@ por el año de introducción: 1947.
   El ejército estadounidense se encuentra desarrollando armas similares
   con usos represivos "no letales"
   <https://en.wikipedia.org/wiki/Pulsed_energy_projectile> (Nota de la
-  edición.)
+  edición).
 
 La Internet es una innovación notable, pero de lo que estamos hablando
 es de una súper-rápida y globalmente accesible combinación de
@@ -786,7 +785,7 @@ científicos amateur.
 [^burbuja]: Ver
   <https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_del_Mar_del_Sur#Estalla_la_burbuja>
 
-El capitalismo corporativo burócratico contemporáneo, no fue creación de
+El capitalismo corporativo burocrático contemporáneo, no fue creación de
 Inglaterra, sino de Estados Unidos y Alemania, dos poderes rivales que
 pasaron la primer mitad del siglo XX luchando dos guerras sangrientas en
 torno a quién reemplazaría a Inglaterra como poder mundial dominante
@@ -813,7 +812,7 @@ completamente ubícuas que no las podemos ver o peor, no podemos hacer
 las cosas de otro modo.
 
 Las computadoras han jugado un rol crucial en este estrechamiento de
-nuestras imaginaciones sociales.  Así como las invenciónes de nuevas
+nuestras imaginaciones sociales.  Así como las invenciones de nuevas
 formas de automatización industrial en el siglo XVII o XIX han tenido el
 efecto paradójico de convertir más y más población del mundo en
 trabajadores industriales de tiempo completo, así también todo el
@@ -853,7 +852,7 @@ después que se inventaran los engranajes, el diseño de maquinaria
 compleja elaboró principios originalmente desarrollados para organizar
 personas.
 
-Sin embargo nosotras hemos visto esas máquinas --ya sea que sus partes
+Sin embargo, nosotras hemos visto esas máquinas --ya sea que sus partes
 móviles sean brazos y torzos o pistones, ruedas y resortes-- siendo
 puestas a trabajar en realizar fantasías imposibles: catedrales, viajes
 a la luna, trenes transcontinentales.  Ciertamente, las tecnologías
