@@ -49,7 +49,7 @@ cualquier otra computadora **y a su vez puede ser accedida** nunca se
 cumplió realmente.
 
 Las configuraciones tecnopolíticas de los servicios de Internet
-domésticos impiden que las redes sean realmente libre y distribuidas.
+domésticos impiden que las redes sean realmente libres y distribuidas.
 Entre estas trabas se cuentan el ancho de banda asimétrico, donde
 podemos bajar más datos de los que podemos subir; los puertos
 bloqueados, donde no podemos tener nuestros propios servidores de
