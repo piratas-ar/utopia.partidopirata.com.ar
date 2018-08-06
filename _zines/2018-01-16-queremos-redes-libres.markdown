@@ -13,15 +13,15 @@ signature: 0
   dinamicas, puertos bloqueados, NATs)
 * Qué queremos: redes libres
 
-En estos días, finalmente el gobierno de EE.UU. eliminó las protecciones
+En estos días finalmente el gobierno de EE.UU. eliminó las protecciones
 que impedían a los operadores distinguir y priorizar entre distintos
 tipos de tráfico en Internet.  Este fue el fin anunciado de la
 neutralidad de la red, ya que como consecuencia, los grandes
 conglomerados que manejan las redes podrían comenzar a discriminar el
-tráfico y crear un equivalente a los "paquetes" de canales que ofrecen
-los proveedores de TV por cable, donde algunos servicios comerciales
-tengan prioridad y sean más visibles, mientras que el acceso libre a
-todo lo demás que existe en Internet queda relegado a un segundo plano.
+tráfico y crear para Internet un equivalente a los "paquetes" de canales 
+que ofrecen los proveedores de TV por cable, donde algunos servicios 
+comerciales tengan prioridad y sean más visibles, mientras que el acceso 
+libre a todo lo demás quede relegado a un segundo plano.
 
 **El peligro: la invisibilización y censura de facto de medios
 alternativos y comunitarios.**
@@ -45,7 +45,7 @@ conocimiento.**
 Sin embargo, las piratas creemos que la red nunca fue neutra, por lo que
 el nombre puede resultar engañoso.  El famoso principio punta-a-punta de
 Internet, donde cada computadora conectada a la red puede acceder a
-cualquier otra computadora **y a su vez puede ser accedida** nunca se
+cualquier otra computadora **y a su vez puede ser accedida**, nunca se
 cumplió realmente.
 
 Las configuraciones tecnopolíticas de los servicios de Internet
@@ -58,22 +58,22 @@ cambian todo el tiempo y que si fueran estáticas nos permitirían
 publicar servicios (como web y correo, entre otros) desde nuestras casas
 sin depender de servidores externos.
 
-A esto se ha sumado en los últimos años la inspección de paquetes, para
+A todo esto se ha sumado en los últimos años la inspección de paquetes para
 debilitar nuestra capacidad de compartir archivos usando redes P2P y la
 pérdida de control sobre los módem-routers, que ahora solo pueden
 configurarse a través del soporte telefónico del proveedor de Internet.
 
-Se trata de un conjunto de medidas que han sido promovidas por la Web
-2.0.  Bajo esta lógica todas las cosas que queremos publicar, difundir y
-las conversaciones que queremos tener, pasan y se alojan permanentemente
-en las atractivas infraestructura de servicios de terceros como son
-Twitter y Facebook.
+Se trata de un conjunto de medidas que han sido promovidas por el régimen
+de la Web 2.0.  Bajo esta lógica todas las cosas que queremos publicar, 
+difundir y las conversaciones que queremos tener, pasan y se alojan 
+permanentemente en las atractivas infraestructura de servicios de terceros 
+como son Twitter y Facebook.
 
 Asimismo, una gran parte de la infraestructura sobre la que se sostiene
 Internet (el tendido de primera milla, los [cables
 interoceánicos](https://www.youtube.com/watch?v=QUmWOXRqJ_Y), por
 ejemplo) está en manos de un número cada vez más reducido de
-corporaciones.  La participación de los estados es acotada y, en muchos
+corporaciones.  La participación de los estados es acotada y en muchos
 casos, se ve influenciada por el lobby que hacen estas empresas.  Si la
 infraestructura de la que depende la red está en manos de un oligopolio,
 no puede ser neutra ni mucho menos ser controlada por sus usuarias.
@@ -116,9 +116,9 @@ Las redes libres y comunitarias son proyectos colectivos que surgen de
 la necesidad local de tener acceso a Internet (y/o del desafío técnico y
 político de tener una red propia) en aquellas zonas donde no hay un
 interés comercial.  Así surgieron proyectos como guifi.net en Catalunya,
-Delta y Quintana Libres en Argentina como redes inalámbricas con acceso
-comunitario a Internet o la red de telefonía celular comunitaria de
-Oaxaca, México.
+Delta y Quintana Libres en Argentina y la red de telefonía celular 
+comunitaria de Oaxaca, México, como experiencias de redes inalámbricas 
+con acceso comunitario a Internet y a las comunicaciones.
 
 Estas redes son gestionadas por sus comunidades, que toman las
 decisiones en relación a la infraestructura de red porque es construida
@@ -145,14 +145,14 @@ Sin embargo, si bien se observa un espíritu democratizador en el que el
 Estado se sitúa como el garante del "acceso universal" a las nuevas
 tecnologías (y lo que las hace posible de funcionar como tales) o
 regulador del mercado, esta normativa fue sancionada y promulgada hace
-varios años.  En la actualidad, el ejecutivo vía una mesa redactora
+varios años.  En la actualidad, el ejecutivo, vía una mesa redactora
 procura darle forma al anteproyecto de **Ley de Comunicaciones
 Convergentes**.  Este proyecto todavía no llegó al congreso, pero sus 17
 puntos iniciales publicados por el Ente Nacional de Comunicaciones
 (ENACOM) en julio del 2016 [generaron reacciones
 encontra](https://cpr.org.ar/article/a-que-llama-el-gobierno-comunicaciones-convergente/).
 
-El ejecutivo vía una mesa redactora chica procuró darle forma al
+Por otro lado, el ejecutivo, vía una mesa redactora chica, procuró darle forma al
 anteproyecto de **Ley de Comunicaciones Convergentes**.  En el segundo
 semestre del 2016 publicaron los 17 principios que regirían la nueva
 legislación y [generaron reacciones en contra de alguno de los sectores
@@ -186,20 +186,19 @@ V está dedicado enteramente a definir la neutralidad de la red, aunque
 **no aplica multas ni sanciones** como en otras infracciones.  También
 establece la inviolabilidad de las comunicaciones salvo pedido de un
 juez, a la vez que establece la conservación de **datos** y registros
-por al menos 3 años (artículo 155).  Como quien dice, una de cal y otra
-de arena.
+por al menos 3 años (artículo 155), ¡Pero se olvidaron del artículo 
+sobre el fomento de las redes comunitarias! Como quien dice, una de 
+cal y otra de arena.
 
-¡Encima se olvidaron del artículo sobre el fomento de las redes
-comunitarias!
 
 Si bien se trata de un documento preliminar, que un integrante de una
 mesa chica de redacción publicó en su blog personal (pese a los
 reiterados pedidos del Centro de Producciones Radiofónicas de tenerlo en
-mano) y que podría no ser el que llegue finalmente --luego de sendos
-pedidos de prórroga-- al Congreso ponemos el alerta en que se traiga a
+mano) y que podría no ser el que llegue finalmente al Congreso --luego de 
+sendos pedidos de prórroga-- ponemos el alerta en que se traiga a
 cuento cuando ya hay una normativa que regula estos aspectos de la
-neutralidad.  Sin dudas, que una de las prestadoras de telefonía celular
-privilegie el tráfico de Whatsapp (en detrimento de otras aplicaciones)
-nos pone en aviso de que a la administración actual del Estado no le
-importa mantener la neutralidad ni promover las redes libres y
-comunitarias gestionadas por sus usuarias.
+neutralidad.  Sin duda que el hecho de que una de las prestadoras de 
+telefonía celular privilegie el tráfico de Whatsapp (en detrimento de 
+otras aplicaciones) nos pone en aviso de que a la administración actual 
+del Estado no le importa mantener la neutralidad ni promover las redes 
+libres y comunitarias, gestionadas por sus usuarias.
