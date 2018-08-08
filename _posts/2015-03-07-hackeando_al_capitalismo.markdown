@@ -554,20 +554,20 @@ Se podría argumentar que el ciberespacio surgió en 1876 con el teléfono.
 Internet, como actualmente la conocemos, es comúnmente considerada como
 la fusión entre la telefonía y las computadoras. Destacando como
 antepasado de Internet a la telefonía, Bruce Sterling proclama
-alegremente que los primeros hackers eran los jóvenes empleados como
-telefonistas por las compañías telefónicas. Estos muchachos bromeaban al
-conectar a los clientes y pronto fueron sustituidos por personal
-femenino, más fiable.[^nota21] Esta anécdota histórica está de acuerdo
+alegremente que las primeras hackers eran jóvenes empleadas, telefonistas
+de las compañías telefónicas. Estas muchachas bromeaban al
+conectar a las clientas y pronto fueron sustituidas por personal
+femenino, más fiable[^nota21]. Esta anécdota histórica está de acuerdo
 con la representación del hacking que se inculca a través de los medios
 de comunicación. El hacking es regularmente reducido a una maniobra
-masculina apolítica, de picardía juvenil, y, en última instancia, se
+masculina apolítica, de picardía juvenil y en última instancia, se
 enmarca como una cuestión a controlar. Con el fin de destacar la
 dimensión política del hacking, es conveniente delinear un "pasado
-mítico" diferente de los hackers. Esta historia también comienza con la
+mítico" diferente de las hackers. Esta historia también comienza con la
 invención del teléfono. Graham Bell no era sólo un inventor destacado,
 sino también un precursor en el ejercicio de sus derechos de patentes.
 El modelo de negocios que su familia construyó alrededor de las patentes
-no fue menos profético. Los teléfonos fueron arrendados en lugar de
+no fue menos profético. Los teléfonos fueron alquilados en lugar de
 venderse a los clientes y el servicio monopólico se proporcionó a través
 de una red de filiales en franquicia. Con todo esto, Graham Bell
 estableció uno de los monopolios más controvertidos y de larga data en
@@ -578,77 +578,77 @@ mientras que las zonas rurales quedaron en el camino. El teléfono
 hubiera tenido mayor impacto en la vida en el campo, pero no era
 rentable para las empresas conectar caseríos distantes. Mucho antes de
 que expirara la patente de Bell, los agricultores comenzaron a construir
-sus propias líneas telefónicas, a veces utilizando alambre de la cerca
+sus propias líneas telefónicas, a veces utilizando el alambre del cercado
 para pasar la señal de una granja a otra. El movimiento se extendió
 rápidamente en las zonas rurales. El primer censo telefónico realizada
 en 1902 contó más de 6.000 pequeñas líneas y cooperativas de
 agricultores. A través de los años, se incorporaron las líneas de
-agricultores en el sistema de marcación nacional.[^nota22] El
-paralelismo directo de estos agricultores hoy en día son los activistas
+agricultoras en el sistema de marcación nacional [^nota22]. El
+paralelo directo de estas agricultoras hoy en día son las activistas
 de la comunidad que establecen acceso inalámbrico gratuito a Internet en
-sus barrios. Tanto los agricultores como los hackers demuestran el
-ingenio de los trabajadores, para esquivar obstáculos y para apropiarse
-de las herramientas adecuadas (eludiendo incluso las cercas de alambre)
+sus barrios. Tanto las agricultoras como las hackers demuestran el
+ingenio de las trabajadoras, para esquivar obstáculos y para apropiarse
+de las herramientas adecuadas (eludiendo incluso el cerco de alambre)
 para sus propios fines. Esta interpretación es bastante compatible con
 el sentido original del término *hacking*. Esta palabra fue usada por
 primera vez por científicos de la computación en la década del´50 para
 expresar su aprobación ante una solución ingeniosa y divertida de un
 problema técnico. Estos pocos privilegiados disfrutaron de una gran
 cantidad de autonomía para investigar y "hackear" al tener acceso a
-equipos costosos. Tras el final de la guerra fría, cuando el
-equipamiento informático se abarató, mientras que los investigadores
+equipos costosos. Tras el final de la guerra fría --cuando el
+equipamiento informático se abarató--, mientras que los investigadores
 perdieron gran parte de su antigua autonomía, la diversión de jugar con
-las computadoras fue recogida por grupos al margen de las instituciones,
+las computadoras fue recogida por grupas al margen de las instituciones,
 por personas que se hacían llamar a sí mismas hackers. Aunque este libro
-trata principalmente de este último grupo, la historia comienza en el
-laboratorio de ciencias. Los lectores que estén familiarizados con el
+trata principalmente de esta última grupa, la historia comienza en el
+laboratorio de ciencias. Las lectoras que estén familiarizadas con el
 desarrollo histórico de Internet pueden saltearse esta sección.
 
 John Naughton sugiere un tiempo y un lugar que puede establecerse
 claramente como trampolín para la fusión de la informática y la
 telefonía, para después convertirse en Internet: el próspero entorno
-experimental del Massachusetts Institute of Technology (MIT) antes y
-durante las dos Guerras Mundiales.[^nota23] Cuando Vannevar Bush
+experimental del _Massachusetts Institute of Technology_ (MIT) antes y
+durante las dos Guerras Mundiales [^nota23]. Cuando Vannevar Bush
 completó el primer *Analizador Diferencial* en 1928, éste era un
 compartimiento repleto de engranajes y cilindros de presión. La máquina
-fue utilizada para las ecuaciones avanzadas en proyectos de ingeniería y
-para el cálculo de trayectorias balísticas para los militares. Construir
-tal computadora representó una gran inversión económica solamente al
+fue utilizada para ecuaciones avanzadas en proyectos de ingeniería y
+para el cálculo de trayectorias balísticas militares. Construir
+tal computadora representó una gran inversión económica, solamente al
 alcance de las más grandes instituciones. A pesar de los inmensos
 costos, el equipo sólo pudo realizar un conjunto limitado de operaciones
 de cálculo y cada uno tuvo que ser cableado en la máquina. Cambiar una
 instrucción o corregir un error significaba reemplazar físicamente los
-componentes de hardware. La rentabilidad de los recursos informáticos
+componentes del _hardware_. La rentabilidad de los recursos informáticos
 hubieran mejorado mucho si las computadoras hubiesen sido más flexibles.
-Esto requería una arquitectura donde se le permitiera al hardware
+Esto requería una arquitectura donde se le permitiera al _hardware_
 aceptar instrucciones y modificar sus cálculos a partir del código de
-software. Norbert Wiener, considerado el fundador de la cibernética,
+_software_. Norbert Wiener, considerado el fundador de la cibernética,
 diagramó un bosquejo de dicha computadora y sus ideas fueron
-implementadas a finales de la Segunda Guerra Mundial. Los científicos
-del MIT pretendían obtener una simbiosis profunda entre el hombre y la
+implementadas a finales de la Segunda Guerra Mundial. Las científicas
+del MIT pretendían obtener una simbiosis profunda entre la humana y la
 máquina. Acortando los ciclos de retroalimentación entre las
-computadoras y los usuarios, esperaban llegar al punto de que las
-máquinas funcionaran como un complemento para el cerebro humano. La
+computadoras y las usuarias, esperaban llegar al punto de que las
+máquinas funcionaran como un complemento para el cerebro de las humanas. La
 computadora podría realizar cálculos complejos y monótonos liberando a
-los seres humanos para que ellos pudieran dedicarse a la exploración
-innovadora y asociativa. Este sueño se vio frenado por el equipo de
-diseño de la época. A las computadoras, que realizaban procesamiento por
-lotes, se les ingresaba un conjunto de instrucciones que tenían que
-completarse para poder avanzar, sin permitir interrupciones humanas. Si
-algo salía mal el investigador no tenía más remedio que volver a
-escribir el programa y comenzar de nuevo desde cero.
+las humanas para que pudieran dedicarse a la exploración innovadora y 
+asociativa. Este sueño se vio frenado por el equipo de diseño de la época. 
+A las computadoras, que realizaban procesamiento por lotes, se les ingresaba 
+un conjunto de instrucciones que tenían que completarse para poder avanzar, 
+sin permitir interrupciones humanas. Si algo salía mal, la investigadora no 
+tenía más remedio que volver a escribir el programa y comenzar de nuevo 
+desde cero.
 
 Una solución a esta dificultad se encontró en un diseño alternativo: las
-computadoras de tiempo compartido. Como varios usuarios podían compartir
+computadoras de tiempo compartido. Como varias usuarias podían compartir
 la capacidad de cálculo de un equipo, se concretaron varias ventas. La
 ventaja era que ahorraba un recurso muy caro, el tiempo de cálculo
 informático. Más tarde, el principio de tiempo compartido se extendió
-más allá de los confines del equipo, desde algunos usuarios compartiendo
-una sola computadora en un lugar hasta muchos usuarios en un área amplia
-agrupados y compartiendo sus recursos combinados de computación. Esta
+más allá de los confines del equipo, desde algunas usuarias compartiendo
+una sola computadora en un lugar hasta muchas usuarias en un área amplia,
+agrupadas y compartiendo sus recursos combinados de computación. Esta
 idea se le ocurrió a Bob Taylor, quien presidió la Agencia de Proyectos
 de Investigación Avanzada (ARPA), organización que se había creado a
-raíz del lanzamiento del Sputnik. Dicha organización era parte de la
+raíz del lanzamiento del _Sputnik_. Dicha organización era parte de la
 política estadounidense para alcanzar a la Unión Soviética en la carrera
 por la supremacía tecnológica. Bob Taylor se había dado cuenta de que
 ARPA poseía una gran cantidad de terminales de computadoras que no
@@ -658,12 +658,12 @@ plan se estancó por el hecho de que sus terminales no se habían
 fabricado con la intención de comunicarse unas con otras. Por otra
 parte, la complejidad del sistema crecía exponencialmente con cada nuevo
 equipo añadido al cluster. Para superar estos dos problemas, la
-incompatibilidad y la complejidad, los investigadores de ARPA colocaron
+incompatibilidad y la complejidad, las investigadoras de ARPA colocaron
 nodos intermedios entre las terminales. Los nodos consistían en pequeñas
 computadoras que servían como administradores de red; recibían y
 enviaban datos, comprobaban errores y verificaban que los mensajes
 llegaban a los destinos previstos. Los nodos salvaban las
-incompatibilidades de las terminales de los usuarios finales en forma
+incompatibilidades de las terminales de las usuarias finales en forma
 descentralizada. Al dispersar la inteligencia hacia los bordes de la
 red, en lugar de recoger información sobre todo el sistema en un
 servidor y administrar todos los intrincados detalles de la red desde
@@ -675,23 +675,23 @@ La noción común de que Internet se origina en el Pentágono es en parte
 engañosa. Es correcto, sin embargo, que una teoría de modos de
 comunicación en red había sido ideada previamente a ARPA por una
 organización afiliada al Pentágono. La persona detrás de esta hazaña fue
-Paul Baran y su empleador era Research ANd Development, RAND
-(Investigación y desarrollo). El holocausto nuclear era el ámbito de la
-política de los estrategas de RAND.[^nota24] Una de las principales
+Paul Baran y su empleador era _Research ANd Development_ (RAND,
+Investigación y Desarrollo). El holocausto nuclear era el ámbito de la
+política de los estrategas de RAND [^nota24]. Una de las principales
 preocupaciones de los suyos eran las consecuencias de un primer ataque
 nuclear. Un primer ataque, o un accidente para el caso, podrían cortar
 las conexiones entre el comando central y los silos de misiles. La mera
-posibilidad de tal resultado creaba incertidumbre y ponía en peligro a
-la doctrina de destrucción mutua asegurada MAD (Mutual Assured
-Destruction). Por lo tanto, un sistema de comunicación flexible era
+posibilidad de tal resultado creaba incertidumbre y ponía en peligro
+la doctrina de destrucción mutua asegurada _Mutual Assured
+Destruction_ (MAD). Por lo tanto, un sistema de comunicación flexible era
 fundamental para garantizar la capacidad de represalia. La
 vulnerabilidad se encontraba en la única línea que transmitiría el
 mensaje: 'fuego', o: 'Alto el fuego'. Por lo tanto, el modelo concebido
 por Paul Baran se distanciaba en la medida de lo posible de una
-infraestructura de comunicación centralizado. En una red todos los nodos
+infraestructura de comunicación centralizada. En una red todos los nodos
 están vinculados con sus vecinos y se dispone de rutas alternativas para
 conectar el origen con su destino. Baran esbozó su plan en 1962, pero se
-encontró con la oposición de la compañía telefónica AT&T. Esta compañía
+encontró con la oposición de la compañía telefónica _AT&T_. Esta compañía
 estaba profundamente arraigada en la tecnología de telecomunicaciones
 analógicas y obstruyó la construcción de la infraestructura que el
 sistema de Baran requiere. En la comunicación analógica, los sistemas de
@@ -703,27 +703,27 @@ paquetes se vuelven a ensamblar y se juntan de modo que aparezca en el
 receptor como un flujo continuo de sonido. La idea de Baran exigía un
 sistema de comunicación digital, donde la señal se dividiera en paquetes
 de información y cada uno pudiera decidir individualmente cual era la
-mejor ruta para viajar. Si un canal estuviera bloqueado el paquete
-podría tomar una ruta diferente. Debido a la resistencia de AT&T, los
+mejor ruta para viajar. Si un canal estuviera bloqueado, el paquete
+podría tomar una ruta diferente. Debido a la resistencia de _AT&T_, los
 planes de Paul Baran permanecieron en un cajón y no se supo del trabajo
-de ARPA hasta mucho más tarde.[^nota25]
+de ARPA hasta mucho más tarde[^nota25].
 
 Hacia el final de la década del '60, ARPA construyó la primera conexión
-entre computadoras y la llamó ARPANET. Esta red enlazaba un pequeña
+entre computadoras y la llamó _ARPANET_. Esta red enlazaba una pequeña
 selección de universidades y bases militares. Durante mucho tiempo se
 mantuvo un círculo exclusivo limitado a los niveles académicos y
 militares superiores. A través de los años, sin embargo, otras redes
-comenzaron a surgir en los EE.UU. y otros países. El servicio Télétel en
+comenzaron a surgir en los EE.UU. y otros países. El servicio _Télétel_ en
 Francia es el ejemplo más conocido, aunque también se hicieron ensayos
-con menor éxito en Inglaterra y Alemania. Télétel fue implementado por
+con menor éxito en Inglaterra y Alemania. _Télétel_ fue implementado por
 la compañía telefónica francesa en 1982 después de muchos años de
-pruebas. Las terminales, conocidas como Minitel, se repartieron de forma
+pruebas. Las terminales, conocidas como _Minitel_, se repartieron de forma
 gratuita con la intención de reemplazar a las guías telefónicas
-impresas. En el nuevo sistema, los usuarios encontrarían rápidamente la
-manera de comunicarse unos con otros a través de sus Minitel. La mayor
-parte del tráfico fue impulsado por las conversaciones entre los
-usuarios y las carteleras de avisos eróticos, llamadas "messageries
-roses".[^nota26] Internet, la red de redes, surgió cuando estos grupos
+impresas. En el nuevo sistema, las usuarias encontrarían rápidamente la
+manera de comunicarse unas con otras a través de sus _Minitel_. La mayor
+parte del tráfico fue impulsado por las conversaciones entre las
+usuarias y las carteleras de avisos eróticos, llamadas "_messageries
+roses_" [^nota26]. Internet, la red de redes, surgió cuando estos grupos
 de redes aisladas se unieron entre sí. Para hacer frente a una creciente
 diversidad de las normas, Robert Kahn y Vint Cerf diseñaron un sistema
 de pasarelas a mediados de la década del '70. El protocolo de control de
@@ -732,10 +732,10 @@ condujeron el tráfico a través de las numerosas redes de Internet.
 
 El aumento de la flexibilidad de los equipos informáticos permitió
 importantes avances en la utilización de las computadoras que se
-realizaron únicamente en el nivel de código de software. Esto a su vez
+realizaron únicamente al nivel del código del _software_. Esto a su vez
 implicó menores costos de innovación y por lo tanto, menor dependencia
 del gobierno o del apoyo de las empresas. UNIX es un hito en la historia
-del desarrollo de software pero también es un arquetipo parcial del lado
+del desarrollo de _software_ pero también es un arquetipo parcial del lado
 institucional.[^nota27] Los dos entusiastas responsables de UNIX, Ken
 Thompson y Dennis Ritchie, habían estado trabajando en un sistema
 operativo para el Laboratorio Bell, una filial de AT&T, desde hacía
@@ -743,32 +743,32 @@ algún tiempo. Se habían desanimado y comenzaron entonces su propio
 experimento a pequeña escala para construir un sistema operativo. Este
 pasatiempo se desarrolló en paralelo a su trabajo bajo la tutela de la
 compañía telefónica norteamericana. Unix creció rápidamente en
-popularidad. y llegó a ser tan ampliamente utilizado por el personal de
+popularidad y llegó a ser tan ampliamente utilizado por el personal de
 AT&T que la compañía finalmente lo aprobó. Por otra parte, también
-comenzó a ser conocido entre los usuarios externos a la compañía
+comenzó a ser conocido entre las usuarias externas a la compañía
 telefónica. Un acuerdo antimonopolio en 1956 contra AT&T resultó de suma
 importancia para el éxito de UNIX. Como parte de esta resolución la
 compañía de teléfonos se comprometió a no ingresar al negocio de las
-computadoras. A AT&T se lo prohibió la venta de UNIX o cobrar una tarifa
-más alta por la transmisión mediante computadoras que por medio de sus
-líneas telefónicas. En consecuencia, UNIX pudo ser distribuido
-libremente y se volvió muy popular en las universidades y en el sector
-privado. La explicación de John Naughton acerca de los motivos del éxito
-del sistema operativo es muy instructiva: "La razón principal fue que
-era el único sistema operativo de gran alcance que podía ejecutarse en
-las minicomputadoras de bajo costo que los departamentos universitarios
+computadoras. A AT&T se lo prohibió la venta de UNIX o cobrar, por la 
+transmisión mediante computadoras, una tarifa más alta a la de sus líneas 
+telefónicas. En consecuencia, UNIX pudo ser distribuido libremente y se 
+volvió muy popular en las universidades y en el sector privado. La 
+explicación de John Naughton acerca de los motivos del éxito del sistema 
+operativo es muy instructiva: "La razón principal fue que era el único 
+sistema operativo de gran alcance que podía ejecutarse enlas 
+minicomputadoras de bajo costo que los departamentos universitarios 
 podían pagar. Debido a que el código fuente estaba incluido, *y la
 licencia de AT&T incluía el derecho a modificarlo y compartir los
-cambios con otros titulares de licencias*, los académicos podían
+cambios con otras titulares de licencias*, las académicas podían
 manipularlo a su antojo, adaptándolo a las necesidades particulares de
-sus sitios."[^nota28] Esto explica que UNIX fuera diseñado para
+sus sitios".[^nota28] Esto explica que UNIX fuera diseñado para
 ejecutarse en computadoras relativamente baratas, ya que se desarrolló
-en los equipos de los usuarios con acceso limitado a las instalaciones a
+en los equipos de las usuarias con acceso limitado a las instalaciones a
 gran escala. El mismo patrón se repitió una vez más cuando el programa
 UNIX original de AT&T derivó en las versiones de BSD UNIX, y más tarde
 inspiró GNU/Linux. En estos tiempos el código fue escrito en los equipos
-que estaban disponibles para usuarios individuales. El uso de
-computadoras personales para escribir software debe haberse sentido como
+que estaban disponibles para usuarias individuales. El uso de
+computadoras personales para escribir _software_ debe haberse sentido como
 un impedimento en ese momento. Y sin embargo, el acceso de las pequeñas
 computadoras fue el factor clave para el éxito final de los sistemas
 operativos como UNIX, BSD y GNU/Linux. Esto debe ser destacado, ya que
@@ -776,19 +776,19 @@ pone de relieve dos importantes lecciones. En primer lugar, el éxito de
 esta tecnología a menudo se encuentra en relación inversa con el tamaño
 de capital fijo (por ejemplo, maquinaria e instalaciones) que se
 invierte en ella. En segundo lugar, como consecuencia de la anterior,
-mucha de la tecnología informática ha avanzado por los aficionados que
+mucha de la tecnología informática ha avanzado por las aficionadas que
 la empleaban, al menos en parte, independientemente de las instituciones
-y de las corporaciones. Los usuarios se unieron en un esfuerzo
+y de las corporaciones. Las usuarias se unieron en un esfuerzo
 colaborativo para mejorar UNIX, corregir los errores, hacer las
-extensiones, y para compartir el resultado con los otros. Este ambiente
+extensiones, y para compartir el resultado con las otras. Este ambiente
 de intercambio y apoyo mutuo fue impulsado en la década de 1980, gracias
 a la invención de un protocolo para sistemas UNIX para compartir
 archivos a través de la línea telefónica. Esto facilitó la construcción
 de la comunidad y fomentó los valores que presagiaban los
 acontecimientos posteriores. Con la opción de conectar las computadoras
 sobre la infraestructura telefónica, una comunicación más barata y
-accesible que el canal de ARPANET se había creado. El escenario estaba
-listo para la aparición de los hackers.
+accesible que el canal de _ARPANET_ se había creado. El escenario estaba
+listo para la aparición de las hackers.
 
 ## La historia del underground informático
 
