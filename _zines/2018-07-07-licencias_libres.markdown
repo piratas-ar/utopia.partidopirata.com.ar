@@ -15,15 +15,15 @@ Para más información: <https://freedomdefined.org/Definition/Es>
 
 Una obra (una película, un documental, una novela, un poema, una
 fotografía, un tema, una pintura...) se considera libre cuando permite a
-todas las personas que no son las autoras ni las detentadoras de los
-derechos sobre la obra (en general, grandes conglomerados de empresas
-que venimos a llamar las industrias culturales) no solo apreciarla tal
-cual está, sino modificarla, adaptarla, distribuirla, traducirla,
-remixarla, mezclarla con otras obras también libres para generar más
+todas las personas que no son las autoras ni las detentadoras de sus
+derechos (en general, grandes conglomerados de empresas que venimos a 
+llamar las industrias culturales), no solo apreciarla tal cual está, 
+sino modificarla, adaptarla, distribuirla, traducirla, remixarla, 
+mezclarla con otras obras -también de caracter libre- para generar más 
 obras libres.
 
-Tienen que cumplir cuatro requisitos u otorgar cuatro libertades
-básicas:
+Para ser libres las obras tienen que cumplir cuatro requisitos u otorgar 
+cuatro libertades básicas:
 
 * Poder usar, ejecutar o interpretar la obra con cualquier propósito, en
   público o en privado, sin excepciones.
@@ -40,7 +40,7 @@ inversión de la "derecha de copia" o _copyright_) porque salvaguardan la
 apropiación de las obras libres añadiendo una condición de reciprocidad:
 las obras, modificadas o no, deben mantener los mismos términos de su
 liberación.  En la práctica, mantener la misma licencia.  Esto produce
-que haya cada vez más obras en el bien común y se promueva una cultura
+que haya cada vez más obras en el bien común y que se promueva una cultura
 de libre cooperación.
 
 Existen otras licencias que limitan o restringen estas libertades y que
@@ -55,12 +55,11 @@ registro es opcional, solo nos da la seguridad de tener una fecha para
 dirimir un plagio y una forma de recaudar del estado.
 
 Las licencias son contratos legales que se aplican sobre ese derecho de
-autora.  No lo reemplazan sino que lo ejercen de forma que el derecho de
-autora ya no sea monopólico sino que pase a ser un bien común.  Como
-autoras ejercemos el derecho monopólico de autora sobre nuestras obras
-para liberarlas.  Por eso si alguien no cumple con los términos de la
-licencia, la licencia deja de valer, pero siguen valiendo los derechos
-de autora.
+autora.  No lo reemplazan, sino que lo ejercen de forma que el derecho de
+autora ya no sea monopólico y pase a ser un bien común.  Como autoras 
+ejercemos el derecho monopólico de autora sobre nuestras obras para 
+liberarlas.  Por eso si alguien no cumple con los términos de la licencia, 
+la licencia deja de valer, pero siguen valiendo los derechos de autora.
 
 Para elegir una licencia libre solo es necesario ponerla bien visible en
 la publicación, ej: "Este zine se licencia bajo la CC-BY-SA" y el link
@@ -77,16 +76,16 @@ Guarda con el término "No comercial" porque es engañoso.  En el texto
 legal no significa "sin fines de lucro" que es la razón por la que la
 mayoría de la gente las elije, sino que legalmente impide cualquier
 intercambio de dinero.  Si otras personas imprimieran el zine para
-difundirlo, ni siquiera podrían cobrar por el costo de reproducción; si
-un centro cultural quiere pasar una pelicula licenciada como no
-comercial, no podría ni vender comida ni bebida para sostener el
-espacio...
+difundirlo, ni siquiera podrían cobrar por el costo de reproducción.  
+Es decir, si por ejemplo, un centro cultural quiere pasar una pelicula 
+licenciada como no comercial, no podría ni vender comida ni bebida para 
+sostener el espacio...
 
 Los términos "sin derivadas" pueden ser tentadores para las personas que
 piensan que liberar una obra habilita al resto del mundo a
 tergiversarla.  Pero una obra derivada puede ser una re-edición, una
 traducción, ilustrarla, adaptarla, grabarla, remixarla con otros
-medios... si alguien nos quiere cagar no le va a importar la licencia.
+medios... 
 
 Recomendamos elegir la CC-BY-SA (Atribución-CompartirIgual).  Esto hace
 que cualquier modificación tenga que tener la misma licencia, nadie
@@ -119,17 +118,17 @@ de financiamiento y la brecha digital.  La gente con acceso a materiales
 con licencias libres pueden distribuirlos con un pequeño beneficio
 usando medios más tradicionales como las fotocopias o la grabación de
 CD.  Los centros culturales independientes pueden proyectar películas
-libres y sostener el espacio vendiendo bebida y comida o una entrada.
-Las colectivas autogestivas pueden jugar un papel claramente beneficioso
-en la expansión del conocimiento libre y la cultura libre.  Las obras
-pueden ser traducidas para ayudar a difundirlas y superar brechas de
-idioma o de accesibilidad.
+libres y sostener el espacio vendiendo bebida y comida, pidiendo un 
+aporte o cobrando una entrada.  Las colectivas autogestivas pueden jugar 
+un papel claramente beneficioso en la expansión del conocimiento libre y 
+la cultura libre.  Las obras pueden ser traducidas para ser difundidas y 
+superar brechas de idioma o de accesibilidad.
 
 Una licencia NC detiene en origen cualquier tentativa de añadir valor.
 Pero hay una alternativa.  Las licencias copyleft de Creative Commons
 requieren que todo trabajo derivado del suyo se haga disponible como
 obras libres en su totalidad.  Cualquier empresa que intente explotarnos
-tendrá que poner su «valor añadido» libremente disponible a todo el
+tendrá que poner su «valor agregado» libremente disponible a todo el
 mundo.  El "riesgo" de explotación capitalista disminuye, porque los
 capitalistas no van a liberar las mercancías o si lo hicieran, serían
 libremente re-apropiables por nosotras.  El ejemplo más común que
@@ -145,7 +144,7 @@ capitalista sin retribución.
 
 Las licencias NC parecieran cumplir el mismo efecto de detener la
 explotación, pero en verdad limitan más la capacidad de las economías
-autogestionadas, de pares, de sostenerse que la capacidad de las
+autogestivas y de pares para poder sostenerse que la capacidad de las
 Evil-Corp de apropiarse de nuestras obras.  Al usar una licencia NC,
 estamos coartando cualquier estrategia de sostenibilidad.
 
