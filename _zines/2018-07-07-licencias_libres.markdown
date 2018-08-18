@@ -283,6 +283,9 @@ compartir cultura y conocimiento.  Por eso, frente a esos horribles
 logos que arruinan los libros diciendo y amenazando que "la fotocopia
 mata el libro y es un delito", nosotras decimos que _la copia comparte
 cultura_.  Invitamos a todas las personas que comparten sus obras
-preferidas a cambiar ese tipo de logos por este otro, más adecuado:
+preferidas a cambiar ese tipo de imágenes por una más adecuada como la
+que ves en la contraportada y que podés descargar de acá:
 
-![](/assets/images/la_copia_comparte_cultura.png)
+<https://utopia.partidopirata.com.ar/assets/images/la_copia_comparte_cultura.png>
+
+![](/assets/covers/contra_licencias_libres.png)
