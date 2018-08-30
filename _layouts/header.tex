@@ -65,7 +65,6 @@
 % re-definir \includegraphics para que todas las imagenes esten a sangre
 % en una pagina aparte
 \usepackage{eso-pic}
-\usepackage{xstring}
 \let\latexincludegraphics\includegraphics
 \renewcommand{\includegraphics}[2][]{%
   \newpage
@@ -73,18 +72,5 @@
   \null
   \AddToShipoutPicture*{%
     \put(0,0){\latexincludegraphics[width=\paperwidth,height=\paperheight]{#2}}}
-  \newpage
-}
-
-\newcommand{\slugify}[1]{%
-  \StrSubstitute{#1}{ }{-}[\TEMP]%
-  \MakeLowercase{\TEMP}
-}
-
-\def\maketitle{%
-  \thispagestyle{empty}
-  \null
-  \AddToShipoutPicture*{%
-    \put(0,0){\latexincludegraphics[width=\paperwidth,height=\paperheight]{assets/covers/licencias_libres.png}}}
   \newpage
 }

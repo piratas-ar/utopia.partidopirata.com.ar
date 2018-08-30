@@ -1,5 +1,4 @@
 title: 'Utopía Pirata'
-lang: es
 canonical: 'https://utopia.partidopirata.com.ar'
 email: 'contacto@partidopirata.com.ar'
 markdown: pandoc
@@ -32,30 +31,29 @@ pandoc:
         -V geometry=footskip=20pt
         -V graphics
         -V subparagraph
-        -V mainfont="Alegreya Sans"
         --pdf-engine=xelatex
         --include-in-header=_layouts/header.tex
         --include-before-body=_layouts/license.tex'
-#    epub: '--epub-chapter-level=2'
-#   mediawiki:
-#   latex: '-V fontsize=8pt,twoside
-#       -V documentclass=book
-#       -V geometry=hcentering
-#       -V links-as-notes=true
-#       -V geometry=bindingoffset=0.75cm
-#       -V geometry=bmargin=1cm
-#       -V geometry=tmargin=1cm
-#       -V geometry=rmargin=1.5cm
-#       -V geometry=lmargin=1cm
-#       -V geometry=includefoot
-#       -V geometry=includehead
-#       -V geometry=headsep=10pt
-#       -V geometry=footskip=20pt
-#       -V graphics
-#       -V subparagraph
-#       --pdf-engine=xelatex
-#       --include-in-header=_layouts/header.tex
-#       --include-before-body=_layouts/license.tex'
+    epub: '--epub-chapter-level=2'
+    mediawiki:
+    latex: '-V fontsize=8pt,twoside
+        -V documentclass=book
+        -V geometry=hcentering
+        -V links-as-notes=true
+        -V geometry=bindingoffset=0.75cm
+        -V geometry=bmargin=1cm
+        -V geometry=tmargin=1cm
+        -V geometry=rmargin=1.5cm
+        -V geometry=lmargin=1cm
+        -V geometry=includefoot
+        -V geometry=includehead
+        -V geometry=headsep=10pt
+        -V geometry=footskip=20pt
+        -V graphics
+        -V subparagraph
+        --pdf-engine=xelatex
+        --include-in-header=_layouts/header.tex
+        --include-before-body=_layouts/license.tex'
 
 permalink: ":title.html"
 
