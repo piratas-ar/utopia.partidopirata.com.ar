@@ -803,31 +803,31 @@ enviados a la batalla. La disposición para la desobediencia civil fue
 reforzada por los vasos comunicantes entre la deserción escolar
 universitaria, los activistas de la paz y los hippies. El radicalismo de
 los estudiantes se mezcló con el mundo académico de los
-investigadores.[^nota29] En la década siguiente, la mezcla de estilo de
+investigadores [^nota29]. En la década siguiente, la mezcla de estilo de
 vida hippie y conocimiento tecnológico fue adoptado por los llamados
-phreakers telefónicos, una subcultura especializada en el
+_phreakers_ telefónicos, una subcultura especializada en el
 aprovechamiento de las líneas telefónicas y en pequeños robos de alta
 tecnología. Una conciencia política propia se propagó en una revista
-pionera, llamada *Youth International Party Line*. Fue editada por Abbie
+pionera, llamada _*Youth International Party Line*_. Fue editada por Abbie
 Hoffman a partir de 1971. Vislumbraba la liberación de los medios de
 comunicación como el primer paso de una rebelión de las masas. Dos años
-más tarde, la revista fue reemplazada por la *Technological American
-Party*. La nueva publicación se deshizo de la mayor parte de las
-ambiciones políticas de su predecesor y se concentró en la circulación
+más tarde, la revista fue reemplazada por la _*Technological American Party*_. 
+La nueva publicación se deshizo de la mayor parte de las
+ambiciones políticas de su predecesora y se concentró en la circulación
 de los conocimientos técnicos. Las diferencias entre ambas revistas
 personifican dos posiciones opuestas dentro del movimiento, aún vigente
-hoy en día. Por un lado están los activistas motivados por la ideología
-y en el otro lado los que encuentran satisfacción en el dominio de la
+hoy en día. Por un lado están las activistas motivadas por la ideología
+y en el otro lado las que encuentran satisfacción en el dominio de la
 tecnología. Algunos expertos en tecnología han llegado a considerar
-cruelmente a los esfuerzos de los activistas de politizar el movimiento.
-Los fanáticos de la tecnología tienden a percibir a los "hacktivistas"
-como los recién llegados de afuera que reclamando el pasatiempo para sus
+cruelmente a los esfuerzos de las activistas de politizar el movimiento.
+Los fanáticos de la tecnología tienden a percibir a las "hacktivistas"
+como las recién llegadas de afuera que reclaman el pasatiempo para sus
 fines propios. La verdad del asunto es que la subcultura siempre ha
 estado profundamente arraigada en ambas tradiciones. En efecto, puede
 considerarse al movimiento hacker como una derivación de la Nueva
-Izquierda.[^nota30] La despolitización llegó más tarde, reflejando las
+Izquierda [^nota30]. La despolitización llegó más tarde, reflejando las
 tendencias generales en la sociedad. A raíz de los enfrentamientos de
-1968, la línea de pensamiento dentro de los movimientos hippie y
+1968, la línea de pensamiento dentro de los movimientos _hippie_ y
 ambientalistas cambiaron. En lugar de confrontar con el sistema y la
 policía, las esperanzas se colocaron en la construcción de un sistema
 alternativo. La idea principal era desarrollar una tecnología
@@ -837,46 +837,46 @@ Una figura central en la promoción de este tipo de enfoque, con apoyos
 tanto en el movimiento medioambiental como en el embrionario movimiento
 hacker, fue Stewart Brand, editor del *Whole Earth Catalog*. Otro de los
 nombres clave en la filosofía de la "tecnología apropiada" fue el
-diseñador industrial Víctor Papanek. Ellos denunciaron la producción en
+diseñador industrial Víctor Papanek. Ellas denunciaron la producción en
 masa al mismo tiempo que esbozaban tecnologías al estilo "hágalo usted
-mismo". La idea principal era que un producto barato pero de calidad
-triunfaría sobre los productos industriales mediocres por sus cualidades
-técnicas superiores. Los hackers muestran similar confianza en la
+misma". La idea principal era que un producto barato pero de calidad
+y cualidades técnicas superiores triunfaría sobre los productos 
+industriales mediocres. Las hackers muestran similar confianza en la
 superioridad del software libre y de código abierto (FOSS) y están
-seguros de su victoria sobre el código propietario mediocre. El
+seguras de su victoria sobre el código propietario mediocre. El
 historiador de la tecnología Langdon Winner fue más escéptico cuando
 escribió algunos años después que la administración Reagan había
-enfriado el entusiasmo de los activistas de la "tecnología
-apropiada".[^nota31] La facilidad con la cual el gobierno eliminó los
+enfriado el entusiasmo de las activistas de la "tecnología
+apropiada" [^nota31]. La facilidad con la cual el gobierno eliminó los
 programas de tecnología apropiada fue una lección realista acerca de la
 potencia brutal del Estado. Winner se quejó de que el empuje de los
-movimientos hippie y ambientalista rápidamente se habían volcado hacia
+movimientos _hippie_ y ambientalista rápidamente se habían volcado hacia
 la introspección, hacia un estilo de vida bohemio y el misticismo. Su
 relato pesimista de los hechos es comprensible, pero incorrecto por el
-hecho de que no estaba al tanto de la actividad naciente de phreakers y
+hecho de que no estaba al tanto de la actividad naciente de _phreakers_ y
 hackers al momento de escribir sus líneas. Los ideales del movimiento de
 tecnología apropiada fueron abandonados y reaparecieron mucho después
-del esplendor de los hippies y los ecologistas. Esto podría ser un
+del esplendor de las _hippies_ y las ecologistas. Esto podría ser un
 recuerdo muy valioso en un hipotético futuro si el movimiento hacker se
-desvanece y sus herederos aún no se vislumbran. Pero también es posible
+desvanece y sus herederas aún no se vislumbran. Pero también es posible
 que el movimiento hacker demuestre ser más resistente que la Nueva
 Izquierda. La principal diferencia, aunque no la única, es la fuerza
-motivadora detrás del hacking. Los defensores de la tecnología apropiada
-se dedicaron a experimentar con las tecnologías del tipo "hágalo por
-usted mismo" como consecuencia de su pensamiento político. Los hackers,
+motivadora detrás del _hacking_. Las defensoras de la tecnología apropiada
+se dedicaron a experimentar con las tecnologías del tipo "hágalo usted 
+misma" como consecuencia de su pensamiento político. Las hackers,
 sin embargo, escriben código principalmente por placer, y sus
 pensamientos políticos surgen de este disfrute.
 
-Steven Levy escribió acerca de los hackers del hardware reunidos en el
+Steven Levy escribió acerca de las hackers del hardware reunidas en el
 **Homebrew Computer Club** a mediados de los ´70. Su retrospectiva da
 cuenta de los dos sentimientos parcialmente contradictorios expresados
-por las personas involucradas. Ellos se juntaron por la
-emoción de juguetear con la electrónica. Aun así, el placer que
-experimentaron con el hacking iba atado con una visión política y unas
-esperanzas mesiánicas. Mediante la construcción de una computadora
-barata y disponible para "usarse sobre la mesa de la cocina", se
-propusieron liberar a la informática de las universidades de élite y de
-las sedes corporativas y militares. Pero las personas con motivaciones
+por las personas involucradas. Ellas se juntaron por la emoción de 
+juguetear con la electrónica. Aun así, el placer que experimentaron 
+con el _hacking_ iba atado a una visión política y unas esperanzas 
+mesiánicas. Mediante la construcción de una computadora barata y 
+disponible para "usarse sobre la mesa de la cocina", se propusieron 
+liberar a la informática de las universidades de élite y de las sedes 
+corporativas y militares. Pero las personas con motivaciones 
 abiertamente políticas se sintieron fuera de lugar. El impulsor del
 *Homebrew Computer Club*, Fred Moore, al abandonarlo, expresó su
 decepción por la falta de conciencia política de sus miembros.
@@ -884,52 +884,51 @@ Reflexionando sobre su salida, el activista y moderador de largo tiempo
 del *Homebrew Computer Club*, Lee Felsenstein, sugirió que Fred Moore
 tenía una política equivocada. La política del *Homebrew Computer Club*
 era la "propaganda por el hecho" en lugar de "gestos de
-protesta".[^nota32] De hecho, lo que los hackers del hardware lograron
+protesta" [^nota32]. De hecho, lo que las hackers del _hardware_ lograron
 jugando con basura electrónica es impresionante. El microprocesador
-había sido recientemente inventado por Intel y la empresa esperaba
-utilizarlo en objetos tales como controladores de semáforos. Los hackers
-del hardware pensaban diferente. Combinaron el microprocesador de Intel
-con piezas de repuesto y construyeron pequeñas computadoras. *Altair* de
+había sido recientemente inventado por _Intel_ y la empresa esperaba
+utilizarlo en objetos tales como controladores de semáforos. Las hackers
+del _hardware_ pensaban diferente. Combinaron el microprocesador de _Intel_
+con piezas de repuesto y construyeron una pequeñas computadoras. *Altair* de
 Ed Robert marcó un hito en 1975. *Altair* no fue la primera computadora
 hacker, pero sí fue la primera computadora construida para la venta a
 pequeña escala que gozó de cierto éxito comercial. El mercado de Robert
-estaba compuesto exclusivamente por otros hackers y radioaficionados. El
-comprador tenía que montar las piezas cuidadosamente por él mismo. Si el
-cliente lo lograba, era recompensado con un artefacto totalmente
-inútil.[^nota33] Pero en el entorno cooperativo del *Homebrew Computer
-Club*, se realizaron mejoras rápidamente y muchos otros prototipos lo
-sucedieron. Un modelo fue *Apple*. Partió de los anteriores diseños, ya
-que eran fáciles de usar y tenían funciones más allá de una simple
-computadora. *Apple* fue un paso decisivo para la creación de un mercado
-de consumo mayor que la camarilla de hackers del hardware. Como la
-demanda de computadoras creció sostenidamente, los capitalistas de
-riesgo comenzaron a prestar atención al mercado de las computadoras
-personales. El establecimiento de una industria adecuada para pequeñas
-computadoras fue coronada por la decisión de IBM de lanzar su
-*Computadora Personal* (PC) en 1981 Es cierto que las floreciente
+estaba compuesto exclusivamente por otros hackers y radioaficionados. La
+compradora tenía que montar las piezas cuidadosamente por ella misma. Si la
+clienta lo lograba, era recompensada con un artefacto totalmente 
+inútil [^nota33]. Pero en el entorno cooperativo del _*Homebrew ComputerClub*_,
+se realizaron mejoras rápidamente y muchos otros prototipos se sucedieron. 
+Un modelo fue *Apple*. Partió de los anteriores diseños, ya que eran fáciles 
+de usar y tenían funciones más allá de una simple computadora. *Apple* fue 
+un paso decisivo para la creación de un mercado de consumo mayor que la 
+camarilla de hackers del _hardware_. Como la demanda de computadoras creció 
+sostenidamente, los capitalistas de riesgo comenzaron a prestar atención al 
+mercado de las computadoras personales. El establecimiento de una industria 
+adecuada para pequeñas computadoras fue coronada por la decisión de IBM de 
+lanzar su *Computadora Personal* (PC) en 1981. Es cierto que las floreciente
 oportunidades económicas en equipos domésticos condujeron a una
 disminución del idealismo entre los miembros del *Homebrew Computer
 Club*. Nuestra opinión, sin embargo, es que las normas de la comunidad
 se desintegraron en respuesta al cumplimiento de los objetivos
-originales del club. Los hackers del hardware lograron democratizar los
+originales del club. Las hackers del _hardware_ lograron democratizar los
 recursos informáticos. Hasta ese momento, la toma de decisiones sobre
 las computadoras había sido concentrada en manos de unos pocos
 privilegiados, los ingenieros de guardapolvo blanco que estaban a cargo
-de las enormes computadoras centrales (mainframes). Los trabajadores
-detestaban estos monstruos mecánicos y los hackers las odiaban por la
+de las enormes computadoras centrales (mainframes). Las trabajadoras
+detestaban estos monstruos mecánicos y las hackers las odiaban por la
 misma razón; las computadoras centrales fueron la encarnación del
 "despotismo de oficina" en las décadas del ´60 y del ´70. Al canalizar
-su esfuerzo lúdico en la construcción de una computadora, los hackers
-del hardware forzaron a la industria a abrazar el sueño de la
+su esfuerzo lúdico en la construcción de una computadora, las hackers
+del _hardware_ forzaron a la industria a abrazar el sueño de la
 computación descentralizada.
 
-Los fanáticos de la tecnología, por lo tanto, insisten en la importancia
+Las fanáticas de la tecnología, por lo tanto, insisten en la importancia
 crucial de dejar la ideología de lado. Es un juego (deseo), de separar
 al movimiento hacker de los gestos de protesta de las organizaciones
 políticas más tradicionales. El problema con un punto de vista apolítico
 es más bien que no se mantiene alejado de la política. Cuando la
 conciencia de clase se pierde, el vacío es colonizado por la ideología
-de derecha, la ideología del sentido común. Los editoriales de las
+de derecha, la ideología del sentido común. Las editoriales de las
 ediciones posteriores del *Technological American Party* expresaron una
 firme convicción libertaria, una tradición que se ha mantenido con la
 revista *Wired*. Pero la mezcla correcta de política y placer es como
@@ -938,8 +937,8 @@ individuos más radicalizados pueden confiar en que el mundo exterior
 intervenga. La alegría pura derivada de la comprensión y la construcción
 de sistemas es política en sí misma en una sociedad de clases donde las
 relaciones de poder son arbitradas de manera oculta. En el fondo, el
-hacking es una reacción visceral contra la estrategia capital del
-taylorismo. Incluso los hackers libertarios inevitablemente participan
+_hacking_ es una reacción visceral contra la estrategia capital del
+taylorismo. Incluso las hackers libertarias inevitablemente participan
 retando al monopolio del capital sobre el desarrollo tecnológico. Esto
 no quiere decir que la conciencia política sea irrelevante. La cuestión
 es más bien que el juego provoca repercusión y la repercusión contra el
@@ -948,113 +947,113 @@ generación. Esta dinámica puede ser ilustrada con el punto de vista de
 que la información debe ser compartida libremente. La izquierda, la
 derecha y los supuestamente apolíticos, todos corren detrás de esta
 creencia. Sin embargo, su demanda se reduce a una simple opinión. Como
-una cuestión de auto-preservación, los hackers no pueden ayudarse sin
+una cuestión de auto-preservación, las hackers no pueden ayudarse sin
 trabajar con flujos de información libres. El libre acceso a las
-herramientas de software es un requisito previo para la existencia de
+herramientas de _software_ es un requisito previo para la existencia de
 una comunidad de hackers. Si bien la norma de compartir fue un hecho en
 el ámbito académico de las décadas del '50 y del '60, está fuera de
 sintonía con el valor de mercado cada vez mayor de la información en la
 actualidad. Es inevitable que esta convicción hiciera que el movimiento
 hacker colisionara con el establishment.
 
-Dos casos de cierre del código de software a principios de los '80
+Dos casos de cierre del código de _software_ a principios de los '80
 anunciaron los crecientes intereses económicos y políticos en la
 información. Es revelador que IBM, actualmente un estrecho aliado del
-movimiento Open Source (código abierto), era el principal impulsor para
-cerrar software detrás de la ley de copyright.[^nota34] El Ministerio de
-Industria y Comercio Internacional (MITI) promovió a principios de los
-'80 una ley de propiedad intelectual *sui generis* sobre el software. La
-ley impulsaba 15 años de protección y licenciamiento compulsivo del
-software. Un proyecto semejante surgió en la Organización Mundial sobre
-la Propiedad Intelectual (World Intellectual Property Organisation,
+movimiento _Open Source_ (código abierto), era el principal impulsor para
+cerrar _software_ detrás de la ley de _copyright_ [^nota34]. El Ministerio 
+de _Industria y Comercio Internacional_ (MITI) promovió a principios de los
+'80 una ley de propiedad intelectual _*sui generis*_ sobre el _software_. 
+La ley impulsaba 15 años de protección y licenciamiento compulsivo del
+_software_. Un proyecto semejante surgió en la Organización Mundial sobre
+la Propiedad Intelectual (_World Intellectual Property Organisation_,
 WIPO) en ese tiempo. IBM estaba desesperado por estas propuestas.
 Asistido por funcionarios de comercio de Estados Unidos con el apoyo de
-los gobiernos de Europa, logró presentar software bajo los más estrictos
-términos de las leyes de copyright.[^nota35] El romance reciente de IBM
+los gobiernos de Europa, logró presentar _software_ bajo los más estrictos
+términos de las leyes de _copyright_ [^nota35]. El romance reciente de IBM
 con el movimiento de software libre y de código abierto, que seguramente
 será de corta duración, es una consecuencia de su estrategia
-contraproducente de los '80. Microsoft logró aventajar a IBM en la
-introducción de licencias de software fuertes. Casi al mismo tiempo, en
-1982, AT&T fue liberado del fallo antimonopolio, que había impedido a la
+contraproducente de los '80. _Microsoft_ logró aventajar a IBM en la
+introducción de licencias de _software_ fuertes. Casi al mismo tiempo, en
+1982, _AT&T_ fue liberado del fallo antimonopolio, que había impedido a la
 empresa ingresar al negocio de las computadoras. La compañía entonces
 comenzó a hacer cumplir sus derechos de propiedad sobre UNIX. Para
 entonces, el sistema operativo había sido ampliado y reescrito muchas
-veces por estudiantes, científicos y entusiastas colaboradores a través
-de instituciones y empresas. El intento por parte de AT&T para
+veces por estudiantes, científicas y entusiastas colaboradoras a través
+de instituciones y empresas. El intento por parte de _AT&T_ para
 privatizar UNIX califica como uno de los cierres de código más conocidos
 que saludaban el amanecer de la era de la información. Tuvo un impacto
-importante en la mentalidad colectiva de la comunidad de programadores y
+importante en la mentalidad colectiva de la comunidad de programadoras y
 alimentó el escepticismo hacia las grandes empresas y hacia el régimen
-de propiedad intelectual. El intento de AT&T de apropiarse de UNIX
-demostró que el copyright puede ser utilizado para robar la obra a sus
-autores, en total oposición al espíritu ideológico de la ley. Los
-hackers se dieron cuenta que la autoría colectiva de los desarrolladores
-de software tenía que ser protegida de los poderes legalmente
-instituidos en una solo parte por la ley de copyright.
+de propiedad intelectual. El intento de _AT&T_ de apropiarse de UNIX
+demostró que el _copyright_ puede ser utilizado para robar la obra a sus
+autoras, en total oposición al espíritu ideológico de la ley. Las
+hackers se dieron cuenta que la autoría colectiva de las desarrolladoras
+de _software_ tenía que ser protegida de los poderes legalmente
+instituidos en una sola parte por la ley de _copyright_.
 
 ## El nacimiento de la licencia pública general
 
 Las políticas del movimiento hacker gravitan en torno a la cuestión del
 acceso público al código fuente. El código fuente proporciona una lista
-de instrucciones que pueden ser leídas y modificadas por un
-especialista. El software liberado bajo licencias de software libre y de
+de instrucciones que pueden ser leídas y modificadas por una
+especialista. El _software_ liberado bajo licencias de software libre y de
 código abierto requiere que se publique junto con el código fuente. En
 el software propietario el código fuente está escondido como código
 binario ininteligible. El código binario es la lista de instrucciones,
 representadas como líneas de ceros y unos, que son leídas y ejecutadas
-por la computadora.[^nota36] Además de los obstáculos técnicos, las
-leyes de copyright prohíben el acceso de los usuarios al código fuente
+por la computadora [^nota36]. Además de los obstáculos técnicos, las
+leyes de _copyright_ prohíben el acceso de los usuarios al código fuente
 del software propietario.
 
 La visión más explícita de cómo el acceso público al código fuente se
-relaciona con los cambios sociales es sostenida por la Free Software
-Foundation (Fundación del Software Libre), fundada por Richard Stallman
-como respuesta a la mercantilización de su propio campo de
-trabajo.[^nota37] La fundación se ha propuesto la tarea de liberar a las
+relaciona con los cambios sociales es sostenida por la _Free Software
+Foundation_ (Fundación del Software Libre), fundada por Richard Stallman
+como respuesta a la mercantilización de su propio campo de 
+trabajo [^nota37]. La fundación se ha propuesto la tarea de liberar a las
 computadoras del software propietario. Para realizar este sueño de que
-un equipo funcione enteramente con código libre, la Free Software
-Foundation desde mediados de los '80 produce aplicaciones de software
-libres, no propietarias. El nombre del software publicado por la
+un equipo funcione enteramente con código libre, la _Free Software
+Foundation_, desde mediados de los '80 produce aplicaciones de software
+libre, no propietarias. El nombre del _software_ publicado por la
 fundación, "GNU" es un acrónimo que significa "GNU No es Unix". Además
-de publicar aplicaciones GNU, la Free Software Foundation es la
-responsable de la licencia más ampliamente utilizado en el underground
-informático, la Licencia Pública General (GPL).
+de publicar aplicaciones GNU, la _Free Software Foundation_ es la
+responsable de la licencia más ampliamente utilizado en el _underground_
+informático, la _Licencia Pública General_ (GPL).
 
 La necesidad de protección jurídica del trabajo compartido fue aprendida
-por las malas experiencias sufridas por los hackers. Richard Stallman
-hizo el descubrimiento cuando él estaba trabajando con GNU Emacs, una
-aplicación para la edición de código fuente. Un Emacs para UNIX había
+por las malas experiencias sufridas por las hackers. Richard Stallman
+hizo el descubrimiento cuando él estaba trabajando con _GNU Emacs_, una
+aplicación para la edición de código fuente. Un _Emacs_ para UNIX había
 sido escrito previamente por otro programador, James Gosling.
 Inicialmente, Gosling distribuyó su código fuente de forma gratuita y
 sin restricciones. Richard Stallman incorporó fragmentos de la obra de
-James Gosling en GNU Emacs. Más tarde, James Gosling cambió de idea y
-vendió sus derechos de autor a Unipress. Esta empresa se puso en
+James Gosling en _GNU Emacs_. Más tarde, James Gosling cambió de idea y
+vendió sus derechos de autor a _Unipress_. Esta empresa se puso en
 contacto con Richard Stallman y le solicitó que no se utilizara el
 código fuente porque ahora se había convertido en su propiedad. Esa
-experiencia motivó la creación de la Licencia Pública General (GPL). El
+experiencia motivó la creación de la _Licencia Pública General_ (GPL). El
 sobrenombre de GPL reza *Copyleft/Todos los Derechos Invertidos*. En
-palabras de Richard Stallman: "El copyleft usa la ley de copyright, pero
+palabras de Richard Stallman: "El _copyleft_ usa la ley de _copyright_, pero
 la da vuelta para servir a un propósito opuesto: en vez de ser un medio
-de privatizar software, se convierte en un medio de mantener libre al
-software".[^nota38]
+de privatizar _software_, se convierte en un medio de mantener libre al
+_software_" [^nota38].
 
-El copyright asiste automáticamente al creador de una obra literaria. El
+El _copyright_ asiste automáticamente al creador de una obra literaria. El
 autor tiene el derecho de especificar las condiciones bajo las cuales se
 puede utilizar su creación. El titular de los derechos está legalmente
 habilitado a que su petición sea ejecutada en los tribunales. La
-Licencia Pública General hace uso de esta flexibilidad en la ley. En
+_Licencia Pública General_ hace uso de esta flexibilidad en la ley. En
 ella se enumeran una serie de condiciones que protegen la libertad de
-los usuarios. Siempre y cuando estas condiciones sean respetadas,
-cualquiera puede acceder al programa sin pedir permiso. Si un usuario
-viola el acuerdo de licencia GPL de las libertades otorgadas entonces la
-licencia se anula y la ley normal de copyright se dispara.
-Paradójicamente, es la ley de copyright la que asegura el plan de la
-licencia libre. [^nota39] La Licencia Pública General es una licencia
-libre con cuatro libertades. El usuario tiene el derecho de ejecutar el
-programa para cualquier propósito. Tiene permitido estudiar cómo
-funciona el programa. Puede distribuir el programa a su antojo. Y
+las usuarias. Siempre y cuando estas condiciones sean respetadas,
+cualquiera puede acceder al programa sin pedir permiso. Si una usuaria
+viola el acuerdo de licencia GPL de las libertades otorgadas, entonces la
+licencia se anula y la ley normal de _copyright_ se dispara.
+Paradójicamente, es la ley de _copyright_ la que asegura el plan de la
+licencia libre [^nota39]. La _Licencia Pública General_ es una licencia
+libre con cuatro libertades: la usuaria tiene el derecho de ejecutar el
+programa para cualquier propósito, tiene permitido estudiar cómo
+funciona el programa, puede distribuir el programa a su antojo y
 también es libre de modificar el programa y publicar la versión
-modificada. Es un error muy común entre el público en general el suponer
+modificada. Es un error muy común entre el público en general suponer
 que la licencia prohíbe la comercialización. Por el contrario, se
 garantiza la libertad de usar un programa para cualquier propósito,
 incluyendo usos comerciales. En la práctica, sin embargo, la opción de
@@ -1063,128 +1062,128 @@ regalarla. La GPL no es tan inocente como muchos de sus defensores
 quieren hacernos ver. Como se argumentará desde una perspectiva más
 teórica en capítulos posteriores, la GPL modifica directamente el
 funcionamiento de la propiedad privada. Las licencias libres protegen el
-esfuerzo colectivo de una masa anónima de desarrolladores de las garras
-de la propiedad individual. Bajo la licencia GPL, el creador invierte la
+esfuerzo colectivo de una masa anónima de desarrolladoras de las garras
+de la propiedad individual. Bajo la licencia GPL, la creadora invierte la
 fuerza de individualización de los derechos de autor liberando sus
 derechos individuales y recibiéndolos nuevamente como un derecho
-colectivo. Goza del derecho colectivo a no ser excluido de una cuerpo de
+colectivo. Goza del derecho colectivo a no ser excluida de una cuerpo de
 trabajo compartido. La propiedad privada, por el contrario, no es más
-que el derecho de una solo parte que excluye a todos los demás. Una
-franja en el movimiento hacker, cuyo rechazo de las leyes de copyright
+que el derecho de una sola parte que excluye a todas las demás. Una
+franja en el movimiento hacker, cuyo rechazo de las leyes de _copyright_
 es absoluta; objetan las licencias FOSS por sus concesiones a dicha ley.
-En general, los hackers que se definen a sí mismos como desarrolladores
+En general, las hackers que se definen a sí mismas como desarrolladoras
 de software libre tienden a ser más ambivalentes hacia las leyes de
-copyright. Mientras que los pares de mentalidad política y los
+_copyright_. Mientras que las pares de mentalidad política y las
 activistas desean abolir por completo los derechos de autor, esa medida
 podría en realidad ser perjudicial para el desarrollo del software
 libre. Nada evitaría entonces que las empresas incorporen código fuente
-libre al software cerrado. Los hackers no podrían hacer lo mismo para
+libre al software cerrado. Las hackers no podrían hacer lo mismo para
 las empresas ya que el software cerrado es entregado como código
 binario. Como resultado, el desarrollo de software libre quedaría por
-detrás en la carrera tecnológica. Entonces, los críticos más
-radicalizados quedan junto a los defensores de las empresas que trabajan
+detrás en la carrera tecnológica. Entonces, las críticas más
+radicalizadas quedan junto a los defensores de las empresas que trabajan
 en favor de regímenes de licencias que faciliten la apropiación privada
-de los bienes comunes de software. Una de las cláusulas de la licencia
+de los bienes comunes de _software_. Una de las cláusulas de la licencia
 GPL estipula que debe ser transmitida a las copias derivadas. Para
-incluir una línea de GPL en una aplicación de software, la totalidad de
+incluir una línea de GPL en una aplicación de _software_, la totalidad de
 ese programa debe tener una licencia GPL. Los adversarios han calificado
-esta característica como "viral". Esta característica está diseñada para
-evitar lo opuesto, es decir, que las cadenas de código bajo GPL queden
-incluidos bajo licencias propietarias.[^nota40]
+esta característica como "viral". Pero esta característica está diseñada 
+para evitar lo opuesto, es decir, que las cadenas de código bajo GPL queden
+incluidos bajo licencias propietarias [^nota40].
 
 En este punto está justificado preguntarse: ¿por qué una empresa se
-molestaría en acogerse a los términos de Copyleft? ¿un tribunal tendría
-cuidado en hacer cumplir las licencias "Hágalo usted mismo"? Ira Heffan
+molestaría en acogerse a los términos de _Copyleft_? ¿un tribunal tendría
+cuidado en hacer cumplir las licencias "Hágalo usted misma"? Ira Heffan
 intenta responder a la pregunta de si la GPL debe defenderse en un
-tribunal comparando el copyleft con las licencias shrinkwrap. Las
-licencias shrinkwrap fueron introducidos por empresas que buscaban una
-manera conveniente de definir los derechos de usuarios de los clientes
-minoristas. El nombre de "licencia shrinkwrap" se debe al plástico
+tribunal comparando el _copyleft_ con las licencias _shrinkwrap_. Las
+licencias _shrinkwrap_ fueron introducidas por empresas que buscaban una
+manera conveniente de definir los derechos de las usuarias de los clientes
+minoristas. El nombre de "licencia _shrinkwrap_" se debe al plástico
 termocontraible que envolvía las cajas con los discos de computadora.
 Los términos de la licencia eran visibles a través del plástico y el
 cliente demostraba su aprobación de las condiciones al romper el sello.
 Por extensión, se considera que es la "demostración de un
-consentimiento" equivalente al de un usuario que decide abrir una
-aplicación de software después de leer los términos de las condiciones
-que se muestran en la pantalla, la llamada "licencia clickwrap". Un
-acuerdo bajo la licencia shrinkwrap asegura la protección en virtud del
-derecho contractual y las leyes de copyright. Las restricciones al uso
-que se especifican en las licencias shrinkwrap no son diferentes en
-principio de las formuladas con la GPL. Como las licencias shrinkwrap
+consentimiento" equivalente al de una usuaria que decide abrir una
+aplicación de _software_ después de leer los términos de las condiciones
+que se muestran en la pantalla, la llamada "licencia _clickwrap_". Un
+acuerdo bajo la licencia _shrinkwrap_ asegura la protección en virtud del
+derecho contractual y las leyes de _copyright_. Las restricciones al uso
+que se especifican en las licencias _shrinkwrap_ no son diferentes en
+principio de las formuladas con la GPL. Como las licencias _shrinkwrap_
 son conocidas en los tribunales, Heffan sostiene que la GPL está
-protegida por los mismos fundamentos.[^nota41] La fortaleza de la GPL es
+protegida por los mismos fundamentos [^nota41]. La fortaleza de la GPL es
 indicada por el hecho de que la licencia es mayoritariamente respetada a
 pesar de la inseguridad jurídica. De hecho, la disuasión legal es
 secundaria a otras consideraciones en apoyo de la GPL. Las empresas
 tentadas de abusar de la licencia libre saben que esa medida sería
-desalentar a los empleados clave. Lo que es más importante, las empresas
+desalentar a las empleadas clave. Lo que es más importante, las empresas
 reconocen que a menudo tienen interés a largo plazo para mantener el
 desarrollo de FOSS libre. Prefieren que el código permanezca como
-información pública en lugar de correr el riesgo de que el software esté
+información pública en lugar de correr el riesgo de que el _software_ esté
 monopolizado por un competidor. Por otra parte, el movimiento para
-cerrar el código de un proyecto de desarrollo de software sería un
+cerrar el código de un proyecto de desarrollo de _software_ sería un
 obstáculo. En otras palabras, se trata de salirse del flujo de
 desarrollo que corre más rápido a la intemperie. A largo plazo, una
 empresa podría sufrir pérdidas superiores por las mejoras continuas que
-hubieran podido haber realizado la comunidad de desarrolladores, que las
+hubieran podido haber realizado la comunidad de desarrolladoras, que las
 ganancias a corto plazo, en el caso de romperse el acuerdo de licencia
-GPL. De esta manera explica Linus Torvalds, el creador del kernel Linux,
+GPL. De esta manera explica Linus Torvalds, el creador del kernel _Linux_,
 el cumplimiento general de GPL: "Alguien podría (ignorar la GPL) por un
-tiempo, pero son las personas que respetan realmente al copyright
+tiempo, pero son las personas que respetan realmente al _copyright_
 quienes retroalimentan sus cambios al kernel y lo han mejorado, quienes
-lo han mantenido al frente. Serán parte del proceso de actualización del
+lo han mantenido al frente serán parte del proceso de actualización del
 kernel. Por el contrario, las personas que no cumplan la GPL no será
-capaz de tomar ventaja de las mejoras, y sus clientes los dejarán."
+capaces de tomar ventaja de las mejoras, y sus clientes los dejarán."
 (*Torvalds*, 96-97) No obstante, las empresas arriesgan poco y pueden
 maximizar sus ganancias inmediatas incluyendo en secreto el código
 fuente GPL en sus proyectos de desarrollo comercial. Surgen dos
 dificultades importantes cuando se tratar de mantener la licencia GPL.
 En primer lugar, se debe detectar la violación. Esto puede ser difícil
 si el código GPL está oculto en una porción más grande de código binario
-bajo copyright. En segundo lugar, el derecho de asignar y hacer cumplir
-el Copyleft no reside en la Free Software Foundation. Cuando permanece
+bajo _copyright_. En segundo lugar, el derecho de asignar y hacer cumplir
+el _Copyleft_ no reside en la _Free Software Foundation_. Cuando permanece
 con el autor original del código violado puede ser una complicación. El
 temor de una sentencia desfavorable en un tribunal ha vuelto precavida a
-la Free Software Foundation en sus enfrentamientos con los infractores.
+la _Free Software Foundation_ en sus enfrentamientos con los infractores.
 Por lo general, cuando se sorprende a una firma haciendo trampas, se
 establecen negociaciones y acuerdos extrajudiciales. Incluso si las
 negociaciones terminan con éxito con la firma comprometiéndose
 finalmente a publicar el código fuente y a respetar la GPL en el futuro,
-varios meses han pasado y el valor comercial del software podría ya
+varios meses han pasado y el valor comercial del _software_ podría ya
 haber sido explotado. Por lo tanto, las empresas tienen un incentivo
 para jugar a un juego sucio de ocultar su violación, y cuando ésta se
-descubre, retrasar el pago hasta que el software haya quedado
+descubre, retrasar el pago hasta que el _software_ haya quedado
 desactualizado. Un equipo de desarrollo de software libre en Alemania
-que trabajaba en un subproyecto de desarrollo para GNU/Linux, decidió
+que trabajaba en un subproyecto de desarrollo para _GNU/Linux_, decidió
 perseguir violaciones hasta llegar a los tribunales. El 14 de abril de
-2004, un tribunal de distrito de Munich le concedió al equipo una medida
-cautelar contra Sitecom Germany GmbH. A Sitecom se le prohibió
+2004, un tribunal de distrito de _Munich_ le concedió al equipo una medida
+cautelar contra _Sitecom Germany GmbH_. A _Sitecom_ se le prohibió
 distribuir su producto a menos que se comprometiera a cumplir con todas
-las obligaciones de la GPL.[^nota42]
+las obligaciones de la GPL [^nota42].
 
 Aunque la GPL parece mantenerse a flote en el sistema jurídico, un nuevo
 marco legal está afectando la aplicación del copyright. La expansión de
 los derechos de patente para cubrir los procesos de información ha
 causado un gran revuelo en el movimiento del software libre.
 Anteriormente, el software ha sido protegido como una obra artística
-bajo las leyes de copyright. En los EE.UU. y Japón, las patentes de
-software han existido durante mucho tiempo, pero ahora se está
+bajo las leyes de _copyright_. En los EE.UU. y Japón, las patentes de
+_software_ han existido durante mucho tiempo, pero ahora se está
 convirtiendo en una práctica común entre las empresas hacerlas cumplir.
 En la UE ha existido una lucha constante durante años sobre la
-introducción en Europa de las patentes de software. Las patentes de
-software suponen una amenaza a la GPL porque las empresas pueden seguir
-la leyes de copyright y cumplir con los términos especificados en la
+introducción en Europa de las patentes de _software_. Las patentes de
+_software_ suponen una amenaza a la GPL porque las empresas pueden seguir
+la leyes de _copyright_ y cumplir con los términos especificados en la
 licencia gratuita, mientras que restringen el acceso al código fuente a
 través de la ley de patentes. Si bien se cumple la letra de la licencia
 GPL, se abusa de su espíritu. Lo mismo se puede hacer a través de la
 tecnología de gestión de derechos digitales (DRM). Si una aplicación de
-software libre está bloqueada detrás de un diseño de hardware, el acceso
-al código fuente y los manuales no servirán de mucho a los usuarios. La
-Free Software Foundation espera solucionar estos problemas con una
+software libre está bloqueada detrás de un diseño de _hardware_, el acceso
+al código fuente y los manuales no servirán de mucho a las usuarias. La
+_Free Software Foundation_ espera solucionar estos problemas con una
 tercera versión de la GPL, añadiendo condiciones contra las patentes de
-software y contra la tecnología de gestión de derechos digitales. La
+_software_ y contra la tecnología de gestión de derechos digitales. La
 versión actualizada se lanzó en 2007. Sin embargo, la decisión de
-adoptar las modificaciones sugeridas por la Free Software Foundation
+adoptar las modificaciones sugeridas por la _Free Software Foundation_
 depende de la comunidad. Muchos han objetado que la nueva GPL es
 demasiado restrictiva y que la licencia perderá importancia debido a
 esto. En el momento de escribir estas líneas estas cuestiones siguen

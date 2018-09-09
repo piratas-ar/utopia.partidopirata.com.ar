@@ -18,7 +18,7 @@ que siempre nos hacen a las niñas sobre cómo el mundo es justo o cómo
 aquellas que se esfuercen más serán las mejor recompensadas, sino a la
 promesa generacional particular --hecha a las que fuimos niñas en los
 cincuenta, sesenta, setenta y ochenta-- que nunca fue articulada como
-tal, más bien dada como un conjunto de suposiciones respecto a cómo sería 
+tal, más bien hecha como un conjunto de suposiciones respecto a cómo sería 
 nuestro mundo adulto.  Y como nunca fue realmente prometida, ahora que 
 no se ha convertido en realidad, nos hemos quedado confundidas: indignadas, 
 pero al mismo tiempo avergonzadas de nuestra propia indignación; avergonzadas, 
@@ -135,25 +135,25 @@ hicieron más fácil la creación, transferencia y reagrupación de
 proyecciones virtuales de cosas que o ya existían o que descubrimos
 que nunca existirán.  Seguramente si vacacionáramos en domos geodésicos
 en Marte o tuviéramos plantas de fusión nuclear de bolsillo, o
-dispositivos telequinéticos de lectura mental; nadie tendría la
+dispositivos telequinéticos de lectura mental, nadie tendría la
 necesidad de hablar al respecto.  El momento posmoderno es una forma
 desesperada de tomar lo que de otra manera hubiera sido una decepción y
 convertirlo en algo de época, excitante y nuevo.
 
 En sus formulaciones tempranas, que en su mayoría provenían de la
 tradición marxista, mucho de este trasfondo tecnológico era reconocido.
-"El posmodernismo o la lógica cultural del capitalismo tardío" de
+En "El posmodernismo o la lógica cultural del capitalismo tardío",
 Fredric Jameson proponía el término "posmodernismo" como referencia a la
 lógica cultural apropiada para esta nueva fase tecnológica del
 capitalismo que ya venía siendo anunciada por el economista marxista
 Ernst Mandel desde 1972.  Mandel argumentaba que la humanidad se
 encontraba al borde de una "tercera revolución tecnológica" tan profunda
-como las revoluciones agrícola e industrial, donde las computadoras, los
+como las revoluciones agrícola e industrial; donde las computadoras, los
 robots, las nuevas fuentes de energía y las nuevas tecnologías de la
 información reemplazarían el trabajo industrial --lo que pronto sería
 llamado el "fin del trabajo"-- reduciéndonos a diseñadoras y técnicas
-informáticas pergeñadoras de las visiones más locas en lo que respecta a
-lo que las fábricas cibernéticas producirían.
+informáticas pergeñadoras de las visiones más locas que después, las 
+fábricas cibernéticas se encargarían de volver realidad.
 
 Los argumentos a favor del fin del trabajo eran populares a finales de
 los setenta y a principios de los ochenta, cuando las pensadoras
@@ -189,11 +189,11 @@ superficies.
 
 ¿Por qué falló la explosión de crecimiento tecnológico --las bases
 lunares, las fábricas de robots-- que proyectábamos?  Hay dos
-posibilidades o bien nuestras expectativas sobre el paso del cambio
-tecnológico no eran realistas (y de ser así, tenemos que saber por qué
-tantas personas inteligentes no lo creían así) o que nuestras
-expectativas eran realistas (y de ser así, tenemos que saber qué fue lo
-que hizo que se descarrilaran tantas ideas creíbles y prospectos).
+posibilidades, o bien nuestras expectativas sobre el paso del cambio
+tecnológico no eran realistas y de ser así tenemos que saber por qué
+tantas personas inteligentes creían lo contrario; o que nuestras
+expectativas eran realistas y de ser así, tenemos que saber qué fue lo
+que hizo que se descarrilaran tantas ideas creíbles y prospectos.
 
 La mayoría de las analistas sociales eligió la primera explicación y
 trazó el problema hasta la carrera espacial de la Guerra Fría.  ¿Por
@@ -248,8 +248,8 @@ de volver obsoleta la idea de maternidad.
 
 Las humanas no estaban psicológicamente preparadas para el paso del
 cambio, decía Toffler.  Incluso acuñó un término para el fenómeno:
-"empuje acelerativo", que había comenzado con la Revolución Industrial,
-cuyo efecto se había vuelto incontenible hacia 1850.  No solo todo lo
+"empuje acelerativo", que había comenzado con la Revolución Industrial
+y cuyo efecto se había vuelto incontenible hacia 1850.  No solo todo lo
 que nos rodeaba estaba cambiando, sino que casi todo --el conocimiento
 humano, el tamaño de la población, el crecimiento industrial, el uso
 energético-- estaba cambiando exponencialmente.  La única solución decía
@@ -409,8 +409,8 @@ Pero en los '50 de hecho, muchos de los funcionarios de los Estados
 Unidos sospechaban que el sistema soviético funcionaba mejor.
 Ciertamente, recordaban el hecho de que en los '30, mientras los Estados
 Unidos se hundían en la depresión, la Unión Soviética había sostenido
-cifras de crecimiento económico sin precedentes, que rondaban entre 10 y
-12% anuales.  Un logro sucedido rápidamente por la producción del
+cifras de crecimiento económico sin precedentes que rondaban entre el 10 
+y el 12% anuales.  Un logro sucedido rápidamente por la producción del
 ejército de tanques que derrotaría a la Alemania Nazi, el lanzamiento
 del _Sputnik_ en 1957 y el primer viaje espacial tripulado por humanas,
 la _Vostok_, en 1961.
@@ -424,9 +424,9 @@ grises sin imaginación, pero en realidad fueron burócratas que se
 animaron a soñar sueños asombrosos.  El sueño de la revolución mundial
 solo fue el primero.  Es verdad que muchos de ellos --cosas como cambiar
 el curso de poderosos ríos-- terminaron siendo ecológica y socialmente
-desastrosos o, como el Palacio de los Soviets de 100 pisos de Iósif
-Stalin o la estatua de Vladimir Lenin de 20 pisos, nunca se levantaron
-del suelo.
+desastrosos o nunca se levantaron del suelo, como el Palacio de los 
+Soviets de 100 pisos de Iósif Stalin, o la estatua de Vladimir Lenin de 
+20 pisos.
 
 Luego de los éxitos iniciales del programa espacial soviético, pocos de
 estos planes fueron realizados, pero el liderazgo nunca cesó de imaginar
@@ -454,7 +454,7 @@ Como resultado, se mantuvo la mitología de la frontera final, aun cuando
 la dirección de la investigación y desarrollo pivotó hacia cualquier
 cosa que no tuviera que ver con bases en Marte ni fábricas robot.
 
-La historia estándar es que esto fue el resultado del triunfo del
+La historia estándar dice que esto fue el resultado del triunfo del
 mercado.  El programa _Apollo_ fue un proyecto del _Gran Gobierno_, de
 inspiración soviética en el sentido de que requirió un esfuerzo nacional
 coordinado por burocracias estatales.  Tan pronto como la amenaza
@@ -486,7 +486,7 @@ los imperativos del mercado de consumo, sino parte de un esfuerzo hacia
 la humillación tecnológica de la Unión Soviética, sumada a una victoria
 total en la guerra de clases global --vista simultáneamente como la
 imposición absoluta de la dominación militar estadounidense en el
-exterior y, localmente, en la profunda derrota de los movimientos
+exterior y localmente, en la profunda derrota de los movimientos
 sociales.
 
 Las tecnologías que sí emergieron han demostrado ser muy conducentes
@@ -708,7 +708,7 @@ esperar que tus mejores ideas sean menospreciadas sistemáticamente:
 Esto responde bastante a la pregunta sobre por qué no tenemos
 dispositivos de teletransportación o zapatos antigravitatorios.  El
 sentido común sugiere que si queremos maximizar la creatividad
-científica, tenés que encontrar gente brillante, darle los recursos que
+científica, tenemos que encontrar gente brillante, darle los recursos que
 necesiten para seguir las ideas que vengan de sus cabezas y dejarlas
 tranquilas para que hagan lo que deban y quieran hacer.  La mayoría
 resultará en nada, pero una o dos seguramente descubrirán algo.  Pero si
