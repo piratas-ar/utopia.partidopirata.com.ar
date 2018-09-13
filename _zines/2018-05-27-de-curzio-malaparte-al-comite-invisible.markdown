@@ -242,17 +242,16 @@ Desde su puesto de avanzada en Punta Masullo, el vigía sonríe.
 
 ## Comentario
 
-> Este texto retoma y prolonga algunas notas sobre la naturaleza
-> "logística" del poder escritas por primera vez en una ["reseña" del
-> último libro del Comité
-> Invisible](http://www.eldiario.es/interferencias/comite_invisible-revolucion_6_348975119.html).
-> En su forma actual, el texto fue publicado por primera vez en el
-> número 371 (mayo, 2015) de Arquitectura, la revista oficial del
-> Colegio Oficial de Arquitectos de Madrid (Madrid: ea!  Ediciones de
-> arquitectura).
+Este texto retoma y prolonga algunas notas sobre la naturaleza
+"logística" del poder escritas por primera vez en una ["reseña" del
+último libro del Comité
+Invisible](http://www.eldiario.es/interferencias/comite_invisible-revolucion_6_348975119.html).
+En su forma actual, el texto fue publicado por primera vez en el número
+371 (mayo, 2015) de Arquitectura, la revista oficial del Colegio Oficial
+de Arquitectos de Madrid (Madrid: ea!  Ediciones de arquitectura).
 
 ## Agradecimientos
 
-> Gracias a las amigas por los comentarios útiles para la escritura del
-> texto: Carolina, Pepe, Álvaro, Marc, Diego y Ema (en recuerdo de
-> nuestro frustrado intento por entrar en la casamata de Malaparte).
+Gracias a las amigas por los comentarios útiles para la escritura del
+texto: Carolina, Pepe, Álvaro, Marc, Diego y Ema (en recuerdo de nuestro
+frustrado intento por entrar en la casamata de Malaparte).
