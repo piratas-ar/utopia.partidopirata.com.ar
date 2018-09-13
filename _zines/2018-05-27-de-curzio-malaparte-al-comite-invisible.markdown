@@ -234,6 +234,8 @@ _hacklabs_!
 
 Desde su puesto de avanzada en Punta Masullo, el vigía sonríe.
 
+# Post
+
 ## Referencias utilizadas
 
 * Técnica del golpe de Estado, Curzio Malaparte, Editorial Ulises, 1931
@@ -246,6 +248,7 @@ Este texto retoma y prolonga algunas notas sobre la naturaleza
 "logística" del poder escritas por primera vez en una ["reseña" del
 último libro del Comité
 Invisible](http://www.eldiario.es/interferencias/comite_invisible-revolucion_6_348975119.html).
+
 En su forma actual, el texto fue publicado por primera vez en el número
 371 (mayo, 2015) de Arquitectura, la revista oficial del Colegio Oficial
 de Arquitectos de Madrid (Madrid: ea!  Ediciones de arquitectura).

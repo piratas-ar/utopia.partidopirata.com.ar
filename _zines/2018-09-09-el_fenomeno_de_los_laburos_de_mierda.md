@@ -5,6 +5,11 @@ layout: post
 signature: 0
 ---
 
+# El fenómeno de los trabajos de mierda
+
+> Publicado en _Guerrilla Translation_ como ["El fenómeno de los curros
+> inútiles"](http://www.guerrillatranslation.es/2013/09/24/el-fenomeno-de-los-curros-inutiles/)
+
 En el año 1930, John Maynard Keynes pronosticó que llegados a fin de
 siglo, la tecnología habría avanzado lo suficiente para que países como
 Gran Bretaña o Estados Unidos pudieran implementar una semana laboral de
@@ -19,7 +24,7 @@ consideran totalmente innecesarias.  Es una situación que provoca una
 herida moral y espiritual muy profunda.  Es una cicatriz que marca
 nuestra alma colectiva.  Pero casi nadie habla de ello.
 
-¿Por qué no se materializó nunca la utopía prometida por Keynes –una
+¿Por qué no se materializó nunca la utopía prometida por Keynes --una
 utopía que se seguía anhelando en los sesenta?  La explicación más
 extendida hoy en día es que no supo predecir el aumento masivo del
 consumismo.  Ante la disyuntiva de menos horas o más juguetes y placeres,
@@ -106,7 +111,7 @@ desempeñando tareas que ni les gustan, ni se les dan especialmente bien.
 Imaginemos que se contrata a unas ebanistas altamente calificadas y que
 éstas, de repente, descubren que su trabajo consistirá en pasarse gran
 parte de la jornada friendo pescado.  Es más, se trata de un trabajo
-innecesario –solo hay una cantidad muy limitada de pescados a freír.  Aun
+innecesario --solo hay una cantidad muy limitada de pescados a freír.  Aun
 así, todas se vuelven tan obsesivamente resentidas ante la sospecha de
 que algunas de sus compañeras pasan más tiempo tallando madera que
 cumpliendo con sus responsabilidades como freidoras de pescado, que
@@ -166,8 +171,8 @@ plantearnos una discusión seria sobre la dignidad laboral cuando hay
 tanta gente que, en el fondo, cree que su trabajo ni siquiera debería
 existir?  Inevitablemente, esto da lugar al resentimiento y a una rabia
 muy profunda.  El peculiar ingenio de esta sociedad reside en el hecho de
-que nuestros dirigentes han hallado la manera –como en el ejemplo de las
-freidoras de pescado– de que esa rabia se dirija precisamente en contra
+que nuestros dirigentes han hallado la manera --como en el ejemplo de las
+freidoras de pescado-- de que esa rabia se dirija precisamente en contra
 de quienes desempeñan tareas provechosas.  Por ejemplo, parece que existe
 una regla general que dictamina que, cuanto más claramente beneficioso
 para las demás es un trabajo, peor se remunera.  De nuevo, es muy difícil
@@ -213,7 +218,7 @@ estrato aterrorizado y universalmente denigrado de las desempleadas y
 esa otra capa más grande que básicamente recibe un salario a cambio de
 no hacer nada en puestos diseñados para que se identifiquen con la
 sensibilidad y la perspectiva de la clase dirigente (directivos,
-administradores, etc.) –y en particular, de sus avatares financieros–
+administradores, etc.) --y en particular, de sus avatares financieros--
 pero que, a la vez, fomentan el creciente resentimiento hacia cualquiera
 que desempeñe un trabajo de indiscutible valor social.  Evidentemente,
 este sistema no es fruto de un plan intencionado sino que emergió como

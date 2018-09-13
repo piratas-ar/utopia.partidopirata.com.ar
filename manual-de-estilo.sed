@@ -19,6 +19,7 @@ s/sólo/solo/g
 # Los guiones para comentarios son dobles
 s/ +-+/ --/g
 s/-+([ ,])/--\1/g
+s/–/--/g
 # Quitar todo el espaciado extra a menos que esté al principio de la
 # línea y sea indentación
 s/([^ ])  */\1 /g
