@@ -17,6 +17,7 @@ pandoc:
   site_flags: '--toc --template=_layouts/toc.html'
   outputs:
     pdf: '-V fontsize=8pt,twoside
+        -V mainfont=Alegreya
         -V documentclass=book
         -V geometry=hcentering
         -V links-as-notes=true

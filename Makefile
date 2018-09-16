@@ -8,7 +8,7 @@ png    := $(patsubst %.svg,%.png,$(tapas) $(single) $(slider))
 
 destination := /srv/http/utopia.partidopirata.com.ar
 srv         := $(PWD)/_site
-site        := $(notdir $(destination))
+site        ?= $(notdir $(destination))
 torrent     := $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "puts c['torrent']['file']")
 
 # All es el primero para que sea la opción por defecto

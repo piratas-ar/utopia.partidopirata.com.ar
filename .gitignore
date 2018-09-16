@@ -9,3 +9,4 @@ assets/covers/*.png
 assets/covers/*.pdf
 
 _site/
+node_modules/
