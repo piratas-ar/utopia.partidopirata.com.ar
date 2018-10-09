@@ -29,3 +29,6 @@ s/([\.\?!]) +(([^a-z0-9]+)?[A-Z0-9])/\1  \2/g
 s/^([0-9]+\.) +/\1 /
 # No hay espacios antes de los signos de puntuación
 s/ +([\.;:\),?!])/\1/g
+# ...
+s/…/.../g
+s/ﬁ/fi/g
