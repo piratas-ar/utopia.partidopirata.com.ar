@@ -242,7 +242,7 @@ La sala de chat se accede vía IRC o Telegram (son la misma).
 Por favor recordá y tené presente nuestro **[Código de camaradería](https://wiki.partidopirata.com.ar/ConvivenciaPpar)**.
 
 * Si querés entrar por Telegram, este link funciona actualmente:
-* <https://t.me/joinchat/DQyUbELegzRnuHSETO0U2Q>
+* <https://t.me/joinchat/CH3fIkLegzTNPk-REpgbvQ>
 * Podría ser que revoquemos ese enlace por algún motivo y no lo actualicemos aquí, avisanos!
 
 * Si no tenés Telegram ni un cliente de IRC, podés usar este link:
