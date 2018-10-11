@@ -2,10 +2,13 @@
 title: Autodefensa Digital para activistas y comunicadorxs populares
 author: Partido Interdimensional Pirata
 cover: assets/covers/autodefensa_digital_para_activistes.png
+toc: false
+papersize: a5paper
 ---
 
+# Autodefensa Digital para activistas y comunicadorxs populares
 
-# Introducción
+## Introducción
 
 Esta publicación es una guía rápida y no exhaustiva que recoge los
 artículos disponibles en la [Wiki del Partido Interdimensional
@@ -37,12 +40,12 @@ comunicar desde nuestras experiencias y especificidades reivindicativas,
 así como para intercambiar ideas sobre los usos de las tecnologías en el
 hecho comunicativo; si sirven o si no sirven en los contextos
 comunicacionales de nuestras colectivas, territorios y movimientos; qué
-pasa cuando las necesitamos usar de urgencia; có mo son tomadas por las
+pasa cuando las necesitamos usar de urgencia; cómo son tomadas por las
 colectivas y con qué dificultades se encuentran; si son necesarias otras
 herramientas y si hace falta ponernos a imaginar y desarrollar
 tecnologías nuevas...
 
-# F-Droid
+## F-Droid
 
 F-Droid es un instalador de aplicaciones libres para Android, que
 reemplaza a Google Play.  Si te preocupa que Google obtenga y utilice
@@ -54,7 +57,7 @@ extracción de datos que utilice una aplicación o si no es posible, lo
 avisan en la descripción para que podamos decidir si la queremos
 instalar o no.  Por ejemplo, ninguna aplicación muestra publicidad.
 
-Se instala descargando la aplicación desde el sitio <https://f-droid.org.>
+Se instala descargando la aplicación desde el sitio <https://f-droid.org>.
 
 Se va a descargar un archivo.apk.  Al abrirlo, da la opción de
 instalarlo.  A veces, Android dice que necesitamos permitir instalar
@@ -75,29 +78,29 @@ proyectos tienen sus propios repositorios.
 donde publica todas las aplicaciones de autodefensa digital que
 desarrollan.
 
-## Buscar aplicaciones
+### Buscar aplicaciones
 
 Al ingresar a F-Droid va a mostrar un listado de todas las aplicaciones
 disponibles en orden de actualización.  También se pueden navegar por
 categorías, usando los botones al pie.
 
 Con el botón verde con ícono de lupa se puede buscar.  Al momento,
-F-Droid solo sube las descripciones en inglés:(
+F-Droid solo sube las descripciones en inglés :(
 
-## Instalar aplicaciones
+### Instalar aplicaciones
 
 Al tocar cualquier aplicación, vamos a ver su perfil, con información
 como ícono, descripción, enlaces al sitio y código fuente y versiones
 disponibles.  Desde ahí podemos instalar la aplicación.  F-Droid la
 descarga y luego nos muestra los permisos necesarios para instalarla.
 
-## Actualizar aplicaciones
+### Actualizar aplicaciones
 
 F-Droid actualiza regularmente los repositorios y cuando detecta que hay
 una actualización disponible, muestra una notificación.  Podemos elegir
 cuáles actualizar y el momento en que lo queremos hacer.
 
-## Agregar repositorios
+### Agregar repositorios
 
 Los repositorios son bases de datos de aplicaciones disponibles en un
 sitio web.  Para agregar un repositorio hay que copiar el enlace y
@@ -110,12 +113,12 @@ F-Droid.  No se puede hacer esto desde el navegador porque lo va a abrir
 directamente en lugar de preguntarnos con qué aplicación lo queremos
 abrir.
 
-## Repositorio pirata
+### Repositorio pirata
 
 Para probar agregar un repositorio, podés probar compartiendo esta
 dirección: <https://fdroid.partidopirata.com.ar/fdroid/repo>
 
-# Orbot
+## Orbot
 
 Orbot es la versión de Tor para Android.  Permite hacer anónima nuestra
 ubicación física y dependiendo del uso que le demos, es capaz de
@@ -125,14 +128,14 @@ saber dónde estamos.
 
 Está disponible en F-Droid, habilitando el repositorio de Guardian Project.
 
-## Navegación
+### Navegación
 
 Orbot viene acompañada de otra aplicación que se llama Orfox, una
 versión de Firefox ya preconfigurada para conectarse solo a través de
 Tor.  Recomendamos usar este navegador en lugar de otros, como el de
 fábrica (¡al que no recomendamos para nada!) o Firefox Klar.
 
-## Modo VPN
+### Modo VPN
 
 Orbot también tiene un modo VPN, que permite hacer pasar todas las
 conexiones de Internet que hacen las aplicaciones del celular a través
@@ -141,7 +144,7 @@ de Tor.
 Para eso habilitamos el "Modo VPN" deslizando la opción y luego al pie,
 donde dice "Torenabled apps", seleccionamos las que queremos anonimizar.
 
-# Signal
+## Signal
 
 [Signal](https://signal.org/) es una app libre3 para enviar mensajería
 cifrada, desarrollada por [Open Whisper
@@ -155,7 +158,7 @@ Ya que Signal requiere compartir números de teléfono para poder
 comunicarse recomendamos usarlo como herramienta de comunicación interna
 con nuestras colectivas de confianza.
 
-## Ventajas
+### Ventajas
 
 * Ostenta las características de cifrado más modernas
 * Cifra todos los mensajes por defecto
@@ -170,7 +173,7 @@ con nuestras colectivas de confianza.
   leídos
 * No permite hacer capturas de pantalla de los mensajes
 
-## Desventajas
+### Desventajas
 
 * La identidad es nuestro número de teléfono, no vamos a poder hablar
   con gente a la que no se lo queramos compartir.
@@ -181,12 +184,12 @@ con nuestras colectivas de confianza.
   tiene Signal.  Hay una app que se llama Silence. que mantiene la
   característica de enviar SMS cifrado.
 
-## ¿Cómo lo instalo?
+### ¿Cómo lo instalo?
 
 Si no tenemos o queremos usar Google Play (recomendamos que no), Signal
 se puede instalar desde F-Droid, agregando el repositorio pirata P)
 
-## Configurar Signal
+### Configurar Signal
 
 * Abrir la aplicación y registrar el número de teléfono.  Para los
   números de Argentina, recomendamos registrarse con el número
@@ -199,7 +202,7 @@ se puede instalar desde F-Droid, agregando el repositorio pirata P)
   un mensaje seguro con Signal" o "Enviar un mensaje inseguro con SMS".
   Así vamos a poder distinguir con quién podemos hablar de forma segura.
 
-## Versión de escritorio
+### Versión de escritorio
 
 Para no tener que estar pendientes del celular, Signal tiene una versión
 para computadoras de escritorio (o de faldas:)
@@ -219,7 +222,7 @@ para computadoras de escritorio (o de faldas:)
 * Los dos Signal se van a reconocer y sincronizar mensajes, esto puede
   tomar un rato.
 
-## Controversia
+### Controversia
 
 Estas son algunas de las contras que le encontramos al uso de Signal.
 Ninguna app es una panacea que resuelve todos los problemas, sino que
@@ -262,7 +265,7 @@ tenemos que usarlas sabiendo sus carencias.
   de seguridad, si no queremos que se sepa cuándo estamos en el celular
   y cuándo en la computadora.
 
-# Guía de seguridad y privacidad en Facebook
+## Guía de seguridad y privacidad en Facebook
 
 Ya sabemos que Facebook monetiza todo el contenido que creamos en su
 plataforma, por eso las piratas decimos que trabajamos para Facebook P),
@@ -347,7 +350,7 @@ Cuando hayas terminado de ajustar estas opciones, podés probar cómo ve
 otra gente tu perfil, para ver qué queda público, si todavía salen
 publicaciones en la sección de Noticias, etc.
 
-## Tinfoil for Facebook
+### Tinfoil for Facebook
 
 **Tinfoil for Facebook** es una aplicación que podemos usar en el
 celular para navegar en el sitio web móvil de Facebook.  Esta aplicación
@@ -355,12 +358,12 @@ no tiene acceso a los contactos y otros datos del celular, con lo que
 minimizamos los datos que nos pueden extraer.  Podés descargar la
 aplicación desde F-Droid.
 
-# New Pipe
+## New Pipe
 
 Dentro de F-Droid, buscar e instalar New Pipe, para conectarse a YouTube
 sin compartir información y sin ver publicidades.
 
-## Escuchar audio
+### Escuchar audio
 
 Cuando se abre un video con New Pipe, nos pregunta si lo queremos ver o
 lo queremos abrir "en segundo plano" o "de fondo".  Esta opción abre el
@@ -368,7 +371,7 @@ audio como si fuera el reproductor de música del celular, con lo que se
 puede estar haciendo otra cosa (dentro y fuera del celular) sin dejar de
 escuchar.
 
-# Firefox Klar
+## Firefox Klar
 
 Firefox Klar es una versión de Firefox minimalista que desactiva
 publicidades y otras técnicas de rastreo.  No nos hace anónimas, como
@@ -378,7 +381,7 @@ hace más liviana la navegación.
 Además, al cerrarlo elimina el historial de navegación para que no quede
 rastro de lo que hacemos en el celular.
 
-## Características
+### Características
 
 Privacidad automática: Bloquea un amplio rango de rastreadores web
 comunes sin tener que activar ninguna opción y permite borrar con
@@ -392,11 +395,11 @@ Firefox.
 
 ¡Tampoco permite sacar capturas de pantalla!
 
-## Instalar
+### Instalar
 
 Firefox Klar está disponible en F-Droid.
 
-# Grabar audio
+## Grabar audio
 
 Audio Recorder es una aplicación instalable desde F-Droid que permite
 grabar audio:P
@@ -405,19 +408,19 @@ Tiene un cálculo de cuánto tiempo podemos grabar en relación al espacio
 disponible, gráfico de ondas y además convierte a MP3 u otros formatos
 al terminar de grabar.
 
-## Ajustes (Settings)
+### Ajustes (Settings)
 
 La opción más interesante es Encoding.  Por defecto viene en OGG, un
 formato libre similar a MP3.  Hay varios para elegir, incluyendo MP3.
 
-# Bitmask
+## Bitmask
 
 Bitmask es un cliente de VPN que permite asegurar las conexiones.  Las
 VPN ocultan nuestro uso de Internet a los proveedores de Internet
 inmediatos, de forma que no pueden saber qué estamos haciendo, solo que
 estamos usando una VPN.
 
-## Ventajas
+### Ventajas
 
 * Es de confianza, los proveedores como [RiseUp](https://riseup.net/)
   tiene un amplio historial de apoyar a activistas de todo el mundo
@@ -427,7 +430,7 @@ estamos usando una VPN.
   Internet a través de Bitmask.  Esto impide que al reconectarnos, una
   app le gane de mano a Bitmask y se deschave nuestra navegación.
 
-## Desventajas
+### Desventajas
 
 * Puede usar mucha batería
 * Puede ser lenta, aunque no mucho más de lo lenta que puede ser una
@@ -435,13 +438,13 @@ estamos usando una VPN.
   usa y los servidores se saturan, aunque son bastante estables.  No nos
   ha sucedido que Bitmask deje de estar disponible o sea inestable.
 
-## Usos recomendados
+### Usos recomendados
 
 Recomendamos Bitmask como alternativa a VPNs pagas como
 [IPredator](https://ipredator.se/), para usos cotidianos de Internet
 (mensajería, navegación, etc.)
 
-## Instalar
+### Instalar
 
 Se la puede instalar desde F-Droid.
 
@@ -451,7 +454,7 @@ recomendamos RiseUp.
 Nos podemos registrar, aunque si tenemos una cuenta de RiseUp no la va a
 aceptar (todavía).  También la podemos usar anónimamente.
 
-# Cifrar el celular
+## Cifrar el celular
 
 Aunque el celular esté apagado es posible recuperar lo que tengamos
 guardado.  Para proteger nuestra información es importante que cifremos
@@ -470,7 +473,7 @@ mientras el celular está encendido.
 Para cifrar el celular, hay que ir a Ajustes > Seguridad > Cifrar
 dispositivo y seguir los pasos.
 
-# Pegasus
+## Pegasus
 
 Pegasus es el nombre de un malware para dispositivos Android e iOS,
 desarrollado por una empresa israelí llamada NSO Group y que se rumorea
@@ -482,7 +485,7 @@ vez instalado, es capaz de obtener toda la información del celular y
 comunicarla inmediatamente, incluso si estamos usando apps de mensajería
 cifrada, ya que obtiene la información a medida que la tipeamos.
 
-## ¿Qué puede hacer?
+### ¿Qué puede hacer?
 
 * Keylogging.  Esto es, registrar todo lo que escribimos (mensajes, contraseñas, etc.)
 * Capturas de pantalla
@@ -493,7 +496,7 @@ cifrada, ya que obtiene la información a medida que la tipeamos.
 * Extraer contactos y SMS
 * Recibir órdenes por SMS
 
-## ¿Cómo prevenimos la infección?
+### ¿Cómo prevenimos la infección?
 
 Según los reportes iniciales del 2016, los intentos de infección
 comienzan cuando recibimos uno o varios mensajes de texto con un link,
@@ -521,7 +524,7 @@ instaló en un celular al que no iba dirigido, se auto-destruye después
 de un tiempo.  No se trata de un virus, cuyo objetivo es auto-replicarse.
 Se trata de un ataque dirigido a personas específicas.
 
-## Otras recomendaciones:
+### Otras recomendaciones:
 
 * Utilizar una app de SMS libre y segura en lugar de la que viene en el
   celular.  Signal es capaz de recibir los mensajes de texto y guardarlos
@@ -531,18 +534,18 @@ Se trata de un ataque dirigido a personas específicas.
 * Si revisamos mail en el celular, no usemos el cliente de correo por
   defecto.  K-9 es la alternativa libre.
 
-## ¿Cómo saber si está instalado?  ¿Cómo lo elimino?
+### ¿Cómo saber si está instalado?  ¿Cómo lo elimino?
 
 Por el momento no hay forma de detectarlo ni eliminarlo, ni siquiera
 volviendo el dispositivo a la configuración de fábrica.
 
-## Referencias
+### Referencias
 
 * [Pegasus for Android](https://blog.lookout.com/pegasus-android)
 * [Gobierno Espía](http://r3d.mx/2017/06/19/gobierno-espia/)
 * [Destapa la vigilancia](http://r3d.mx/2017/02/11/destapa-la-vigilancia-promotores-del-impuesto-al-refresco-espiados-conmalware-gubernamental/)
 
-# Gestor de contraseñas
+## Gestor de contraseñas
 
 Un gestor de contraseñas es una herramienta que nos permite generar y
 guardar contraseñas en una base de datos cifrada.  De esta forma, no
@@ -553,7 +556,7 @@ memorizar.
 
 Hay varias opciones, pero las piratas recomendamos estas:
 
-## KeePassXC
+### KeePassXC
 
 KeePassXC es una herramienta libre con la que podemos crear
 una base de datos cifrada donde guardaremos las contraseñas.  Está
@@ -561,12 +564,12 @@ disponible para todos los sistemas operativos y tiene la opción de
 autotipado, para no tener que andar copipegando las contraseñas todo el
 tiempo.  Se puede descargar desde su sitio web <https://keepassxc.org>.
 
-## KeePassXD
+### KeePassXD
 
 KeePassXD es una implementación libre para Android del gestor de
 contraseñas KeePass.  Se puede descargar desde F-Droid.
 
-## Recomendaciones para crear la contraseña maestra
+### Recomendaciones para crear la contraseña maestra
 
 En general, se recomienda que para crear esta contraseña (que cifra la
 base de datos) elijamos una serie de palabras al azar que sea fácil de
@@ -579,9 +582,9 @@ nacimiento.
 Para que la contraseña maestra sea más segura, se recomienda utilizar
 mayúsculas y minúsculas, números y signos de puntuación.
 
-# Remoción de Metadatos de Imágenes con Scrambled EXIF
+## Remoción de Metadatos de Imágenes con Scrambled EXIF
 
-## Ejemplos de usos
+### Ejemplos de usos
 
 Muchas veces queremos o necesitamos compartir imágenes rápidamente, por
 ejemplo para que circule por redes sociales para denunciar represión, en
@@ -594,7 +597,7 @@ información acerca de la ubicación, hora, fecha, dispositivo desde el
 que tomamos la imágen, etc... Esto podría volvernos vulnerables en caso de
 rastreo.
 
-## Qué es
+### Qué es
 
 Scrambled Exif es una aplicación para celulares (Android, Lineage u
 otras versiones libres...) que nos permite quitar de manera rápida los
@@ -602,11 +605,11 @@ metadatos de nuestras imágenes e inmediatamente compartirlos mediante
 cualquier otra aplicación del teléfono (Telegram, mensaje multimedia,
 etc.)
 
-## Dónde descargarla
+### Dónde descargarla
 
 Podés descargarla del repositorio de F-Droid.
 
-## Cómo usarla
+### Cómo usarla
 
 Elegís la foto que querés compartir y esta función (compartir).  Entre
 las opciones para hacerlo, tiene que aparecer la de Scrambled EXIF.  Al
@@ -615,7 +618,7 @@ removiendo los metadatos.  Luego te llevará a la opción de compartir la
 nueva imagen sin metadatos entre tus aplicaciones disponibles.
 Seleccionás una y ya estarás compartiendo la imagen sin metadata.
 
-# Bienvenidxs al fediverso
+## Bienvenidxs al fediverso
 
 Como parte de una estrategia para empezar a habitar redes sociales
 libres a la que venimos llamando Apostasía de Redes Sociales, nos
@@ -635,3 +638,5 @@ Algunos canales que ya están funcionando:
 * <https://todon.nl/@radiolanegra>
 * <https://todon.nl/@radiodelaazotea>
 * <https://t.me/CanalDeNoticiasDeANFenEspanol>
+
+![](assets/covers/autodefensa_digital_para_activistes_back.png)
