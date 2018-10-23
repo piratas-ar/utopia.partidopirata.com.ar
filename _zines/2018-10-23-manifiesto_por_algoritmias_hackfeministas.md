@@ -5,7 +5,7 @@ author: ""
 
 # Manifiesto por algoritmias hackfeministas
 
-## **__[Este Manifiesto se escribió desde la complicidad algorítmica a cuatro manos y 
+**__[Este Manifiesto se escribió desde la complicidad algorítmica a cuatro manos y 
 en portuñol-espanglish entre México y Brasil de mayo a octubre de 2017, 
 principalmente a través de un larguísimo pad <3, chats, notas de voz, spokenword, 
 notas en video, imágenes, desvelos, debrayes, mails, pausas, llamadas, música, y 
@@ -87,7 +87,7 @@ futuros empaquetados en forma de predicciones, recomendaciones y propaganda.
 Nunca más mandatos de comportamiento sobre cómo presentarse, reaccionar, responder 
 y narrar. Queremos cuerpos que disfruten, no que se carcoman de ansiedad.
 
-### **__La algoritmia hackfeminista es el pulso que programamos nosotras para 
+**__La algoritmia hackfeminista es el pulso que programamos nosotras para 
 sintonizar nuestros beats__**
 
 ## Con cuerpos mutantes hacia existencias gozosas
@@ -103,7 +103,7 @@ __To agree or not to agree__: nuestro consentimiento no es binario.
 Subvertimos nuestras propias versiones y construcciones de identidades, paisajes, 
 gestos y futuros.
 
-### **__La algoritmia hackfeminista comprende cómo funciona esa versión de mundo 
+**__La algoritmia hackfeminista comprende cómo funciona esa versión de mundo 
 y desde ahí programa variables críticas para intervenirlo.__**
 
 ## Con cuerpos que habitan, sostienen, desarrollan y combaten
@@ -121,7 +121,7 @@ nuestros campos de batalla.
 Somos la infraestructura que nos sostiene. Desarrollamos redes, servidoras, antenas, 
 archivos y memorias.
 
-### **__La algoritmia hackfeminista acompaña nuestras autodefensas: es la fuerza 
+**__La algoritmia hackfeminista acompaña nuestras autodefensas: es la fuerza 
 de nuestros cuerpos juntos y la amplificación de su potencia.__**
 
 ## Con cuerpos como bombas de cultivo frente a las narrativas automáticas
