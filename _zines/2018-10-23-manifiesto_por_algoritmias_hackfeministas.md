@@ -5,22 +5,28 @@ author: ""
 
 # Manifiesto por algoritmias hackfeministas
 
-**__[Este Manifiesto se escribió desde la complicidad algorítmica a cuatro manos y 
-en portuñol-espanglish entre México y Brasil de mayo a octubre de 2017, 
-principalmente a través de un larguísimo pad <3, chats, notas de voz, spokenword, 
-notas en video, imágenes, desvelos, debrayes, mails, pausas, llamadas, música, y 
-sobre todo, ganas. En una segunda etapa, desde el verano mexicano y el invierno 
-brasileño del 2018, buscamos crear un co-relato visual en diálogo con las palabras 
-para darle vida a la Algoritmia a través de una narrativa que también muta, se 
-amplía y decodifica].__**
+> **__[Este Manifiesto se escribió desde la complicidad algorítmica a cuatro manos y 
+> en portuñol-espanglish entre México y Brasil de mayo a octubre de 2017, 
+> principalmente a través de un larguísimo pad <3, chats, notas de voz, spokenword, 
+> notas en video, imágenes, desvelos, debrayes, mails, pausas, llamadas, música, y 
+> sobre todo, ganas. En una segunda etapa, desde el verano mexicano y el invierno 
+> brasileño del 2018, buscamos crear un co-relato visual en diálogo con las palabras 
+> para darle vida a la Algoritmia a través de una narrativa que también muta, se 
+> amplía y decodifica].__**
 
 Nuestros cuerpos son territorios es disputa. Internet es un territorio en 
-disputa. Los algoritmos son un territorio en disputa. Hay una tendencia de 
+disputa. Los algoritmos[^algoritmo] son un territorio en disputa. Hay una tendencia de 
 ánimos imperialistas que busca limitar las posibilidades de nuestros cuerpos, 
 sus afectos, relaciones y tránsitos para el servicio mercantil de quienes 
 deciden cómo se narra la historia y el mundo.
 
-En este manifiesto –y más que intentar explicar qué es o qué no es un algoritmo– 
+[^algoritmo]: En matemáticas, lógica y computación, es un conjunto prescrito de 
+instrucciones o reglas bien definidas, ordenadas y finitas, que permite llevar a 
+cabo una actividad mediante pasos sucesivos que no generen dudas a quien deba hacer 
+dicha actividad. En programación, es una secuencia de pasos lógicos que permiten 
+solucionar un problema.
+
+En este manifiesto –y más que intentar explicar qué es o qué no es un algoritmo, 
 deseamos reescribir nuestras propias formas de intervención y resistencia desde 
 una postura política hackfeminista: queremos resistir frente a toda infraestructura 
 que permite y reproduce opresión, discriminación y misoginia, a través de nuestros 
@@ -78,8 +84,12 @@ uno de sus procedimientos y variables de estado o tiempo, estén en clave de có
 abierto.
 
 Que la repetición de imágenes e informaciones en nuestros feeds se convierta en 
-ritmos expresivos: no más consumo impositivo, sometimiento y _force feeding_. Queremos 
-meter a nuestros cuerpos sólo lo que nos da placer.
+ritmos expresivos: no más consumo impositivo, sometimiento y _force feeding_[^force feeding]. 
+Queremos meter a nuestros cuerpos sólo lo que nos da placer.
+
+[^force feeding]: Derivación de la expresión del inglés ‘force-feed’: obligar a 
+una persona o animal a comer y beber, a menudo poniendo comida en el estómago a 
+través de una pipa en la boca.
 
 Que pasado y presente no cedan el control de nuestra memoria a la promesa de 
 futuros empaquetados en forma de predicciones, recomendaciones y propaganda.
@@ -88,7 +98,10 @@ Nunca más mandatos de comportamiento sobre cómo presentarse, reaccionar, respo
 y narrar. Queremos cuerpos que disfruten, no que se carcoman de ansiedad.
 
 **__La algoritmia hackfeminista es el pulso que programamos nosotras para 
-sintonizar nuestros beats__**
+sintonizar nuestros beats__**[^beat]
+
+[^beat]: Significa "latido" en inglés. En música, una sucesión constante de 
+unidades de ritmo.
 
 ## Con cuerpos mutantes hacia existencias gozosas
 
@@ -130,7 +143,11 @@ Las máquinas de guerra convierten a la guerra en paisaje: la presentan amigable
 limpia, complaciente, necesaria y en alta definición.
 
 Bajo interfases simples, planas y funcionales que pretenden invisibilizarnos, 
-polinizamos paisajes desde los bordes, las fallas, los errores y los glitches.
+polinizamos paisajes desde los bordes, las fallas, los errores y los glitches[^glitch].
+
+[^glitch]: Expresión en inglés proveniente de la electrónica: refiere a un error 
+en un archivo, y se visualiza comúnmente con la pixelización de la pantalla a 
+partir de una falla en un sistema electrónico. 
 
 Cultivamos ecosistemas de deseo y nos contagiamos de formas caóticas entre nosotras: 
 buscamos provocaciones comunes y acciones distribuidas, imprevisibles e 
@@ -141,33 +158,11 @@ Estamos armadas para distinguir el código de programación del loop infinito
 está programada para ser siempre verdadera. La romperemos en pedazos comprobando 
 su falsedad hasta bloquearla con fuerza.
 
-### **__La algoritmia hackfeminista es el comando corporal que frena este jodido 
-loop.__** 
+**__La algoritmia hackfeminista es el comando corporal que frena este maldito 
+loop.__**[^loop] 
 
-
-#### Glosario
-
- 
-
-(1) Algoritmo: En matemáticas, lógica y computación, es un conjunto prescrito de 
-instrucciones o reglas bien definidas, ordenadas y finitas, que permite llevar a 
-cabo una actividad mediante pasos sucesivos que no generen dudas a quien deba hacer 
-dicha actividad. En programación, es una secuencia de pasos lógicos que permiten 
-solucionar un problema.
-
-(2) Loop: En computación, una secuencia de instrucciones que se repite, ya sea 
+[^loop]: En computación, una secuencia de instrucciones que se repite, ya sea 
 un número específico de veces, o hasta que se cumple una condición en particular. 
 En electricidad, un circuito cerrado.
 
-(3) Beat: Significa "latido" en inglés. En música, una sucesión constante de 
-unidades de ritmo.
-
-(4) Force feeding: Derivación de la expresión del inglés ‘force-feed’: obligar a 
-una persona o animal a comer y beber, a menudo poniendo comida en el estómago a 
-través de una pipa en la boca.
-
-(5) Glitch: Expresión en inglés proveniente de la electrónica: refiere a un error 
-en un archivo, y se visualiza comúnmente con la pixelización de la pantalla a 
-partir de una falla en un sistema electrónico. 
-
-
+#### Glosario
