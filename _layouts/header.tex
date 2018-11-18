@@ -1,13 +1,13 @@
-\usepackage{quotchap} % changes style of chapter headings
+%\usepackage{quotchap} % changes style of chapter headings
 \usepackage{setspace}
 \usepackage{fancyhdr}
 
 \newcommand{\copyleft}{\reflectbox{©}}
 
-\definecolor{grey}{cmyk}{0,0,0,0.6}
-\definecolor{white}{cmyk}{0,0,0,0}
+%\definecolor{grey}{cmyk}{0,0,0,0.6}
+%\definecolor{white}{cmyk}{0,0,0,0}
 
-\renewcommand{\chapnumfont}{\color{white}}
+%\renewcommand{\chapnumfont}{\color{white}}
 
 \pagestyle{fancy}
 \fancyheadoffset{0pt}
@@ -74,3 +74,17 @@
     \put(0,0){\latexincludegraphics[width=\paperwidth,height=\paperheight]{#2}}}
   \newpage
 }
+% Poner la autora en el título
+%
+% Para esto el título del capítulo tiene que tener el formato "Título.
+% Autora"
+%
+% https://stackoverflow.com/a/1507530
+\usepackage{substr}
+\usepackage[explicit]{titlesec}
+\titleformat{\chapter}[hang]{}{}{0cm}{%
+  \raggedleft
+  \huge \BeforeSubString{ --- }{#1}\\
+  \IfSubStringInString{ --- }{#1}{%
+  {\Large \itshape \BehindSubString{ --- }{#1}}%
+}}
