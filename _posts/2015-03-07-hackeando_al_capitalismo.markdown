@@ -1197,36 +1197,35 @@ herramientas de software GNU a través de los años. Sin embargo, faltaba
 una parte crucial, el kernel. El kernel es el corazón del sistema
 operativo y trabaja como un nexo entre el software y el hardware de una
 computadora. Linus Torvalds llenó el vacío cuando inició el proyecto
-Linux.[^nota43] En 1991 Torvalds estaba estudiando ciencias de la
+Linux [^nota43] . En 1991 Torvalds estaba estudiando ciencias de la
 computación en la Universidad de Helsinki, Finlandia. Él se inspiró en
 otro sistema operativo llamado Minix, que había sido escrito por Andrew
 Tanenbaum con fines educativos. Así como se hizo a UNIX para ser
 ejecutado en las máquinas de última generación que poseían los
 departamentos universitarios, Minix fue diseñado para computadoras
-personales, caras pero asequible para personas (occidentales de clase
+personales, caras pero asequible para ciertas personas (occidentales de clase
 media). Minix se distribuía con su código fuente, pero tenía una
 licencia restrictiva que limitaba las opciones de modificación del
 programa. Linus Torvalds estudió el diseño de Minix y construyó su
 propio núcleo desde cero. Linux y Minix compitieron brevemente por los
-corazones y las mentes de una pequeña comunidad de desarrolladores. El
+corazones y las mentes de una pequeña comunidad de desarrolladoras. El
 eventual triunfo de Linux sobre Minix se explica según Linus Torvalds en
-parte por las sutilezas técnicas. Sin embargo, él también admite algunas
-debilidades técnicas de Linux en comparación con su competidor
-(*Torvalds*). De hecho, el éxito de Linux sobre Minix no se debe tanto a
-los factores técnicos como sí se debe a los factores sociales. La
-licencia restrictiva de Minix impidió a los usuarios mejorar el
-software. La principal preocupación de Andrew Tanenbaum fue mantener
-Minix accesible y fácil para que los estudiantes aprendan. La ampliación
-del programa con más características, desde esta perspectiva, sólo
-complicaría las cosas. Linus Torvalds, por el contrario, había tomado la
-decisión desde el principio de liberar su obra bajo la licencia GPL. Por
-lo tanto, todo el mundo podría estar seguro de que el kernel Linux
-permanecería abierto para los usuarios.[^nota44] El avance de GNU/Linux
-demoró unos años, y tampoco dependió de la superioridad técnica, como sí
-lo hizo de las relaciones sociales de propiedad y licencias.
+parte por las sutilezas técnicas. Sin embargo, Torvalds también admite 
+algunas debilidades técnicas de Linux en comparación con su competidor. 
+De hecho, el éxito de Linux sobre Minix no se debe tanto a los factores 
+técnicos como sí se debe a los factores sociales. La licencia restrictiva 
+de Minix impidió a los usuarios mejorar el software. La principal preocupación 
+de Andrew Tanenbaum fue mantener Minix accesible y fácil para que los 
+estudiantes aprendan. La ampliación del programa con más características, 
+desde esta perspectiva, sólo complicaría las cosas. Linus Torvalds, por el 
+contrario, había tomado la decisión de liberar su obra bajo la licencia GPL 
+desde el principio . Por lo tanto, todo el mundo podría estar seguro de que 
+el kernel Linux permanecería abierto para los usuarios [^nota44]. El avance 
+de GNU/Linux demoró unos años, y tampoco dependió de la superioridad técnica, 
+como sí lo hizo de las relaciones sociales de propiedad y licencias.
 
 Cuando la compañía telefónica AT&T comenzó a ejercer derechos de
-propiedad sobre el sistema operativo UNIX, los investigadores de la
+propiedad sobre el sistema operativo UNIX, las investigadoras de la
 Universidad de Berkeley se enfurecieron. Habían contribuido tanto con el
 desarrollo de UNIX como los empleados en AT&T. Abandonar su proyecto de
 largo plazo no era una buena opción. En lugar de comenzar un proyecto
@@ -1247,7 +1246,7 @@ Entonces, demandó a Berkeley por infracción al copyright, ya que la
 universidad había licenciado el producto a la empresa. El caso fue
 llevado a juicio en 1992. Cuando el tribunal falló dieciocho meses más
 tarde, AT&T tuvo que renunciar a sus pretensiones sobre BSD UNIX. Pero
-el daño ya estaba hecho. Los programadores se alejaron de BSD UNIX
+el daño ya estaba hecho. Las programadoras se alejaron de BSD UNIX
 durante el juicio en la corte, ya que temían que su trabajo pudiera
 terminar como propiedad de AT&T. De repente, el equipo de desarrollo de
 Linux se inundó con programadores desde el otro lado del Atlántico.
@@ -1260,8 +1259,8 @@ ejemplo clásico es la batalla entre Betamax y VHS acerca del estándar
 industrial de grabación de cinta de video. Aunque la excelencia
 tecnológica de Betamax es ampliamente reconocida, VHS ganó ya que el
 productor, JVC, pudo forzar el apoyo de la mayoría de los proveedores de
-contenidos (Hollywood) e infundir confianza entre los minoristas y los
-consumidores. En resumen, la fuerza de una capital sobre otro para atar
+contenidos (Hollywood) e infundir confianza entre las minoristas y las
+consumidoras. En resumen, la fuerza de un capital sobre otro para atar
 alianzas estratégicas con otros capitalistas e invertir en marketing
 resulta decisiva para el resultado. El rendimiento del dispositivo en sí
 era secundario. La novedad en el desarrollo de software libre y de
@@ -1275,106 +1274,106 @@ que uno de muchos proyectos de desarrollo de software libre exitosos.
 
 ## El éxito del movimiento de software libre y de código abierto
 
-Una medida de la fuerza del modelo de desarrollo de FOSS está dada por
+Una medida de la fuerza del modelo de desarrollo de _FOSS_ está dada por
 el alcance en que el software libre supera el software propietario en el
 mercado. En este sentido GNU/Linux sólo ha tenido un éxito moderado.
 Aunque popular en el ámbito académico y entre los clientes corporativos,
-muy pocos usuarios comunes han optado por el sistema operativo libre. Es
-difícil llegar a los usuarios finales ya que ellos valoran más la
+muy pocas usuarias comunes han optado por el sistema operativo libre. Es
+difícil llegar a las usuarias finales ya que ellas valoran más la
 familiaridad con la interfaz gráfica que el rendimiento técnico del
-programa. Aquellas aplicaciones de FOSS que están dirigidas a funciones
+programa. Aquellas aplicaciones de _FOSS_ que están dirigidas a funciones
 administrativas y especializadas han disfrutado de la mayor difusión.
 Apache es un programa de software para el funcionamiento de los
 servidores web. En enero de 2006 mantenía el 70% del mercado. El
-competidor comercial más grande, Microsoft, tenía sólo el 20%. Otros
+competidor comercial más grande, _Microsoft_, tenía sólo el 20%. Otros
 competidores estaban a punto de ser erradicados. Un gran impulso para
 Apache se produjo cuando IBM lo adoptó al abandonar su proyecto propio,
-aún en desarrollo.[^nota45] Berkeley Internet Name Domain (BIND) es otra
+aún en desarrollo [^nota45]. _Berkeley Internet Name Domain_ (BIND) es otra
 aplicación de software que se ha convertido en un estándar en su nicho.
 Esta aplicación traduce nombres de dominios en números IP. No menos
-notable es el éxito de Sendmail. Aunque los usuarios informáticos más
-comunes no se han encontrado con él directamente, Sendmail fue durante
+notable es el éxito de _Sendmail_. Aunque las usuarias informáticas más
+comunes no se han encontrado con él directamente, _Sendmail_ fue durante
 muchos años el programa más utilizado para la administración del tráfico
 de correo electrónico. La historia de éxito de los proyectos
 desarrollados en el espíritu del modelo de FOSS también puede extenderse
-a la World Wide Web (www). Técnicamente hablando www, no es una
+a la _World Wide Web_ (www). Técnicamente hablando www, no es una
 aplicación de software, sino un protocolo para los sitios web y los
 enlaces que hacen que sea más conveniente la navegación a través de
 Internet. La idea de la www se le ocurrió por primera vez a Tim
-Berners-Lee cuando estaba empleado en el Conseil Européen pour la
-Recherche Nucléaire (CERN), un centro de investigación de física de
+Berners-Lee cuando estaba empleado en el _Conseil Européen pour la
+Recherche Nucléaire_ (CERN), un centro de investigación de física de
 partículas cerca de Ginebra. A principios de los '90 la www iba por
-delante de un un sistema rival llamado Gopher. Ese sistema enfrentó un
+delante de un un sistema rival llamado _Gopher_. Ese sistema enfrentó un
 rápido fin después de que la Universidad de Minnesota, donde se había
 originado, anunció su intención de cobrar una tarifa por su licencia. A
 pesar de que la afirmación de la propiedad fue sólo parcial y nunca fue
-totalmente implementada, la amenaza fue suficiente para asustar a los
-usuarios y desarrolladores. Estar "Gopherizado" se convirtió en un
+totalmente implementada, la amenaza fue suficiente para asustar a las
+usuarias y desarrolladoras. Estar "Gopherizada" se convirtió en un
 término que describe el proceso cuando un proyecto de desarrollo de
-software queda herido de muerte debido a los intentos de una parte para
-cerrar el código. Después del incidente Gopher, el CERN declaró que el
+software queda herido de muerte debido a los intentos de una de sus partes 
+para cerrar el código. Después del incidente _Gopher_, el CERN declaró que el
 instituto se abstendría de realizar algún reclamos de propiedad sobre
-www en el futuro.[^nota46]
+www en el futuro[^nota46].
 
 Muchos intentos se han hecho para explicar por qué el modelo de
-desarrollo de los hackers funciona tan bien, tanto por las personas
-directamente involucradas en el mismo y más recientemente por los
-científicos sociales. Uno de los expertos más insistentes en teorizar
+desarrollo de las hackers funciona tan bien, tanto por las personas
+directamente involucradas en el mismo y más recientemente por las
+científicas sociales. Uno de los expertos más insistentes en teorizar
 sobre el movimiento hacker es Eric Raymond. En un influyente artículo,
 *La Catedral y el Bazar*, compara dos estilos opuestos de desarrollo de
 software. Él contrasta el modelo de la catedral de desarrollo
 convencional, centralizado, con el modelo bazar de desarrollo abierto,
 convencional. La referencia recurrente de una aplicación de software
-construida como una catedral es Windows de Microsoft. Sin embargo,
-algunos proyectos de FOSS que están escritos por un grupo muy unido de
-desarrolladores que raramente aceptan contribuciones externas también
+construida como una catedral es _Windows_ de _Microsoft_. Sin embargo,
+algunos proyectos de _FOSS_ que están escritos por un grupo muy unido de
+desarrolladoras que raramente aceptan contribuciones externas también
 califican como catedrales. Según Raymond, Linux fue el primer proyecto a
 gran escala que demostró la eficacia del enfoque opuesto, el modelo
 bazar. En este modelo, cualquier persona con acceso a Internet y
 conocimientos de programación puede participar en el proceso de
-desarrollo. Por lo tanto, sin presupuesto, el proyecto de bazar de FOSS
-a menudo implica más horas de trabajo de programadores expertos que la
-corporación más grande posiblemente pueda permitirse.[^nota47] El gran
-número de betatesters y co-desarrolladores es una gran ventaja porque
+desarrollo. Por lo tanto, sin presupuesto, el proyecto de bazar de _FOSS_
+a menudo implica más horas de trabajo de programadoras expertas que la
+corporación más grande posiblemente pueda permitirse [^nota47]. El gran
+número de betatesters y co-desarrolladoras es una gran ventaja porque
 acelera la crítica a la hora de identificar y corregir errores en el
-programa. Para aprovechar al máximo el ciclo de retroalimentación de los
-usuarios, los desarrollos-bazar son liberados con frecuencia, en casos
+programa. Para aprovechar al máximo el ciclo de retroalimentación de las
+usuarias, los desarrollos-bazar son liberados con frecuencia, en casos
 extremos, con una nueva versión todos los días, y las mejoras se hacen
 continuamente. Por el contrario, las actualizaciones de software al
 estilo de la catedral deben someterse a un largo período de pruebas para
 asegurar que todos los errores se eliminan antes de que el programa
-puede ser enviado al mercado. A la larga los proyectos de FOSS al estilo
+puede ser enviado al mercado. A la larga los proyectos de _FOSS_ al estilo
 bazar triunfarán, afirma Raymond, y lo dice en una frase con
-reminiscencias del materialismo histórico de la vieja escuela:[^nota48]
+reminiscencias del materialismo histórico de la vieja escuela[^nota48] :
 "[...] porque el mundo de los negocios no puede vencer en una carrera de
 armamentos evolutiva con las comunidades de código abierto que pueden
-poner en juego habilidades muy superiores en un problema."[^nota49] Sin
+poner en juego habilidades muy superiores en un problema" [^nota49]. Sin
 duda, Eric Raymond es un observador parcial, pero sus declaraciones
-encontraron respuesta de su némesis. En una nota interna, Microsoft
-evalúa la amenaza a la compañía que representa el movimiento de FOSS. El
+encontraron respuesta de su némesis. En una nota interna, _Microsoft_
+evalúa la amenaza a la compañía que representa el movimiento de _FOSS_. El
 texto se filtró a las manos de Eric Raymond y fue publicado en Internet
-en Halloween de 1998. Posteriormente el texto se conoció como el
-documento de Halloween.[^nota50] Al igual que Eric Raymond, los autores
-del documento de Halloween rinden homenaje a un montón de mano de obra
-gratuita que se puede implementar en un proyecto de desarrollo de FOSS y
-su capacidad para recolectar la inteligencia colectiva de los usuarios.
+en _Halloween_ de 1998. Posteriormente el texto se conoció como el
+_documento de Halloween_ [^nota50]. Al igual que Eric Raymond, los autores
+del _documento de _Halloween_ rinden homenaje a un montón de mano de obra
+gratuita que se puede implementar en un proyecto de desarrollo de _FOSS_ y
+su capacidad para recolectar la inteligencia colectiva de las usuarias.
 
 Linus Torvalds ha ofrecido su propia explicación al fenómeno GNU/Linux.
 La ventaja competitiva del software libre sobre el software propietario
-se debe a la mayor motivación de sus autores. Hablando en una reunión de
-un Grupo de Usuarios de Linux en San Francisco, expresó: "Esos otros
+se debe a la mayor motivación de sus autoras. Hablando en una reunión de
+un grupo de usuarias de Linux en San Francisco, expresó: "Esos otros
 sistemas operativos no son malos por algún (detalle técnico) A o B. Son
-malos porque no les importan las personas".[^nota51] Linus Torvalds
-evita reflexionar sobre cómo la falta de motivación de los programadores
-contratados depende de las relaciones laborales en las que
-trabajan.[^nota52] No son las personas que trabajan como programadores
+malos porque no les importan las personas"[^nota51]. Linus Torvalds
+evita reflexionar sobre cómo la falta de motivación de las programadoras
+contratadas depende de las relaciones laborales en las que
+trabajan[^nota52]. No son las personas que trabajan como programadoras,
 el eslabón más débil en el modelo de desarrollo propietario. La
 debilidad consiste en que cuando se escriben las aplicaciones de
 software para un mercado de consumo, la producción para su uso está
-sometida a la producción para el intercambio. Para un programador
-contratado, el código que está escribiendo es un medio para conseguir un
+sometida a la producción para el intercambio. Para una programadora
+contratada, el código que está escribiendo es un medio para conseguir un
 cheque de pago al final del mes. Cualquier atajo para llegar a fin de
-mes es suficiente. Para un hacker, por el contrario, la escritura de
+mes es suficiente. Para una hacker, por el contrario, la escritura de
 código es un fin en sí mismo. Siempre pone toda la atención en su
 esfuerzo, o de lo contrario se dedica a otra cosa. Es difícil para las
 empresas competir con ese tipo de compromiso.
@@ -1383,8 +1382,8 @@ Sin embargo, otro punto de vista sobre el asunto es ofrecido por Robert
 Young, presidente de la empresa de software libre Red Hat. Según él, el
 éxito del software libre puede explicarse por la ausencia de guerra
 reclamos de propiedad intelectual. En la investigación basada en la
-propiedad, los descubrimientos se mantienen en secreto e inaccesible a
-los demás. Esto crea una tendencia general a que el software propietario
+propiedad, los descubrimientos se mantienen en secreto e inaccesibles a
+las demás. Esto crea una tendencia general a que el software propietario
 se divida en varias líneas y no se desarrolle en forma secuencial. En el
 desarrollo de software libre la presión se invierte. Si un distribuidor
 de GNU/Linux adopta una innovación que se convierte en popular, los
@@ -1393,18 +1392,18 @@ igualdad de acceso al código fuente y se le permite usarlo. Las
 innovaciones se aceleran ya que las personas pueden aprovechar los
 descubrimientos de otros. Al eliminar las barreras de propiedad
 intelectual hay una convergencia general hacia un estándar
-común.[^nota53] El argumento de Robert Young contra el software
+común[^nota53]. El argumento de Robert Young contra el software
 propietario gana en consideración debido a la creciente importancia de
 las normas en el mercado de las computadoras. Los economistas Carl
 Shapiro y Hal Varian señalan que el mercado de las computadoras es un
-ejemplo de lo que ellos llaman una "industria en red".[^nota54] En las
+ejemplo de lo que ellos llaman una "industria en red" [^nota54]. En las
 industrias en red, los productos individuales funcionan como partes de
 un sistema más grande compuesto de muchos otros productos. Los
 componentes tienden a ser producidos por varios fabricantes de la
 competencia. La interoperabilidad se vuelve tan importante para el
 cliente como el precio y la calidad del producto individual. Los
 usuarios desean compatibilidad, no exclusión. En los mercados de alta
-tecnología en tan rápido movimiento, los clientes y los proveedores se
+tecnología en tan rápido movimiento, las clientas y las proveedoras se
 resisten a asumir el riesgo de invertir dinero y conocimientos en un
 producto que podría pronto ser obsoleto. Históricamente, el tamaño del
 capital ha sido el mejor seguro que de el producto de una empresa
@@ -1412,34 +1411,34 @@ permanecerá en servicio durante mucho tiempo. Sin embargo,
 independientemente de la fuerza de la empresa, siempre existe la
 posibilidad de una quiebra, una adquisición hostil, o un cambio en la
 política corporativa. Las aplicaciones de software que tengan titulares
-de copyright están en peligro de convertirse en callejones sin salida.
-Los clientes no podrán obtener versiones actualizadas que sean
-compatibles con los últimos servicios. Los usuarios de software GPL, por
+de _copyright_ están en peligro de convertirse en callejones sin salida.
+Las clientas no podrán obtener versiones actualizadas que sean
+compatibles con los últimos servicios. Las usuarias de software GPL, por
 el contrario, poseen la libertad de adaptar el código para siempre y
 cuando lo necesitan. Por lo tanto, la ausencia de capital, en lugar del
 tamaño del mismo, ofrece la mejor garantía de que el producto
-permanecerá relevante para los usuarios de el futuro.
+permanecerá relevante para las usuarias del futuro.
 
 Los tres causas dadas anteriormente para explicar el éxito del modelo de
-desarrollo FOSS difieren sólo en un nivel superficial. Tienen en común
+desarrollo _FOSS_ difieren sólo en un nivel superficial. Tienen en común
 que muestran *la insuficiencia de las relaciones capitalistas en la
 organización del trabajo* en el sector de la información. La
 productividad del desarrollo de software libre se encuentra en relación
 inversa con la jungla de reclamos de propiedad que impiden el desarrollo
 del software propietario, como testimonia Robert Young. La diversión de
-los hackers resulta ser más productiva que la distante relación salarial
-en que los programadores están atrapados, como es sugerido por Linus
-Torvalds. Y la posibilidad de involucrar a usuarios como
-co-desarrolladores de proyectos de desarrollo de software libre, un
+las hackers resulta ser más productiva que la distante relación salarial
+en que las programadoras están atrapadas, como es sugerido por Linus
+Torvalds. Y la posibilidad de involucrar a usuarias como
+co-desarrolladoras de proyectos de desarrollo de software libre, un
 factor destacado por Eric Raymond, está obstruida por considerar dichos
-proyectos como una mercancía, separando a los consumidores de los
-productores tal como los compradores están separados de los vendedores.
-En conclusión, los logros de los hackers no pueden ser considerados
+proyectos como una mercancía, separando a las consumidoras de las
+productoras tal como las compradoras están separadas de las vendedoras.
+En conclusión, los logros de las hackers no pueden ser considerados
 desde un único punto de vista, como una ingeniosa forma de organización,
 la utilización de una nueva tecnología, o un grupo mítico de personas.
 Tampoco es suficiente combinar los factores en la explicación. Este
 fenómeno debe analizarse en relación con la totalidad de las relaciones
-capitalistas. El movimiento FOSS es único sólo porque está explotando
+capitalistas. El movimiento _FOSS_ es único sólo porque está explotando
 los fallos del sistema capitalista, demostrando un modelo de lucha que
 es genérico. En los siguientes capítulos, fundamentaremos esta
 afirmación adentrándonos más en la teoría marxista. Se argumentará que
@@ -1450,58 +1449,58 @@ especializado) no son un umbral insuperable.
 
 ## Relaciones de poder dentro y fuera del movimiento hacker
 
-La imagen del desarrollo de FOSS presentada hasta ahora, como un modelo
+La imagen del desarrollo de _FOSS_ presentada hasta ahora, como un modelo
 único, monolítico, para escribir código, debe ser dejada de lado. Cada
 proyecto difiere de otro en la forma en que se toman las decisiones, se
 delega el trabajo, y se reconocen los créditos. Tampoco la codificación
-en FOSS está claramente separada del sector empresarial. Todos los
+en _FOSS_ está claramente separada del sector empresarial. Todos los
 grandes proyectos son híbridos que se las arreglan como empresas a
 medias, con los esfuerzos de la comunidad a medias. Un estudio descubrió
-que el 41% de todos los proyectos FOSS son iniciados y administrados por
+que el 41% de todos los proyectos _FOSS_ son iniciados y administrados por
 corporaciones. La mayoría de los proyectos resultaron ser conducido por
-personas, y sólo el 6% se organizaron en las redes libres de
-colaboradores del tipo de las asociadas con el desarrollo del
-FOSS.[^nota55] Los números no dicen necesariamente toda la historia
-acerca de con qué se comprometen la mayoría de los hackers y su nivel de
-participación. Los proyectos iniciados por las empresas suelen apuntar a
-la personalización del código a disposición de la comunidad de FOSS. Los
-mayoría de los proyectos de FOSS muy conocidos e influyentes, GNU/Linux,
-Apache, etc, están organizados en redes abiertas, colaborativas.
+personas y sólo el 6% se organizaron en las redes libres de colaboradoras 
+del tipo de las asociadas con el desarrollo del _FOSS_ [^nota55]. Los números 
+no dicen necesariamente toda la historia acerca de con qué se comprometen la 
+mayoría de las hackers y su nivel de participación. Los proyectos iniciados 
+por las empresas suelen apuntar a la personalización del código a disposición 
+de la comunidad de _FOSS_. La mayoría de los proyectos de _FOSS_ más conocidos 
+e influyentes, GNU/Linux, Apache, etc, están organizados en redes abiertas 
+colaborativas.
 
-Cabe hacer hincapié, sin embargo, que la organización en red no implica
+Cabe hacer hincapié, sin embargo, en que la organización en red no implica
 la ausencia de las relaciones de poder. Las jerarquías se basan en la
 reputación, el carisma, los contactos, la astucia y habilidad técnica
-demostrada. Estos valores están incrustadas en una sistema de normas
-compartidas que, por una parte, mantiene unida a la comunidad, y, por
+demostrada. Estos valores están incrustados en una sistema de normas
+compartidas que, por una parte, mantiene unida a la comunidad, y por
 otra parte, estratifica las relaciones internas y plantea obstáculos a
 las personas de afuera. Todos los proyectos de desarrollo importantes
-dependen de un grupo de jefes y/o un líder carismático para la toma de
-decisiones finales. El 10% de los desarrolladores más productivos de
+dependen de un grupo de jefes y/o una líder carismática para la toma de
+decisiones finales. El 10% de las desarrolladoras más productivas de
 proyectos de software libre contribuye con el 72% del código, aumentando
-el porcentaje en el nivel superior.[^nota56] Podría decirse que lo que
-importa no es que no hay asimetrías en las relaciones de poder y en el
+el porcentaje en el nivel superior[^nota56]. Podría decirse que lo que
+importa no es que no haya asimetrías en las relaciones de poder y en el
 rendimiento. Exigir tal pureza haría paralizar cualquier intento de
 organizar este mundo desordenado. Lo que importa es que el poder en
 estas comunidades no se fija en las dependencias económicas, legales o
-arquitectónicas. Todas las licencias de FOSS tiene en común que le
-garantizan a los usuarios la posibilidad de hacer un fork del proyecto.
-La oposición a realizar un fork reside en el compromiso y el tamaño de
-la base de usuarios dispuestos a hacerlo. Es el número de devotos que
-determina la relevancia y las perspectivas futuras de un fork. La
+arquitectónicas. Todas las licencias de _FOSS_ tiene en común que le
+garantizan a las usuarias la posibilidad de hacer un _fork_ del proyecto.
+La oposición a realizar un _fork_ reside en el compromiso y el tamaño de
+la base de usuarias dispuestas a hacerlo. Es el número de devotas que
+determina la relevancia y las perspectivas futuras de un _fork_. La
 facilidad con la que la gente puede abandonar un proyecto es por lo
 tanto, un obstáculo significativo en cómo se ejerce el poder. Si se
-percibe que un líder abusa de su posición, su base de poder puede
+percibe que una líder abusa de su posición, su base de poder puede
 vaporizarse muy rápidamente. Depende de su relación con la organización
-interna de la subcultura, en lugar de su uso **per se**, que la
+interna de la subcultura, en lugar de su uso _per se_, que la
 pretensión igualitaria que se pretende hacer.
 
 Del mismo modo, las calificaciones se deben hacer con respecto a cómo el
 movimiento hacker se relaciona con el mundo circundante. La imagen
-propia de los hackers difiere notablemente de su trayectoria. En el
+propia de las hackers difiere notablemente de su trayectoria. En el
 *Manifiesto de un Hacker*, un panfleto que circuló en los foros en los
 '80 y que se ha convertido en una especie de carta fundacional del
-underground informático, se declaró que los hackers: "existen sin color
-de piel, nacionalidad, ni orientación religiosa".[^nota57] Una rápida
+_underground informático_, se declaró que las hackers: "existen sin color
+de piel, nacionalidad, ni orientación religiosa" [^nota57]. Una rápida
 mirada es todo lo que se necesita para confirmar que la base social del
 movimiento hacker está fuertemente sesgada hacia los hombres de clase
 media que viven en Occidente. Esta composición demográfica tiene sus
@@ -1513,23 +1512,23 @@ antigüedad que ya no tienen valor de mercado funcionan perfectamente
 bien si el propósito es escribir código libre. El principal costo es el
 tiempo de ocio y la tranquilidad que se necesita para participar de
 forma distendida. El tiempo libre es, sin embargo, uno de los pocos
-recursos que los desempleados entre la clase obrera occidental tienen en
+recursos que las desempleadas, entre la clase obrera occidental, tienen en
 abundancia. Geopolíticamente hablando, el dominio de los EE.UU. y Europa
 pasará a la historia una vez que China, Sudamérica y la India se
 comprometan con el software libre.
 
 Sin embargo, el aspecto monetario no es una explicación completa, como
 lo demuestra la extrema desigualdad de género del movimiento hacker. De
-acuerdo con un documento político, sólo el 1,5% de los miembros de la
-comunidad de software libre son mujeres.[^nota58] La estadística es algo
+acuerdo con un documento político, sólo el 1,5% de las miembras de la
+comunidad de software libre son mujeres [^nota58]. La estadística es algo
 desconcertante ya que no hay incentivos económicos para que los hackers
 varones mantengan fuera a las mujeres de un posible mercado laboral. De
 hecho, otra encuesta encontró que el 66% de los hombres acordó que la
-comunidad FOSS en su conjunto se beneficiaría si hubieran más
-participantes femeninos. A pesar de esto, la mayoría era de la opinión
-de que correspondía a las mujeres a hacer el esfuerzo.[^nota59] El etos
+comunidad _FOSS_ en su conjunto se beneficiaría si hubieran más
+participantes femeninas. A pesar de esto, la mayoría era de la opinión
+de que correspondía a las mujeres a hacer el esfuerzo[^nota59]. El _ethos_
 voluntarista y meritocrático en la subcultura hace que los hackers
-varones, y de hecho, algunos hackers mujeres también, sean impermeables
+varones, y de hecho, algunas hackers mujeres también, sean impermeables
 a las explicaciones estructurales en el sesgo de género. También es
 cierto que estas estructuras van mucho más allá del ámbito de la
 comunidad de software libre. Debido a la división del trabajo doméstico,
@@ -1537,7 +1536,7 @@ las mujeres en promedio tienen menos tiempo para dedicarse a mejorar sus
 conocimientos de informática. Al conceptualizar a la tecnología como
 masculina se logra que las niñas no entren en contacto con el software
 libre, o lo hagan mucho más tarde en sus vidas que los chicos, lo que
-resulta en un entrenamiento inferior.[^nota60] Estos son los principales
+resulta en un entrenamiento inferior[^nota60]. Estos son los principales
 inconvenientes en una comunidad donde la demostración de habilidades
 técnicas es considerada de suma importancia. Incluso con el mismo nivel
 de conocimiento, las mujeres hackers dan fe de que tienen más
@@ -1545,26 +1544,26 @@ dificultades para obtener el reconocimiento de sus pares masculinos. A
 menudo terminan haciendo tareas con menor estatus, tales como escribir
 documentación y manuales, mientras que los hombres se dedican a tareas
 tecnológicamente más desafiantes y con mayor prestigio. No es de
-extrañar entonces que del pequeño número de reclutas, muchos abandonan
-rápidamente por una falta de incentivo.[^nota61] La ausencia de las
+extrañar entonces que del pequeño número de reclutas, muchas abandonan
+rápidamente por una falta de incentivo[^nota61]. La ausencia de las
 instituciones públicas en la comunidad significa que estas estructuras
 no pueden ser fácilmente contrarrestadas con discriminación positiva y
-metas de igualdad de oportunidades. Muchos hackers prefiero mantenerlo
+metas de igualdad de oportunidades. Muchas hackers prefieren mantenerlo
 así como una cuestión de autodeterminación de la comunidad en relación
 con el exterior. Las iniciativas del tipo gubernamental, que pueden ser
 esperadas para obtener un estatus más oficial para las aplicaciones de
-software libre, no serán bienvenidas por todos.
+software libre, no serán bienvenidas por todas.
 
-A pesar que la unión entre las prioridades de los hackers y las
+A pesar que la unión entre las prioridades de las hackers y las
 políticas feministas están lejos de ser armoniosas, los dos grupos
 tienen cosas en común. La representación de las primeras feministas y la
-imagen de los medios de comunicación de los hackers son
-desconcertantemente parecidos. El alarmismo de considerar a los hackers
+imagen de los medios de comunicación de las hackers son
+desconcertantemente parecidas. El alarmismo de considerar a las hackers
 como criminales sólo es superado por el estereotipo del varón geek
 inadaptado social en la cultura popular. La representación del geek es
 similar a la estigmatización de las mujeres con educación en el siglo
-XIX, que eran entonces descritas como feas, no femeninas e inadecuadas
-para esposas. Ahora, como entonces, se desalienta la búsqueda de
+XIX, que eran entonces descriptas como feas, no femeninas e inadecuadas
+para ser esposas. Ahora, como entonces, se desalienta la búsqueda de
 conocimiento que pueda aumentar la autonomía de la gente. Para que las
 mujeres puedan defender sus posiciones en una sociedad informatizada,
 las habilidades en programación son esenciales. Es con conocimiento de
@@ -1579,29 +1578,29 @@ en el ciberfeminismo. Esta rama del feminismo predice que todo el mundo
 terminará como cyborgs en una sociedad que depende cada vez más de la
 tecnología. Esperan que las diferencias esenciales entre hombres y
 mujeres desaparezcan cuando la distinción hombre-máquina ya no exista
-más.[^nota62]
+más[^nota62].
 
 La inclusión de la mujer en la comunidad hacker no es un acto de caridad
 de los hackers varones, pero es una cuestión trascendental. El potencial
 emancipador del hacking reside precisamente en que elimina los
 impedimentos que obstaculizan el acceso a la tecnología. Aunque que los
 obstáculos legales para acceder al software han sido reducidos gracias a
-las licencias libres y abiertas, los conocimientos necesarios de los
-usuarios de FOSS siguen siendo una barrera. La dificultad para atraer a
-los usuarios de computadoras comunes hacia el software libre son objeto
+las licencias libres y abiertas, los conocimientos necesarios de las
+usuarias de _FOSS_ siguen siendo una barrera. La dificultad para atraer a
+las usuarias de computadoras comunes hacia el software libre son objeto
 de acalorados debates y su gran importancia es reconocida por la
 comunidad hacker. Además de las restricciones legales, tecnológicas y
 monetarias, las normas de la comunidad son otra barrera que impide la
-diversificación y el crecimiento de la base de usuarios y
-desarrolladores. Si alguna vez se puede lograr el objetivo de que el
+diversificación y el crecimiento de la base de usuarias y
+desarrolladoras. Si alguna vez se puede lograr el objetivo de que el
 FOSS sea el software estándar en las computadoras de escritorio, la otra
-mitad de la población debería permanecer a bordo. Los fanáticos de la
+mitad de la población debería permanecer a bordo. Las fanáticas de la
 tecnología dentro del movimiento hacker han llegado a la conclusión que
-las implicancias del desarrollo de FOSS operan más profundamente que la
+las implicancias del desarrollo de _FOSS_ operan más profundamente que la
 ciberpolíticas definidas de forma inflexible. El hacking afecta a las
 relaciones laborales, la posición de los países en desarrollo, y las
 cuestiones de género. Estas realidades mundanas tendrán mayor peso sobre
-la comunidad hacker que el desarrollo del FOSS más integrado tiene en la
+la comunidad hacker que el desarrollo del _FOSS_ más integrado tiene en la
 economía global y el mundo de los negocios.
 
 ## Modelos de negocios basados en software libre
@@ -1620,7 +1619,7 @@ segundo lugar, hay un consuelo para los hackers en la creencia de que la
 tecnología de la información y las fuerzas del libre mercado derrotarán
 inevitablemente al enemigo, los monopolios artificiales y la propiedad
 intelectual. La interpretación liberal de la forma en que el desarrollo
-del FOSS y el libre mercado se relacionan entre sí tiene que ser
+del _FOSS_ y el libre mercado se relacionan entre sí tiene que ser
 complementada con teorías más críticas.
 
 La participación de las empresas en el desarrollo del software libre
@@ -1634,27 +1633,27 @@ plausible cuando las decisiones que son racionales en un capitalista
 individual, al mismo tiempo, en un nivel global, son desastrosas para el
 capital como clase colectiva. El apoyo de las empresas al movimiento de
 software libre podría ser tal caso. Esa es la creencia de Darl McBride,
-oficial ejecutivo de la compañía de software SCO. En el underground
+oficial ejecutivo de la compañía de software SCO. En el _underground_
 informático, SCO es tristemente célebre por litigar a los distribuidores
 de GNU/Linux. La compañía afirma que los vendedores de GNU/Linux se han
 apropiado de código propiedad de SCO. En una carta al Congreso de EE.UU
 Darl McBride expuso las terribles consecuencias que se derivarían en el
 caso de que el gobierno se pusiera del lado de los desarrolladores del
-FOSS, y el error de otros ejecutivos al hacerlo: "A pesar de esto,
+_FOSS_, y el error de otros ejecutivos al hacerlo: "A pesar de esto,
 estamos decididos a llevar estos casos legales hasta el final porque
 estamos firmemente convencidos de que la propagación incontrolada de
 software de código abierto, bajo licencia GPL, es una amenaza mucho más
 seria a nuestro sistema capitalista que lo que las empresas
-estadounidenses suponen."[^nota63] Por supuesto, Darl McBride está
+estadounidenses suponen"[^nota63]. Por supuesto, Darl McBride está
 dispuesto a representar el interés especial de SCO así como el interés
 común de todos los capitalistas. Muchos hackers suelen quejarse que el
-modelo de FOSS amenaza a los monopolios (sobre todo de Microsoft), pero
-no a los mercados. El apoyo corporativo al FOSS parece confirmar su
+modelo de _FOSS_ amenaza a los monopolios (sobre todo de Microsoft), pero
+no a los mercados. El apoyo corporativo al _FOSS_ parece confirmar su
 argumento. Probablemente estén en lo cierto, por lo menos mientras el
 problema se reduzca a la prestación de servicios de software. A partir
 de este horizonte, la clase capitalista colectiva puede prescindir de
 Darl McBride y algunos capitalistas individuales más desafortunados. Los
-críticos reformistas del copyright están ansiosos de señalar que el
+críticos reformistas del _copyright_ están ansiosos de señalar que el
 capitalismo puede beneficiarse del software como un bien común, ya que
 libera la circulación del capital en otros sectores. Las autopistas
 libres de peaje son un ejemplo clásico de un bien de dominio público que
@@ -1673,29 +1672,29 @@ intercambio de música y películas en redes de pares es sólo el comienzo.
 Para discernir la compleja simbiosis entre el capital y la comunidad, se
 deben observar con mayor atención las motivaciones y los modelos de
 negocio. No debemos creer que somos parte de un drama donde unos
-malvados especuladores explotan a los idealistas ingenuos. La subcultura
+malvados especuladores explotan a las idealistas ingenuas. La subcultura
 hacker tiene una actitud pragmática en este sentido. Incluso los
 sectores más izquierdistas aprueban los modelos de negocio, siempre y
 cuando éstos se basen en licencias libres. La comercialización es
 posible únicamente porque es sostenida por una fuerte corriente dentro
-del movimiento hacker. La mayoría de los hackers creen que si las
+del movimiento hacker. La mayoría de las hackers creen que si las
 corporaciones desarrollan un interés particular en el desarrollo de
-FOSS, las empresas ayudarán a difundirlo entre la gente. Sin duda, las
+_FOSS_, las empresas ayudarán a difundirlo entre la gente. Sin duda, las
 empresas juegan un papel importante en sacar a GNU/Linux desde las
 sombras de un proyecto estudiantil a de los distintos niveles de los
 estándares de la competencia industrial. Es más cuestionable, sin
 embargo, la suposición implícita de que el Open Source es emancipador,
 no importa cómo (ni quién) lo ponga en práctica. Junto con el programa
-del sector pro negocios están los individuos que desean llevar una vida
+del sector pro negocios están las individuas que desean llevar una vida
 fuera del hacking, en última instancia, con el fin de escapar de otro
 tipo de empleo aburrido. No son las decisiones de algunos directivos de
 las empresas las que motorizan la comercialización. En realidad, la
-comercialización es impulsada por ambiciones individuales entre los
-hackers. Muchos se esfuerzan por profesionalizar su hobby para poder
+comercialización es impulsada por ambiciones individuales entre las
+hackers. Muchas se esfuerzan por profesionalizar su hobby para poder
 trabajar a tiempo completo en la escritura de código libre. Pero
-enfocarnos en las ambiciones de los hackers individuales significa otra
+enfocarnos en las ambiciones de las hackers individuales significa otra
 vez perder de vista el panorama general. Sus esperanzas son racionales
-en un mundo irracional en el que se ven obligados a ganarse la vida. El
+en un mundo irracional en el que se ven obligadas a ganarse la vida. El
 movimiento hacker está comercializado principalmente por el empuje de
 las condiciones generales apremiantes de la economía de mercado y no por
 ser arrastrado por los capitalistas individuales. Las relaciones
@@ -1717,47 +1716,47 @@ forma gratuita y por un precio, algunas personas pagan voluntariamente
 por él. Richard Stallman apoyó inicialmente la venta de cintas con las
 copias de GNU Emacs. Este lugar ha sido ocupado por una pequeña pero
 próspera flora de empresas comprometidas con los ideales de desarrollo
-del FOSS. La primera empresa que basó su funcionamiento en GPL fue
-Cygnus, fundada en 1989. El lema de la empresa resume la lógica
+del _FOSS_. La primera empresa que basó su funcionamiento en GPL fue
+_Cygnus_, fundada en 1989. El lema de la empresa resume la lógica
 contradictoria detrás de su modelo de negocios "Hacemos software libre
-asequible". Cygnus se expandió de manera constante durante varios años
+asequible". _Cygnus_ se expandió de manera constante durante varios años
 sin hacer mucho alboroto. Empleaba a más de un centenar de ingenieros de
 software cuando se fusionó con otra compañía basado en el software
-libre, Red Hat, en 1999. Red Hat es el principal símbolo de la unión
-entre el movimiento de FOSS y la comercialización. Los cambios en la
-política de Red Hat, y en otros distribuidores comerciales de GNU/Linux,
+libre, _Red Hat_, en 1999. _Red Hat_ es el principal símbolo de la unión
+entre el movimiento de _FOSS_ y la comercialización. Los cambios en la
+política de _Red Hat_, y en otros distribuidores comerciales de GNU/Linux,
 han puesto en duda su compromiso con "la causa". A la concentración del
-capital (la fusión con Cygnus - eufóricamente aclamada como el
+capital (la fusión con _Cygnus_ - eufóricamente aclamada como el
 establecimiento de un "centro neurálgico de software libre") le ha
 seguido una concentración del servicio hacia los grandes clientes
-comerciales.[^nota64] Es tentador repasar los últimos años de
+comerciales[^nota64]. Es tentador repasar los últimos años de
 experimentación con los modelos de negocios del software libre.
 Podríamos llamarlo una fase rudimentaria en espera de madurar hacia una
 forma más coherente con las relaciones capitalistas (como sucede en la
 teoría marxista). Eso sería algo muy conveniente para nosotros. Es
-innegable que tanto Cygnus como Red Hat crecieron en la comunidad del
+innegable que tanto _Cygnus_ como _Red Hat_ crecieron en la comunidad del
 software libre y han sido leales a sus ideales durante muchos años,
 mientras que al mismo tiempo eran muy rentables. Para el año fiscal de
-2007, Red Hat informó un ingreso total por \$ 400,6 millones.[^nota65] Y
+2007, _Red Hat_ informó un ingreso total por \$ 400,6 millones [^nota65]. Y
 muchas pequeñas empresas de garaje sobreviven en este peculiar modelo de
 negocio. En conjunto, es lo suficientemente extraño como para realizar
 una investigación minuciosa y, posiblemente, una revisión de la teoría
-marxista. Red Hat obtiene ingresos de la venta de sus propios paquetes
+marxista. _Red Hat_ obtiene ingresos de la venta de sus propios paquetes
 de software de GNU/Linux preinstalado con soporte al cliente. A pesar de
 que se pueden descargar libremente y de una manera sencilla desde
 Internet distintas distribuciones de GNU/Linux, e incluso obtener una
-versión de Red Hat de forma gratuita, la empresa logra cobrar un precio
-por su producto. El presidente de Red Hat, Robert Young, explica este
+versión de _Red Hat_ de forma gratuita, la empresa logra cobrar un precio
+por su producto. El presidente de _Red Hat_, Robert Young, explica este
 fenómeno por el posicionamiento de la marca. Además, podría ser más
-barato para una empresa pagar por el soporte técnico de Red Hat que
-contratar a un programador. Aunque Red Hat y algunos otros "abejorros"
+barato para una empresa pagar por el soporte técnico de _Red Hat_ que
+contratar a un programador. Aunque _Red Hat_ y algunos otros "abejorros"
 vuelen, es un error saltar de los casos marginales a la conclusión, de
 que encarnan el modelo de negocios del futuro. Esta irracional pero no
 coercitiva fuente de ingresos, los anuncios pequeños en un comentario
 crítico, generan sólo una fracción de las ganancias en comparación con
 el software propietario. Las empresas establecidas en un modelo de
 software propietario no abandonarán voluntariamente nunca la protección
-del copyright.[^nota66]
+del _copyright_ [^nota66].
 
 Un último comentario de Robert Young insinúa el rol de Red Hat como un
 proveedor de nicho. Para determinar cómo las empresas basadas en el
