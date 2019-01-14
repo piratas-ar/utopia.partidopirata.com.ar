@@ -1758,7 +1758,7 @@ el software propietario. Las empresas establecidas en un modelo de
 software propietario no abandonarán voluntariamente nunca la protección
 del _copyright_ [^nota66].
 
-Un último comentario de Robert Young insinúa el rol de Red Hat como un
+Un último comentario de Robert Young insinúa el rol de _Red Hat_ como un
 proveedor de nicho. Para determinar cómo las empresas basadas en el
 "software libre" obtienen sus beneficios, no alcanza con enfocarse en
 las operaciones de una empresa individual. El enigma está oculto en las
@@ -1791,54 +1791,54 @@ de la eficiencia comparándola individualmente contra cada uno de los
 productores. El punto es que existen utilidades excedentes, por
 definición, como una desviación de la norma.
 
-La existencia del modelo de negocio de FOSS puede ser entendido como una
-variación en este tema. Empresas como Cygnus y Red Hat contratan
+La existencia del modelo de negocio de _FOSS_ puede ser entendido como una
+variación en este tema. Empresas como _Cygnus_ y _Red Hat_ contratan
 trabajadores para personalizar código, para ofrecer servicios de soporte
 técnico, y para posicionar la marca de sus productos. Estas actividades
 generan una pequeña cantidad de plusvalía. La contribución del trabajo
 asalariado es marginal en comparación con la gran cantidad de mano de
 obra voluntaria involucrada en la escritura de aplicaciones de
-software.[^nota67] Gratis el trabajo no es, sin embargo, su valor
-prácticamente es nulo. Tiene valor si duplica el trabajo asalariado
+software [^nota67]. Gratis, el trabajo no es, sin embargo su valor es
+prácticamente nulo. Tiene valor si duplica el trabajo asalariado
 realizado en otro sector de la economía. En otras palabras, el valor del
-trabajo no asalariado de los desarrolladores de FOSS está relacionado
+trabajo no asalariado de los desarrolladores de _FOSS_ está relacionado
 con el trabajo asalariado de los programadores internos. Ambos trabajan
 hacia soluciones de código equivalentes. Durante el tiempo en que el
 costo social promedio de la solución de un problema de computadoras se
 determina por el trabajo asalariado y las relaciones de propiedad
-intelectual, el trabajo voluntario (hackers) y las licencias copyleft
+intelectual, el trabajo voluntario (hackers) y las licencias _copyleft_
 reducen los costos por debajo de este promedio social. No se derivan
 ganancias excedentes reduciendo al personal por medio de la innovación
 tecnológica. Se obtienen cuando se reemplaza el trabajo remunerado por
 el no remunerado gracias a las innovaciones organizacionales. Es una
-cuestión irresuelta aún si la fracción dependiente de copyright de la
-clase capitalista (Microsoft, Hollywood, los estudios de grabación)
+cuestión irresuelta aún si la fracción dependiente de _copyright_ de la
+clase capitalista (_Microsoft_, _Hollywood_, los estudios de grabación)
 pueden seguir el ejemplo y cerrar la brecha en los costos de producción,
-sin morir en el intento. La política de Microsoft de "código
+sin morir en el intento. La política de _Microsoft_ de "código
 compartido", en donde se da acceso restringido al código fuente a
 cliente selectos, podría verse como un intento de acortar la distancia
-entre el software propietario y el FOSS. Sin embargo, la prioridad de
+entre el software propietario y el _FOSS_. Sin embargo, la prioridad de
 mantener el control probablemente eche a perder sus esfuerzos. Es muy
-posible que estas empresas sean incapaces de apropiarse del modelo FOSS
+posible que estas empresas sean incapaces de apropiarse del modelo _FOSS_
 y mantener una alta rentabilidad.
 
 Si esta afirmación es correcta, el modelo de negocio de beneficios de
-plusvalía de Red Hat prosperará durante mucho tiempo al margen de la
+plusvalía de _Red Hat_ prosperará durante mucho tiempo al margen de la
 sociedad, alimentándose del nivel diferencial en el costo de producción.
 Llevando este razonamiento al extremo, llegaremos a la conclusión de que
-los accionistas de las empresas basadas en GPL como Red Hat no serían
+los accionistas de las empresas basadas en GPL como _Red Hat_ no serían
 los oportunistas de las comunidades de desarrollo. A través de la
 denominada "igualación de la plusvalía social", como la conocen los
-marxistas, los accionistas de Red Hat están explotando a los
-programadores contratados por Microsoft. La segunda conclusión de
-nuestra investigación, más apremiante, es que las empresas de FOSS nunca
+marxistas, los accionistas de _Red Hat_ están explotando a los
+programadores contratados por _Microsoft_. La segunda conclusión de
+nuestra investigación, más apremiante, es que las empresas de _FOSS_ nunca
 abandonarán ni reemplazarán el modelo de negocios propietario. La
 creencia es comúnmente sostenida por los hackers libertarios que se
 imaginan que mientras que los empresarios se quedan trabajando en sus
 asuntos, los monopolios de la propiedad intelectual se desmoronarán con
 el tiempo bajo la racionalidad superior del libre mercado. No son
-capaces de ver que Red Hat sólo puede ser rentable en relación con el
-costo promedio inflado de producción social, creado por Microsoft. En
+capaces de ver que _Red Hat_ sólo puede ser rentable en relación con el
+costo promedio inflado de producción social creado por _Microsoft_. En
 consecuencia, incluso aquellas empresas dedicadas a la GPL no puede
 permitirse el lujo de prescindir por completo del régimen de propiedad
 intelectual. Los capitalistas individuales pueden tener diferentes
@@ -1865,7 +1865,7 @@ en lugar de escribir los comandos en el teclado. Un intento de crear
 dicha interfaz era una aplicación llamada KDE. Aunque el código fue
 liberado bajo la Licencia Pública General, dependía de una biblioteca
 gráfica propietaria llamada Qt. Sin la biblioteca de dibujo el programa
-se convierte en algo inútil. Qt era propiedad de Troll Tech, una empresa
+se convierte en algo inútil. Qt era propiedad de _Troll Tech_, una empresa
 noruega, y en la mayoría de las circunstancias se tenía que pagar una
 tasa de licencia de desarrollador. Por consiguiente, KDE no cumplía con
 las condiciones de una licencia libre. Aunque una de las ramas de los
@@ -1876,36 +1876,36 @@ las partes críticas del sistema operativo libre. Un equipo de
 desarrolladores lanzó un proyecto llamado GNOME que competiría con KDE
 mientras usaba una biblioteca gráfica totalmente libre. Otro grupo de
 desarrolladores eligió un segundo camino para eludir los reclamos de
-propiedad de Troll Tech. Se sentaron a crear un clon de Qt bajo el
-nombre de proyecto "Harmony". La inferioridad tecnológica inicial de
-GNOME, no representó un obstáculo inviable para el éxito del fork no
+propiedad de _Troll Tech_. Se sentaron a crear un clon de Qt bajo el
+nombre de proyecto "_Harmony_". La inferioridad tecnológica inicial de
+GNOME, no representó un obstáculo inviable para el éxito del _fork_ no
 propietario. Las fuertes normas de la comunidad respetuosas de los
 ideales del software libre fueron suficiente para compensar la ventaja
-de la innovación tecnológica de Troll Tech. Finalmente, como GNOME y
-Harmony unieron fuerzas, Troll Tech se vio obligado a renunciar a su
+de la innovación tecnológica de _Troll Tech_. Finalmente, como GNOME y
+_Harmony_ unieron fuerzas, _Troll Tech_ se vio obligado a renunciar a su
 control sobre Qt. Como se argumentará ampliamente en capítulos
 posteriores, esto sugiere un umbral muy elevado dentro de las
 comunidades trabajadoras en contra de la cristalización de las
 relaciones de propiedad privada. La segunda observación importante a
-tomar es la decisión estratégica por parte de Red Hat. En uno etapa
+tomar es la decisión estratégica por parte de _Red Hat_. En una etapa
 temprana la empresa decidió apoyar el proyecto GNOME y luchar por una
 información pública. La empresa asumió algunos riesgos financieros
-distribuyendo su versión de Red Hat GNU/Linux sin las características
-más avanzadas de Troll Tech. Tenía más sentido para Red Hat aferrarse a
+distribuyendo su versión de _Red Hat_ GNU/Linux sin las características
+más avanzadas de _Troll Tech_. Tenía más sentido para _Red Hat_ aferrarse a
 una licencia libre, donde podía competir en igualdad de condiciones con
 otras empresas, en lugar de ceder algunos derechos legales a un
 competidor.(*Moody*, 252)
 
 Denunciar toda participación de las empresas como una cuestión de
-principio por lo tanto, puede inducir a error. Los activistas no deben
-olvidar que la actitud pragmática de los hackers hacia la participación
+principio por lo tanto, puede inducir a error. Las activistas no deben
+olvidar que la actitud pragmática de las hackers hacia la participación
 comercial explica en parte sus impresionantes éxitos. Las empresas de
 garaje son iniciadas y dirigidas por gente de la subcultura. Comparten
 los mismos valores y dependen del apoyo de la comunidad, hasta el punto
 en que a veces son indistinguibles. Sin lugar a dudas, los lanzamiento
 de software han ayudado a extender la influencia política del movimiento
 hacker, especialmente cuando están en campaña contra la legislación de
-copyright y las patentes de software. Por otra parte, un puente tiene
+_copyright_ y las patentes de software. Por otra parte, un puente tiene
 dos sentidos. En el extremo, las empresas de garaje probablemente haya
 sido las cabezas de puente para que las grandes corporaciones pudieran
 ingresar al movimiento.
@@ -1913,128 +1913,127 @@ ingresar al movimiento.
 ## La iniciativa open source
 
 La invitación para los que manejan los hilos fue lanzada en 1998 con la
-puesta en escena de la Iniciativa Open Source. Si existe alguna compañía
-responsable de haber iniciado esta avalancha, ésta es Netscape
-Communications. Basta con decir que la empresa comenzó como un asalto
-directo sobre un proyecto financiado públicamente para crear un estándar
-común en los navegadores web. En los primeros días el navegador más
-utilizado para navegar en la World Wide Web era Mosaic. Había sido
-desarrollado por la Universidad de Illinois. Un veterano en la industria
-del software, Jim Clark, observó que el navegador crecía en popularidad
-y se dio cuenta de su potencial comercial. Entonces, contrató un puñado
-de programadores del equipo que había trabajado con Mosaic en la
-universidad, el más notable entre ellos Mark Andreessen. Ellos crearon
-un clon mejorado del navegador original y lo lanzaron bajo licencia
+puesta en escena de la _Iniciativa Open Source_. Si existe alguna compañía
+responsable de haber iniciado esta avalancha, ésta es _Netscape Communications_. 
+Basta con decir que la empresa comenzó como un asalto directo sobre un proyecto 
+financiado públicamente para crear un estándar común en los navegadores web. 
+En los primeros días el navegador más utilizado para navegar en la 
+_World Wide Web_ era _Mosaic_. Éste fue desarrollado por la Universidad de 
+Illinois. Un veterano en la industria del software, Jim Clark, observó que el 
+navegador crecía en popularidad y se dio cuenta de su potencial comercial. 
+Entonces, contrató un puñado de programadores del equipo que había trabajado 
+con _Mosaic_ en la universidad, el más notable entre ellos, Mark Andreessen. 
+Crearon un clon mejorado del navegador original y lo lanzaron bajo licencia
 libre con el mismo nombre. Esta violación de los derechos de propiedad
 intelectual de la universidad nunca se resolvió. La única exigencia que
 finalmente se impuso sobre Clark y Andreessen era que no debían llamarlo
-"Mosaic" nunca más. En su lugar, lo llamaron Netscape.[^nota68]
-Irónicamente, muchos hackers aclamarían más tarde a Netscape como a uno
-de los buenos en la lucha contra el software propietario. En 1995,
-Microsoft reconoció la importancia de Internet y comenzó a impulsar su
-propio navegador web, Internet Explorer.[^nota69] Un año más tarde,
-Netscape estaba en dificultades. Su cuota en el mercado de los
+"_Mosaic_" nunca más. En su lugar, lo llamaron _Netscape_ [^nota68].
+Irónicamente, muchas hackers aclamarían más tarde a Netscape como a uno
+de los buenos en la lucha contra el software propietario. En 1995
+_Microsoft_ reconoció la importancia de Internet y comenzó a impulsar su
+propio navegador web, _Internet Explorer_ [^nota69]. Un año más tarde,
+_Netscape_ estaba en dificultades. Su cuota en el mercado de los
 navegadores estaba disminuyendo rápida y drásticamente, y se imponía un
-cambio en su política. Entonces, la compañía se decidió a publicar el
-código fuente de su navegador. En enero de 1998, Netscape hizo su
+cambio en su política. Entonces la compañía se decidió a publicar el
+código fuente de su navegador. En enero de 1998 _Netscape_ hizo su
 anuncio delante de un desconcertado grupo de periodistas y un despedido
-grupo de programadores. Netscape había consultado a muchos "hackers
+grupo de programadoras. _Netscape_ había consultado a muchas "hackers
 superstar" en la elaboración de la licencia apropiada. La Licencia
-Pública General estaba fuera de la cuestión, ya que trata a todos los
-usuarios por igual en términos de derechos legales. Netscape tenía que
+Pública General estaba fuera de la cuestión ya que trata a todas las
+usuarias por igual en términos de derechos legales. _Netscape_ tenía que
 equilibrar la necesidad de control con la de involucrar al mayor número
 posible de participantes en su proyecto de desarrollo. Su solución fue
 dividir el código de software y la licencia en dos proyectos en
-paralelo. Las dos licencias fueron la Licencia Pública Netscape (NPL) y
-la Licencia Pública Mozilla (MPL). Mientras NPL mantuvo algunos
-privilegios para Netscape y terceros, MPL fue pensada para el desarrollo
-comunitario. Mozilla[^nota70] funcionaba como un proyecto de desarrollo
+paralelo. Las dos licencias fueron la _Licencia Pública Netscape_ (NPL) y
+la _Licencia Pública Mozilla_ (MPL). Mientras NPL mantuvo algunos
+privilegios para _Netscape_ y terceros, MPL fue pensada para el desarrollo
+comunitario. _Mozilla_[^nota70] funcionaba como un proyecto de desarrollo
 paralelo respaldado por la empresa. La intención era que las
-innovaciones introducidas en el código de Mozilla alimentaran a
-Netscape. La compañía esperaba obtener una ventaja sobre Internet
-Explorer aprovechándose del trabajo libre del underground informático. A
-pesar de la publicidad, Mozilla no pudo atraer a una masa crítica de
-desarrolladores libres fuera del propio equipo corporativo de Netscape.
+innovaciones introducidas en el código de _Mozilla_ alimentaran a
+_Netscape_. La compañía esperaba obtener una ventaja sobre _Internet
+Explorer_ aprovechándose del trabajo libre del _underground_ informático. A
+pesar de la publicidad, _Mozilla_ no pudo atraer a una masa crítica de
+desarrolladoras libres fuera del propio equipo corporativo de _Netscape_.
 La codificación comercial y la comunitaria no se llevan bien. En su
 estudio seminal del movimiento de software libre y de código abierto,
-Glyn Moody atestigua: "el auge y la caída final de Netscape es, en
+Glyn Moody atestigua: "el auge y la caída final de _Netscape_ es, en
 parte, un monumento a la incapacidad de los modelos comerciales de
 codificación y un señal de debilidad fundamental para otras empresas que
-lo usan."(*Moody*, 203). Mozilla no pudo salvar a Netscape en la guerra
-de los navegadores. A la luz de la declinación de la compañía, los
-desarrolladores de Mozilla prepararon su regreso con el navegador
-Firefox. Posiblemente el reto para Internet Explorer de Microsoft sea
-más peligroso en este momento.
+lo usan."(*Moody*, 203). _Mozilla_ no pudo salvar a _Netscape_ en la guerra
+de los navegadores. A la luz de la declinación de la compañía, las
+desarrolladoras de _Mozilla_ prepararon su regreso con el navegador
+_Firefox_. Posiblemente el reto para más peligroso para _Internet Explorer_ 
+de _Microsoft_ en este momento.
 
-A pesar de su eventual caída, Netscape había retomado la senda cuando
+A pesar de su eventual caída, _Netscape_ había retomado la senda cuando
 publicó el código fuente del producto estrella de la marca. El camino
-tomado por iniciativa de Netscape había causado una división en la
-comunidad informática underground. En abril de 1998, todos los caciques
+tomado por iniciativa de _Netscape_ había causado una división en la
+comunidad informática _underground_. En abril de 1998, todos los caciques
 de la subcultura hacker excepto el más intransigente y sincero de ellos
-políticamente hablando, Richard Stallman, se reunieron en la Cumbre de
-Freeware en Palo Alto, para discutir la futura dirección del movimiento.
-Ellos deseaban alentar a las grandes empresas para que se involucraran
-con el underground informático. Un elemento fundamental en esta
+políticamente hablando, Richard Stallman, se reunieron en la _Cumbre de
+Freeware_ en Palo Alto, para discutir la futura dirección del movimiento.
+Ellas deseaban alentar a las grandes empresas para que se involucraran
+con el _underground_ informático. Un elemento fundamental en esta
 estrategia fue elegir una etiqueta que sonara menos amenazante para el
-*status quo* que el término "software libre". El software libre, como
-la Free Software Foundation no se cansa de señalar, se refiere primero y
+_status quo_ que el término "software libre". El software libre, como
+la _Free Software Foundation_ no se cansa de señalar, se refiere primero y
 más que nada a la cuestión de la libertad. La liberación de la
 tecnología es un medio para profundizar la democracia. Estas nociones no
 ayudan mucho cuando se quiere cortejar a las empresas. La etiqueta
-elegida en la cumbre fue Open Source (código abierto). El enfoque
-"revolucionario" del Open Source es la superioridad tecnológica mientras
+elegida en la cumbre fue _Open Source_ (código abierto). El enfoque
+"revolucionario" del _Open Source_ es la superioridad tecnológica mientras
 que las preocupaciones sociales son discretamente dejadas de
-lado.[^nota71] El término FOSS, Free and Open Source Software (software
+lado [^nota71]. El término "_FOSS_", _Free and Open Source Software_ (software
 libre y de código abierto) que se utiliza aquí es un compromiso
 elaborado después de mucho debate dentro de la comunidad. Además de
-lanzar una nueva marca para el movimiento, Open Source difiere en un
-aspecto crucial de la licencia GPL. Como GPL, Open Source requiere
+lanzar una nueva marca para el movimiento, _Open Source_ difiere en un
+aspecto crucial de la licencia GPL. Como GPL, _Open Source_ requiere
 licenciar software que pueda ser distribuido libremente; esto garantiza
-que el código fuente se mantenga transparente y garantice al usuario el
+que el código fuente se mantenga transparente y garantice a la usuaria el
 derecho de crear versiones modificadas del software original sin previo
 aviso al autor. Todas estas cláusulas son necesarias para liberar el
 potencial creativo de la mano de obra colectiva voluntaria. Sin embargo,
-Open Source no exige que se incluya la licencia abierta a los derivados
+_Open Source_ no exige que se incluya la licencia abierta a los derivados
 del código original. Al eliminar la característica "viral" de la GPL,
-Open Source le proporciona a las empresas una puerta trasera para
-apropiarse del código. El software bajo licencia Open Source puede ser
-"copiado, mezclado, y grabado" y publicado bajo copyright. Para esto es
-que pretendía trabajar Netscape con la Licencia Pública Mozilla. Esto es
+_Open Source_ le proporciona a las empresas una puerta trasera para
+apropiarse del código. El software bajo licencia _Open Source_ puede ser
+"copiado, mezclado, y grabado" y publicado bajo _copyright_. Para esto es
+que pretendía trabajar _Netscape_ con la _Licencia Pública Mozilla_. Esto es
 lo que sucede en repetidas ocasiones con el software liberado bajo los
-términos de la Licencia de Distribución de Software Berkeley (BSD). En
-los términos de la teoría marxista, las licencias Open Source pueden ser
+términos de la _Licencia de Distribución de Software Berkeley_ (BSD). En
+los términos de la teoría marxista, las licencias _Open Source_ pueden ser
 descritas como un principio de organización para la sistematización de
 la "acumulación primitiva", es decir el robo del trabajo social que
 tiene lugar en las comunidades en desarrollo y en los bienes comunes.
 
 La oportunidad fue aprovechada increíblemente rápido en las las salas de
 juntas corporativas. En las semanas siguientes al lanzamiento de la
-iniciativa Open Source, IBM anunció que iban a cambiar a Apache. Su
-razonamiento para subirse al proyecto Apache merece una mirada más
-detallada. Pone de manifiesto que el tamaño de la base de usuarios puede
+iniciativa _Open Source_, IBM anunció que iban a cambiar a _Apache_. Su
+razonamiento para subirse al proyecto _Apache_ merece una mirada más
+detallada. Pone de manifiesto que el tamaño de la base de usuarias puede
 ser más influyente como un activo estratégico que la concentración del
 capital y la experiencia del personal. En 1998, el mercado de software
-para servidores web estaba compartido con Microsoft, Netscape y Apache.
+para servidores web estaba compartido con _Microsoft_, _Netscape_ y _Apache_.
 IBM había intentado entrar en el mercado, pero se dio cuenta de la
 fuerte ola de externalidades que afectaban a los recién llegados. En una
 decisión muy inteligente, IBM abandonó su proyecto propio y saltó
-directamente a la base de usuarios muy grande en poder de Apache. El
-hecho de que IBM abandonó su compromiso a favor de un proyecto no
+directamente a la base de usuarias más grande que tenía _Apache_. El
+hecho de que IBM abandonara su compromiso a favor de un proyecto no
 propietario tuvo un fuerte impacto psicológico en la comunidad
 empresarial. IBM ha realizado desde entonces considerables inversiones
 en GNU/Linux y exhibe un alto grado de compromiso con el movimiento de
-FOSS. Otras corporaciones multinacionales se subieron al tren después de
-la Cumbre de Freeware. Oracle e Informix, dos gigantes que ofrecen
+_FOSS_. Otras corporaciones multinacionales se subieron al tren después de
+la _Cumbre de Freeware_. _Oracle_ e _Informix_, dos gigantes que ofrecen
 software para aplicaciones empresariales y bases de datos, declararon
 que liberarían productos que soportaran GNU/Linux. Y los fabricantes de
-hardware, especialmente Compaq, Dell y Hewlett Packard, hicieron lo
-mismo. Otro respaldo importante para el movimiento FOSS es Intel. Además
+hardware, especialmente _Compaq_, _Dell_ y _Hewlett Packard_, hicieron lo
+mismo. Otro respaldo importante para el movimiento _FOSS_ es _Intel_. Además
 de portar productos comerciales a GNU/Linux y ofrecer el sistema
 operativo libre a sus clientes, muchas empresas están pagando a los
-empleados para escribir o código fuente libre y abierto. Sun
-Microsystems, por ejemplo, compró un procesador de textos de una empresa
-alemana y lo liberó a la comunidad de FOSS. OpenOffice, tal es el nombre
-del programa, es un reto para Microsoft Word.
+empleados para escribir o código fuente libre y abierto. _Sun
+Microsystems_, por ejemplo, compró un procesador de textos de una empresa
+alemana y lo liberó a la comunidad de _FOSS_. _OpenOffice_, tal es el nombre
+del programa, es un reto para _Microsoft Word_.
 
 La disposición de los fabricantes de hardware, vendedores y proveedores
 independientes de software de alinearse detrás de los desarrolladores de
