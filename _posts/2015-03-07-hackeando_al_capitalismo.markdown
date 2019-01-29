@@ -1683,7 +1683,7 @@ _FOSS_, las empresas ayudarán a difundirlo entre la gente. Sin duda, las
 empresas juegan un papel importante en sacar a GNU/Linux desde las
 sombras de un proyecto estudiantil a de los distintos niveles de los
 estándares de la competencia industrial. Es más cuestionable, sin
-embargo, la suposición implícita de que el Open Source es emancipador,
+embargo, la suposición implícita de que el _Open Source_ es emancipador,
 no importa cómo (ni quién) lo ponga en práctica. Junto con el programa
 del sector pro negocios están las individuas que desean llevar una vida
 fuera del hacking, en última instancia, con el fin de escapar de otro
@@ -1917,18 +1917,18 @@ puesta en escena de la _Iniciativa Open Source_. Si existe alguna compañía
 responsable de haber iniciado esta avalancha, ésta es _Netscape Communications_. 
 Basta con decir que la empresa comenzó como un asalto directo sobre un proyecto 
 financiado públicamente para crear un estándar común en los navegadores web. 
-En los primeros días el navegador más utilizado para navegar en la 
+En los primeros días, el navegador más utilizado para navegar en la 
 _World Wide Web_ era _Mosaic_. Éste fue desarrollado por la Universidad de 
 Illinois. Un veterano en la industria del software, Jim Clark, observó que el 
 navegador crecía en popularidad y se dio cuenta de su potencial comercial. 
 Entonces, contrató un puñado de programadores del equipo que había trabajado 
-con _Mosaic_ en la universidad, el más notable entre ellos, Mark Andreessen. 
+con _Mosaic_ en la universidad, el más notable entre ellos era Mark Andreessen. 
 Crearon un clon mejorado del navegador original y lo lanzaron bajo licencia
 libre con el mismo nombre. Esta violación de los derechos de propiedad
 intelectual de la universidad nunca se resolvió. La única exigencia que
 finalmente se impuso sobre Clark y Andreessen era que no debían llamarlo
-"_Mosaic_" nunca más. En su lugar, lo llamaron _Netscape_ [^nota68].
-Irónicamente, muchas hackers aclamarían más tarde a Netscape como a uno
+"_Mosaic_" nunca más. Entonces lo llamaron _Netscape_ [^nota68].
+Irónicamente muchas hackers aclamarían más tarde a Netscape como a uno
 de los buenos en la lucha contra el software propietario. En 1995
 _Microsoft_ reconoció la importancia de Internet y comenzó a impulsar su
 propio navegador web, _Internet Explorer_ [^nota69]. Un año más tarde,
@@ -1958,8 +1958,8 @@ La codificación comercial y la comunitaria no se llevan bien. En su
 estudio seminal del movimiento de software libre y de código abierto,
 Glyn Moody atestigua: "el auge y la caída final de _Netscape_ es, en
 parte, un monumento a la incapacidad de los modelos comerciales de
-codificación y un señal de debilidad fundamental para otras empresas que
-lo usan."(*Moody*, 203). _Mozilla_ no pudo salvar a _Netscape_ en la guerra
+codificación y una señal de debilidad fundamental para otras empresas que
+lo usan". _Mozilla_ no pudo salvar a _Netscape_ en la guerra
 de los navegadores. A la luz de la declinación de la compañía, las
 desarrolladoras de _Mozilla_ prepararon su regreso con el navegador
 _Firefox_. Posiblemente el reto para más peligroso para _Internet Explorer_ 
@@ -1968,8 +1968,8 @@ de _Microsoft_ en este momento.
 A pesar de su eventual caída, _Netscape_ había retomado la senda cuando
 publicó el código fuente del producto estrella de la marca. El camino
 tomado por iniciativa de _Netscape_ había causado una división en la
-comunidad informática _underground_. En abril de 1998, todos los caciques
-de la subcultura hacker excepto el más intransigente y sincero de ellos
+comunidad informática _underground_. En abril de 1998 todos los caciques
+de la subcultura hacker, excepto el más intransigente y sincero de ellos
 políticamente hablando, Richard Stallman, se reunieron en la _Cumbre de
 Freeware_ en Palo Alto, para discutir la futura dirección del movimiento.
 Ellas deseaban alentar a las grandes empresas para que se involucraran
@@ -2003,7 +2003,7 @@ lo que sucede en repetidas ocasiones con el software liberado bajo los
 términos de la _Licencia de Distribución de Software Berkeley_ (BSD). En
 los términos de la teoría marxista, las licencias _Open Source_ pueden ser
 descritas como un principio de organización para la sistematización de
-la "acumulación primitiva", es decir el robo del trabajo social que
+la "acumulación originaria", es decir el robo del trabajo social que
 tiene lugar en las comunidades en desarrollo y en los bienes comunes.
 
 La oportunidad fue aprovechada increíblemente rápido en las las salas de
@@ -2055,8 +2055,8 @@ capacidad restringida de Microsoft para actualizar su software impone
 lagunas temporales en el negocio de las empresas derivadas. Debido al
 largo proceso requerido en los modelos de desarrollo propietario para la
 depuración y liberación de software, Intel ha retrasado la producción de
-nuevos procesadores.[^nota72] Para obtener el máximo beneficio de los
-avances en semiconductores, y por lo tanto persuadir a los consumidores
+nuevos procesadores [^nota72]. Para obtener el máximo beneficio de los
+avances en semiconductores y por lo tanto, persuadir a los consumidores
 a comprar la última tecnología, las aplicaciones de software tienen que
 ser optimizadas para el hardware. La gravedad de este problema puede
 apreciarse mejor si tenemos en cuenta la velocidad con que se devalúa el
@@ -2065,36 +2065,36 @@ de computadoras, que anteriormente subcontrataban a los talleres de
 explotación laboral en Asia, están regresando más cerca del mercado de
 consumo en Estados Unidos. En la dos o tres semanas que se tarda en
 enviar una unidad de procesamiento central (CPU) a través del océano, el
-producto pierde 5 a 10 por ciento de su valor.[^nota73] El Open Source
+producto pierde 5 a 10 por ciento de su valor [^nota73]. El Open Source
 es atractivo para algunas fracciones de la clase capitalista porque
-resuelve al tiempo perdido caro y peligroso entre los ciclos de
+resuelve al tiempo perdido, caro y peligroso entre los ciclos de
 desarrollo. Basados en un estándar de dominio público como GNU/Linux,
 Intel es libre para optimizar el software para sus ventas de hardware
 sin tener que esperar a los "constructores de catedrales" de Microsoft.
 Las restricciones impuestas por la propiedad intelectual están
-impidiendo la circulación del capital y, en consecuencia, limitar la
-información común resulta cada vez más atractivo para las empresas con
-el fin de impulsar el mercado de ventas.
+impidiendo la circulación del capital y en consecuencia, limitan la
+información común. Esto resulta cada vez más atractivo para las empresas 
+que buscan impulsar el mercado de ventas.
 
 Nuestra comprensión del problema está oscurecida por la línea nítida de
-separación entre las licencias de FOSS y las propietarias habitualmente
-dibujada en el debate sobre la propiedad intelectual. Cuando los
-críticos hacen la división central entre "abierto" versus "cerrado"
+separación entre las licencias de FOSS y las propietarias que habitualmente
+dibujan el debate sobre la propiedad intelectual. Cuando los
+críticos hacen la división central entre "abierto" versus "cerrado",
 reflejando la distinción moral entre las empresas buenas e innovadoras y
 las malas y proteccionistas, las divisiones más importantes pasan
-desapercibidos. En particular, fallamos en ver el grado al cual tanto
-las violaciones como las alternativas a la ley de la propiedad
+desapercibidos. En particular, fallamos en ver el grado al cual, tanto
+las violaciones, como las alternativas a la ley de la propiedad
 intelectual siempre han sido exageradamente señaladas por el régimen de
 propiedad intelectual. La propiedad intelectual no funciona simplemente
 por ser "cerrada". Un pescador no atrapa peces si su red de pesca
 permanece cerrada todo el tiempo. Desde esta perspectiva, la
 experimentación corporativa con licencias libres y de código abierto
-tiene mucho sentido como un complemento al copyright. Las empresas no
-están acostumbrados a apoyar a los bienes de dominio público, siempre
-que tengan el control sobre la situación. Un paralelismo directo con los
-gigantes informáticos que respaldan la Iniciativa Open Source es el
+tiene mucho sentido como un complemento al copyright. Siempre y cuando tengan 
+el control sobre la situaciónLas, las empresas no acostumbrarán a apoyar 
+a los bienes de dominio público. Un paralelismo directo con los
+gigantes informáticos que respaldan la Iniciativa _Open Source_ es el
 repentino cambio de actitud entre las empresas de biotecnología a la
-propiedad privada de los descubrimientos genéticos. Pfizer, Merck & Co y
+propiedad privada de los descubrimientos genéticos. _Pfizer_, _Merck & Co_ y
 otras industrias farmacéuticas y químicas fueron los principales
 arquitectos detrás de la extensión de la patentabilidad de las formas de
 vida en los EE.UU. Más tarde se alarmaron cuando los pequeños
@@ -2103,35 +2103,34 @@ sobre información genética y a apoderarse de ellas en detrimento de las
 corporaciones. En 1992, la *Asociación de Fabricantes Farmacéuticos*
 aconsejó al gobierno que se opusiera a la propiedad de las secuencias de
 genes, y la *Asociación de Biotecnología Industrial* insistió en que el
-gobierno de EE.UU. las pusiera bajo dominio público.[^nota74] Cuando se
+gobierno de EE.UU. las pusiera bajo dominio público [^nota74]. Cuando se
 puso en marcha el proyecto del Genoma Humano se topó con una derivación
-de codicia desenfrenada. Un proyecto rival estaba dirigida por
+de codicia desenfrenada. Un proyecto rival estaba dirigido por
 capitalistas de riesgo y dos investigadores, Craig Venter y William
-Haseltine. Ellos aplicaron un método que les permitía generar
-rápidamente secuencias de genes humanos. El inconveniente con su método
+Haseltine. Ellos aplicaron un método que les permitía generar secuencias 
+de genes humanos rápidamente. El inconveniente con su método
 es que los datos que recogieron eran demasiado fragmentados y aleatorios
 para ser de mucho uso científico. En cambio, su investigación tenía como
 objetivo apoderarse del control financiero y legal sobre la base de
-datos del genoma. Ese resultado era tan peligroso que Merck & Co
+datos del genoma. Ese resultado era tan peligroso que _Merck & Co_
 invirtieron sustancialmente en la investigación pública para competir
 con Craig Venter y William Haseltine para poder asegurarse que los datos
-permanecieran en el dominio público.[^nota75] Los costos para Merck & Co
+permanecieran en el dominio público [^nota75]. Los costos para _Merck & Co_
 fueron relativamente pequeños. De hecho, era más barato para la empresa
 iniciar un proyecto de investigación pública y crear una base de datos
-libre para todos, de lo que sería crear su propia base de datos privada
-o pagar por el acceso a la base de datos privada de otra compañía. Merck
-& Co confió en su posición en el mercado para obtener un beneficio neto
-hasta de los descubrimientos a disposición de sus competidores. Las
-empresas más grandes del sector informático también cuentan con poder
-obtener de la misma manera ventajas de la información de dominio público
-debido a su gran tamaño. Cerrar filas[^nota76] alrededor de un estándar
-industrial abierto a la competencia no es muy diferente a la política
-estadounidense de "puertas abiertas" en la anexión colonial de China por
-las potencias occidentales. Las licencias de FOSS establecen un estándar
-para trabajar el cual maximiza el grupo de consumidores, los
-trabajadores calificados y los socios comerciales. Esta ventaja
-aumentará adicionalmente el peso adicional que el capital obtiene en la
-reestructuración de sus operaciones en una red de subcontratistas y
+libre para todos, que crear su propia base de datos privada o pagar por el 
+acceso a la base de datos privada de otra compañía. _Merck & Co_ confió en 
+su posición en el mercado para obtener un beneficio neto hasta de los 
+descubrimientos a disposición de sus competidores. Las empresas más grandes 
+del sector informático también cuentan con poder obtener de la misma manera 
+ventajas de la información de dominio público debido a su gran tamaño. Cerrar 
+filas[^nota76] alrededor de un estándar industrial abierto a la competencia 
+no es muy diferente a la política estadounidense de "puertas abiertas" en la 
+anexión colonial de China por las potencias occidentales. Las licencias de 
+FOSS establecen un estándar para trabajar, el cual maximiza el grupo de 
+consumidores, los trabajadores calificados y los socios comerciales. Esta 
+ventaja aumentará adicionalmente el peso adicional que el capital obtiene en 
+la reestructuración de sus operaciones en una red de subcontratistas y 
 trabajadores autónomos; y la red más global crece.
 
 El premio final para las empresas que participan en el movimiento hacker
@@ -2139,14 +2138,14 @@ es integrar una reserva de mano de obra gratis en un extremo de la hoja
 de balance y vender el producto en el otro extremo sin ningún descuento.
 Es un modelo de negocios de "quedarse con el oro y el moro". Si una
 empresa se dispone a ganar dinero de esta manera, no puede anunciar su
-intención ya que la mayoría de los desarrolladores se niegan a
+intención ya que la mayoría de las desarrolladoras se niegan a
 contribuir a los proyectos en estos términos. A menudo eluden este
 problema violando excepcionalmente los términos de una licencia libre. A
 pesar de algún canalla ocasional, la mayoría de las empresas han llegado
 a la conclusión de que tienen más que ganar a largo plazo si cumplen las
-reglas. Si bien esto es un alivio para los líderes de los proyectos de
+reglas. Si bien esto es un alivio para las líderes de los proyectos de
 FOSS, la misma observación se ve completamente diferente desde un punto
-de vista marxista. Para un marxista, es una forma más sistemática de
+de vista marxista. Para una marxista, es una forma más sistemática de
 explotación laboral. Nuestra crítica no debe quedarse solamente con las
 empresas que violan las licencias libres, o de lo contrario no podremos
 detectar sutiles formas de explotación que dejan de lado el punto
@@ -2158,199 +2157,198 @@ derivados de compras realizadas por los hackers), entonces se podría
 argumentar que la explotación se ha intensificado. Las corporaciones no
 solamente reducen de esta manera los costos laborales en los proyectos
 de programación individuales. También imponen una presión general a la
-baja en los salarios y en las condiciones de los programadores de
+baja en los salarios y en las condiciones de las programadoras de
 computadoras propios. Cortar por lo sano, esta es la principal razón
-para el entusiasmo empresarial por la iniciativa Open Source. El proceso
-de trabajo de los programadores está siendo tercerizado y afectado por
-el open source. La amenaza con el tiempo alcanzará también al
-underground informático, ya que muchos de ellos se basan en la situación
-privilegiada y en el alto salario como programadores para financiar su
-pasión por el hacking. Los hackers suelen responder a esta objeción
+para el entusiasmo empresarial por la iniciativa _Open Source_. El proceso
+de trabajo de las programadoras está siendo tercerizado y afectado por
+el _Open Source_. La amenaza con el tiempo alcanzará también al
+_underground_ informático, ya que muchos de ellos se basan en la situación
+privilegiada y en el alto salario como programadoras para financiar su
+pasión por el hacking. Las hackers suelen responder a esta objeción
 diciendo que el código de software libre no compite con el código
 propietario, ya que ocupan diferentes nichos de mercado. Éste podría ser
-el caso actual, sin embargo, si las empresas siguen este camino, sin
-duda tratarán de orientar a los voluntarios de tal dirección. El
+el caso actual. Sin embargo, si las empresas siguen este camino, sin
+duda tratarán de orientar las voluntades en esa dirección. El
 pronóstico depende de si las comunidades de desarrollo de FOSS pueden
 superar estos intentos canalizando su fuerza de trabajo para debilitar
-la posición de los programadores internos. Sólo entonces los hackers
-serán más una amenaza al capital que a los trabajadores organizados.
+la posición de las programadoras internas. Sólo entonces las hackers
+serán más una amenaza para el capital que para las trabajadoras organizadas.
 
 Para apreciar la dimensión exacta de la importancia de la iniciativa
-Open Source debemos situarla en el contexto de otros modelos de negocios
-centrados en el usuario. Como primera impresión, es evidente que la gran
-mayoría de las empresas basan sus estrategias en poner a trabajar a los
-usuarios. Por ejemplo, los motores de búsqueda y las bases de datos se
-construyen de modo que los usuarios añadan automáticamente información
+_Open Source_ debemos situarla en el contexto de otros modelos de negocios
+centrados en la usuaria. Como primera impresión, es evidente que la gran
+mayoría de las empresas basan sus estrategias en poner a trabajar a las
+usuarias. Por ejemplo, los motores de búsqueda y las bases de datos se
+construyen de modo que las usuarias añadan automáticamente información
 como un efecto secundario inevitable al visitar el sitio web. Aunque la
-entrada de cada usuario es insignificante, en conjunto es muy grande y,
-como se aprecia en los casos de Google y Yahoo, el valor financiero
+entrada de cada usuaria es insignificante, en conjunto es muy grande y,
+como se aprecia en los casos de _Google_ y _Yahoo_, el valor financiero
 puede ser gigantesco. Pero recopilar los textos electrónicos más
-complejos requiere un mayor grado de participación de los visitantes.
-Esto crea un equilibrio entre la cantidad de usuarios y sus peticiones.
+complejos requiere un mayor grado de participación de las visitantes.
+Esto crea un equilibrio entre la cantidad de usuarias y sus peticiones.
 Una posible solución es dedicar un servicio o, en el mejor de los casos,
-una comunidad, para recolectar la información. Gracenote es un buen
+una comunidad, para recolectar la información. _Gracenote_ es un buen
 ejemplo de cómo el trabajo voluntario puede ser utilizada de esta
 manera. La compañía es dueña de la base de datos CDDB que proporciona
 información sobre títulos de canciones musicales. La base de datos fue
-construida fomentando a los usuarios comunes para que escribieran los
-detalles de uno o dos de sus discos favoritos. De esta manera, Gracenote
-quedó en poder de la base de datos más grande del mundo en música.
+construida fomentando a las usuarias comunes para que escribieran los
+detalles de uno o dos de sus discos favoritos. De esta manera, _Gracenote_
+quedó en poder de la base de datos de música más grande del mundo.
 Pagarle a sus propios empleados para que hicieran el mismo trabajo
 podría haber sido más rápido y mejor coordinada, pero también
-prohibitivamente costoso.[^nota77] Al permitir que el servicio
-permaneciera gratis para los usuarios finales, la empresa se aseguró de
+prohibitivamente costoso [^nota77]. Al permitir que el servicio
+permaneciera gratis para las usuarias finales, la empresa se aseguró de
 una actualización constante de la información musical. La continuidad
-del trabajo de los voluntarios es crucial en el volátil panorama de las
+del trabajo de las voluntarias es crucial en el volátil panorama de las
 modas musicales. Los ingresos provienen del cobro por los usos
-comerciales. El modelo de negocios de Gracenote demuestra cómo la
+comerciales. El modelo de negocios de _Gracenote_ demuestra cómo la
 acumulación de trabajo voluntario puede ser combinado con una
 apropiación parcial por discriminar a los diferentes usos de un
-servicio. La versión de la licencia Creative Commons donde el artista
-conserva los derechos sobre los usos comerciales de su creación funciona
+servicio. La versión de la licencia _Creative Commons_ donde la artista
+conserva los derechos sobre los usos comerciales de su creación, funciona
 exactamente de la misma manera. Irónicamente, la invitación abierta a un
-grupo de colaboradores no remunerados comparada con una tarifa para usos
-comerciales está a menudo envuelta en una mentalidad con ideología "que
+grupo de colaboradoras no remuneradas comparada con una tarifa para usos
+comerciales está a menudo envuelta en una mentalidad con ideología: "que
 el negocio pague por esto si les sirve". La previsión de la Licencia
-Pública General queda subrayada por que no permite ningún tipo de
+Pública General queda subrayada porque no permite ningún tipo de
 discriminación de usos, ni siquiera los usos comerciales. Anula
 radicalmente la exclusión como concepto y se vuelve aún más amenazante
 para el mundo del comercio al no excluirla. El modelo de FOSS es un arma
-de doble filo, tanto para los fabricantes de hardware como para los
+de doble filo, tanto para las fabricantes de hardware como para los
 proveedores de software. Las aplicaciones de software propietario como
-Windows continuamente demandan más potencia de cálculo. Debido a esto,
-los usuarios deben mantener actualizados los dispositivos de hardware y
+_Windows_ continuamente demandan más potencia de cálculo. Debido a esto,
+las usuarias deben mantener actualizados los dispositivos de hardware y
 el software regularmente. El software libre elimina esta necesidad
 permitiendo que las computadoras de diez años de antigüedad sean
 nuevamente viables. En el largo plazo, los fabricantes de hardware y los
 proveedores de software corren el riesgo de que se reduzca el tamaño de
 su mercado a menos que se pueda inflar por otros medios, como la moda y
 el prestigio de tener la última actualización, por ejemplo. En segundo
-lugar, Microsoft coopera estrechamente con los "proveedores de
-contenido", es decir, la Record Industry Association of America (RIAA) y
-la Motion Picture Association of America (MPAA) (Asociación de Industria
+lugar, _Microsoft_ coopera estrechamente con los "proveedores de
+contenido", es decir, la _Record Industry Association of America_ y
+la _Motion Picture Association of America_ (Asociación de Industria
 Discográfica de Norteamérica y Asociación de Películas de Norteamérica
-respectivamente), para diseñar software que de soporte a la tecnología
-DRM (Digital Restrictions Management, Gestión Digital de
-Restricciones).[^nota78] Si una arquitectura de computadora libre se
-convierte en estándar será muy difícil que los proveedores de contenidos
-puedan hacer valer derechos de propiedad intelectual en Internet.
+respectivamente), para diseñar software que dé soporte a la tecnología
+Digital Restrictions Management (Gestión Digital de Restricciones)[^nota78]. 
+Si una arquitectura de computadora libre se convierte en estándar será muy 
+difícil que los proveedores de contenidos puedan hacer valer derechos de 
+propiedad intelectual en Internet.
 
 ## Las empresas enfrentan al desarrollo del FOSS
 
 Los fabricantes de hardware están acordando alianzas con los grupos de
 presión de los consumidores en un intento de superar la influencia de
 los proveedores de contenidos. Hay un riesgo evidente de que el
-movimiento de las licencias alternativas, si los activistas se acercan
+movimiento de las licencias alternativas, si las activistas se acercan
 demasiado a una rama de la industria, se reduzca a un peón en el juego
-de poderes entre dos facciones del capital en conflicto entre sí. Los
-defensores de la "información de dominio público" deben tener en cuenta
+de poderes entre dos facciones del capital en conflicto entre sí. Las
+defensoras de la "información de dominio público" deben tener en cuenta
 que el conjunto de la clase capitalista colectiva depende del régimen de
 propiedad intelectual. El choque entre los fabricantes de hardware
-japonesas, Sony y Matsushita, y los estudios de grabación
+japonesas, _Sony_ y _Matsushita_, y los estudios de grabación
 estadounidenses sobre la introducción de las cintas de audio digital
 (DAT) a finales de 1980, es instructivo. Los estudios de grabación
 estaban descontentos por la falta de restricciones a la copia privada de
 cintas de audio digitales. Exigían soluciones tecnológicas destinadas a
 restringir la duplicación de cintas. Su demanda estaba respaldada por la
-amenaza de no dar acceso ni a Sony ni a Matsushita a sus catálogos de
-música. Ante la posibilidad de lanzar una tecnología sin contenido para
-usarla, los fabricantes se vieron obligados a dar marcha atrás. Como
-consecuencia directa del conflicto, Sony adquirió CBS records en 1988 y
-Matsushita compró MCA con una división discográfica en 1991, absorbiendo
-proveedores de contenido en sus carteras corporativas.[^nota79] La
-lección es que tanto la presión industrial interna como las
-adquisiciones para mantenerse independientes de tal presión son la misma
-cosa: una convergencia de intereses dirigida a la protección de la
-propiedad intelectual. De hecho, los fabricantes de hardware son tan
-dependientes de la ley de propiedad intelectual por su alta rentabilidad
-como los productores de software y los proveedores de contenido. El
-precio de los bienes de consumo de alta tecnología se mantiene inflado
-por las patentes, las marcas comerciales, las directivas *sui generis*
-sobre la electrónica y la protección de los secretos comerciales.
-Esencialmente, la brecha dentro de la clase capitalista se centra en la
-distribución del beneficio y la renta entre diferentes sectores e
-industrias. Desde un punto de vista marxista, es obvio que la
-explotación del trabajo no puede ser abolida en estas disputas, ya que
-la explotación es la fuente de las ganancias sobre la que los
-capitalistas están regateando.
+amenaza de no dar acceso ni a _Sony_ ni a _Matsushita_ a sus catálogos de
+música. Ante la posibilidad de lanzar una tecnología sin contenido, los 
+fabricantes se vieron obligados a dar marcha atrás. Como consecuencia directa 
+del conflicto, _Sony_ adquirió _CBS records_ en 1988 y _Matsushita_ compró 
+_MCA_ con una división discográfica en 1991, absorbiendo proveedores de 
+contenido en sus carteras corporativas ^nota79]. La lección es que tanto la 
+presión industrial interna como las adquisiciones para mantenerse 
+independientes de tal presión son la misma cosa: una convergencia de 
+intereses dirigida a la protección de la propiedad intelectual. De hecho, 
+los fabricantes de hardware son tan dependientes de la ley de propiedad 
+intelectual por su alta rentabilidad como los productores de software y 
+los proveedores de contenido. El precio de los bienes de consumo de alta 
+tecnología se mantiene inflado por las patentes, las marcas comerciales, 
+las directivas _sui generis_ sobre la electrónica y la protección de los 
+secretos comerciales. Esencialmente, la brecha dentro de la clase capitalista 
+se centra en la distribución del beneficio y la renta entre diferentes 
+sectores e industrias. Desde un punto de vista marxista, es obvio que la
+explotación del trabajo no puede ser abolida en estas disputas, ya que la 
+explotación es la fuente de las ganancias sobre la que los capitalistas 
+están regateando.
 
 Del mismo modo, la interacción entre el capital y el Estado capitalista
-en relación a los desarrolladores de FOSS es una compleja red de
+en relación a los desarrolladores de FOSS, constituye una compleja red de
 rivalidades y dependencias mutuas. Los conflictos de intereses surgen
 entre las autoridades a nivel nacional y local, así como entre los
 estados en las diferentes regiones del mundo. Por ejemplo, una fuerte
 protección de la propiedad intelectual opera en favor de la balanza
 comercial exterior de EE.UU. Por consiguiente, la administración de
 EE.UU. es muy receptiva a las demandas de los estudios cinematográficos
-y de grabación musical.[^nota80] Este mismo hecho, sin embargo, es el
+y de grabación musical [^nota80]. Este mismo hecho sin embargo, es el
 obstáculo principal cuando las empresas estadounidenses se enfrentan a
 los gobiernos en el extranjero. Las iniciativas de los países del Tercer
-Mundo y de los municipios locales en Europa para implementar el uso del
-software libre en la administración pública y las escuelas, en parte
+Mundo y los municipios locales europeos para implementar el uso del
+software libre en la administración pública y las escuelas --en parte
 para ahorrar dinero público previamente gastado en licencias
-propietarias, han alarmado a las autoridades de Estados Unidos y
-Microsoft. A veces su enfoque de mano dura es contraproducente. En la
-India, Venezuela y Brasil, entre otros lugares, los gobiernos han
+propietarias-- han alarmado a las autoridades de Estados Unidos y a
+_Microsoft_. A veces su enfoque de mano dura es contraproducente. En la
+India, Venezuela y Brasil --entre otros lugares--, los gobiernos han
 respaldado públicamente el uso de software libre. Pero ni siquiera los
 diferentes brazos del estado de EE.UU. tienen un frente unido en contra
 del movimiento de FOSS. Un informe preparado por el Departamento de
-Defensa de EE.UU. terminó defendiendo el uso prolongado del Open Source,
-ya que considera que mejora la seguridad nacional.[^nota81] Un primer
+Defensa de EE.UU. terminó defendiendo el uso prolongado del _Open Source_,
+ya que considera que mejora la seguridad nacional [^nota81]. Un primer
 vistazo a las órdenes judiciales y a los anuncios de los funcionarios
-del gobierno, parecería que el estado capitalista apoya más a GNU/Linux
-que a Windows. Sin embargo, si se trata de diferenciar uno de otro, los
+del gobierno parecería indicar que el estado capitalista apoya más a GNU/Linux
+que a _Windows_. Sin embargo, si se trata de diferenciar uno de otro, las
 hackers no donan dinero para campañas políticas, no tienen ninguna
 influencia sobre la tasa de empleo ni dirigen los flujos globales de
-capital. Mientras que las diferentes ramas del estado avanzan
+capital. Mientras que las diferentes ramas del Estado avanzan
 contradiciendo políticas, la tendencia fundamental es la existencia del
-Estado como tal. Es cierto que Microsoft ha sido molestado por
+Estado como tal. Es cierto que _Microsoft_ ha sido molestado por
 investigaciones antimonopolio por más de una década, primero en América
-y luego en la Unión Europea.[^nota82] Sin embargo, el monopolio que está
-siendo procesado por los gobiernos por un lado está siendo ayudado por
+y luego en la Unión Europea [^nota82]. Sin embargo, el monopolio que está
+siendo procesado por los gobiernos, por un lado está siendo ayudado por
 otro cuando los mismos poderes del Estado hacen cumplir las patentes y
-las licencias reclamada por Microsoft. Al mismo tiempo que la empresa
+las licencias reclamada por _Microsoft_. Al mismo tiempo que la empresa
 fue multada por la Unión Europea por competencia desleal, la Comisión de
-la UE presionó, en representación de Microsoft, para la introducción de
+la UE presionó en representación de Microsoft, para la introducción de
 las patentes de software en Europa. Las patentes de software no pueden
-sino fortalecer el dominio de Microsoft sobre el mercado. En este
-sentido, la multa impuesta a Microsoft se parece más a un soborno para
+sino fortalecer el dominio de _Microsoft sobre el mercado_. En este
+sentido, la multa impuesta a _Microsoft_ se parece más a un soborno para
 aprobar una legislación favorable.
 
 El eslabón más débil del movimiento del FOSS es su relación con sus
 aliados comerciales, educativos e institucionales. Al cuestionar la
-legalidad de las licencias de FOSS sus adversarios esperan ahuyentar a
-los partidarios del software libre. La demanda de SCO/Caldera contra
-IBM, Red Hat y otras empresas que invierten utilidades de FOSS, es un
-buen ejemplo de ello.[^nota83] A través de una serie de adquisiciones en
-los últimos años, SCO/Caldera se ha adueñado de algunos derechos de
-propiedad sobre UNIX. La compañía ha afirmado que GNU/Linux se construyó
-utilizando parte del código fuente de UNIX y ha sido distribuido por IBM
+legalidad de las licencias de FOSS, sus adversarios esperan ahuyentar a
+las partidarias del software libre. La demanda de _SCO/Caldera_ contra
+IBM, _Red Hat_ y otras empresas que invierten utilidades de FOSS, es un
+buen ejemplo de ello [^nota83]. A través de una serie de adquisiciones en
+los últimos años, _SCO/Caldera_ se ha adueñado de algunos derechos de
+propiedad sobre _UNIX_. La compañía ha afirmado que GNU/Linux se construyó
+utilizando parte del código fuente de _UNIX_ y ha sido distribuido por IBM
 y otros. Después de varios años de demandas y contrademandas el sistema
-judicial de EE.UU. ha rechazado a la mayoría de los reclamos de SCO. Sin
+judicial de EE.UU. ha rechazado a la mayoría de los reclamos de _SCO_. Sin
 embargo, los litigios involucran tanto las relaciones públicas como el
 cumplimiento de la ley. Lo malo es que hay muchos casos de pequeñas
-empresas y municipios que  no se animan a invertir en FOSS debido a las
+empresas y municipios que no se animan a invertir en FOSS debido a las
 incertidumbres jurídicas y técnicas percibidas en tales aplicaciones.
-Para hacer frente a estos temores, la organización OSDL (Open Source
-Development Labs, Laboratorios de Desarrollo de Código Abierto)
-estableció rápidamente un fondo legal para proteger a los usuarios de
-GNU/Linux de riesgos de litigios. Intel e IBM han contribuido al fondo,
-mientras que Hewlett-Packard y Novell ofrecen indemnizar a sus clientes
-de GNU/Linux frente a las demandas de SCO/Caldera.[^nota84] La debacle
-de SCO/Caldera es independiente de su fortuna en la corte. Los
-desarrolladores de FOSS terminan buscando protección bajo las alas de su
+Para hacer frente a estos temores, la organización _OSDL_ (_Open Source_
+_Development Labs_, o Laboratorios de Desarrollo de Código Abierto)
+estableció rápidamente un fondo legal para proteger a las usuarias de
+GNU/Linux de riesgos de litigios. _Intel_ e IBM han contribuido al fondo,
+mientras que _Hewlett-Packard_ y _Novell_ ofrecen indemnizar a sus clientes
+de GNU/Linux frente a las demandas de _SCO/Caldera_ [^nota84]. La debacle
+de _SCO/Caldera_ es independiente de su fortuna en la corte. Las
+desarrolladoras de FOSS terminan buscando protección bajo las alas de su
 aliados corporativos. Los litigios impulsan un interés común compartido
 por el demandante y los demandados, a saber: el Capital es clave en el
-desarrollo de FOSS. El mayor peligro para la comunidad viene de dentro.
-IBM, mientras lucha contra la demanda de SCO/Caldera y exhibe su apoyo a
-Apache y GNU/Linux, presiona agresivamente a favor de la introducción de
+desarrollo de FOSS. El mayor peligro para la comunidad viene de adentro.
+IBM, mientras lucha contra la demanda de _SCO/Caldera_ y exhibe su apoyo a
+_Apache_ y GNU/Linux, presiona agresivamente a favor de la introducción de
 las patentes de software en Europa. La compañía tiene una de las mayores
-carteras de patentes del mundo. Incluso se le concedió una patente sobre
-procedimiento de información en un modelo similar al Open Source para el
-desarrollo de software. [^nota85] En otras palabras, IBM es el dueño del
+carteras de patentes del mundo, incluso se le concedió una patente sobre
+procedimiento de información en un modelo similar al _Open Source_ para el
+desarrollo de software [^nota85]. En otras palabras, IBM es el dueño del
 concepto de este modo de desarrollo. Es un pequeño consuelo que IBM se
 haya comprometido a no perseguir a los desarrolladores de FOSS con sus
-patentes. Al crear un poder legal y no usarlo IBM se garantiza un socio
+patentes. Al crear un poder legal y no usarlo, IBM se garantiza un socio
 rentable.
 
 ## Hacking y lucha de clases
@@ -2359,160 +2357,158 @@ Las escaramuzas entre el movimiento hacker y las corporaciones y los
 gobiernos tienen raíces más profundas de lo que se muestra por los
 enfrentamientos sobre código traicionero, legislaciones hostiles, y
 campañas de difamación pública. Más importante es el hecho de que las
-normas y las aspiraciones que motivan a la gente a ser hacker están en
+normas y las aspiraciones que motivan a la gente a ser hacker, están en
 desacuerdo con al menos algunos aspectos del capitalismo. La idea
 central de este libro es que el movimiento hacker es parte de una
 corriente mucho más amplia que se rebela contra el aburrimiento del
 trabajo mercantilizado y la satisfacción de las necesidades. Estos
-sentimientos, sin embargo, pueden ser vistos de dos maneras. En la
-literatura de negocios, a menudo se aconseja a los administradores que
-fomenten un "espíritu hacker" entre sus empleados.[^nota86] Dennis Hayes
-da una buena explicación de cómo este espíritu hacker de los ingenieros
+sentimientos sin embargo, pueden ser vistos de dos maneras. En la
+literatura de negocios a menudo se aconseja a los administradores que
+fomenten un "espíritu hacker" entre sus empleadas [^nota86]. Dennis Hayes
+da una buena explicación de cómo este espíritu hacker de las ingenieras
 de Silicon Valley los induce a trabajar más sin pedir nada a cambio.
-Mientras que reconoce la autonomía de la que gozan los ingenieros de
-software, duda de que cualquier programa político serio puede surgir de
+Mientras que reconoce la autonomía de la que gozan las ingenieras de
+software, duda de que cualquier programa político serio pueda surgir de
 ella. El capital y la tecnología moderna aparentemente han seducido al
-fabricante de computadoras con un raro privilegio: un auténtica emoción
+fabricante de computadoras con un raro privilegio: una auténtica emoción
 que trasciende la división entre trabajo y ocio que ha quebrado a las
-civilizaciones más industrializadas. [...] Cuando la fabricación de
+civilizaciones más industrializadas. "[...] Cuando la fabricación de
 computadoras se convierte en una salida creativa y emotiva fundamental,
 cualquier política de mayor peso que las que rigen el acceso al trabajo
-y a las herramientas parecen preocupaciones distantes.[^nota87] Las
+y a las herramientas parecen preocupaciones distantes [^nota87]. Las
 dudas de Dennis Hayes son muy justificadas, aunque sus observaciones se
-limitan a los programadores que son parte del personal de las empresas.
+limitan a las programadoras que son parte del personal de las empresas.
 La demanda para el "acceso a las herramientas" se convierte en dinamita
 política una vez que se articula fuera de la relación salarial, por
 ejemplo, por las personas a las que se les niega dicho acceso. Cuando el
-"espíritu hacker" encuentra eco entre los trabajadores que no participan
-en el negocio creativo, se convierte en un "rechazo del trabajo". Las
+"espíritu hacker" encuentra eco entre las trabajadoras que no participan
+en el negocio creativo, se convierte en un "rechazo del trabajo". La
 cantidad de personas en esta situación supera largamente en número a los
 profesionales en los sectores de los medios de comunicación y de
-información. E incluso entre los pocos afortunados que disfrutan de
-trabajos estimulantes, muchos de ellos serán privados de sus privilegios
-a su debido tiempo. Los programadores están siendo lanzado a niveles más
+información. E incluso entre las pocas afortunadas que disfrutan de
+trabajos estimulantes, muchas de ellas serán privados de sus privilegios
+a su debido tiempo. Las programadoras están siendo lanzadas a niveles más
 bajos del mercado de trabajo ya que la industria de la computación está
-madurando. Ocupaciones que recientemente eran tan gratificantes, como
+madurando. Ocupaciones que recientemente eran tan gratificantes como
 escribir código de software, se están convirtiendo en tan rutinarias
 como cualquier otro campo de actividad que ha caído bajo el hechizo del
-valor de intercambio. [^nota88] El cambio de control sobre las prácticas
-de codificación de los programadores a los administradores es un tema
+valor de cambio [^nota88]. El cambio de control sobre las prácticas
+de codificación de las programadoras a las administradoras es un tema
 importante en la industria de la computación. Este debate también se
 refleja en la comunidad hacker en su preocupación acerca de los
-conocimientos superficiales en lenguajes de programación entre los
-colaboradores voluntarios.
+conocimientos superficiales en lenguajes de programación entre las
+colaboradoras voluntarias.
 
-Irónicamente, el despliegue de la tecnología informática ha sido
+Irónicamente el despliegue de la tecnología informática ha sido
 determinante en la degradación del trabajo en otros sectores de la
 economía. Su impacto en el trabajo fue destacado por el sociólogo
 Richard Sennett cuando examinó los cambios que han tenido lugar en una
-panadería en Nueva York durante un período de veinticinco años.[^nota89]
+panadería en Nueva York durante un período de veinticinco años [^nota89].
 En los años '70, el horneado era una mezcla de esfuerzo físico y trabajo
 en un medio caliente y a veces peligroso. Lo positivo era que el hornear
-requería artesanía y recompensaba con cierta satisfacción al panadero.
+requería artesanía y recompensaba con cierta satisfacción a la panadera.
 En el entorno de trabajo moderno, los hornos informatizados supervisan
-el proceso de cocción. Es limpio, fácil de usar, cómodo,
-confortablemente templado, y, por cualquier medida objetiva, más
-"civilizado". Sin embargo, los empleados no tienen ni idea de cómo hacer
-pan. Sólo saben cómo presionar un par de botones y llamar a un técnico
-cuando la maquinaria de panadería se rompe. En la panadería, el código
-fuente es la masa, las especias, y la receta para hornear, habilidades
-que los viejos panaderos habían dominado e inculcado a sus pares. En la
-actualidad, en el horneado computarizado, el código fuente se ha
-escondido de los panaderos. El crecimiento del sector del software, que
-está proporcionando nuevos puestos de trabajo interesantes para los
-programadores informáticos, descansa en gran parte sobre la utilidad del
-software como un medio para la descualificación de la fuerza de trabajo
-en otros sectores. Esta conexión se pone al descubierto cuando
-consideramos el papel de los primeros ingenieros informáticos empleados
-por la industria. Estos programadores trabajaban en la misma empresa y
-hombro con hombro con los obreros que fueron sometidos a la
-informatización. David Noble ha documentado cómo el embrión del software
-(plantillas, cartas, cintas de grabación, y control numérico (N/C)), se
-desplegó en la industria pesada exactamente con el propósito de
-intensificar las técnicas del taylorismo. "Al separar la concepción de
-la ejecución de la programación de la operación de la máquina, el N/C
-surgió para permitir la eliminación completa de la toma de decisiones y
+el proceso de cocción. Es limpio, fácil de usar, cómodo, confortablemente 
+templado, y por cualquier medida objetiva, más "civilizado". Sin embargo, 
+las empleadas no tienen ni idea de cómo hacer pan. Sólo saben cómo presionar 
+un par de botones y llamar a servicio técnico cuando la maquinaria de 
+panadería se rompe. En la panadería, el código fuente es la masa, las especias, 
+y la receta para hornear; habilidades que las viejas panaderas habían dominado 
+e inculcado a sus pares. En la actualidad, en el horneado computarizado, 
+el código fuente se ha escondido de las panaderas. El crecimiento del sector 
+del software, que está proporcionando nuevos puestos de trabajo interesantes 
+para las programadoras informáticas, descansa en gran parte sobre la utilidad 
+del software como un medio para la descualificación de la fuerza de trabajo
+en otros sectores. Esta conexión se pone al descubierto cuando consideramos 
+el papel de los primeros ingenieros informáticos empleados por la industria. 
+Estas programadoras trabajaban en la misma empresa y hombro con hombro con las 
+obreras que fueron sometidas a la informatización. David Noble ha documentado 
+cómo el embrión del software (plantillas, cartas, cintas de grabación, y 
+control numérico (N/C)), se desplegó en la industria pesada exactamente con el 
+propósito de intensificar las técnicas del taylorismo. "Al separar la 
+concepción de la ejecución de la programación de la operación de la máquina, 
+el N/C surgió para permitir la eliminación completa de la toma de decisiones y
 el juicio desde el taller. Esta parte "mental" del proceso de producción
-pudo ser entonces monopolizada por los administradores, ingenieros y
-programadores, y se concentró en la oficina".[^nota90] Un aspecto
-crucial de esta estrategia era mantener a los trabajadores en la
+pudo ser entonces monopolizada por las administradoras, ingenieras y
+programadoras, y se concentró en la oficina" [^nota90]. Un aspecto
+crucial de esta estrategia era mantener a las trabajadoras en la
 ignorancia acerca del código fuente. De la misma forma que la tecnología
-N/C a fue diseñada para despedir trabajadores, se los postergaba porque
-los suponían poco inteligentes las tareas de programación. Sin embargo,
-los supervisores atestiguaron que los trabajadores aprendieron por su
-cuenta a leer lenguaje de programación sencillo. Fue útil para ellos
+N/C fue diseñada para despedir trabajadoras, se las postergaba porque
+las suponían poco inteligentes para las tareas de programación. Sin embargo,
+los supervisores atestiguaron que las trabajadoras aprendieron por su
+cuenta a leer lenguaje de programación sencillo. Fue útil para ellas
 conocer el programa a fin de anticipar el siguiente movimiento de la
 máquina, y para predecir fallos de funcionamiento y posibles accidentes.
-Sin embargo, no se suponía que los trabajadores manejaran este
-conocimiento. La rutina era que si descubría una falla, el trabajador
-tenía que informar de ello a un ingeniero. Era un procedimiento
-engorroso y frustrante para ambos, el trabajador y el
-programador.[^nota91] En lugar de seguir los procedimientos correctos,
-los trabajadores a menudo demostraron ingenio para reparar las fallas
-por sí mismos. Este tipo de iniciativas de los trabajadores eran
+Sin embargo, no se suponía que las trabajadoras manejaran este
+conocimiento. La rutina era que si descubría una falla, la trabajadora
+tenía que informar de ello a una ingeniera. Era un procedimiento
+engorroso y frustrante para ambas, la trabajadora y la
+programadora [^nota91]. En lugar de seguir los procedimientos correctos,
+las trabajadoras a menudo demostraron ingenio para reparar las fallas
+por sí mismas. Este tipo de iniciativas de las trabajadoras eran
 beneficiosas para el balance de la empresa. Con el fin de sacar el
 máximo provecho de la tecnología N/C, ésta tuvo que ser abierta para
-permitir los ciclos de retroalimentación de los trabajadores de nuevo en
+permitir los ciclos de retroalimentación de las trabajadoras de nuevo en
 el proceso de trabajo. Pero los gerentes habían abrazado la tecnología
 con el propósito precisamente opuesto. La maquinaria había sido ideada
-para regular el desempeño de los trabajadores y forzar un ritmo de
-trabajo más alto sobre ellos. Con el conocimiento de cómo la maquinaria
-y el software funcionan, los trabajadores también sabían cómo usar la
+para regular el desempeño de las trabajadoras y forzar un ritmo de
+trabajo más alto sobre ellas. Con el conocimiento de cómo la maquinaria
+y el software funcionan, las trabajadoras también sabían cómo usar la
 tecnología para su propio beneficio. Ahora podían alterar las
 instrucciones de la máquina y reducir su velocidad. Esta práctica se
 extendió espontánea y rápidamente en las zonas fabriles y fue
 ocasionalmente descubierta y documentada por los supervisores. Los
-gerentes reaccionaron tratando de hacer al mecanismo de relojería de la
+gerentes reaccionaron tratando de hacer el mecanismo de relojería de la
 maquinaria impenetrable e incomprensible. El antagonismo entre el
 capital y el trabajo se disputó en el nivel de código y el "acceso a las
 herramientas" era el nombre del juego.
 
-El sueño de los administradores para erradicar el descontento de los
-trabajadores a través de las tecnologías de caja negra se ha visto
+El sueño de las administradoras para erradicar el descontento de las
+trabajadoras a través de las tecnologías de caja negra se ha visto
 continuamente frustrada por el hacking. La informatización no ha
-erradicado la resistencia de los trabajadores desplazados, desde la
+erradicado la resistencia de las trabajadoras desplazados, desde la
 etapa de ejecución hasta la etapa de concepción. Cuando más y más
 personas están asignadas a conceptualizar en lugar de ejecutar los
 procesos de trabajo, el capital debe economizar esa mano de obra
-también. El mismo régimen estricto impuesto previamente a los ingenieros
-y programadores, con ayuda de estos, ha sido impuesto a los
-obreros.[^nota92] En este punto, sin embargo, el taylorismo se encuentra
-con sus propios límites. No existe una manera sencilla de privar a los
-"trabajadores del conocimiento" del conocimiento y que sigan trabajando.
+también. El mismo régimen estricto impuesto previamente a las ingenieras
+y programadoras, con ayuda de estas, ha sido impuesto a las
+obreras [^nota92]. En este punto, sin embargo, el taylorismo se encuentra
+con sus propios límites. No existe una manera sencilla de privar a las
+"trabajadoras del conocimiento" del conocimiento y que sigan trabajando.
 Un resultado inesperado de la mecanización de la oficina es que abundan
 las oportunidades para el hacking y el sabotaje. Un caso de alto perfil
 de hacking por parte de un empleado se produjo en 1996 cuando Timothy
-Lloyed descubrió que iba a ser despedido de Omega Engineering. Escribió
+Lloyed descubrió que iba a ser despedido de _Omega Engineering_. Escribió
 seis líneas de código que borraron los programas de diseño y producción
 de la empresa y, al parecer produjo daños valuados en 12 millones de
-dólares. Según una encuesta realizada en 1998 conjuntamente por Computer
-Security Initiative y el FBI, el costo promedio de ataques informáticos
-exitosos llevados a cabo por hackers externo sera \$56.000, mientras que
-el costo promedio de actos dolosos por los internos fue de \$2,7
-millones.[^nota93] Una cultura de sabotaje espontáneo entre los
-empleados provoca la mayor parte del tiempo de inactividad de los
+dólares. Según una encuesta realizada en 1998 conjuntamente por _Computer
+Security Initiative_ y el FBI, el costo promedio de ataques informáticos
+exitosos llevados a cabo por hackers externas sería de \$56.000, mientras que
+el costo promedio de actos dolosos por las internas fue de \$2,7
+millones [^nota93]. Una cultura de sabotaje espontáneo entre las
+empleadas provoca la mayor parte del tiempo de inactividad de los
 equipos en las oficinas. El hecho de que estos ataques provocados
 generalmente por el descontento laboral casi nunca se denuncian. Los
-gerentes están preocupados ante la posibilidad de que otros empleados
+gerentes están preocupados ante la posibilidad de que otras empleadas
 repitan este comportamiento. Con estas reflexiones dando vueltas por su
 cabeza, Andrew Ross insiste que la perspectiva del hacking debe ser
-ampliada. La imagen mediática de los hackers como apolíticos, y
-bromistas juveniles menosprecia las cuestiones en juego: "Mientras que
-sólo un pequeño número de usuarios de computadoras se calificarían a sí
-mismos como "hackers", existen razones justificadas para ampliar esta
+ampliada. La imagen mediática de las hackers como apolíticas, y
+bromistas juveniles, menosprecia las cuestiones en juego: "Mientras que
+sólo un pequeño número de usuarias de computadoras se calificarían a sí
+mismas como "hackers", existen razones justificadas para ampliar esta
 definición restringida del *hacking* a toda la jerarquía de sistemas:
-analistas, diseñadores, programadores, y operadores para incluir a todos
-los trabajadores de alta tecnología -sin importar su experiencia - que
+analistas, diseñadoras, programadoras, y operadoras para incluir a todas
+las trabajadoras de alta tecnología -sin importar su experiencia - que
 puedan interrumpir, trastornar, y desviar el flujo normal de las
 comunicaciones estructuradas que dicta su posición en las redes sociales
 de intercambio y determina el ritmo de sus horarios de
-trabajo."[^nota94] Los empleados rompiendo los sistemas informáticos de
+trabajo" [^nota94]. Las empleadas rompiendo los sistemas informáticos de
 sus empleadores es una indicación clara de que el hacking puede ser un
 acto de resistencia obrera. ¿Cómo se aplica esta observación al hacking
-realizado por estudiantes, desempleados y personas con tiempo libre, en
+realizado por estudiantes, desempleadas y personas con tiempo libre, en
 otras palabras, el hacking que no está relacionado con el lugar de
-trabajo? Después de todo, tanto la imagen propia como el estereotipo del
-hacker retratan a alguien situado fuera y en contra de la profesión.
+trabajo? Después de todo, tanto la imagen propia como el estereotipo de la
+hacker retratan a alguien situada fuera y en contra de la profesión.
 
 En primer lugar hay que reconocer que el lugar de producción en el
 capitalismo en red no está claro. El proceso de producción se ha
@@ -2522,12 +2518,12 @@ informatización está estrechamente relacionada en el marco de un mercado
 laboral reestructurado. La disponibilidad de computadoras personales,
 teléfonos móviles y conexiones a Internet han sido fundamental para que
 el teletrabajo y el trabajo en casa sean realidad. Además, al arsenal de
-trabajadores independientes[^nota95], mano de obra tercerizada y
-subcontratistas, las empresas pueden añadir ahora los desarrolladores de
-FOSS. Como demuestra el compromiso de Red Hat e IBM con GNU/Linux, las
+trabajadoras independientes [^nota95], mano de obra tercerizada y
+subcontratistas; las empresas pueden añadir ahora las desarrolladoras de
+FOSS. Como demuestra el compromiso de _Red Hat_ e IBM con GNU/Linux, las
 comunidades se han convertido en importantes fuentes de plusvalía para
 el capital. Por lo tanto, las comunidades de desarrollo enfrentan el
-capital del mismo modo que los trabajadores asalariados. Para no excluir
+capital del mismo modo que las trabajadoras asalariadas. Para no excluir
 muchos lugares donde el capital extrae la plusvalía y donde existen
 potenciales conflictos laborales, tenemos que tener una mirada mucho más
 amplia que solamente el lugar de trabajo. La fábrica ha generado hacia
@@ -2538,7 +2534,7 @@ capitalista las relaciones sociales se convierten en parte de las
 relaciones de producción, y toda la sociedad se convierte en una
 articulación de la producción. En resumen, toda la sociedad vive en
 función de la fábrica y la fábrica extiende su dominación exclusiva
-sobre toda la sociedad."[^nota96] El concepto de la "fábrica social"
+sobre toda la sociedad" [^nota96]. El concepto de la "fábrica social"
 ofrece una vía prometedora para el análisis del capitalismo
 contemporáneo. El conjunto de la sociedad ha sido sometido a la
 disciplina capitalista y a sus relaciones de producción. Por ejemplo,
@@ -2547,12 +2543,12 @@ motor de búsqueda en Internet se han convertido en ingresos
 publicitarios. Antonio Negri y Michael Hardt esbozan algunas
 conclusiones de largo alcance de este hecho. El proletariado, que son
 aquellas personas que están dentro del capital y lo mantienen, está
-presente en todas partes. No sólo son los trabajadores asalariados,
-también pertenecen al proletariado las esposas en sus hogares, los
-desempleados y los estudiantes.[^nota97] Esta clasificación muy
+presente en todas partes. No sólo son las trabajadoras asalariadas,
+también pertenecen al proletariado las esposas en sus hogares, las
+desempleadas y las estudiantes [^nota97]. Esta clasificación muy
 abarcativa demanda una descripción diferente de cómo y por qué la clase
 obrera se opone al capital. Tradicionalmente, la teoría marxista ha
-circunscrito la lucha de los trabajadores a una disputa sobre el trabajo
+circunscrito la lucha de las trabajadoras a una disputa sobre el trabajo
 excedente. Por excedente de trabajo se entiende la cantidad de horas que
 la gente se ve obligada a cumplir excediendo la cantidad necesaria para
 su propia subsistencia. La mano de obra sobrante se acumula y se
@@ -2560,7 +2556,7 @@ convierte en capital. La lucha de clases puede ser así expresada
 directamente según los conceptos claves en la crítica político-económica
 de Karl Marx. El conflicto entre el capital y el trabajo está planteado
 desde que los empleadores desean mayor cantidad y más intensas horas de
-trabajo, mientras que los empleados quieren lo contrario. La definición
+trabajo, mientras que las empleadas quieren lo contrario. La definición
 es muy elegante, tal vez demasiado para su propio bien. Durante el siglo
 XX, bajo la influencia de los sindicatos, el tire y afloje sobre los
 excedentes de trabajo llevó a un enfoque centrado en los niveles de
@@ -2574,78 +2570,77 @@ este punto. Con la inspiración de Michel Foucault, sostienen que la vida
 está siendo alimentada y administrada por el capital como una parte
 intrínseca del proceso de adición de valor. Por lo tanto, la resistencia
 del proletariado es una lucha bio-política, a la vez económica, política
-y cultural, y centrada en las formas conflictivas de vida. Concluyen su
+y cultural, centrada en las formas conflictivas de vida. Concluyen su
 reinterpretación al afirmar que una forma de lucha del proletariado es
 inventar nuevos espacios públicos y comunidades incompatibles con la
-forma del valor.(*Empire* 56)
+forma del valor (*Empire* 56).
 
 Estas observaciones nos ayudan en nuestro intento de comprender el
 movimiento hacker en los términos de la lucha laboral. El conflicto del
 trabajo excedente que caracteriza al antagonismo entre el capital y el
 trabajo en el ámbito laboral tiene una escasa capacidad de explicación
-en el underground informático. Los hackers voluntarios escriben
-aplicaciones de software. Son más propensos a ser felices pasando una
+en el _underground_ informático. Las hackers voluntarias escriben
+aplicaciones de software, son más propensas a ser felices pasando una
 hora extra frente a la computadora que tratando de escabullirse por un
-atajo. En cuanto a dinero se refiere, a muchos hackers no les importa si
+atajo. En cuanto a dinero se refiere, a muchas hackers no les importa si
 una empresa obtiene beneficios de un proyecto al cual han contribuido.
-Desde la perspectiva de un sindicalista, el trabajo aficionado gratuito
-es poco menos que alarmante. El hacker desprevenido está a punto
-caramelo para ser explotado, y lo que es más, mientras trabajan
-intensamente están debilitando la posición de negociación de los
-programadores que trabajan también. Lo que les preocupa a los hackers,
-principalmente el libre acceso a la información, parece secundario
-respecto a los servicios sociales y las preocupaciones laborales y
-ambientales. El evidente desconocimiento de los temas laborales en el
+Desde la perspectiva sindicalista, el trabajo aficionado gratuito
+es poco menos que alarmante. La hacker desprevenida está a punto
+caramelo para ser explotada y lo que es más, mientras trabajan
+intensamente, también están debilitando la capacidad de negociación de las
+programadoras que trabajan en relación de dependencia. Lo que les preocupa 
+a las hackers es  principalmente el libre acceso a la información, parece 
+secundario respecto a los servicios sociales y las preocupaciones laborales 
+y ambientales. El evidente desconocimiento de los temas laborales en el
 movimiento hacker ha convencido a Alan Liu para dar por perdida a la
 ciber-política como una subcultural "mala actitud". Acusa a las demandas
 de libre información de individualistas, consumistas y
-empresariales.[^nota98] Alan Liu se equivoca, porque interpreta a la
+empresariales [^nota98]"" Alan Liu se equivoca porque interpreta a la
 información de la misma manera que los "proveedores de contenido",
-simplemente como un producto de consumo. Desde esta perspectiva, el
+simplemente como un producto de consumo. Desde esta perspectiva, la
 hacker que desea obtener información libremente aparece como cualquier
-otro cliente enojado demandando más valor por su dinero.
+otra clienta enojada demandando más valor por su dinero.
 
 Si reconocemos que la información también es un medio de producción, se
 hace evidente que la demanda de información libre es lo mismo que el
 acceso a las herramientas. Con las licencias libres las herramientas
-para escribir código se hacen accesibles a todo el mundo, por lo tanto
-también son libres para los monopolios del conocimiento, los
-profesionales de cuello blanco, y las jerarquías corporativas. El
-hacking socava la división técnica del trabajo que es fundamental para
-el taylorismo. Por otra parte, la falta de mención por parte de los
-hackers a las cuestiones laborales es consistente con el hecho de que su
-política es la política del "trabajo cero". Al principio puede parecer
-extraño, pero la afirmación anterior es consistente con la motivación
-extrema y la disciplina de muchos hackers cuando desarrollan código. Lo
-radical de los modelos de desarrollo de FOSS es que salta la brecha
-entre el "hacer" y la relación salarial. Los hackers están contribuyendo
+para escribir código se hacen accesibles a todo el mundo por lo tanto,
+también son libres para los monopolios del conocimiento, los profesionales 
+de cuello blanco, y las jerarcas corporativas. El hacking socava la división 
+técnica del trabajo que es fundamental para el taylorismo. Por otra parte, 
+la falta de mención por parte de las hackers a las cuestiones laborales es 
+consistente con el hecho de que su política es la política del "trabajo cero". 
+Al principio puede parecer extraño, pero la afirmación anterior es consistente 
+con la motivación extrema y la disciplina de muchas hackers cuando desarrollan 
+código. Lo radical de los modelos de desarrollo de FOSS es que salta la brecha
+entre el "hacer" y la relación salarial. Las hackers están contribuyendo
 al cambio social radical porque evitan que el mercado de trabajo sea el
 único factor determinante en la asignación de recursos de programación
 en la sociedad. Como consecuencia, no se puede dar por sentada la
 racionalidad económica y la instrumentación del desarrollo tecnológico,
 al menos no en el sector informático. El modelo para el desarrollo
-tecnológico inventado por los hackers está guiado por la máxima
-actividad humana que no es imprescindible: el impulso lúdico.[^nota99]
+tecnológico inventado por las hackers está guiado por la máxima
+actividad humana que no es imprescindible: el impulso lúdico [^nota99].
 El código no es el propósito final del hacking, es más bien un exceso de
-flujo de la forma de vida lúdica que los hackers están eligiendo por sí
-mismos. Los hackers pueden ser conscientes o no y estar motivados por
+flujo de la forma de vida lúdica que las hackers están eligiendo por sí
+mismas. Las hackers pueden ser conscientes o no y estar motivadas por
 las implicaciones políticas más amplias de la promoción del acceso a las
 herramientas informáticas. Linus Torvalds, por ejemplo, ha demostrado en
-repetidas ocasiones su inocencia política en discusiones con la Free
-Software Foundation. No obstante, él tomó la decisión clave de liberar
+repetidas ocasiones su inocencia política en discusiones con la _Free_
+_Software Foundation_. No obstante, él tomó la decisión clave de liberar
 el kernel Linux bajo una licencia libre. La demanda de que la
-información sea libre no está basada en convicciones ideológicas tanto
-como en el hecho de que los espacios públicos que los hackers han
+información sea libre no está basada en convicciones ideológicas, tanto
+como en el hecho de que los espacios públicos que las hackers han
 inspirado sólo pueden sostenerse si la tecnología de software se
-mantiene abierta y accesible. Es la forma de vida de los hackers lo que
+mantiene abierta y accesible. Es la forma de vida de las hackers lo que
 comanda su resistencia. Su compromiso con el mantenimiento de la
 comunidad de FOSS está en conflicto con al menos algunas de las
-prioridades del capital, aunque, es cierto, que también van de la mano
+prioridades del capital, aunque es cierto que también van de la mano
 del capital en otros aspectos. ¿No sería justo objetar que con las
 corporaciones ganando millones de dólares con las aplicaciones de FOSS,
 el potencial liberador del hacking se ha perdido? En este caso también
-hay que decir que la lucha de los empleados asalariados es inexistente
-ya que las empresas ganan millones de dólares sin ellos. El hecho de que
+hay que decir que la lucha de las empleadas asalariadas es inexistente
+ya que las empresas ganan millones de dólares sin ellas. El hecho de que
 el movimiento hacker ha sido parcialmente absorbido por el capital no
 falsifica al hacking como una praxis radical, a menos que queramos
 pensar mal. El movimiento hacker es una continuación de más de
