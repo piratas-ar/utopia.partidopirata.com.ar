@@ -45,6 +45,18 @@ comunidad maneje su propio nodo.  Si antes esta capacidad solo la tenían
 empresas, ahora cualquier colectivo puede armar su red y federarla con
 las demás.
 
+# Medios alternativos
+
+Si bien proponemos dejar de usar las redes capitalistas, también
+entendemos que en este momento son la plataforma con más llegada a la
+opinión pública, donde se convierten en un terreno de disputa.
+
+La estrategia que nos damos en este sentido es mantener esas redes, pero
+a la vez ir publicando en paralelo en las redes libres y comunitarias,
+de forma que las personas que estén migrando hacia ellas puedan seguir
+informándose y difundiendo sin el efecto "entré para ver qué onda y no
+encontré a nadie".
+
 
 # Organización
 
@@ -62,6 +74,21 @@ Loomio.  Loomio es desarrollado a partir de la experiencia de Occupy y
 publicado como software libre.  Dentro del Partido Interdimensional
 Pirata tenemos nuestra propia instancia e invitamos a cualquier
 colectiva interesada a usarlo.
+
+# Uso cotidiano
+
+A veces queremos irnos de las redes capitalistas, pero no podemos porque
+allí quedan nuestros afectos, familias, trabajos, estudios...
+
+Para estos usos cotidianos que nos dificultan apostatar proponemos el
+uso de apps alternativas, de forma que nuestros dispositivos no nos
+traicionen entregando información que no queremos.  Podemos participar,
+pero en un poco más en nuestros términos, en lugar de los impuestos por
+estas empresas.
+
+_Tinfoil for Facebook_ o _Twidere_, por ejemplo, son apps libres que nos
+permiten acceder a las redes capitalistas sin usar sus apps oficiales,
+gigantes y traicioneras.
 
 
 # Ayuda mutua
