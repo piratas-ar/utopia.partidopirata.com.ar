@@ -3,6 +3,7 @@ title: El fenómeno de los trabajos de mierda
 author: David Graeber
 layout: post
 signature: 0
+cover: assets/covers/el_fenomeno_de_los_laburos_de_mierda.png
 ---
 
 # El fenómeno de los trabajos de mierda
@@ -226,3 +227,5 @@ resultado de casi un siglo de ensayo y error.  Pero es la única
 explicación posible de por qué, a pesar de nuestra capacidad
 tecnológica, no se ha implantado la jornada laboral de tres o cuatro
 horas.
+
+![](assets/covers/el_fenomeno_de_los_laburos_de_mierda_contra.png)
