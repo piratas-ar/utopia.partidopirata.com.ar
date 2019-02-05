@@ -29,6 +29,15 @@ release:
 	      _site/ \
 	      $(site):$(destination)/
 
+rpi:
+	sudo \
+	rsync -av --progress \
+				--exclude=204.lua \
+				--delete-after \
+	      _site/ \
+	      /mnt/www/
+	sudo chmod -R o=rwX,g=rX,o=rX /mnt/www/
+
 bring:
 	rsync -av --progress \
 	      $(site):$(destination)/ \
