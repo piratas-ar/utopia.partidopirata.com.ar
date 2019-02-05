@@ -19,6 +19,7 @@ GEM
   specs:
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
+    coderay (1.1.2)
     colorator (1.1.0)
     concurrent-ruby (1.0.5)
     em-websocket (0.5.1)
@@ -56,9 +57,13 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
+    method_source (0.9.0)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     pdf_info (0.5.3)
+    pry (0.11.3)
+      coderay (~> 1.1.0)
+      method_source (~> 0.9.0)
     public_suffix (3.0.3)
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
@@ -87,11 +92,12 @@ DEPENDENCIES
   json
   libv8
   pdf_info
+  pry
   rtex
   therubyracer
 
 RUBY VERSION
-   ruby 2.5.1p57
+   ruby 2.5.2p104
 
 BUNDLED WITH
-   1.16.3
+   1.17.1
