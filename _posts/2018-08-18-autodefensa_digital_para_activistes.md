@@ -1,1 +1,0 @@
-../_zines/2018-08-18-autodefensa_digital_para_activistes.md
