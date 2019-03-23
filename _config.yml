@@ -16,8 +16,8 @@ pandoc:
   flags: '--csl=apa.csl --bibliography=ref.bib -V lang=es --section-divs --email-obfuscation=references'
   site_flags: '--toc --template=_layouts/toc.html'
   outputs:
-    latex: '-V fontsize=10pt,twoside
-        -V mainfont="Alegreya"
+    pdf: '-V fontsize=10pt,twoside
+        -V mainfont="Alegreya Sans"
         -V documentclass=book
         -V geometry=hcentering
         -V links-as-notes=true
@@ -35,8 +35,10 @@ pandoc:
         --pdf-engine=xelatex
         --include-in-header=_layouts/header.tex
         --include-before-body=_layouts/license.tex'
-    pdf: '-V fontsize=10pt,twoside
-        -V mainfont="Alegreya"
+    epub: '--epub-chapter-level=2'
+    mediawiki:
+    latex: '-V fontsize=10pt,twoside
+        -V mainfont="Alegreya Sans"
         -V documentclass=book
         -V geometry=hcentering
         -V links-as-notes=true
@@ -52,10 +54,8 @@ pandoc:
         -V graphics
         -V subparagraph
         --pdf-engine=xelatex
-        --template=_layouts/default.latex
-        --include-in-header=_layouts/header.tex'
-    epub: '--epub-chapter-level=2'
-    mediawiki:
+        --include-in-header=_layouts/header.tex
+        --include-before-body=_layouts/license.tex'
 
 permalink: ":title.html"
 
