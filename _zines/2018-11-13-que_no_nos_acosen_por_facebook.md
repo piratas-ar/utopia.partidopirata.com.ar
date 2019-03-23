@@ -5,7 +5,6 @@ toc: false
 layout: post
 cover: "assets/covers/single/que_no_nos_acosen_por_facebook.png"
 signature: 0
-papersize: a6paper
 ---
 
 # QUE NO NOS ACOSEN POR FACEBOOK

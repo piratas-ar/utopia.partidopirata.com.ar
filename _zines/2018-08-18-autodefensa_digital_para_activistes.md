@@ -3,7 +3,7 @@ title: Autodefensa Digital para activistas y comunicadorxs populares
 author: Partido Interdimensional Pirata
 cover: assets/covers/autodefensa_digital_para_activistes.png
 toc: false
-papersize: a5paper
+signature: 0
 ---
 
 # Autodefensa Digital para activistas y comunicadorxs populares
@@ -638,5 +638,3 @@ Algunos canales que ya están funcionando:
 * <https://todon.nl/@radiolanegra>
 * <https://todon.nl/@radiodelaazotea>
 * <https://t.me/CanalDeNoticiasDeANFenEspanol>
-
-![](assets/covers/autodefensa_digital_para_activistes_back.png)

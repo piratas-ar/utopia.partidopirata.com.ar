@@ -2,7 +2,6 @@
 title: Códigos para compartir, hackear, piratear en libertad
 author: Barca Transfeminista
 layout: post
-papersize: a5paper
 toc: false
 ---
 

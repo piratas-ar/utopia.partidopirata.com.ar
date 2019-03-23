@@ -3,6 +3,7 @@ title: "Licencias libres"
 author: Partido Interdimensional Pirata
 layout: post
 signature: 0
+cover: "assets/covers/licencias_libres.png"
 ---
 
 Licencias Libres

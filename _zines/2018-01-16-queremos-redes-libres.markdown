@@ -2,9 +2,8 @@
 title: ¡Queremos redes libres!
 author: Partido Interdimensional Pirata
 signature: 0
+cover: assets/covers/queremos_redes_libres_tapa.png
 ---
-
-![](/assets/images/2018-01-16-queremos-redes-libres.png)
 
 # ¡Queremos redes libres!
 
@@ -180,25 +179,27 @@ desventaja ante quienes manejarán el acceso a Internet.
 A principios del 2018, **Andrés Gil Dominguez**, integrante de la
 comisión de redacción, publicó en su blog personal el documento
 preliminar del [anteproyecto de Ley de Comunicaciones
-Convergentes](http://www.anred.org/spip.php?article15865).  Cuenta con 63
-páginas y 196 artículos y allí observamos que el capítulo IV del título
-V está dedicado enteramente a definir la neutralidad de la red, aunque
-**no aplica multas ni sanciones** como en otras infracciones.  También
-establece la inviolabilidad de las comunicaciones salvo pedido de un
-juez, a la vez que establece la conservación de **datos** y registros
-por al menos 3 años (artículo 155), ¡Pero se olvidaron del artículo 
-sobre el fomento de las redes comunitarias! Como quien dice, una de 
-cal y otra de arena.
+Convergentes](http://www.anred.org/spip.php?article15865).  Cuenta con
+63 páginas y 196 artículos y allí observamos que el capítulo IV del
+título V está dedicado enteramente a definir la neutralidad de la red,
+aunque **no aplica multas ni sanciones** como en otras infracciones.
+También establece la inviolabilidad de las comunicaciones salvo pedido
+de un juez, a la vez que establece la conservación de **datos** y
+registros por al menos 3 años (artículo 155), ¡Pero se olvidaron del
+artículo sobre el fomento de las redes comunitarias! Como quien dice,
+una de cal y otra de arena.
 
 
 Si bien se trata de un documento preliminar, que un integrante de una
 mesa chica de redacción publicó en su blog personal (pese a los
 reiterados pedidos del Centro de Producciones Radiofónicas de tenerlo en
-mano) y que podría no ser el que llegue finalmente al Congreso --luego de 
-sendos pedidos de prórroga-- ponemos el alerta en que se traiga a
+mano) y que podría no ser el que llegue finalmente al Congreso --luego
+de sendos pedidos de prórroga-- ponemos el alerta en que se traiga a
 cuento cuando ya hay una normativa que regula estos aspectos de la
-neutralidad.  Sin duda que el hecho de que una de las prestadoras de 
-telefonía celular privilegie el tráfico de Whatsapp (en detrimento de 
-otras aplicaciones) nos pone en aviso de que a la administración actual 
-del Estado no le importa mantener la neutralidad ni promover las redes 
+neutralidad.  Sin duda que el hecho de que una de las prestadoras de
+telefonía celular privilegie el tráfico de Whatsapp (en detrimento de
+otras aplicaciones) nos pone en aviso de que a la administración actual
+del Estado no le importa mantener la neutralidad ni promover las redes
 libres y comunitarias, gestionadas por sus usuarias.
+
+![](assets/covers/queremos_redes_libres_tapa_contra.png)

@@ -5,6 +5,8 @@ layout: post
 cover: assets/covers/apostatemos_de_las_redes_asociales.png
 ---
 
+# \#Apostatemos de las redes sociales de vigilancia masiva
+
 > **Apostatar** es el acto de renunciar a una creencia (religiosa,
 > política, entre otras).  La apostasía colectiva[^apostasia] es una
 > campaña dirigida a aquellas personas que fueron bautizadas al nacer y
@@ -27,7 +29,7 @@ Para eso, planteamos distintas estrategias y escenarios.  Si te estabas
 planteando dejar de usar Facebook (y Twitter y Google y etc.), seguí
 leyendo:)
 
-# Drástico
+## Drástico
 
 Si estás podrida y no querés saber más nada, podés cerrar tus cuentas y
 venirte al Fediverso.
@@ -45,7 +47,7 @@ comunidad maneje su propio nodo.  Si antes esta capacidad solo la tenían
 empresas, ahora cualquier colectivo puede armar su red y federarla con
 las demás.
 
-# Medios alternativos
+## Medios alternativos
 
 Si bien proponemos dejar de usar las redes capitalistas, también
 entendemos que en este momento son la plataforma con más llegada a la
@@ -58,7 +60,7 @@ informándose y difundiendo sin el efecto "entré para ver qué onda y no
 encontré a nadie".
 
 
-# Organización
+## Organización
 
 Hay colectivas que están usando Facebook no solo para comunicar sus
 actividades, sino para organizarse y tomar decisiones con sus
@@ -75,7 +77,7 @@ publicado como software libre.  Dentro del Partido Interdimensional
 Pirata tenemos nuestra propia instancia e invitamos a cualquier
 colectiva interesada a usarlo.
 
-# Uso cotidiano
+## Uso cotidiano
 
 A veces queremos irnos de las redes capitalistas, pero no podemos porque
 allí quedan nuestros afectos, familias, trabajos, estudios...
@@ -91,7 +93,7 @@ permiten acceder a las redes capitalistas sin usar sus apps oficiales,
 gigantes y traicioneras.
 
 
-# Ayuda mutua
+## Ayuda mutua
 
 Como la apostasía debe ser colectiva, nos proponemos juntarnos y
 ayudarnos entre todas a abandonar las redes capitalistas, migrar hacia
@@ -100,7 +102,7 @@ ciberespacio, sin explotación, sin manipulación, sin acoso.
 
 ¡Vení con nosotras a apostatar!
 
-# Disclaimer
+## Disclaimer
 
 Existen alternativas distribuidas, anónimas, cifradas.  Las "apps" y
 nodos que podamos recomendar aquí son solo algunas, elegidas con
@@ -112,15 +114,15 @@ terroristas. cof. cof!), solo es posible con un poco mas de esfuerzo.
 uso de tecnologías de información y comunicación?
 
 Suscríbanse a nuestra lista de difusión para conocernos en algún evento,
-o acerquen sus dudas a nuestra dirección de contacto...no existe la
+o acerquen sus dudas a nuestra dirección de contacto... no existe la
 magia interdimensional pero hay mucho que aprender, enseñar y, por qué
 no, desarrollar.
 
-PARTIDO INTERDIMENSIONAL PIRATA
-Mail: contacto@partidopirata.com.ar
-Diáspora*: partidopirataargentina@diaspora.com.ar
-Mastodon: @pip@todon.nl
+PARTIDO INTERDIMENSIONAL PIRATA  
+Mail: contacto@partidopirata.com.ar  
+Diáspora*: partidopirataargentina@diaspora.com.ar  
+Fediverso: \@pip\@todon.nl
 
-Nosotras también estamos en proceso de apostatar P)
-Twitter: @PartidoPirataAr
+Nosotras también estamos en proceso de apostatar P)  
+Twitter: \@PartidoPirataAr  
 Facebook: Partido Pirata Argentino

@@ -1,6 +1,7 @@
 ---
 title: "La revolución como problema técnico"
 author: "Amador Fernández-Savater"
+cover: "assets/covers/single/la_revolucion_como_problema_tecnico.png"
 layout: post
 signature: 0
 ---
