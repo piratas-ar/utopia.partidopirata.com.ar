@@ -7,7 +7,9 @@ s/^(\[\^[0-9a-z\-]+\])([^:])/\1: \2/
 # Los links sueltos se envuelven entre <>
 s/([^(<])(https?:[^ ]+)/\1<\2>/g
 # Normalizar las comillas dobles
-s/[“”]/"/g
+s/[“”«»]/"/g
+# Normalizar las comillas simples
+s/[‘’]/'/g
 # Se dice cifrado
 s/La encripta(ción|do)/El cifrado/g
 s/Encripta(ción|do)/Cifrado/g
