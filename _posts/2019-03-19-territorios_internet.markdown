@@ -5,14 +5,13 @@ layout: post
 ---
 
 
-# ¿Territorio internet?  Espacios, afectividades y comunidades[^0] 
+# ¿Territorio internet?  Espacios, afectividades y comunidades
 
-> La implementación de megaproyectos extractivos sigue causando daños en
-> los territorios y perpetuando la violencia hacia las comunidades que
-> en éstos habitan.  El presente artículo propone un acercamiento a
-> Internet como un espacio territorial, social y de creación, abordando
-> en forma breve su vinculación con temas ambientales, afectivos y de
-> resistencia.
+La implementación de megaproyectos extractivos sigue causando daños en
+los territorios y perpetuando la violencia hacia las comunidades que en
+éstos habitan.  El presente artículo propone un acercamiento a Internet
+como un espacio territorial, social y de creación, abordando en forma
+breve su vinculación con temas ambientales, afectivos y de resistencia.
 
 ## La dimensión ambiental
 
@@ -24,7 +23,7 @@ materiales.  La 'nube', por ejemplo, también es materia: suele decirse
 que es la computadora de alguien más en algún otro lugar del mundo.  Y
 aunque "la percepción generalizada sobre la tecnología considera que su
 impacto medioambiental es escaso"[^1] ésta consume minerales, plásticos
-y mucha energía. 
+y mucha energía.
 
 Bajo el sistema capitalista actual la explotación de estos materiales se
 produce a gran escala y tiene implicaciones que lo hacen insostenible
@@ -326,9 +325,9 @@ afectivas, de lucha y de satisfacción, permitirnos jugar, aprender,
 romper y equivocarnos.  Y seguir haciendo desde fuera-de-la-caja[^37].
 
 
+Publicado originalmente en
+<https://sursiendo.com/blog/2019/03/territorio-internet-espacios-afectividades-y-comunidades/>
 
-[^0]: Publicado originalmente en
-  <https://sursiendo.com/blog/2019/03/territorio-internet-espacios-afectividades-y-comunidades/>
 
 [^1]: Revista Chasqui.  "La cara oculta de la sociedad de la
   información: el impacto medioambiental de la producción, el consumo y
@@ -407,7 +406,7 @@ romper y equivocarnos.  Y seguir haciendo desde fuera-de-la-caja[^37].
   <https://www.genbeta.com/redes-sociales-y-comunidades/prueba-demuestra-que-facebook-comparte-tu-perfil-sombra-anunciantes>
   (página consultada en septiembre de 2018).
 
-[^16]: 17 Escobar, Arturo (2010).  Territorios de diferencia.  Lugar
+[^17]: Escobar, Arturo (2010).  Territorios de diferencia.  Lugar
   movimientos vida redes.  Universidad de Carolina del Norte, Chapel
   Hill: Envión Ediciones.
 

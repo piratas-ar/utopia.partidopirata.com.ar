@@ -1,9 +1,8 @@
 ---
 title: "Guía para refutar mitos"
 author: John Cook
-papersize: a5paper
+layout: post
 ---
-
 
 # Guía para refutar mitos
 
@@ -18,7 +17,7 @@ explícitas de que tal información es falsa.  Finalmente, la refutación
 debe incluir una explicación alternativa que dé cuenta de los problemas
 contenidos en el mito original.
 
-# Refutando el primer mito sobre la refutación
+## Refutando el primer mito sobre la refutación
 
 Es evidente que las sociedades democráticas deben basar sus decisiones
 en información precisa.  Sin embargo, existen muchos temas en los que
@@ -78,7 +77,7 @@ necesario conocer los procesos cognitivos relevantes.  Explicamos parte
 de la interesante investigación psicológica en el área y terminamos con
 un ejemplo de refutación efectiva de un mito común.
 
-# El efecto paradojal por familiaridad
+## El efecto paradojal por familiaridad
 
 Para refutar un mito, en general hay que mencionarlo; de otra manera,
 ¿cómo sabrá la gente de qué estás hablando?  Sin embargo, esto
@@ -110,7 +109,7 @@ lo último que querés hacer.  En vez de eso, comunica el hecho central en
 el título.  Tu refutación debe comenzar con el énfasis en los hechos, no
 el mito.  Tu objetivo es aumentar la familiaridad de los hechos.
 
-# El efecto paradojal por exceso
+## El efecto paradojal por exceso
 
 Un principio al que les divulgadores científiques muchas veces no se
 apegan es el de hacer que el contenido sea fácil de procesar.  Esto
@@ -149,7 +148,7 @@ no tiene toda la información.  Pero demasiada información puede ser
 contraproducente.  Mejor seguir el principio KISS: Keep It Simple,
 Stupid!  (¡Hazlo Simple, Estúpide!)
 
-# El efecto paradojal por cosmovisión
+## El efecto paradojal por cosmovisión
 
 El tercero y quizás más potente efecto paradojal ocurre en temas que
 afectan la cosmovisión y sentimiento de identidad cultural de las
@@ -226,7 +225,7 @@ por la palabra "impuesto"[^14].  Con la auto-afirmación y el encuadre no
 se trata de manipular a las personas.  Se trata de darle una oportunidad
 a los hechos.
 
-# Rellenar el hueco con una explicación alternativa
+## Rellenar el hueco con una explicación alternativa
 
 Asumiendo que has logrado evitar los varios efectos paradojales, ¿cuál
 es la forma más efectiva de refutar un mito?  El desafío es que una vez
