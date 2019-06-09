@@ -201,11 +201,11 @@ esfuerzos han estado focalizados en educación y entretenimiento, pero es
 solo una cuestión de tiempo antes de que se dirijan a la política ¡Y
 cuando lo haga, que se cuiden los políticos profesionales!
 
-Manifiesto por la Guerrilla del Acceso Abierto[^2]
-==================================================
+Manifiesto por la Guerrilla del Acceso Abierto
+==============================================
 
-[^2]: Publicado en En Defensa del Software Libre
-  <https://endefensadelsl.org/guerrilla_del_acceso_abierto.html>
+> Publicado en En Defensa del Software Libre
+> <https://endefensadelsl.org/guerrilla_del_acceso_abierto.html>
 
 La información es poder.  Pero como con todo poder, hay quienes lo
 quieren mantener para sí mismos.  La herencia científica y cultural del

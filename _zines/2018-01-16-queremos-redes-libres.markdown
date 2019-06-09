@@ -203,4 +203,4 @@ otras aplicaciones) nos pone en aviso de que a la administración actual
 del Estado no le importa mantener la neutralidad ni promover las redes
 libres y comunitarias, gestionadas por sus usuarias.
 
-![](assets/covers/queremos_redes_libres_tapa_contra.png)
+![](assets/covers/queremos_redes_libres_contra.png)
