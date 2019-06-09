@@ -69,3 +69,5 @@ torrent:
 collections:
   zines:
     output: true
+
+css: assets/css/custom.css

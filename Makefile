@@ -11,11 +11,15 @@ srv         := $(PWD)/_site
 site        ?= $(notdir $(destination))
 torrent     := $(shell ruby -r yaml -e "c = YAML.load_file('_config.yml')" -e "puts c['torrent']['file']")
 
+JEKYLL_ENV ?= production
+
+export
+
 # All es el primero para que sea la opción por defecto
 all: tapas build release seed
 
 build:
-	bundle exec jekyll build
+	bundle exec jekyll build --trace
 
 seed:
 	transmission-remote --add "$(destination)/$(torrent)" \
@@ -48,6 +52,7 @@ tapas: $(png)
 
 # Uso: make corregir archivo=_posts/archivo.md
 corregir: manual-de-estilo.sed
+	test -n "$(archivo)"
 	sed -rf $< -i $(archivo)
 
 # Los sliders son de 730px de ancho

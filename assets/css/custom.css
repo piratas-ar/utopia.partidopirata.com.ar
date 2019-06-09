@@ -1,3 +1,8 @@
+---
+---
+
+{% include_relative bootstrap.min.css %}
+
 .container { max-width: 730px; }
 
 .page-header h1 { font-size: 50px; }
