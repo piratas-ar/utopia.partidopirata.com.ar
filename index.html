@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Utopía Pirata
 ---
 
 <header class="utopia">
@@ -15,7 +14,7 @@ title: Utopía Pirata
         <img src="assets/images/logo_sin_nombre_negro.png" />
       </a>
       <div class="media-body">
-        <h1 class="media-heading">Utopía Pirata</h1>
+        <h1 class="media-heading">{{ site.title }}</h1>
       </div>
     </div>
   </div>
@@ -38,7 +37,7 @@ title: Utopía Pirata
         {% assign active = '' %}
         <img src="{{ post.slider }}" />
         <div class="carousel-caption">
-          <h1><small><a href="{{ post.url }}">{{ post.title }}</a></small></h1>
+          <h1><small><a href="{{ post.url | remove_first: '/' }}">{{ post.title }}</a></small></h1>
         </div>
       </div>
     {% endfor %}
@@ -64,7 +63,7 @@ title: Utopía Pirata
 {% for post in site.posts %}
   <li class="media">
     <h4 class="inline">
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url | remove_first: '/' }}">{{ post.title }}</a>
       <small class="author">{{post.author}}</small>
     </h4>
 
@@ -74,9 +73,9 @@ title: Utopía Pirata
       <li> <span class="glyphicon glyphicon-cloud-download" title="Descargar"></span> </li>
     {% for format in site.pandoc.outputs limit:2 %}
     {% capture extension %}{{ format | first }}{% endcapture %}
-      <li><a href="{{ post.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
+      <li><a href="{{ post.url | remove_first: '/' | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
     {% endfor %}
-      <li><a href="{{ post.url }}#formats">otros...</a></li>
+      <li><a href="{{ post.url | remove_first: '/' }}#formats">otros...</a></li>
     </ul>
 
   </dl>
@@ -92,7 +91,7 @@ title: Utopía Pirata
 {% for post in site.zines %}
   <li class="media">
     <h4 class="inline">
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url | remove_first: '/' }}">{{ post.title }}</a>
       <small class="author">{{post.author}}</small>
     </h4>
 
@@ -102,9 +101,9 @@ title: Utopía Pirata
       <li> <span class="glyphicon glyphicon-cloud-download" title="Descargar"></span> </li>
     {% for format in site.pandoc.outputs limit:2 %}
     {% capture extension %}{{ format | first }}{% endcapture %}
-      <li><a href="{{ post.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
+      <li><a href="{{ post.url | remove_first: '/' | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
     {% endfor %}
-      <li><a href="{{ post.url }}#formats">otros...</a></li>
+      <li><a href="{{ post.url | remove_first: '/' }}#formats">otros...</a></li>
     </ul>
 
   </dl>
