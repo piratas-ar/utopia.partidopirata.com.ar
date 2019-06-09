@@ -4,6 +4,7 @@ author: Partido Interdimensional Pirata
 cover: assets/covers/autodefensa_digital_para_activistes.png
 toc: false
 signature: 0
+layout: post
 ---
 
 # Autodefensa Digital para activistas y comunicadorxs populares

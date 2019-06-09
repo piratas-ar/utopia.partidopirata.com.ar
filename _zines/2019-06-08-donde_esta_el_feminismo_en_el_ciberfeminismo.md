@@ -45,6 +45,7 @@ references:
     publisher-place: Nueva York
     publisher: Doubleday
     volume: 37
+layout: post
 ---
 
 > Faith Wilding pertenece a la _School of the Art Institute_ de Chicago,

@@ -1,5 +1,6 @@
 ---
 title: ¡Queremos redes libres!
+layout: post
 author: Partido Interdimensional Pirata
 signature: 0
 cover: assets/covers/queremos_redes_libres_tapa.png

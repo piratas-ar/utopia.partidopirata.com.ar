@@ -4,6 +4,7 @@ author: La Bastardilla
 signature: 0
 toc: false
 cover: assets/covers/single/codigo_de_convivencia_la_bastardilla_texto.png
+layout: post
 ---
 
 # Código de convivencia
