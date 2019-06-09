@@ -69,5 +69,7 @@ torrent:
 collections:
   zines:
     output: true
+    cover: before
+    permalink: /:collection/:title:output_ext
 
 css: assets/css/custom.css
