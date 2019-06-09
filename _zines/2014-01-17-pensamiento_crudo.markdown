@@ -10,12 +10,12 @@ toc: true
 
 ![](assets/images/pensamiento_crudo.png)
 
-Democracia Exponencial[^1]
-==========================
+Democracia Exponencial
+======================
 
-[^1]: Este artículo fue traducido por el HackLab de Barracas durante el
-  Hackaton en memoria de Aaron Swartz, 2013-11-08.
-  Original: <http://www.aaronsw.com/weblog/parpolity>
+> Este artículo fue traducido por el HackLab de Barracas durante el
+> Hackaton en memoria de Aaron Swartz, 2013-11-08.  Original:
+> <http://www.aaronsw.com/weblog/parpolity>
 
 > Por el poder de los exponentes, solo cinco niveles de consejos, cada
 > uno de cincuenta personas, son suficientes para gobernar más de

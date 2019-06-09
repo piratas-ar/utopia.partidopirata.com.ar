@@ -264,10 +264,8 @@ serias discusiones con el uso de Facebook, Twitter y demás, aunque
 mantengamos perfiles en algunas de esas plataformas, las tomamos como
 herramientas de difusión, no como herramientas de organización.  Seguinos en:
 
-* Diáspora\*: 
-* [partidopirataargentina@diaspora.com.ar](https://diaspora.com.ar/u/partidopirataargentina)
-* Mastodon: 
-* [@pip@todon.nl](https://todon.nl/@pip)
+* Diáspora\*: [partidopirataargentina@diaspora.com.ar](https://diaspora.com.ar/u/partidopirataargentina)
+* Mastodon: [\@pip\@todon.nl](https://todon.nl/@pip)
 
 ### Listas de correo
 
