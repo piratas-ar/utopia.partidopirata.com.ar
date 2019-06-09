@@ -177,8 +177,8 @@ exhibicionismo sexual; experimentación transgenérica; separatismo
 lésbico; autoyuda médica; autopromoción artística; servicios de empleo y
 citas amorosas; y pura y simple conversación. El cybergrrlismo parece
 generalmente suscribirse a una cierta cantidad de utopismo cibernético,
-una actitud de “todo lo que quieras ser y hacer en el ciberespacio está
-bien”. A pesar de las quejas contra los hombres en general, que
+una actitud de "todo lo que quieras ser y hacer en el ciberespacio está
+bien". A pesar de las quejas contra los hombres en general, que
 impregnan algunas de las discusiones y sitios, la mayoría de cybergrrls
 no parecen estar interesadas en involucrarse en una crítica política de
 la postura de las mujeres en la Red y, en cambio, adoptan la actitud un
@@ -214,10 +214,10 @@ investigación, búsqueda, invención y afirmación. Pero no pueden
 reemplazar el trabajo duro que se necesita para identificar y cambiar
 las estructuras, contenidos y efectos "generados" de las nuevas
 tecnologías de la mujer a nivel mundial. Si es cierto, como argumenta
-Sadie Plant, que “las mujeres no sólo han tenido un papel menor que
+Sadie Plant, que "las mujeres no sólo han tenido un papel menor que
 representar en el surgimiento de las máquinas digitales... las mujeres
 han sido las simuladoras, emsambladoras y programadoras de las máquinas
-digitales” [@plant-1997] entonces, ¿por qué hay tan pocas mujeres en
+digitales" [@plant-1997] entonces, ¿por qué hay tan pocas mujeres en
 posiciones visibles de liderazgo en el mundo electrónico? ¿Por qué son
 las mujeres un porcentaje ínfimo de les programadores, diseñadores de
 software, analistas de sistemas y _hackers_, mientras que son la mayoría
@@ -265,7 +265,7 @@ efecto pueden recodificar, rediseñar y reprogramar la tecnología de la
 información para ayudar a cambiar sus condiciones de existencia. Este
 utopismo cibernético declara que el ciberespacio es un espacio libre
 donde el género no importa –-puedes ser lo que quieras sin importar tu
-“verdadera” edad, sexo, etnia o posición económica–- y rechaza una
+"verdadera" edad, sexo, etnia o posición económica–- y rechaza una
 postura de sujetes fijes. En otras palabras, el ciberespacio se
 considera como una arena inherentemente libre de las mismas viejas
 relaciones y luchas de género. Sin embargo, es muy importante reconocer
@@ -306,17 +306,17 @@ producen los códigos, lenguajes, imágenes y estructuras de la Red.
 
 ## La definición como estrategia política
 
-Vincular términos como “ciber” y “feminismo” crea una nueva formación
+Vincular términos como "ciber" y "feminismo" crea una nueva formación
 crucial en la historia de los feminismos y los medios electrónicos. Cada
 parte del término necesariamente modifica el significado de la otra. El
-“feminismo” o, más propiamente, los “feminismos” han sido entendidos
+"feminismo" o, más propiamente, los "feminismos" han sido entendidos
 como un movimiento transnacional histórico –-y contemporáneo–- por la
 justicia y la libertad de las mujeres, que depende de la participación
 activista en grupos vinculados locales, nacionales e
 internacionales[^5]. Se enfoca en las condiciones materiales, políticas,
 emocionales, sexuales y psíquicas que surgen de la construcción social
 diferenciada de la mujer y los roles de género. Al vincular esto con
-“ciber”, que significa dirigir, gobernar, controlar, conjuramos la
+"ciber", que significa dirigir, gobernar, controlar, conjuramos la
 posibilidad asombrosa del feminismo al timón de lo electrónico.  Los
 ciberfeminismos podrían imaginar formas de vincular las prácticas
 históricas y filosóficas del feminismo a los proyectos y redes
@@ -329,9 +329,9 @@ de las realidades sociales y condiciones de vida conforme cambian por el
 profundo impacto que las tecnologías de la comunicación y la
 tecnociencia tienen en nuestras vidas.
 
-[^5]: Usar el término “feminismo” es muy distinto de usar el término
-  “mujer”, aunque quizá deberíamos considerar usar el término
-  “cibermujerismo” (cyberwomanism), que reconoce las críticas del
+[^5]: Usar el término "feminismo" es muy distinto de usar el término
+  "mujer", aunque quizá deberíamos considerar usar el término
+  "cibermujerismo" (cyberwomanism), que reconoce las críticas del
   feminismo racista blanco justamente hechas por Audre Lorde, Alice
   Walker y bell hooks, entre otras.
 
@@ -362,7 +362,7 @@ el tiempo–-, hay que recordar que mientras más se pueda contextualizar
 políticamente esta información, y vincularla a las prácticas, el
 activismo y las condiciones de la vida cotidiana, es más probable que
 sirva para ayudar a conectar y movilizar a la gente[^6]. Un ejemplo
-importante es el de la Red Zamir (“por la paz”) de correo electrónico y
+importante es el de la Red Zamir ("por la paz") de correo electrónico y
 BBS, que fue creada después del inicio de la guerra civil en Yugoslavia
 en 1991 para reunir a les activistas por la paz de Croacia, Serbia,
 Eslovenia y Bosnia a través de las fronteras por medio de servidores en
@@ -468,7 +468,7 @@ en línea como avatares y cuerpos de datos; análisis de representaciones
 de género, sitios de sexo, cibersexo y pornografía feminista;
 estrategias de fusión de géneros e hibridismo para combatir los
 estereotipos, el esencialismo y las representaciones sexistas de las
-mujeres; el feminismo como “buscador”; los peligros del deseo fetichista
+mujeres; el feminismo como "buscador"; los peligros del deseo fetichista
 de información y la paranoia creada por las nuevas tecnologías; la
 diseminación del conocimiento sobre las mujeres en la historia; estudios
 sobre las diferencias entre les programadores y hackers varones y
@@ -508,8 +508,8 @@ investigación sobre cómo la continua reestructuración global del trabajo
 de las mujeres resulta de cambios constantes introducidos por la
 tecnología de la información.
 
-“El (ciber)feminismo es un buscador a través del cual se ve la
-vida.”[^9] Si las feministas desean investigar, teorizar, trabajar
+"El (ciber)feminismo es un buscador a través del cual se ve la
+vida."[^9] Si las feministas desean investigar, teorizar, trabajar
 prácticamente y hacer visible cómo las mujeres (y otres) en todo el
 mundo son afectadas por las nuevas tecnologías de la comunicación, la
 tecnociencia y el dominio capitalista de las redes de comunicación
