@@ -52,4 +52,37 @@ layout: null
     <dc:issued>{{ post.date | date: '%Y-%m-%d' }}</dc:issued>
   </entry>
   {% endfor %}
+
+  {% for post in site.zines %}
+  <entry>
+    <id>{{ site.canonical }}{{ post.url }}</id>
+    <link rel="http://opds-spec.org/acquisition"
+          type="application/epub+zip"
+          href="{{ site.canonical }}{{ post.url | remove: '.html' }}.epub"/>
+    {% if post.cover %}
+    <link rel="http://opds-spec.org/image"
+          type="image/png"
+          href="{{ site.canonical }}/{{ post.cover }}" />
+    <link rel="http://opds-spec.org/image/thumbnail"
+          type="image/png"
+          href="{{ site.canonical }}/{{ post.cover }}" />
+    {% endif %}
+    {% if post.license %}
+    <link rel="license"
+          type="text/html"
+          href="{{ post.license }}"/>
+    {% endif %}
+
+    <author>
+      <name>{{ post.author }}</name>
+    </author>
+    <dc:language>es</dc:language>
+
+    <title>{{ post.title }}</title>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <dc:date>{{ post.date | date_to_xmlschema }}</dc:date>
+    <dcterms:date>{{ post.date | date_to_xmlschema }}</dcterms:date>
+    <dc:issued>{{ post.date | date: '%Y-%m-%d' }}</dc:issued>
+  </entry>
+  {% endfor %}
 </feed>

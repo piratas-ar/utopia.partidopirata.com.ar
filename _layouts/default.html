@@ -1,28 +1,30 @@
 <!DOCTYPE html>
-<html lang="es" prefix="og: http://ogp.me">
+<html lang="{{ site.lang }}" prefix="og: http://ogp.me">
   <head>
-  <meta charset="utf-8" />
+    {% assign base = '' %}
+    {% assign depth = page.url | split: '/' %}
+    {% for dots in depth offset: 1 %}
+      {% assign base = base | append: '../' %}
+    {% endfor %}
+    <base href="{{ base }}" />
+    <meta charset="utf-8" />
     <title>{{ page.title }}</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <meta property="og:title" content="{{ page.title }}"/>
-    <meta property="og:url" content="http://utopia.partidopirata.com.ar{{ page.url }}"/>
-    <meta property="og:locale" content="es_AR"/>
-    <meta property="og:site_name" content="Utopía Pirata"/>
-    <meta property="og:type" content="article"/>
-    <meta property="og:article:published_time" content="{{ page.date }}"/>
-    <meta property="og:article:author" content="{{ page.author }}"/>
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:url" content="{{ site.canonical }}{{ page.url }}" />
+    <meta property="og:locale" content="{{ site.lang }}" />
+    <meta property="og:site_name" content="Utopía Pirata" />
+    <meta property="og:type" content="article" />
+    <meta property="og:article:published_time" content="{{ page.date }}" />
+    <meta property="og:article:author" content="{{ page.author }}" />
     {% if page.cover %}
-    <meta property="og:image" content="http://utopia.partidopirata.com.ar/{{ page.cover }}"/>
+      <meta property="og:image" content="{{ site.canonical }}/{{ page.cover }}" />
     {% else %}
-    <meta property="og:image" content="http://utopia.partidopirata.com.ar/assets/utopia_pirata_logo.png"/>
+      <meta property="og:image" content="{{ site.canonical }}/assets/utopia_pirata_logo.png" />
     {% endif %}
 
     <link rel="shortcut icon" type="image/png" href="favicon.png" />
-
-    <link type='text/css'
-          rel="stylesheet"
-          href="assets/css/bootstrap.min.css" />
 
     <link type='text/css'
           rel="stylesheet"
@@ -37,7 +39,7 @@
           title="Utopía Pirata"
           href="atom.xml" />
 
-    <link rel="related" href="/utopias.opds"
+    <link rel="related" href="utopias.opds"
           type="application/atom+xml;profile=opds-catalog;kind=acquisition"
           title="Catálogo OPDS" />
 	</head>

@@ -11,8 +11,8 @@ title: Utopía Pirata
 
   <div class="page-header">
     <div class="media">
-      <a class="pull-left" href="/">
-        <img src="assets/images/logo_sin_nombre_negro.png"/>
+      <a class="pull-left" href="">
+        <img src="assets/images/logo_sin_nombre_negro.png" />
       </a>
       <div class="media-body">
         <h1 class="media-heading">Utopía Pirata</h1>
@@ -23,7 +23,7 @@ title: Utopía Pirata
   <div id="carrousel" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
     {% for post in site.posts %}
-      {% unless post.slider %}{% next %}{% endunless %}
+      {% unless post.slider %}{% continue %}{% endunless %}
       <li data-target="#carrousel" data-slide-to="{{ forloop.index0 }}"></li>
     {% endfor %}
     </ol>
@@ -31,9 +31,11 @@ title: Utopía Pirata
 
     <div class="carousel-inner">
 
+    {% assign active = 'active' %}
     {% for post in site.posts %}
-      {% unless post.slider %}{% next %}{% endunless %}
-      <div class="item{% if forloop.first %} active{% endif %}">
+      {% unless post.slider %}{% continue %}{% endunless %}
+      <div class="item {{ active }}">
+        {% assign active = '' %}
         <img src="{{ post.slider }}" />
         <div class="carousel-caption">
           <h1><small><a href="{{ post.url }}">{{ post.title }}</a></small></h1>
@@ -90,7 +92,7 @@ title: Utopía Pirata
 {% for post in site.zines %}
   <li class="media">
     <h4 class="inline">
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}.html">{{ post.title }}</a>
       <small class="author">{{post.author}}</small>
     </h4>
 
@@ -111,8 +113,8 @@ title: Utopía Pirata
 </section>
 
 <footer>
-  <a href="/atom.xml">Feed Completo</a> |
-  <a href="/{{ site.torrent.file }}">Torrent</a> |
+  <a href="atom.xml">Feed Completo</a> |
+  <a href="{{ site.torrent.file }}">Torrent</a> |
   <a href="https://0xacab.org/utopias-piratas/utopia.partidopirata.com.ar">Código fuente</a>
 </footer>
 

@@ -1,6 +1,7 @@
 title: 'Utopía Pirata'
 canonical: 'https://utopia.partidopirata.com.ar'
 email: 'contacto@partidopirata.com.ar'
+lang: es
 markdown: pandoc
 pandoc:
   skip:
@@ -66,4 +67,5 @@ torrent:
   file: utopiapirata.torrent
 
 collections:
-  - zines
+  zines:
+    output: true

@@ -5,9 +5,9 @@ layout: null
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>{{ site.title }}</title>
- <link href="{{ site.canonical }}/atom.xml" rel="self"/>
- <link href="{{ site.canonical }}/"/>
- <link href="{{ site.canonical }}/{{ site.torrent.file }}" rel="torrent"/>
+ <link href="{{ site.canonical }}/atom.xml" rel="self" />
+ <link href="{{ site.canonical }}/" />
+ <link href="{{ site.canonical }}/{{ site.torrent.file }}" rel="torrent" />
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>{{ site.canonical }}/</id>
  <author>
@@ -18,17 +18,17 @@ layout: null
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="{{ site.canonical }}{{ post.url }}"/>
+   <link href="{{ site.canonical }}{{ post.url }}" />
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.canonical }}{{ post.id }}</id>
    {% if post.license %}
-   <link rel="license" type="text/html" href="{{ post.license }}"/>
+   <link rel="license" type="text/html" href="{{ post.license }}" />
    {% endif %}
    <content type="html">{{ post.content | xml_escape }}</content>
    {% for format in site.pandoc.outputs %}
    {% capture extension %}{{ format | first }}{% endcapture %}
    <link rel="enclosure" title="{{ post.title }}" 
-         href="{{ site.canonical }}{{ post.url | remove:'.html' }}.{{ extension }}"/>
+         href="{{ site.canonical }}{{ post.url | remove:'.html' }}.{{ extension }}" />
    {% endfor %}
  </entry>
  {% endfor %}
