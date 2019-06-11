@@ -8,34 +8,50 @@ layout: default
     <nav id="formats" class="pull-right">
       <span class="glyphicon glyphicon-cloud-download"></span> Otros formatos
       <ul class="list-inline">
-{% for format in site.pandoc.outputs %}
-        {% capture extension %}{{ format | first }}{% endcapture %}
-        <li><a href="{{ page.url | remove_first: '/' | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
-{% endfor %}
+        {% for format in site.pandoc.outputs %}
+          {% capture extension %}{{ format | first }}{% endcapture %}
+          <li><a href="{{ page.url | remove_first: '/' | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
+        {% endfor %}
+
         <li><a href="{{ page.url | remove_first: '/' | remove:'.html' }}-imposed.pdf">impresión</a></li>
         <li><a href="{{ page.url | remove_first: '/' | remove:'.html' }}-binder.pdf">binder</a></li>
-        <li><a href="assets/covers{{ page.url | remove_first: '/' | remove:'.html' }}.tif">tapas</a></li>
+
+        {% if page.cover %}
+          <li><a href="{{ page.cover }}">tapas</a></li>
+        {% endif %}
       </ul>
     </nav>
 
-  <div class="page-header">
-    <h2>{{ page.author }}</h2>
-    <h1>{{ page.title }}</h1>
-  </div>
+    <div class="page-header">
+      <h2>{{ page.author }}</h2>
+      <h1>{{ page.title }}</h1>
+      {% assign month = page.date | month_i18n: site.data.es.months %}
+      <time datetime="{{ page.date }}">
+        Primera publicación:
+        {{ page.date | date: '%d' }}
+        de <span class="capitalize">{{ month }}</span>
+        del {{ page.date | date: '%Y' }}
+     </time>
+    </div>
   </header>
 
-    {{ content }}
+  {% if page.cover %}
+    <p>
+      <img alt="Cubierta de {{ page.title }}" src="{{ page.cover }}" />
+    </p>
+  {% endif %}
 
+  {{ content }}
+
+  {% if site.related_posts %}
   <footer id="related">
-
-      <h2>Otras lecturas</h2>
-      <ul class="posts">
-
-{% for post in site.related_posts limit:3 %}
-            <li><a href="{{ post.url | remove_first: '/' }}">{{ post.title }}</a></li>
-{% endfor %}
-
-      </ul>
+    <h2>Otras lecturas</h2>
+    <ul class="posts">
+    {% for post in site.related_posts limit:3 %}
+      <li><a href="{{ post.url | remove_first: '/' }}">{{ post.title }}</a></li>
+    {% endfor %}
+    </ul>
   </footer>
+  {% endif %}
 
 </article>
