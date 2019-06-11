@@ -1,12 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang }}" prefix="og: http://ogp.me">
   <head>
-    {% assign base = '' %}
-    {% assign depth = page.url | split: '/' %}
-    {% for dots in depth offset: 2 %}
-      {% assign base = base | append: '../' %}
-    {% endfor %}
-    <base href="{{ base }}" />
+    <base href="{{ page.url | base }}" />
     <meta charset="utf-8" />
     <title>{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">

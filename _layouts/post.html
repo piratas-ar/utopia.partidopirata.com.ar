@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% assign relative_url = page.url | remove_first: '/' %}
+
 <article>
   <header>
     <h4><a href="" alt='Inicio'>{{ site.title }}</a></h4>
@@ -10,11 +12,11 @@ layout: default
       <ul class="list-inline">
         {% for format in site.pandoc.outputs %}
           {% capture extension %}{{ format | first }}{% endcapture %}
-          <li><a href="{{ page.url | remove_first: '/' | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
+          <li><a href="{{ relative_url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
         {% endfor %}
 
-        <li><a href="{{ page.url | remove_first: '/' | remove:'.html' }}-imposed.pdf">impresión</a></li>
-        <li><a href="{{ page.url | remove_first: '/' | remove:'.html' }}-binder.pdf">binder</a></li>
+        <li><a href="{{ relative_url | remove:'.html' }}-imposed.pdf">impresión</a></li>
+        <li><a href="{{ relative_url | remove:'.html' }}-binder.pdf">binder</a></li>
 
         {% if page.cover %}
           <li><a href="{{ page.cover }}">tapas</a></li>
@@ -41,9 +43,9 @@ layout: default
     </p>
   {% endif %}
 
-  {{ content }}
+  {{ content | html_relativize_anchors_to: relative_url }}
 
-  {% if site.related_posts %}
+  {% if site.related_posts.size > 0 %}
   <footer id="related">
     <h2>Otras lecturas</h2>
     <ul class="posts">
