@@ -3,7 +3,7 @@
   <head>
     {% assign base = '' %}
     {% assign depth = page.url | split: '/' %}
-    {% for dots in depth offset: 1 %}
+    {% for dots in depth offset: 2 %}
       {% assign base = base | append: '../' %}
     {% endfor %}
     <base href="{{ base }}" />
