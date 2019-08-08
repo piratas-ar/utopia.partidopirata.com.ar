@@ -21,7 +21,7 @@ personas que habitan los espacios de software libre, código abierto,
 computación, tecnologías, etc. Para esto, fija un piso de conductas
 deseables, aceptables, indeseables y/o intolerables para la comunidad.
 Podés usarlo sin cambios o modificarlo para adaptarlo a tus actividades.
-Este código está en permanente mutación colectiva, y se alimenta, copia
+Este código está en permanente mutación colectiva y se alimenta, copia
 e inspira de las siguientes fuentes:
 
 * <https://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy>
@@ -108,8 +108,8 @@ que crecen día a día.
 * Usamos lenguaje amable e inclusivo y mostramos conductas amables e
   inclusivas.
 
-* Respetamos los diferentes puntos de vista,experiencias, creencias,
-  etc., y lo tenemos en cuenta cuando estamos en grupo para verlo
+* Respetamos los diferentes puntos de vista, experiencias, creencias,
+  etc. y lo tenemos en cuenta cuando estamos en grupo para verlo
   reflejado en nuestras actitudes.
 
 * Aceptamos las críticas. En especial las constructivas ;)
@@ -120,9 +120,9 @@ que crecen día a día.
 
 * Mostramos empatía con las otras. Queremos comunicarnos y compartir.
 
-* Respetamoslos límites que establecen otras personas (espacio personal,
-  contacto fisico, ganas de interactuar, no querer dar datos de contacto
-  o ser fotografiadas, etc.)
+* Respetamos los límites que establecen otras personas (espacio
+  personal, contacto físico, ganas de interactuar, no querer dar datos
+  de contacto o ser fotografiadas, etc.)
 
 * ¡Queremos y (creemos) en sumar piratas!
 
@@ -139,7 +139,7 @@ que crecen día a día.
 
 ## Nuestro compromiso contra el acoso
 
-En el interés de fomentar una comunidad abierta, diversa, y acogedora,
+En el interés de fomentar una comunidad abierta, diversa y acogedora,
 nosotras como contribuyentes y administradoras nos comprometemos a hacer
 de la participación en nuestro proyecto y nuestra comunidad una
 experiencia libre de acoso para tod\*s, independientemente de la edad,
@@ -149,14 +149,14 @@ física, raza, religión, identidad u orientación sexual.
 
 Ejemplos de comportamiento inaceptable por parte de participantes:
 
-* Comentarios ofensivos relacionados con el/los género/s, la indentidad
+* Comentarios ofensivos relacionados con el/los género/s, la identidad
   y expresión de género, la orientación sexual, las capacidades, las
   enfermedades mentales, la neuro(a)tipicalidad, la apariencia física,
   el tamaño corporal, la raza o la religión.
 
 * Comentarios indeseados relacionados con las elecciones y las prácticas
   de estilo de vida de una persona, incluidas, entre otras, las
-  relacionadas con alimentos, salud, crianza de los hijos, drogas y
+  relacionadas con alimentos, salud, crianza de l\*s hij\*s, drogas y
   empleo.
 
 * Comentarios insultantes o despectivos (*trolling*) y ataques
@@ -164,8 +164,8 @@ Ejemplos de comportamiento inaceptable por parte de participantes:
 
 * Dar por sentado el género de las demás personas.  En caso de duda,
   preguntá educadamente por los pronombres. No uses nombres con los que
-  las personas no se identifican, usá el nombre, nickname o apodo que
-  hayan elegido (¿Realmente necesitas el nombre y el número de DNI,
+  las personas no se identifican, usá el nombre, _nickname_ o apodo que
+  hayan elegido (¿Realmente necesitás el nombre y el número de DNI,
   datos biométricos, carta natal, etc.?).
 
 * Comentarios, imágenes o comportamientos sexuales innecesarios o fuera
@@ -182,8 +182,8 @@ Ejemplos de comportamiento inaceptable por parte de participantes:
 
 * Acechar (**stalkear**) o perseguir.
 
-* Acosar fotografiando o grabando sin consentimiento, incluido también
-  subir información personal a internet sobre alguien para acosarla.
+* Acosar fotografiando o grabando sin consentimiento, incluyendo también
+  subir información personal a Internet sobre alguien para acosarle.
 
 * Interrumpir constantemente en una charla.
 
@@ -216,7 +216,7 @@ Ejemplos de comportamiento inaceptable por parte de participantes:
 * Las administradoras pueden tomar cualquier acción que juzguen
   necesaria y adecuada, incluido expulsar a la persona de la actividad
   sin advertencia. Esta decisión la toman las administradoras en
-  consenso y se reserva paracasos extremos que comprometan la
+  consenso y se reserva para casos extremos que comprometan la
   continuidad de la actividad o bien la posibilidad de permanencia en
   ella de otras participantes sin sentirse agraviadas o amenazadas.
 
@@ -228,7 +228,7 @@ colectiva. El objetivo principal es generar un ambiente inclusivo y no
 expulsivo, un ambiente transparente y abierto en el que no haya
 escalones faltantes ("el escalón que falta en la escalera y todo el
 mundo sabe y avisa pero nadie se quiere hacer cargo"). Es importante que
-se adapte a las actividades y se nutra de las constribuciones de las
+se adapte a las actividades y se nutra de las contribuciones de las
 asistentes.  Recibir tus comentarios y aportes nos ayudará a cumplir con
 su objetivo principal.
 
