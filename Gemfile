@@ -14,4 +14,5 @@ gem 'pry'
 group :plugins do
   gem 'jekyll-torrent', git: 'https://0xacab.org/edsl/jekyll-torrent'
   gem 'jekyll-pandoc-multiple-formats', git: 'https://0xacab.org/edsl/jekyll-pandoc-multiple-formats'
+  gem 'jekyll-gzip'
 end
