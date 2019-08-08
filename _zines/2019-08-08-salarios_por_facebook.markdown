@@ -6,6 +6,13 @@ signature: 0
 toc: false
 ---
 
+Salarios por Facebook
+=====================
+
+> Esta es una traducción pirata de "[Wages for
+> Facebook](http://wagesforfacebook.com/)", manifiesto escrito por
+> Laurel Ptak en 2014.
+
 Eso que llaman amistad es trabajo no remunerado.  Con cada me gusta,
 mensaje, etiqueta o click nuestras subjetividades les generan ganancias.
 Eso que llaman compartir para nosotres es robo.  Hemos estado atades a

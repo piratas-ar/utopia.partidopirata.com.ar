@@ -27,6 +27,7 @@ references:
     publisher-place: Barcelona
     publisher: Gedisa
   - type: book
+    id: penn-1997
     author:
       - family: Penn
         given: Shana
@@ -36,6 +37,7 @@ references:
     publisher-place: Nueva York
     publisher: Feminist Press
   - type: article-journal
+    id: plant-1997
     author:
       - family: Plant
         given: Sadie

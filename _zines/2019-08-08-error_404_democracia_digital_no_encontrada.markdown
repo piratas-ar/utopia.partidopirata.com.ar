@@ -6,6 +6,12 @@ toc: false
 signature: 0
 ---
 
+Error 404:
+==========
+
+Democracia en los partidos digitales no encontrada
+--------------------------------------------------
+
 > Esta es una traducción pirata del artículo "[Error 404: digital party
 > democracy not
 > found](https://roarmag.org/essays/error-404-digital-party-democracy-not-found/)"
