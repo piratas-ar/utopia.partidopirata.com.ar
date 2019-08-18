@@ -4,6 +4,8 @@ author: Laurel Ptak
 layout: post
 signature: 0
 toc: false
+cover: assets/covers/salarios_por_fb_tapa.png
+contra: assets/covers/salarios_por_fb_contra.png
 ---
 
 Salarios por Facebook

@@ -2,6 +2,8 @@
 title: "¿Territorio internet?  Espacios, afectividades y comunidades"
 author: la_jes
 layout: post
+cover: assets/covers/territorio_internet.png
+contra: assets/covers/territorio_internet_contra.png
 ---
 
 

@@ -1,6 +1,12 @@
 ---
+layout: post
+cover: assets/covers/donde_esta_el_feminismo_en_el_ciberfeminismo.png
+contra: assets/covers/donde_esta_el_feminismo_en_el_ciberfeminismo_contra.png
 title: ¿Dónde está el feminismo en el ciberfeminismo?
 author: Faith Wilding
+toc: false
+signature: 0
+pages: 2-27
 references:
   - type: article-journal
     id: bassett-1997
@@ -47,11 +53,9 @@ references:
     publisher-place: Nueva York
     publisher: Doubleday
     volume: 37
-layout: post
 ---
 
-> Faith Wilding pertenece a la _School of the Art Institute_ de Chicago,
-> EEUU.  Traducción de Noemí Novell.
+# ¿Dónde está el feminismo en el ciberfeminismo?
 
 ## Contra la definición
 
@@ -542,4 +546,5 @@ electrónicas, para apoyar dichas iniciativas.
 [^9]: Alla Mitrofanova, presentación en la Primera Internacional
   Feminista en Kassel, septiembre de 1997.
 
-## Bibliografía
+# Bibliografía
+

@@ -4,10 +4,16 @@ title: Manifiesto por Algoritmias Hackfeministas
 layout: post
 signature: 0
 toc: false
-cover: assets/covers/single/manifiesto_por_algoritmias_hackfeministas.png
+cover: assets/covers/single/manifiesto_por_algoritmias_hackfeministas_bn.png
+contra: assets/images/Manifiesto-algoritmias-hackfeministas_03.png
 ---
 
-# Manifiesto por Algoritmias Hackfeministas --- Lili_Anaz y Natasha Akhmatova
+# Manifiesto por Algoritmias Hackfeministas
+
+**Lili_Anaz y Natasha Akhmatova**
+
+Publicado en [Gender
+IT](https://www.genderit.org/es/articles/edicion-especial-manifiesto-por-algoritmias-hackfeministas)
 
 Nuestros cuerpos son territorios en disputa. Internet es un territorio
 en disputa. Los algoritmos son un territorio en disputa. Hay una
@@ -36,8 +42,6 @@ conocemos: nunca lo hemos visto. Tampoco sabemos cómo funciona, cómo se
 relaciona ni quiénes y por qué lo diseñan, ¿a quiénes responde? No
 importa. Nada en ese _mundo_ está hecho para que nuestros cuerpos elijan
 sobre sus territorios o sobre sus datos: es un _secreto de negocios_.
-
-![](/assets/images/Manifiesto-algoritmias-hackfeministas_02.png)
 
 Este entendido de algoritmos es un tratado de _cajas negras_.
 Desarrolladas por empresas privativas junto a los los principales
@@ -73,6 +77,8 @@ dominantes que reproducen al sistema patriarcal a través de las
 tecnologías.
 
 **Queremos resistir.**
+
+![](/assets/images/Manifiesto-algoritmias-hackfeministas_02.png)
 
 ### Con cuerpos que defienden sus ritmos
 
@@ -152,8 +158,6 @@ en pedazos comprobando su falsedad hasta bloquearla con fuerza.
 **La algoritmia hackfeminista es el comando corporal que frena este
 jodido loop.**
 
-![](/assets/images/Manifiesto-algoritmias-hackfeministas_code.png)
-
 _[Este Manifiesto se escribió desde la complicidad algorítmica a cuatro
 manos y en portuñol-espanglish entre México y Brasil de mayo a octubre
 de 2017, principalmente a través de un larguísimo pad <3, chats, notas
@@ -163,6 +167,8 @@ desde el verano mexicano y el invierno brasileño del 2018, buscamos
 crear un co-relato visual en diálogo con las palabras para darle vida a
 la Algoritmia a través de una narrativa que también muta, se amplía y
 decodifica]._
+
+![](/assets/images/Manifiesto-algoritmias-hackfeministas_code.png)
 
 ## Glosario
 
@@ -247,8 +253,3 @@ licencia - No capitalista](https://endefensadelsl.org/ppl_deed_es.html).
 
 La [Licencia Creative Commons: Atribución - No comercial - Compartir
 igual](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
-
-Publicado en [Gender
-IT](https://www.genderit.org/es/articles/edicion-especial-manifiesto-por-algoritmias-hackfeministas)
-
-![](/assets/images/Manifiesto-algoritmias-hackfeministas_03.png)
