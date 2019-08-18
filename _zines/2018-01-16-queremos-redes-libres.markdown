@@ -4,6 +4,7 @@ layout: post
 author: Partido Interdimensional Pirata
 signature: 0
 cover: assets/covers/queremos_redes_libres_tapa.png
+contra: assets/covers/queremos_redes_libres_contra.png
 ---
 
 # ¡Queremos redes libres!
@@ -202,5 +203,3 @@ telefonía celular privilegie el tráfico de Whatsapp (en detrimento de
 otras aplicaciones) nos pone en aviso de que a la administración actual
 del Estado no le importa mantener la neutralidad ni promover las redes
 libres y comunitarias, gestionadas por sus usuarias.
-
-![](assets/covers/queremos_redes_libres_contra.png)
