@@ -32,6 +32,7 @@ release:
 				--delete-after \
 	      _site/ \
 	      $(site):$(destination)/
+	ssh $(site) chgrp -R http $(destination)
 
 rpi:
 	sudo \
