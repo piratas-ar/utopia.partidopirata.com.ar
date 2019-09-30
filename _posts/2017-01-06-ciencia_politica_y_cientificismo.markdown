@@ -5,6 +5,7 @@ title: "Ciencia, política y cientificismo"
 cover: "assets/covers/single/ciencia_politica_y_cientificismo.png"
 slider: "assets/covers/slider/ciencia_politica_y_cientificismo.png"
 toc: true
+papersize: 'a5paper'
 ---
 
 ![](assets/images/2017-01-06-ciencia_politica_y_cientificismo.png)
