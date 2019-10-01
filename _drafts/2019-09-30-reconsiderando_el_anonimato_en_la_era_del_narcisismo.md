@@ -20,7 +20,7 @@ al anonimato. El pasto más alto es el que se corta primero. Sea #Anonymous.*
 
 La premisa de esta colección es que la privacidad y el anonimato se están
 desvaneciendo bajo el violento ataque de la vigilancia gubernamental y
-corporativa. La premisa no es nueva; en 2009 muches defensores, activistes,
+corporativa. La premisa no es nueva, en 2009 muches defensores, activistes,
 bibliotecaries y libertaries civiles estaban encontrando imposible de imaginar
 que la privacidad y el anonimato fueran a existir en el futuro cercano. Este
 era el tiempo en que los ejecutivos de Silicon Valley estaban construyendo la
@@ -28,9 +28,9 @@ infraestructura digital de vigilancia capitalista y defendiéndola mediante la
 estrategia de hacer ver a la privacidad como moralmente dudosa. Por ejemplo, 
 cuando una periodista le preguntó a Eric Schmidt de _Google_ si deberíamos 
 confiarles nuestros datos, su respuesta condescendiente fue calculada para 
-eliminar cualquier valencia positiva hacia la privacidad: «Si tiene algo que 
+eliminar cualquier valencia positiva hacia la privacidad: "Si tiene algo que 
 no quiere que nadie sepa, entonces tal vez no debería estar haciéndolo en 
-primer lugar».
+primer lugar".
 
 Pero en ese momento se hizo prominente una misteriosa colectiva portando
 el nombre _Anonymous_ - un movimiento global de protesta y de caracter remoto que
@@ -47,7 +47,7 @@ para demandar justicia para víctimas de ataques sexuales y brutalidad policial,
 incluso revelando algunas veces los nombres de los presuntos perpetradores;
 hackear gobiernos y corporaciones por igual; asistir las ocupaciones de
 Egipto, Túnez, España y Estados Unidos; soportar el levantamiento sirio;
-«doxear» a oficiales de policía que rociaron con pimienta a les protestantes;
+"doxear" a oficiales de policía que rociaron con pimienta a les protestantes;
 exponer pedófilos _on line_; e incluso brindar ropas a las personas sin hogar.
 Las agencias de noticias llegaron a contar con _Anonymous_ para un flujo
 constante de historias sensacionalistas. Una banda afiliada llamada _LulzSec_
@@ -55,26 +55,26 @@ se dedicó a entregar un nuevo «hackeo diario» por cincuenta días. Al
 infiltrarse en _Sony Pictures_, publicar noticias falsas en el sitio web de
 _PBS_ y robar correos electrónicos de la organización _Arizona Public Safety_,
 sirvieron pasto a la prensa mientras alegremente auto reportaban sus
-hazañas en redes sociales a una base de fans creciente y satisfecha. «En las
-últimas pocas semanas han ganado cerca de 96,000 seguidores de Twitter. Eso 
-es 20,000 más que cuando revisé ayer. «Twitter le ha dado a _LulzSec_ un 
-escenario para presumir, y están presumiendo», escribió una investigadora 
+hazañas en redes sociales a una base de fans creciente y satisfecha. "En las
+últimas pocas semanas han ganado cerca de 96000 seguidores de Twitter. Eso 
+es 20000 más que cuando revisé ayer. Twitter le ha dado a _LulzSec_ un 
+escenario para presumir, y están presumiendo", escribió una investigadora 
 de seguridad. _Anonymous_ consiguió cortejar incluso más controversia con los 
-trucos rituales como «Viernes de joder al FBI», que vio a les Hacktivistes 
+trucos rituales como "Viernes de joder al FBI", que vio a les hacktivistes 
 ir a _Twitter_ al final de cada semana y burlarse de la agencia encargada de 
 exponer a sus miembros. Para una antropóloga que estudia las culturas del 
-Hackeo y la tecnología, este fue un momento vigorizante; yo estaba pegada a 
+hackeo y la tecnología, este fue un momento vigorizante, yo estaba pegada a 
 mi silla.
 
 Pero conforme el momento ejemplar pasó, la historia de _Anonymous_ viró hacia lo
 irónico y por último, incluso a lo trágico, cuando les participantes centrales
 fueron traicionades y arrestades, y el nombre comenzó a prestarse para
 operaciones militares - como campañas anti terrorismo en servicio del estado
-nación - a las que muches de sus miembres anteriores se habían opuesto
+nación - a las que muches de sus miembrxs anteriores se habían opuesto
 vehementemente en varias ocasiones. Dado el poder omnívoro de la máquina
 contemporánea de vigilancia digital para extraer datos de humanes y luego
 usarlos en nuestra cotra, yo nunca fui tan ingenua como para creer realmente
-que _Anonymous_ pudieran ser nuestres salvadores. Mi opinión fue más humilde:
+que _Anonymous_ pudieran ser nuestres salvadorxs. Mi opinión fue más humilde:
 estaba más que nada maravillada de la forma en que estes disidentes enmascarades 
 abrazaron el anonimato como un tipo de ética para prevenir comportamientos de 
 pavoneo social y motivar a les participantes en un silencio solidario antes 
@@ -103,8 +103,8 @@ derechos humanos y disidentes polítiques ahora confían para moverse por el
 mundo con más cuidados. La usabilidad de estas herramientas ha mejorado 
 considerablemente. Mientas hace cinco años yo sufría para recomendar 
 herramientas simples de autodefensa digital a amigues y familiares, hoy puedo 
-señalar a Signal (una aplicación para mensajes de texto y llamadas cifradas), 
-el navegador Tor (que anonimiza el tráfico web), un media docena más de otras 
+señalar a _Signal_ (una aplicación para mensajes de texto y llamadas cifradas), 
+el navegador _Tor_ (que anonimiza el tráfico web), un media docena más de otras 
 aplicaciones; cada una ha recolectado un financiamiento y un compromiso 
 crecientes gracias al aumento en el escrutinio de las violaciones a la 
 privacidad por parte de los estados y corporaciones. Aunque _Google_ anunció
