@@ -41,19 +41,20 @@
 %
 % https://stackoverflow.com/a/1507530
 %\usepackage{substr}
-\usepackage[explicit]{titlesec}
-%\titleformat{\chapter}[hang]{}{}{0cm}{%
-%  \raggedleft
-%  \Huge\BeforeSubString{ --- }{#1}\\
-%  \IfSubStringInString{ --- }{#1}{%
-%  {\Large\itshape\BehindSubString{ --- }{#1}}%
-%}}
+\usepackage[explicit,raggedright]{titlesec}
+\titleformat{\chapter}[hang]{}{}{0cm}{%
+  \raggedleft
+  \raggedright
+  \Huge\BeforeSubString{ --- }{#1}\\
+  \IfSubStringInString{ --- }{#1}{%
+  {\Large\itshape\BehindSubString{ --- }{#1}}%
+}}
 
 % https://tex.stackexchange.com/a/233271
 % resuelve https://github.com/jgm/pandoc/issues/1632 y además no muestra
 % guiones vacíos como con el substring anterior
 \titleformat{name=\chapter,numberless}[hang]{}{}{0cm}{%
-  \Huge #1\markboth{#1}{#1}%
+  \raggedright\Huge #1\markboth{#1}{#1}%
 }
 
 \raggedbottom
@@ -74,17 +75,3 @@
     \put(0,0){\latexincludegraphics[width=\paperwidth,height=\paperheight]{#2}}}
   \newpage
 }
-% Poner la autora en el título
-%
-% Para esto el título del capítulo tiene que tener el formato "Título.
-% Autora"
-%
-% https://stackoverflow.com/a/1507530
-\usepackage{substr}
-\usepackage[explicit]{titlesec}
-\titleformat{\chapter}[hang]{}{}{0cm}{%
-  \raggedleft
-  \huge \BeforeSubString{ --- }{#1}\\
-  \IfSubStringInString{ --- }{#1}{%
-  {\Large \itshape \BehindSubString{ --- }{#1}}%
-}}
