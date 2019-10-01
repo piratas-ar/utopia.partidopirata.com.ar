@@ -5,6 +5,10 @@ layout: post
 signature: 0
 ---
 
+# Reconsiderando el anonimato en la era del narcisismo
+
+**Por Gabriella Coleman**
+
 > No todo son identidades robadas, MDMA ni pornografía infantil.
 
 > Para todos los nombres en la historia: Ha llegado el tiempo de
@@ -12,7 +16,7 @@ signature: 0
 
 > El ego y la fama son, de forma predeterminada, contradictorios
 > inherentemente al anonimato. El pasto más alto es el que se corta
-> primero. Sea #Anonymous.  --Anonymous (@YourAnonNews), 16 de abril de
+> primero. Sea #Anonymous.  --Anonymous (\@YourAnonNews), 16 de abril de
 > 2012.
 
 La premisa de esta colección es que la privacidad y el anonimato se
@@ -576,13 +580,13 @@ como un evento de nivelación social. A menos que siguieran a _Anonymous_
 de cerca, este _ethos_ era más difícil de deducir, ya que sólo era
 notablemente visible en los canales traseros de sus interacciones
 sociales - en salas de chat privadas o semi privadas con explosiones
-ocasionales en Twitter, tales como este tweet de @FemAnonFatal:
+ocasionales en Twitter, tales como este tweet de \@FemAnonFatal:
 
 > • FemAnonFatal es un Colectivo • NO un movimiento individual No un
 > lugar para autopromoción NO un lugar para el ODIO SINO un lugar para
 > la SORORIDAD Es un lugar para Nutrir la Revolución Lea Nuestro
-> Manifiesto... • Deberían habernos previsto • #FemAnonFatal
-> #OpFemaleSec
+> Manifiesto... • Deberían habernos previsto • \#FemAnonFatal
+> \#OpFemaleSec
 
 Por supuesto, es más fácil proferir tales pronunciamientos elevados
 sobre solidaridad que implementarlos. Pero _Anonymous_ imponía este
@@ -703,13 +707,14 @@ manera más general. Si tal auto promoción se vuelve flagrante, los
 conflictos y las luchas internas típicamente afligen las dinámicas
 sociales, que a su vez debilitan el poder del grupo para organizarse de
 forma efectiva. La ya limitada energía se desvía de las campañas y en su
-lugar se gasta en manejar individuos hambrientos de poder.  <br /> <br
-/> Es peligroso romantizar el anonimato como virtuoso por sí mismo. El
-anonimato _on line_, combinado con masculinidades patriarcales -
-abusadores patológicos, criminales, y hordas colectivas de troles - hace
-posible comportamientos con consecuencias espantosas y a veces, de hecho
-realmente aterradoras. El anonimato puede ayudar e incitar a la crueldad
-tanto como puede engendrar fines morales y políticos más nobles
+lugar se gasta en manejar individuos hambrientos de poder.
+
+Es peligroso romantizar el anonimato como virtuoso por sí mismo. El
+anonimato _on line_, combinado con masculinidades patriarcales
+--abusadores patológicos, criminales y hordas colectivas de troles--
+hace posible comportamientos con consecuencias espantosas y a veces, de
+hecho realmente aterradoras. El anonimato puede ayudar e incitar a la
+crueldad tanto como puede engendrar fines morales y políticos más nobles
 --depende del contexto. Hacer un balance de la historia completa de
 _Anonymous_ ilustra esta dualidad. Antes de 2008 el nombre _Anonymous_
 había sido usado casi de forma exclusiva para el propósito del
