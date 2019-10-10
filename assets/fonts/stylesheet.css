@@ -48,3 +48,11 @@
     font-weight: normal;
     font-style: italic;
 }
+
+@font-face {
+  font-family: 'Alegreya Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Alegreya Sans Regular'), local('AlegreyaSans-Regular'), url(alegreya-sans.ttf) format('truetype');
+}

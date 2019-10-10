@@ -3,6 +3,11 @@
 
 {% include_relative bootstrap.min.css %}
 
+body {
+  font-family: Alegreya Sans, sans-serif;
+  font-size: 24px;
+}
+
 .container { max-width: 730px; }
 
 .page-header h1 { font-size: 50px; }
