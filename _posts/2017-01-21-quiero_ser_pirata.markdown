@@ -236,33 +236,26 @@ por voto y mayoría, sino por **consenso**.
 
 * <https://wiki.partidopirata.com.ar/Consenso_(loomio)>
 
-### Chat
+### Grupo público
 
-La sala de chat se accede vía IRC o Telegram (son la misma).
-Por favor recordá y tené presente nuestro **[Código de camaradería](https://wiki.partidopirata.com.ar/ConvivenciaPpar)**.
+La sala de chat se accede vía Telegram.  Si no tenés Telegram, podés
+usar la [versión web](https://web.telegram.org/)
+
+Por favor recordá y tené presente nuestros **[Códigos para
+compartir](https://utopia.partidopirata.com.ar/zines/codigos_para_compartir.html)**.
 
 * Si querés entrar por Telegram, este link funciona actualmente:
-* <https://t.me/joinchat/CH3fIkLegzTNPk-REpgbvQ>
-* Podría ser que revoquemos ese enlace por algún motivo y no lo actualicemos aquí, avisanos!
-
-* Si no tenés Telegram ni un cliente de IRC, podés usar este link:
-* <https://webchat.pirateirc.net/#ppar>
-
-* Si tenés un cliente IRC, los datos son estos:
-
-> Servidor: irc.pirateirc.net
-> Puerto: 6697
-> SSL/TLS: Habilitado
-
-* Si querés configurar el IRC en Pidgin:
-* <https://wiki.partidopirata.com.ar/Pidgin_con_IRC>
+  <https://t.me/PartidoInterdimensionalPirata>
 
 ### Redes sociales
 
-No nos gustan las plataformas de redes sociales privativas.  Tenemos
-serias discusiones con el uso de Facebook, Twitter y demás, aunque
-mantengamos perfiles en algunas de esas plataformas, las tomamos como
-herramientas de difusión, no como herramientas de organización.  Seguinos en:
+[No nos gustan las plataformas de redes sociales
+privativas](https://utopia.partidopirata.com.ar/zines/apostatemos_de_las_redes_asociales.html).
+Tenemos serias discusiones con el uso de Facebook, Twitter y demás,
+aunque mantengamos perfiles en algunas de esas plataformas, las tomamos
+como herramientas de difusión, no como herramientas de organización.
+
+Seguinos en:
 
 * Diáspora\*: [partidopirataargentina@diaspora.com.ar](https://diaspora.com.ar/u/partidopirataargentina)
 * Mastodon: [\@pip\@todon.nl](https://todon.nl/@pip)
@@ -271,7 +264,7 @@ herramientas de difusión, no como herramientas de organización.  Seguinos en:
 
 Las listas de correo fueron nuestra primera herramienta de comunicación
 y organización, que fuimos abandonando en favor de herramientas más
-adecuadas para cada cosa, como IRC para el [chat](#chat) o
+adecuadas para cada cosa, como Telegram para el [chat](#chat) o
 [Loomio](#loomio) para tomar decisiones.
 
 ### Pads
@@ -281,7 +274,7 @@ una posición en común, ya que todas podemos producir el texto a la vez.
 Cada participante tiene un color y mientras más colores haya quiere
 decir que un texto es más rico.  No borres los colores!
 
-* <https://pad.partidopirata.com.ar/>
+* <https://pad.riseup.net/>
 
 ## Auto-formación
 
