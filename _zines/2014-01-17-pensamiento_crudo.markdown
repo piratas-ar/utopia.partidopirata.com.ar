@@ -37,17 +37,17 @@ que no son "una clase favorecida" que se hace pasar por los
 representantes del pueblo.
 
 A menos que la política sea una tradición familiar, tus posibilidades de
-ser elegida para algún cargo público son mínimas.  Y a menos que seas un
-hombre blanco abogado raramente podés votar a alguien como vos en una
-campaña nacional.  En realidad ni siquiera tenemos la oportunidad de
+ser elegide para algún cargo público son mínimas.  Y a menos que seas un
+hombre blanco abogado, raramente podés votar a alguien como vos en una
+campaña nacional.  En realidad, ni siquiera tenemos la oportunidad de
 elegir posiciones políticas: ningún candidato de peso apoya propuestas
-importantes con las que las votantes coinciden, como por ejemplo, la
+importantes con las que les votantes coinciden, como por ejemplo, la
 salud pública y universal.
 
 En cambio, las elecciones nacionales han sido reducidas a opciones
 binarias donde los publicistas y las firmas de relaciones públicas
-reducen la experiencia a emociones puras: Temor.  (Un oso ruge en el
-bosque).  Esperanza.  (El sol se levanta sobre una colina).  Vote a Smith.
+reducen la experiencia a emociones puras: Temor (un oso ruge en el
+bosque),  esperanza.  (el sol se levanta sobre una colina).  Vote a Smith.
 O tal vez a Jones.
 
 Y los grandes medios no elevan el nivel de debate.  En vez de discusiones
@@ -55,25 +55,25 @@ profundas sobre las propuestas politicas y sus efectos, usan su tiempo
 en coberturas dignas de carreras de caballos (¿quién está recolectando
 más dinero? ¿a quién le está yendo bien en Ohio?) y escándalos
 insignificantes (¿cuánto costó ese corte de pelo? ¿ese comentario
-ofendió a alguien?)
+ofendió a alguien?).
 
-¿El resultado de toda esta estupidización?  En el 2004, las votantes que
+¿El resultado de toda esta estupidización?  En el 2004, les votantes que
 dijeron que eligieron al candidato presidencial en base a su agenda,
-ideas, plataformas u objetivos fueron solo el 10% del electorado.
+ideas, plataformas u objetivos, fueron solo el 10% del electorado.
 Entonces no es sorprendente cuando los politólogos descubren que las
-decisiones de las votantes pueden explicarse por factores tan azarosos
+decisiones de les votantes pueden explicarse por factores tan azarosos
 como si les gusta el rojo o el azul, si la economía va bien o mal o si
 el partido actual ha estado en el poder por mucho tiempo o no.
 
 Aparte de la ocasional encuesta telefónica, las opiniones "de la mayor
 parte de la sociedad" han sido invisibilizadas.  Hace mucho tiempo, en
 la lista Federal Nro. 10 (La Utilidad de la Unión como una Salvaguarda
-Contra Facciones Domésticas e Insurrección (continuado), 1787), Madison
-puso en la llaga.  "Sin importar lo pequeña que pueda ser la república",
-notó, "los representantes deben ser suficientes para cuidarse de las
-intrigas de unos pocos".  Pero "sin importar lo grande que pueda ser,
-deben ser limitados a un cierto número para cuidarse contra la confusión
-de una multitud".
+Contra Facciones Domésticas y la Insurrección (continuado), 1787), 
+Madison puso el dedo en la llaga.  "Sin importar lo pequeña que pueda ser 
+la república", notó, "los representantes deben ser suficientes para 
+cuidarse de las intrigas de unos pocos".  Pero, "sin importar lo grande 
+que pueda ser, deben ser limitados a un cierto número para cuidarse contra 
+la confusión de una multitud".
 
 El resultado es que la población crece mientras que el número de
 representantes queda fijo, haciendo que cada político represente a más y
