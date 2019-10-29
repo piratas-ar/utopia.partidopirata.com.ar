@@ -5,8 +5,10 @@ author: "Deme Té y Olivia Jack"
 
 
 
-#HYDRA
-##VISUALES CON CODIGO EN VIVO
+# HYDRA
+
+## VISUALES CON CODIGO EN VIVO
+
 Creado por Olivia Jack
 
 Hydra es un conjunto de herramientas para la visualización en vivo de imágenes 
@@ -19,43 +21,54 @@ Las transformadas de coordenadas y colores se pueden aplicar a cada salida a
 través de funciones encadenadas.
 
 
-##{FUNCIONES BASICAS}
+## {FUNCIONES BASICAS}
 
-###osc(20, 0.1, 0.8).out()
+### osc(20, 0.1, 0.8).out()
+
 Renderiza un oscilador con parámetros de frecuencia, sincronización y rgb offset
 
-###osc(20, 0.1, 0.8).rotate(0.8).out()
+### osc(20, 0.1, 0.8).rotate(0.8).out()
+
 Girar el oscilador 1.5 radianes
 
-###osc(20, 0.1, 0.8).rotate(0.8).pixelate(20, 30).out()
+### osc(20, 0.1, 0.8).rotate(0.8).pixelate(20, 30).out()
+
 Pixelar la salida de la función anterior
 
-###s0.initCam()
+### s0.initCam()
+
 Inicializa una webcam en el búfer de origen.
 
-###src(s0).out()
+### src(s0).out()
+
 Render fuente de búfer.
 
 Si tenés más de una cámara conectada, puede seleccionar la cámara usando un índice: 
 
-###s0.initCam(1)
+### s0.initCam(1)
+
 Inicializa una webcam en el búfer de origen.
 
-###src (s0) .out (o0) 
-configura la fuente de o0 para representar el búfer que contiene la cámara web.
+### src (s0) .out (o0) 
 
-###osc (10, 0.2, 0.8) .diff (o0) .out (o1)
+Configura la fuente de o0 para representar el búfer que contiene la cámara web.
+
+### osc (10, 0.2, 0.8) .diff (o0) .out (o1)
+
 Inicializa un gradiente en el búfer de salida o1 compuesto con el contenido de o0.
 
-###render (o1) 
-render o1 a la pantalla
+### render (o1) 
+
+Render o1 a la pantalla
 
 ##{WEBCAM KALEIDOSCOPIO}
 
-###s0.initCam()
+### s0.initCam()
+
 Inicializa una webcam en el búfer de origen s0
 
-###src(s0).kaleid(4).out() 
+### src(s0).kaleid(4).out() 
+
 Renderizar la webcam a un caleidoscopio
 
 También podés componer múltiples fuentes juntas:
@@ -100,7 +113,8 @@ Las funciones compuestas "blend()", "diff()", "mult()",  "add()" y "mask()"
 realizan operaciones aritméticas para combinar el color de textura de entrada 
 con el color de textura base, similar a los modos de mezcla de photoshop.
 
-###modulate (textura, cantidad) 
+### modulate (textura, cantidad) 
+
 Utiliza los canales rojo y verde de la textura de entrada para modificar las 
 coordenadas x e y de la textura base. Para ver más sobre modulación se puede 
 acudir a: https://lumen-app.com/guide/modulation/
@@ -114,7 +128,7 @@ osc (40) .rotate (1.57) .out (o1)
 
 ```
 
-##{FUNCIONES COMO VARIABLES}
+## {FUNCIONES COMO VARIABLES}
 
 Cada parámetro se puede definir como una función en lugar de una variable estática. 
 
