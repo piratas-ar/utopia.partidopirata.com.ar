@@ -25,13 +25,13 @@ https://github.com/ojack/hydra/blob/master/docs/funcs.md
 ## {FUNCIONES BASICAS}
 
 ### osc(20, 0.1, 0.8).out()
-Renderiza un oscilador con parámetros de frecuencia, sincronización y rgb offset
+Renderiza un oscilador con parámetros de frecuencia, sincronización y rgb offset.
 
 ### osc(20, 0.1, 0.8).rotate(0.8).out()
-Girar el oscilador 1.5 radianes
+Girar el oscilador 1.5 radianes.
 
 ### osc(20, 0.1, 0.8).rotate(0.8).pixelate(20, 30).out()
-Pixelar la salida de la función anterior
+Pixelar la salida de la función anterior.
 
 ### s0.initCam()
 Inicializa una webcam en el búfer de origen.
@@ -51,12 +51,12 @@ Configura la fuente de o0 para representar el búfer que contiene la cámara web
 Inicializa un gradiente en el búfer de salida o1 compuesto con el contenido de o0.
 
 ### render (o1) 
-Render o1 a la pantalla
+Render o1 a la pantalla.
 
 ## {WEBCAM KALEIDOSCOPIO}
 
 ### s0.initCam()
-Inicializa una webcam en el búfer de origen s0
+Inicializa una webcam en el búfer de origen s0.
 
 ### src(s0).kaleid(4).out() 
 Renderizar la webcam a un caleidoscopio.
@@ -157,7 +157,7 @@ src (s0) .out ()
 
 Las conexiones a veces tardan unos segundos en establecerse, abrí la consola del 
 navegador (Ctrl+Shift+J o Cmd+Shift+J en Mac) para ver el progreso. Para listar 
-las fuentes disponibles, escribí lo siguiente en la consola: "pb.list ()" .
+las fuentes disponibles, escribí lo siguiente en la consola: "pb.list ()".
 
 
 ## {RESPUESTA DE AUDIO}
@@ -334,9 +334,9 @@ dentro  de funciones como parámetros.
 ### <MOUSE>
 
 .x 
-Posición X del mouse 
+Posición X del mouse.
 .y 
-Posición Y del mouse
+Posición Y del mouse.
 
 ### .osc(() => mouse.x).out(o0) 
 Controla la frecuencia del oscilador con la posición 
@@ -345,8 +345,8 @@ del Mouse.
 
 ### {INSERTAR IMAGEN}
 
-Copiaremos y pegaremos el siguiente texto 
-en nuestro _Hydra_ para atom:
+Copiamos y pegamos el siguiente texto 
+en nuestro _Hydra_:
 
 ```
 var load = function (url) {
