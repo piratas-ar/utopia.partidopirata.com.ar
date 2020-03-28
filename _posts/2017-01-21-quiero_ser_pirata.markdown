@@ -6,6 +6,7 @@ cover: "assets/covers/single/quiero_ser_pirata.png"
 slider: "assets/covers/slider/quiero_ser_pirata.png"
 signature: 0
 toc: true
+breaks: false
 ---
 
 ![](assets/images/quiero_ser_pirata.png)
@@ -13,21 +14,20 @@ toc: true
 # ¡Quiero ser pirata!
 
 Les piratas nos damos unos acuerdos básicos de cuidados mutuos a través de
-[nuestros códigos para
-compartir](https://utopia.partidopirata.com.ar/zines/codigos_para_compartir.html),
+[nuestros códigos para compartir](https://utopia.partidopirata.com.ar/zines/codigos_para_compartir.html),
 que nos guían en la convivencia cotidiana y en el reconocimiento mutuo.
 
 Somos un colectivo de personas y cyborgs que nos organizamos en base a
 relaciones de afinidad, solidaridad, cuidados mutuos y afectividad. Esto no
 significa que tengamos que estar de acuerdo en todo ni que pretendamos
-homogeneizarnos en algún estilo pirata. Significa sobre todo que desechamos las
-lógicas instrumentalistas y productivistas. Por sobre "los fines" o "los
+homogeneizarnos en algún "estilo pirata". Significa, sobre todo que desechamos
+las lógicas instrumentalistas y productivistas. Por sobre "los fines" o "los
 productos" de ciertas acciones u objetivos políticos preferimos ejercitar otras
 lógicas: de autocuidados, procesuales, de acompañamiento, de relacionamiento. Un
 ejemplo de instrumentalización al que no adherimos podría ser poner sobre
 nuestra salud y bienestar el cumplimiento de tal proyecto u objetivo, resultando
-en "quemarnos entre compañeres". (Quemarnos como en "burn out" o estrés crónico,
-sumado a los problemas relacionales entre nosotres que podría causar!).
+en "quemarnos entre compañeres". ("Quemarnos" como en "burn out", o sea estrés
+crónico, sumado a los problemas relacionales entre nosotres que podría causar!).
 
 Al mismo tiempo, como parte de esa lógica de cuidados, nos comprometemos a
 acompañarnos en el tiempo que nos lleve descolonizarnos y asumir roles,
@@ -35,29 +35,63 @@ actitudes, tareas, gestos más empáticos entre todes, como una propuesta lo má
 coherente posible con la transformación colectiva.
 
 Esto quiere decir que el PIP está abierto para todes quienes se reconozcan en
-estos acuerdos, pero no hay un procedimiento burocrático/formal por el cual
+estos acuerdos, pero no hay un procedimiento burocrático/ formal por el cual
 alguien llega a ser pirata. Más bien llegamos a ser piratas cuando compartimos:
 
-* Un acuerdo básico sobre [los códigos para
-  compartir](https://utopia.partidopirata.com.ar/zines/codigos_para_compartir.html)
+* Un acuerdo básico sobre [los códigos para compartir](https://utopia.partidopirata.com.ar/zines/codigos_para_compartir.html).
 
-* Un compromiso para cumplir lo mejor que podamos estos cuidados colectivos
+* Un compromiso para cumplir y hacer cumplir lo mejor que podamos estos cuidados
+  colectivos.
 
 * Un reconocimiento mutuo con otres piratas, basada en la afinidad, la
-  afectividad y la empatía
+  afectividad y la empatía.
+  
+* Un posicionamiento en nuestras prácticas antiopresivas y de cuidados mutuos.
 
-* La participación en una barca o proyecto piratas, con un compromiso sostenido
-  en alguna regularidad
+* La participación en una barca o proyectos piratas, con un compromiso sostenido
+  en alguna regularidad.
+  
+Para posicionarnos como un colectivo antiopresivo y de cuidados, nos encontramos
+en un proceso de compromiso y trabajo sostenido. Este proceso fue consensuado y
+asumido tras un quiebre histórico, en el que se dieron una serie de discusiones
+en torno a planteos trans/ feministas (sobre todo, venían siendo planteadas
+discusiones de parte de varias compañeras) y alianzas con diferentes grupos del
+"campo popular". Esto significa que seguimos desandando y repensando ciertas
+prácticas, sobre todo las paternalistas, cis-patriarcales, man-sys-plainers.
+(_Esperamos prontamente compartir un documento de nuestra memoria colectiva, en el que estamos trabajando_).
+Sobre todo, porque para asumirnos como un colectivo
+de estas características, creemos que es imprescindible poder dar cuenta de
+comportamientos, posicionamientos y actitudes, pasadas y presentes, que no
+cumplan o hayan cumplido con estos acuerdos.
 
----
+## Dónde nos encontramos activando
+
+* Cultura libre
+* Prácticas de cuidados digitales y autodefensa digital
+* Emancipación tecnológica y (re)apropiación digital
+* Desobediencia cibernética
+* Ecosocialismo, permacultura y _low techs_
+* Software y hardware libres ([¡y antipatriarcal!](https://partidopirata.com.ar/2019/11/02/declaracion-de-liberacion-del-software-libre/))
+* Prácticas antiopresivas
+* Transhacktivismos y hacktivismos LGTTTBIQA*
+* Derecho a la comunicación
+* Datos abiertos, democracia participativa
+* Artes digitales
+* Movimientos de base o territoriales de justicia social
+* Editoriales libres, independientes y autogestivas
+* Comunicación alternativa, comunitaria, popular
+* [Sousveillance](https://es.wikipedia.org/wiki/Sousveillance)
+* Prácticas de cuidados mutuos y colectivos
+* Economías populares y solidarias
 
 ## Cómo acercarse
 
 > ¡Mi nombre es Guybrush Threepwood y quiero ser pirata!
 
 Si necesitás ponerte en contacto directo con nosotres, preferimos que nos
-escribas a nuestra identidad colectiva [René
-Montes](https://t.me/ReneMontes_bot). De esta forma garantizamos respuesta, no
+escribas a nuestra identidad colectiva
+[René Montes](https://t.me/ReneMontes_bot).
+De esta forma garantizamos respuesta, no
 exponemos piratas y esquivamos referencias individuales. (Tené en cuenta que
 quizás estemos teniendo problemas con la identidad. Si no te contestamos, volvé
 a mandar tu mensaje mas tarde o en otro momento :)
@@ -87,8 +121,7 @@ todes les piratas involucrades. El consenso es un proceso constante de una
 acción, lo que nos permite actuar con flexibilidad, darnos cuenta de nuestros
 errores y aciertos y considerar otras posiciones.
 
-Usamos las ["Herramientas para la democracia
-directa"](https://utopia.partidopirata.com.ar/democracia_directa.html) como guía
+Usamos las ["Herramientas para la democracia directa"](https://utopia.partidopirata.com.ar/democracia_directa.html) como guía
 y nuestra propia plataforma de toma de decisiones por consenso:
 [Lumi](https://lumi.partidopirata.com.ar).
 
@@ -108,27 +141,43 @@ solapan.
 
 Algunas barcas de las que podés participar son las siguientes... No son todas,
 son las que están abiertas a través de chats grupales en Telegram y son públicas
-porque cualquier interesade participa de sus encuentros, produxión y
+porque cualquier interesade participa de sus encuentros, producción y
 hacktividades.
 
 * Utopías Piratas: edición de libros y zines (pedir invitación)
 
+* Barca Transfeminista
+
+* Barca LGBTTTIQA
+
 * [Varones Antipatriarcales](https://t.me/joinchat/DQyUbE_uo_NhJQ1F2vLbBw):
-  Debate sobre deconstrucción cis-masculina
+  Debate sobre deconstrucción cis-masculina y masculinidades, antipatriarcal!
 
 * [Barca Platense](https://t.me/partido_pirata_la_plata): piratas oriundas de la
   ciudad de La Plata
 
-* [Miniloom](https://t.me/joinchat/BayXVRTDVFJpKqZdli-yiQ): donde estamos
+* [LUMI](https://t.me/joinchat/BayXVRTDVFJpKqZdli-yiQ): donde estamos
   desarrollando nuestra plataforma digital de toma de decisiones
 
 * Interdimensional: punto de contacto para piratas perdidas en el espacio (pedir
   invitación)
+  
+* Barca Grog & Tor (autodefensa digital): pedir indicaciones P)
+
+* Barca comunicación pirata
+
+* Barca astillero de memes 
+
+* Barca infra 
+
+* Barca P2P
+
+* Barca wiki
 
 ## Difusión
 
 * [Vespertino Pirata](https://t.me/pipar_vesperino): Novedades del PIP en forma
-  de mensajes unidireccionales, estos ademas se redireccionan para ser
+  de mensajes unidireccionales, estos además se redireccionan para ser
   comentados y debatidos en el canal público.
 
 * [Canal público](https://t.me/PartidoInterdimensionalPirata/): Ahí podrás
@@ -138,10 +187,10 @@ hacktividades.
   identifique. Por cuestiones de cuidados personales y colectivos, queremos
   tener precaución respecto de la cantidad de información proporcionada de
   manera pública que pueda volvernos identificables, individualizables. Este
-  canal es moderado a pulmon con nuestros esfuerzos colectivos, se baneara a
-  discrecion. Si te sentis incomode y queres advertir de comportamientos y
-  comentarios, avisanos a nuestra identidad colectiva [René
-  Montes](https://t.me/ReneMontes_bot).
+  canal es moderado a pulmón con nuestros esfuerzos colectivos, se baneará a
+  discreción. Si te sentís incomode y querés advertir de comportamientos y
+  comentarios, avisanos a nuestra identidad colectiva
+  [René Montes](https://t.me/ReneMontes_bot).
 
 * [Memazo](https://t.me/memazoreloaded): es como ver el cable interdimensional.
 
@@ -162,16 +211,16 @@ consenso básico para empezar a actuar.
 
 Acordate de esta canción:
 
-> Si tu tienes muchas ganas de... 
-> Si tu tienes la razón 
-> y no hay oposición 
+> Si tu tienes muchas ganas de... \
+> Si tu tienes la razón \
+> y no hay oposición \
 > no te quedes con las ganas de...
 
 ## Propuesta significa acción
 
 Estamos acostumbrades a no tener la capacidad de actuar sin que alguien nos diga
 qué es lo que tenemos que hacer y cómo. Les piratas promovemos el consenso para
-saber que actuamos con el apoyo de otres y nos damos la capacidad de acción
+saber que actuamos con el apoyo de otres y nos damos capacidad de acción
 autónoma y colectiva. Si no sabemos, aprendemos juntes. Si se nos ocurre algo y
 a otres les parece bien, lo llevamos a cabo en la medida de nuestras capacidades
 y tiempos disponibles.
@@ -203,6 +252,16 @@ posicionemos en su vanguardia, nos agrupamos para actuar colectivamente. Que
 haya un "partido" en el nombre no quiere decir que nos vayamos a presentar a
 elecciones.
 
+Vamos a desarrollar más este punto cuando publiquemos la memoria del PIP. En
+general, preferimos decir que somos un movimiento más que un partido en términos
+tradicionales, vanguardistas, electoralistas, si bien nacimos como la rama local
+en Argentina del Partido Pirata internacional. En este momento, seguimos en
+contacto y funcionamos articuladamente como red --muchas veces-- con otros
+partidos piratas en el mundo, en especial latinoamérica. Esto no significa que
+estemos de acuerdo en todo. Cada partido funciona en forma independiente y
+maneja su propia agenda. Más allá de la raíz histórica, es posible que haya más
+de algún acuerdo o visión compartida.
+
 ### ¿Por qué "Interdimensional"?
 
 Para que no se tomen en serio nuestro nombre, sino cómo nos organizamos y las
@@ -211,8 +270,9 @@ dimensiones.
 
 ### ¿Por qué "Piratas"?
 
-Al apropiarnos del insulto, demostramos con nuestras prácticas que podemos
+Al apropiarnos del "insulto", demostramos con nuestras prácticas que podemos
 liberar la cultura, la información, los conocimientos y los saberes para
-socializarlos entre todes. [Copiar no es
-robar](https://invidio.us/search?q=Copiar+no+es+robar)!
+socializarlos entre todes. [¡Copiar no es robar!](https://invidio.us/search?q=Copiar+no+es+robar)
 
+<!-- el link está asi xq no encontré la version en castellano y me gusta q esté
+subido muchas veces ese video es lo masss <3 -->
