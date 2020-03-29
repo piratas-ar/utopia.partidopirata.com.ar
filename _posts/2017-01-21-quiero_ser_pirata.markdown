@@ -68,21 +68,23 @@ cumplan o hayan cumplido con estos acuerdos.
 
 * Cultura libre
 * Prácticas de cuidados digitales y autodefensa digital
-* Emancipación tecnológica y (re)apropiación digital
 * Desobediencia cibernética
 * Ecosocialismo, permacultura y _low techs_
 * Software y hardware libres ([¡y antipatriarcal!](https://partidopirata.com.ar/2019/11/02/declaracion-de-liberacion-del-software-libre/))
 * Prácticas antiopresivas
 * Transhacktivismos y hacktivismos LGTTTBIQA*
+* Comunicación alternativa, comunitaria, popular
 * Derecho a la comunicación
 * Datos abiertos, democracia participativa
 * Artes digitales
 * Movimientos de base o territoriales de justicia social
-* Editoriales libres, independientes y autogestivas
-* Comunicación alternativa, comunitaria, popular
-* [Sousveillance](https://es.wikipedia.org/wiki/Sousveillance)
 * Prácticas de cuidados mutuos y colectivos
+* Editoriales libres, independientes y autogestivas
+* [Sousveillance](https://es.wikipedia.org/wiki/Sousveillance)
 * Economías populares y solidarias
+* Estrategias de resistencia
+* Emancipación tecnológica y cognitiva
+* (re)apropiación de dispositivos
 
 ## Cómo acercarse
 
