@@ -69,13 +69,14 @@ cumplan o hayan cumplido con estos acuerdos.
 * Software y hardware libres ([¡y antipatriarcal!](https://partidopirata.com.ar/2019/11/02/declaracion-de-liberacion-del-software-libre/))
 * (re)apropiación crítica de las técnicas de biopolíticas
 * Movimientos de base o territoriales de justicia social
-* Prácticas antiopresivas
+* Prácticas de cuidados antiopresivos
 * Desobediencia cibernética
 * Prácticas de cuidados digitales y autodefensa digital
 * Transhacktivismos y hacktivismos LGTTTBIQA*
 * Comunicación alternativa, comunitaria, popular
 * Derecho a la comunicación
 * Datos abiertos, democracia participativa
+* Autodeterminación & #DoItOurselves
 * Prácticas de cuidados mutuos y colectivos
 * Artes digitales
 * Cultura libre
