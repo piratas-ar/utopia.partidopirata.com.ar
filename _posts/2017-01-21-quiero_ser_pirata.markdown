@@ -64,27 +64,27 @@ de estas características, creemos que es imprescindible poder dar cuenta de
 comportamientos, posicionamientos y actitudes, pasadas y presentes, que no
 cumplan o hayan cumplido con estos acuerdos.
 
-## Dónde nos encontramos activando
+## Qué hacemos
 
-* Cultura libre
-* Prácticas de cuidados digitales y autodefensa digital
-* Desobediencia cibernética
-* Ecosocialismo, permacultura y _low techs_
 * Software y hardware libres ([¡y antipatriarcal!](https://partidopirata.com.ar/2019/11/02/declaracion-de-liberacion-del-software-libre/))
+* (re)apropiación crítica de las técnicas de biopolíticas
+* Movimientos de base o territoriales de justicia social
 * Prácticas antiopresivas
+* Desobediencia cibernética
+* Prácticas de cuidados digitales y autodefensa digital
 * Transhacktivismos y hacktivismos LGTTTBIQA*
 * Comunicación alternativa, comunitaria, popular
 * Derecho a la comunicación
 * Datos abiertos, democracia participativa
-* Artes digitales
-* Movimientos de base o territoriales de justicia social
 * Prácticas de cuidados mutuos y colectivos
+* Artes digitales
+* Cultura libre
 * Editoriales libres, independientes y autogestivas
 * [Sousveillance](https://es.wikipedia.org/wiki/Sousveillance)
-* Economías populares y solidarias
 * Estrategias de resistencia
+* Ecosocialismo, permacultura y _low techs_
 * Emancipación tecnológica y cognitiva
-* (re)apropiación de dispositivos
+* Economías populares y solidarias
 
 ## Cómo acercarse
 
