@@ -101,11 +101,11 @@ a mandar tu mensaje mas tarde o en otro momento :)
 
 Por correo: contacto@partidopirata.com.ar
 
-En el Fediverso:[https://todon.nl/@pip](https://todon.nl/@pip)
+En el Fediverso:[https://todon.nl/\@pip](https://todon.nl/\@pip)
 
 En Telegram: [https://t.me/PartidoInterdimensionalPirata](https://t.me/PartidoInterdimensionalPirata)
 
-En Twitter:[@PartidoPirataAr] (https://twitter.com/PartidoPirataAr)
+En Twitter:[\@PartidoPirataAr](https://twitter.com/PartidoPirataAr)
 
 ## Cómo nos organizamos
 
