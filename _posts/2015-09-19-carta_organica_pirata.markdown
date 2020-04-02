@@ -7,6 +7,10 @@ slider: "assets/covers/slider/carta_organica_pirata.png"
 toc: true
 ---
 
+> Este documento se mantiene publicado por razones de memoria colectiva,
+> pero fue _deprecado_ en favor del [¡Quiero ser
+> pirata!](/quiero_ser_pirata.html) en Abril de 2020.
+
 DEL PARTIDO
 ===========
 

@@ -99,13 +99,13 @@ exponemos piratas y esquivamos referencias individuales. (Tené en cuenta que
 quizás estemos teniendo problemas con la identidad. Si no te contestamos, volvé
 a mandar tu mensaje mas tarde o en otro momento :)
 
-Por correo: contacto@partidopirata.com.ar
+Por correo: <contacto@partidopirata.com.ar>
 
-En el Fediverso:[https://todon.nl/\@pip](https://todon.nl/\@pip)
+En el Fediverso: <https://todon.nl/@pip>
 
-En Telegram: [https://t.me/PartidoInterdimensionalPirata](https://t.me/PartidoInterdimensionalPirata)
+En Telegram: <https://t.me/PartidoInterdimensionalPirata>
 
-En Twitter:[\@PartidoPirataAr](https://twitter.com/PartidoPirataAr)
+En Twitter: <https://twitter.com/PartidoPirataAr>
 
 ## Cómo nos organizamos
 
@@ -197,7 +197,8 @@ hacktividades.
 
 * [Memazo](https://t.me/memazoreloaded): es como ver el cable interdimensional.
 
-* [Fediverso](https://utopia.partidopirata.com.ar/zines/apostatemos_de_las_redes_asociales.html): Encontranos en el fediverso en [@pip@todon.nl](https://todon.nl/@pip)
+* [Fediverso](https://utopia.partidopirata.com.ar/zines/apostatemos_de_las_redes_asociales.html):
+  Encontranos en el fediverso en <https://todon.nl/@pip>
 
 
 ## Cómo organizamos acciones
