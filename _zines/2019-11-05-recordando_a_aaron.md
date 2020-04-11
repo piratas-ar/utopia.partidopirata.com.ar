@@ -2,6 +2,8 @@
 author: Partido Interdimensional Pirata
 title: "Recordando a Aaron Swartz – Declaración del Partido Interdimensional Pirata para el Aaron Swartz day"
 layout: post
+papersize: a5paper
+cover: assets/covers/recordando_a_aaron_swartz.png
 ---
 
 # Recordando a Aaron Swartz – Declaración del Partido Interdimensional Pirata para el Aaron Swartz day
@@ -183,3 +185,5 @@ universalizado-colonizado. Se trata de remover, reapropiar, circular y
 dar sentido a la cultura por fuera de los círculos de mercantilización
 que nos invisibilizan y que como consecuencia de todo eso, resultaron
 asesinando a Aaron Swartz hace 6 años.**
+
+![](assets/covers/recordando_a_aaron_swartz_contra.png)
