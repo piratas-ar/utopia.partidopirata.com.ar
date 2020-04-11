@@ -19,13 +19,17 @@ export
 all: tapas build release seed
 
 build:
-	bundle exec jekyll build --trace
+	bundle exec jekyll build --trace --profile
 
 seed:
 	transmission-remote --add "$(destination)/$(torrent)" \
 	                    --download-dir "$(srv)" \
 	                    --no-honor-session \
 	                    --no-seedratio
+
+gzip:
+	find _site -name "*.html" -o -name "*.js" -o -name "*.css" \
+		| xargs -rI {} sh -c "echo {} ; gzip -c9 {} > {}.gz"
 
 release:
 	rsync -av --progress \
