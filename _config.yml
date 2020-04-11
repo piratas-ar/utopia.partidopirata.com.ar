@@ -1,5 +1,6 @@
 title: 'Utopía Pirata'
 canonical: 'https://utopia.partidopirata.com.ar'
+url: 'https://utopia.partidopirata.com.ar'
 email: 'contacto@partidopirata.com.ar'
 lang: es
 markdown: pandoc
@@ -33,7 +34,7 @@ pandoc:
         -V geometry=footskip=20pt
         -V graphics
         -V subparagraph
-        --pdf-engine=xelatex
+        --pdf-engine=tectonic
         --include-in-header=_layouts/header.tex
         --include-before-body=_layouts/license.tex'
     epub: '--epub-chapter-level=2'
@@ -54,7 +55,7 @@ pandoc:
         -V geometry=footskip=20pt
         -V graphics
         -V subparagraph
-        --pdf-engine=xelatex
+        --pdf-engine=tectonic
         --include-in-header=_layouts/header.tex
         --include-before-body=_layouts/license.tex'
 
